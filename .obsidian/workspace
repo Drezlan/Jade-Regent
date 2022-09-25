@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Transcripts/09242022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Transcripts/09242022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md"
+                "file": "Transcripts/09242022.md"
               }
             }
           },
@@ -148,10 +148,10 @@
     "direction": "horizontal",
     "width": 215.5
   },
-  "active": "d37b059a6539acd2",
+  "active": "4503a044d9a1e1f2",
   "lastOpenFiles": [
-    "Transcripts/09242022.md",
     "Campaign Timeline/Campaign Timeline.md",
+    "Transcripts/09242022.md",
     "Places/Inner Sea Region Folder/Land of the Linnorm Kings Folder/Kalsgard Folder/Kalsgard.md",
     "Obsidian notes.md",
     "Characters/PCs/Hatsuyuki no Naoto/Hatsuyuki no Naoto.md",
