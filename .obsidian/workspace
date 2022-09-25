@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Places/Inner Sea Region Folder/Land of the Linnorm Kings Folder/Kalsgard Folder/Kalsgard.md",
+            "file": "Campaign Timeline/Campaign Timeline.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 469.5
+    "width": 317.5
   },
   "right": {
     "id": "c53138176d88334e",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Inner Sea Region Folder/Land of the Linnorm Kings Folder/Kalsgard Folder/Kalsgard.md",
+                "file": "Campaign Timeline/Campaign Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Inner Sea Region Folder/Land of the Linnorm Kings Folder/Kalsgard Folder/Kalsgard.md",
+                "file": "Campaign Timeline/Campaign Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Inner Sea Region Folder/Land of the Linnorm Kings Folder/Kalsgard Folder/Kalsgard.md"
+                "file": "Campaign Timeline/Campaign Timeline.md"
               }
             }
           },
@@ -134,10 +134,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100
   },
   "active": "d37b059a6539acd2",
   "lastOpenFiles": [
+    "Places/Inner Sea Region Folder/Land of the Linnorm Kings Folder/Kalsgard Folder/Kalsgard.md",
     "Campaign Timeline/Campaign Timeline.md",
     "Obsidian notes.md",
     "Characters/Caravan NPCs/Koya Mvashi Folder/Koya Mvashti.md",
@@ -146,7 +147,6 @@
     "Characters/Niska Mvashti Folder/Niska.md",
     "Places/Korvosa.md",
     "Characters/Caravan NPCs/Koya Mvashi Folder/Koya.md",
-    "Characters/Caravan NPCs/Kelda Oxgutter Folder/Kelda Oxgutter.md",
-    "Characters/Caravan NPCs/Kelda Oxgutter Folder/Kelda.md"
+    "Characters/Caravan NPCs/Kelda Oxgutter Folder/Kelda Oxgutter.md"
   ]
 }
