@@ -1,0 +1,1 @@
+Blessed by the goddess [[Shizuru]] in 100 AR with divine favor the families [[Amatatsu]], [[Higashiyama]], [[Shojinawa]], [[Sugimatu]], and [[Teikoku]] have historically ruled [[Minkai]] since it's origin.

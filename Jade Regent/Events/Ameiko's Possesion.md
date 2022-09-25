@@ -1,0 +1,1 @@
+“One treasure beyond two seals in the third vault...”“Beware the birds who wish to fly but cannot...”“A key you seek lies in the grip of the ten-handed one—his fear is your greatest ally...” “Beware the cuckolded cuckoo—it is in his shattered silent love you should seek aid...” “Grandfather waits in the dark, but he knows not who he was...”

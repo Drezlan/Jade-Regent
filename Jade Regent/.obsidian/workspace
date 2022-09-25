@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "82cff9415c7b9df0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d37b059a6539acd2",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e10ca14a813f2e6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "814f9ff6b3e53c9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e79d630e41bbdbd0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "71ca334aabee940a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "niska",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "361a6a7802aaf391",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223.5
+  },
+  "right": {
+    "id": "c53138176d88334e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c49bdd4540372251",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c669aa278d4d5c27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e408f9de796f66ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f166e652871fefb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7d1f955edd152ae6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d37b059a6539acd2",
+  "lastOpenFiles": [
+    "Campaign Timeline/Campaign Timeline.md",
+    "Obsidian notes.md",
+    "Characters/Caravan NPCs/Koya Mvashi Folder/Koya Mvashti.md",
+    "Places/Qadira.md",
+    "Characters/Niska Mvashti Folder/Niska Mvashti.md",
+    "Characters/Niska Mvashti Folder/Niska.md",
+    "Places/Korvosa.md",
+    "Characters/Caravan NPCs/Koya Mvashi Folder/Koya.md",
+    "Characters/Caravan NPCs/Kelda Oxgutter Folder/Kelda Oxgutter.md",
+    "Characters/Caravan NPCs/Kelda Oxgutter Folder/Kelda.md"
+  ]
+}

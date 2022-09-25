@@ -1,0 +1,1 @@
+Assumed name of [[Tsutoku Amatatsu]] Father of [[Lonjiku Kaijitsu]] Grandfather of [[Ameiko Kaijitsu]] 
