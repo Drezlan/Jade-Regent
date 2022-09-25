@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Campaign Timeline/Campaign Timeline.md",
+            "file": "Places/Inner Sea Region Folder/Land of the Linnorm Kings Folder/Kalsgard Folder/Kalsgard.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 469.5
   },
   "right": {
     "id": "c53138176d88334e",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Places/Inner Sea Region Folder/Land of the Linnorm Kings Folder/Kalsgard Folder/Kalsgard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Places/Inner Sea Region Folder/Land of the Linnorm Kings Folder/Kalsgard Folder/Kalsgard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,16 +117,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md"
+                "file": "Places/Inner Sea Region Folder/Land of the Linnorm Kings Folder/Kalsgard Folder/Kalsgard.md"
               }
             }
+          },
+          {
+            "id": "a3d8d2cd8ee141f0",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "d37b059a6539acd2",
   "lastOpenFiles": [
