@@ -1,0 +1,1502 @@
+
+So we had come back. Let me see. Here We had. Come back from The funeral ship and acquiring Zio and Helgeval and made our way to the shrine or temple of Shaolin, and save the priest from the Red Feather Raven, and the earth, elemental, and found out that old wasn't there.
+
+And they've broken into the safe house to get him. This is going back. Aways. And there was like a Tengu feather on the ground and a blowgun dart. So obviously with all the stuff going on with Amico, just being abducted, but the frozen shadows are gathering up. Everybody that we need to accomplish our mission here.
+
+And so, we were coming back to the tavern to regroup and Koya. Got shot through the The shoulder by Hekia and nearly died instantly and we did that fight. Lots of cool ninja stuff and people able able to fight at range or get up close and I wasn't We got heck yeah just surrender and was giving us lots of good information.
+
+Like that. Jorgen the ax who's aware? Bear was the one who hired her and that either through conversation or knowledge, we found out that he's under a blood geos and working for them. And as we were getting more information out of heck, yeah about this. Oh gosh, I have no only honey, there's so many names.
+
+I haven't got this far my notes. This is like the most recent no ways Sensei Instant transmissioned into existence and subs and say and stuck her hand directly through, Heck his neck, and it's gonna fucking rude. Master Insta, killed. The person we were talking to to try and get information and then we had a really, really hard time fighting her Zeo could see her and none of us could no way.
+
+It was trying to do like her whole moves against her. Obviously trying to fight someone who taught you. How to fight is a little rough. So it was a lot of invisible. People circling each other waiting for a moment to stab. She threw like her fancy shuriken into the wall, and we learned about that a little bit, but then Yeah, she got away and then we had some really awesome long RP where no way gave us her backstory and her real name and a lot more information about a couple of important people in the Frozen shadows.
+
+Her sensei, her mother who's not necessarily involved a mysterious father, but mostly that between Helgeval. And the way we know that the frozen shadows are using the rhyme runners as a front and that they're probably taking like amigo and olf. So that should we be able to recover anybody?
+
+They have as many of the chess pieces as possible so that we can't make our way north and accomplish our mission. Let me see what else here.
+
+He's only really one thing but I can think of to add, but yes. So here's one of the important names and I'm sorry for my dog barking. Canon. Dotsu is the leader of the frozen shadows and reports to the only of the five storms. We also found that we have a pretty good idea from context clues.
+
+No. Heck yeah. Told us that Jorgen after She was hired by him. She follows all of her contacts to make sure that she's not getting one pulled over on her. And Jorgen went back north and no way used her knowledge of the area and operations of the frozen shadows to tell us to like haha.
+
+What's to the north Ravens crags, to the north and ravens Craig, is this like really naturally fortified and human man-made fortified fortress that used to belong to if I'm not mistaken. Snory. And that's probably where the frozen shadows are operating out of. And so that's our best bet we're thinking that at least one, if not both of our people that we need are there.
+
+And that's all I got to this point.
+
+Thumbs up, really? Yeah, it sounds about accurate to me. Grayson chugged poison to called Noah's Bluff. That's true. If you're being a complete freak of nature and if I did want to kill you farm, I would wait until you were sleep. Break your bow. And then probably break your legs and sleep your throat.
+
+Yes. All very, I mean, but I don't So problems all day. Exactly. Mmm. Come on, Hmm.
+
+We also know one more thing that we probably have about 24 hours before they try and run up on us again. So to speak. Because the fact that omeni showed up to try and do some damage to us was probably, because we're killing so many of them. No, I also shared that like a little bit about how they operate.
+
+Like most of them don't have a lot of the special abilities that we're worried about, but some of them do and color, there was something else, but I already forgot it while I started talking. There's a lot of really, really fantastic stuff. If you guys haven't read no ways backstory, go read it because that shit was busted.
+
+Oh, well, I pick out as a personal company. So, thank you should. I'm not sure. Who else could take that as a personal compliment? I am eating my gnocchi and English is hard right now. I have a can of spam.
+
+But I'm Hmm. Sorry, this is very chewy. Knock it. Um, yeah. So if I'm recalling my own notes correctly because I don't have the book in front of me, unfortunately. Um I think no it was able to tell you that. Yeah, the majority of the person. Ghettos, do not have the ability to use ninjutsu.
+
+They are frankly. We way too borish for that. Um, there's a small group that do they think they're all angry though and bad ones. That that like No, I would explain that. That's the reason why. So, the bird that's been harassing as Is a friend of oh my Yanis.
+
+And now I knew about like onion I had a friend that was kind of creeping around almost independently of the ninjas But she was under the impression that that was going to be like another Tengu, not literally a fucking bird, Very surprising. But the rest of the depending that are working with the President Shadows part of Miami so they would have ninja techniques.
+
+I think I'm remember that it's correctly. Please correct me if I'm you. Um, I want to point out to that, part of the reason I was going through these notes, is because I was starting to get very, very lost, like one of the last sessions that we had, like, I think it was the only fight like my dad was in town and staying in my house without really giving me much notice like worrying about that a lot and kind of lost track of some stuff, but we thought that olf and the sword Tanosui would be on the funeral ship and we did not find them.
+
+There we found zero and held them all in the funeral ship. And we then went to the shrine because we basically had no more leads from my point of view to be like, well we were looking for all and we can't find him. Maybe you'll have a better idea and that's what it all kicked off.
+
+Again with the the red feathered or even as I'm calling it. Now, I think the only other thing that they seem to be remembering is, although of Ravens, crag is like The most logical base of operations, It might still be worth checking out what the Ryan runners have got on book, because if person cutters are redirecting every sources, anywhere else than they are going to have to push that product, like somehow out of a cow's got.
+
+So, it might be once, just checking out to see if anything, they've got like any secondary locations or anything else that they've done, the potentially get in our way. But other than that, I as a player, a cat think of anything right now, you should find my boat. Like I said I was like taking the notes because like, this is getting really dense like I'm having trouble.
+
+Yeah, I normally have a, I only have my D&D book, um, that I write a bunch of fucking notes in, but I don't know why I meant to dig it out before this game, but obviously, I miscalculated my time. Sorry, time zones are confusing down. There are very confused.
+
+So yeah, I think that were the only two leads that we still have. Like, We can either look into the right runners, which we know is being a friend for the, for the clan and see if there's anything else that we've missed. Oh, you could just going investigate Ravens Craig and see what's up.
+
+I'm probably on a timer now that oh, my mayonnaise decided to come out of the book.
+
+Like quite a few things to all point to Ravens crack, but if I remember right there was a bit of a truck to get there. So it would make sense to like, I'm agree with Abbey that it would make sense to check around in the city. Before we that often then have to backtrack or something.
+
+If it turns out it's necessary. Yeah, we didn't get into too many specific plans. Like I know that away it was talking about doing reconnaissance and checking out the Rheim Runner's Guild, but she was the only one with the plan and Ochi was like, I want to go with you because he's worried about Miko, and that was the rest of it was like mostly filling in the blanks on the frozen shadows, using the ways knowledge and backstory.
+
+I don't think we had a real solid plan yet, but that was the feeling that I got.
+
+Well, In the short term. Should we all go back up to our rooms and rest the night. Yeah, but we want to do is all go to separate rooms and go to sleep with no watch. And then you, You usually knows I'm going to her bag and immediately pull out like bells and be like, mmm.
+
+Yeah, I recommend alarming people. Mmm, posting, what they could be nice. You know, another character that I and I don't know if you guys have looked but I was messaging Grayson earlier because I called some things. I'd like off of the new list. It is where you can put notes on it right now if you have the link.
+
+So I would check that there's some useful stuff in there. It's not a good point. I keep forgetting with.
+
+I didn't realize it in updated recently. I figured unless it's something actually like expensive or unique, then I don't think he really needs to just say, let's put a note that you take it, just just take it and, you know, reduce the quantity by one. Yeah, most of them are simple enough that like, nobody's gonna miss it.
+
+It's something you could just go by. But there was one that I was, I don't know the actual value item. But there's overlaps and classes between people and I was like, I don't want to take this. I want to give somebody else the opportunity to be like, I'm better at that.
+
+I'm gonna take that. There is a quote that protection plus one. Yeah, somebody should take in less unless everybody already has one. But put it on Goya. Koya keeps me alive, and can I suggest Can I just not on the clock or resistance on for you when I see my, you know, be in, that's just gonna get hit by stuff but also Isn't that storm supposed to be good for.
+
+Um, how do I phrase this without insulting people? Oh,
+
+Of greatest assistance to those who have a more, Why isn't complex or something. How old is Noe like roughly if like visually you know what I mean? I want to make like an Asian people. Don't age joke just be like no ways like 75 years old and Koya's like 60 something and you're like you need this.
+
+I'm Asian, I'm fine. But The funny thing is that that's entirely true until directly before our 70th birthday at which point we just all immediately simultaneously become very small Asian woman. Get a foot a foot shorter. They're not actually just evolve. They all leave forward with their hands behind their bag.
+
+That's true. Yeah, the sensei look we do want I think formally is referred to as the top post. Yep.
+
+Um, I mean if no one has a clerk of resistance, I'm take it. Otherwise, oh, I don't have one. So I guess I'll take it if it's If it's up for grabs. Okay. Go.
+
+So the one that I do want to make is, I don't know in the last time that we rested is or where everybody is on abilities, So maybe we maybe we do want to actually rest a little bit before we go reconnaissie or either location. Yes, absolutely. I'm completely out of spells.
+
+See, that's why it's not. Absolutely nothing to do with the fact that my kids pretty much entirely extended. No.
+
+It's fine. Shoko will ask them. How we how are we planning to?
+
+Look into the room runner's. Guild, just throw. Open the doors and ask to see their papers. I was sending in no way on her own or Now, it gives you a victory symbols. You honest, you were gonna do sneakers sneaky stuff and he calls a distraction of some kind happens.
+
+With certainly could How late in the day is, it do a little beanie tonight, a little a little beanie. I just want to do a beanie. Don't actually remember what time it was. You guys went back to this havern because if it's I'll explain myself process. So if it's like um kind of midday to evening-ish, No I would volunteer and say well I know whether Iron Man is killed is and I'm gonna at least stake out and see like how many people leave to stay in there.
+
+Um whether or not they like completely locked everything because if they're stupid and they leave a window open She drugs I'm off to tell you Yeah I think we could maybe do this, just a suggestion. Let's do some in character stuff here. Maybe we should we should definitely do some reconnaissance and scout them out.
+
+No way. I assume you're very talented at this sort of thing and if you'd like I could watch your back we could all get some rest. And after we have some more information on it, perhaps we can find a way in You want to be honest, my brother just walked in.
+
+I didn't have a dampen, I'm so sorry. Everybody rests you do reconnaissance OG. Watches your back so you're not out there by yourself. Scoping it out was a true man. What party excellent. I'll get the booze. Wait, wait, wait. Oh, you don't need a third. I'll get two bottles.
+
+Everybody is of course welcome. But we just more than just doing like shifts trying to get everybody's abilities back up before we go into this place. I mean, if we want to just all go and scout it and then come back and rest and go back in the evening, whatever we want to do First off.
+
+I'm not sure if sending any of right rest, considering how tired we all are. We might want to just put off the whole thing until tomorrow You could stake out a place just as easily in the early morning hours, right? Yeah, that's a good point. And two. They literally have eyes in the sky.
+
+What we all look like. I think no way might be the only person who could feasibly Slip to there and back without being noticed. What are you talking about? I'm very inconspicuous. I'm not remember the first compliment you've ever given me.
+
+That seems like kind of a and insult towards me, Your frequent nature. I think I've already shut this happened. Oh no. Not what you said. What what he said?
+
+She knows as if she understands.
+
+So what are we going with that? The only stealthy one around here. What are we going with? Canonically as the time of day here, Bingo early afternoon, maybe maybe show clothes. Right. I can't really think of another reason you would head back to the tavern. This was just so that I could show us how cool she is at poisons after telling us her tragic, backstory TM, oh my tragic backstory where my mom literally kicked me out and told me to get a job.
+
+Yeah, very tried it. No. I mean, Practically speaker comparer. I'm not an estate to get into a fight in frankly. I'm not in the business of doing that anyway. That seems like a waste of time considering all things. Yeah, perhaps. But I'm more than happy to go in just at least Abserve because they might have eyes in the sky, but not all of them can pack my eyes out while I'm running.
+
+So,
+
+Real shade. It's an option.
+
+Let's my life on the line in the situation after all not yours. Let's get some rest. No way could scope it out if she likes and then in the morning, we can go do some more reconnaissance or take a look.
+
+By the way, I don't know if anybody looked at the, the Shinobi clothes that are in the loot list, the give bonuses to Stealth. They do says, now I reaching a hand into her package. You notice Grayson's wearing one underneath his shirt already. It's a it's a it's Adidas tracksuit, all black Adidas tracks.
+
+Yeah, it's literally just an Adidas tracker just with a bottle of
+
+It is time for some cheeky brick.
+
+Like a really bad jokes aside from. Now I say we get back up to our rooms, get some sleep, You said that you could set up alarms for us. No way. Oh, I can cover one door at the very rich people, But I guess we best settle watch. I'll take first watch in the hallway.
+
+I'll take second.
+
+There, I'll take the
+
+Cool. We've got work to do ready. Break hands in.
+
+Choco just looks at you weird. Like puts hand in but he's very concerned and then OG does snail and does a little victory sign under your hand. Oh um, player question. How far away is the ramen? Let's go.
+
+Not far from here. I don't remember what district you got, the Tavern in, but The map. Oh, cow's going
+
+Give me a map of Calgary.
+
+Don't see her. This one, I'm trying to multiples the cocoon.
+
+So your choices are the ivory quarter and recorder Ice Quarter Fire Quarter and a corner quarter unless you want to stay in the bone quarter where the caravan is. But I think you guys were trying to avoid drawing attention to where the caravan is. Yeah, the Sandro can get the caravan lost in there So we're picking kind of where this tavern is and just we want to pick something not in the same quarter as the caravan and I'll draw attention to it pretty much.
+
+Okay. You could have also got set up in the daycorder though and most of the things that have been happening have been in the Amber and the ivory quarters
+
+Grayson has no preference because he has there's nothing about the city and has never been here before. We'll just there's no way player have knowledge. Sorry, I haven't always Do. I have no do, which, which one is like kind of close to what we're trying to do here. Let me they weren't labeled that I remember on the map.
+
+The Rheim Runners is in the Jake quarter. Oh, it is in the day, does it okay. Um, yeah. The map of the discord. Yeah. Because all right. Yeah, I had a map somewhere, but it's apparently not actually in the book of frozen shadows. What title? Um yeah, so if I remembering correctly like the amber and the ivory quarter I think is like trade quarters, I want to say Then we could yeah.
+
+Easily get one in there ever. The ivory. Let's say yeah. Ivory quarter, just to get somewhere. Close by to get somewhere to stay. Yeah I can't imagine the no way I would have given a recommendation to be anywhere in the day before just because like you know that's where they operate out of Mosley.
+
+Yeah but you could just say yeah you know you know that it's a rather crude expression than I don't like it firstly but I feel like no way we did it you know this expression you don't shit when you that's very basically like the mentality here Like don't don't do that, don't make myself But I'm yeah like a the amber.
+
+And I agreements Like way more sense because there's a lot of tray that goes through there, and you can easily pass yourself off was just another traveler or creator.
+
+So let's let's get set up in some rooms and get some rest.
+
+That sounds like a good idea. Keep your windows closed. If the windows are blinds on them.
+
+I recommend Jimmy being a shift like right into the corner of its way. Not left me outside.
+
+That sounds more.
+
+And Shoko will retire to his room.
+
+If they were yeah, remember this girl? That's really no struggle will. Last the in keep one thing, Shokola Alaska. If if the rooms, or if like the storage has like, a change of clothes, you could borrow
+
+Or just buy off of them. You could take one of the Adidas tracksuits. We have one. We have yet. What The Shinobi shows. It goes, they're outfits. Yeah, we got awesome walk around time when it shows, or because that defeats the entire life, My ancestors are ruling.
+
+Their outfits off of the dead frozen shadows that give bonuses. I don't think I want one of those.
+
+Was de.
+
+Add it up.
+
+I just know that in my fucking an elderscrolls, every single in has award with UX clothing itself. I'm sure I'm sure you can just buy something quickly if you like this. Those are trade quarters anyways, right, but right by the jail, but I don't want to leave the building.
+
+Got you. Do you want me to get you something on the way back? No, no. It's it's fine. I promise it won't be bright pink. Do I get told no Didion? I can't really think of any reason that he would have spare clothes that weren't like made outfit, right?
+
+All scars that doesn't really strike me as they having job uniforms kind of place.
+
+Probably got an apron, The never mind. The innkeeper says, I have lots of my own stuff. I hope you like leather and wool. I would I would literally take like literally just anything will not like an apert like some like never mind. The idea was done. I'll just go to sleep.
+
+No, it was a good idea that just not working out If you want to pick up some new clothes. There's that definitely clove ears around this area. Like, you're probably not far away from a place that sells winter gear. I think he was worried about people seeing him or getting caught out in the open or something, basically a disguise check.
+
+He wanted to swap outfits before he went anywhere.
+
+Anyways, so is an away gonna rest? There's no way gonna run off and do sneaky, sneaky, Depending on me through my next question. Um, like if I can do a round trip of the right runners just to like in the cost of what? Maybe two hours max like yeah, I'm not gonna get involved in anything.
+
+Let's play just gonna be sitting down with probably very large model of vodka. Watching. Intently from us rooftop. Yeah, give me a perception. Check. Sure. I'm just make sure I'm throwing.
+
+Perception person from perception.
+
+So you find out that the guards ship every hour. And there are at least eight of them because all four guards, that are guarding the front spacing portions of the building, which actually have their windows open all four of those guards, get replaced by four new guards, okay? One of the windows is literally boarded up and barred.
+
+Here's it now. And you would have to get closer to see if the other windows are locked.
+
+I can spell that. Give me itself. My I'm going to do this and I'm going to spend a keep point because I'm not completely out, but I'm going to increase this by that much.
+
+Except like flips off of that roof.
+
+Creature around. Just as a bit of Assassin's Creed wall hopping. These are not great guards. All right, The great gods. What are you talking about? They're amazingness, None of them. Notice you all of the downstairs windows are locked, but at least one window on the back side that Ghost somewhere.
+
+You don't you don't know because the drapes are drawn but it is unlocked.
+
+So what if I just quietly slip that up and then just slip, you know a finger back behind the drapes just to scan what's back there. An empty office Office. You say they'll just those are closed. They are in fact closed. We're just gonna hop right on over here now.
+
+Oh, damn, right. Okay, if that's the clip, Okay? Then. So gonna double check, there's nothing like on the windows or anything that would be like, like an alarm trigger or a trap or anything. Right. Give me a perception. Check. Gladly.
+
+You find that nothing? All right. And what about what are they going to do and catch me? Um, So in that case, then like slip strip and would first check to see whether or not the door. On the other side is Also locked. It's not locked. It is not.
+
+Okay Good to know if the moment but is there anything in the desk? The best trap? Is it going to explode on me? No, this appears to be accounting room. The guild merchant factors. Use these small offices.
+
+Okay, I'm trying to think of like wouldn't know this. Now I probably would like what would be the best kind of documentation that would maybe indicate that something has had the clams hands in just whatever. That, that would be, that's what I'm looking.
+
+Do need to reduce my Gmail.
+
+Like locating detailed financial transactions. Um,
+
+Sorry guys. I know I said I wasn't gonna do this and then I remembered that I'm playing a chaotic neutral. Idiot. Yeah, Yeah. It's you're just alone in the enemy territory with no key points. It's fine. I'm not your next character's backstory is gonna be, I really like the first one.
+
+So um, you know, I do keep backup ideas. So yeah, if you're looking for something that's like hard evidence, linking them somewhere, you're definitely gonna want to look at financial records because they keep their businesses looking as real as possible. Yep, you you're not gonna find like a list of agents or anything, but it's not.
+
+No, like the like they're bad but they're not that stupid.
+
+Yeah I mean really kind of like just just checking through and would this thing I realized that space was too small for you to get through. Was the window? It was a window. Yeah. So let me let me just check one thing. It's been a while since I've looked at this character shoot.
+
+So, I'm literally forgetting what I have.
+
+It. Yeah. Okay.
+
+Um sure. Is there anything in like this desk or anything? And that's office. That's of trust. No, it doesn't look like any of the important documents were left in here. Okay, this desk isn't even locked. Wow, that's impressively that. But, of course, you know how they operate, they will probably have the super important stuff in a hidden compartment.
+
+Somewhere, of course. So my next question is, were any rooms from the outside in this building lit because we're approaching like evening now, right?
+
+I was running it like after evening, so after like six when they close okay, That is totally fine. So, and I'm gonna creak the store open. You see an empty hallway until Cool. And continue to sneak around attempted movement. Please two one wall, jeez. You could, you could not, you know, but listen through this door Anything or is there was the one more keyhole?
+
+There's a keyhole but you do not hear anything Don't hear anything. Anything through the keyhole, nope.
+
+The door going to explode on me. I'm gonna just take that for 23 and not waste your time with 50 million. Rolls it. Go just gonna speedrun this as best I can. It appears to be another counting office, just like the previous one, Another previous one, another one with the desk left unlocked and therefore, was completely worthless to me.
+
+Yep. Thought as much Eric that the please give me control of my character. Anything listening on this door is just all locked. Is here anything or anything Edward does appear to be locked? I'm sure people. There is a keyhole Anything through the keyhole you do. In fact, see two guards lounging on what appears to be beds.
+
+Lounging or sleep lounging. It looks like they just got off shift recently and they're just winding down. You see two guards you hear at least two or three other people in the room talking. Okay? So that must be. I Then you said, learning on like things so that must be like a, what's the one looking for little barracks?
+
+That's, we have a little weird to have a barracks and a merchant skill. It is kind of yeah. Okay, will check the store first.
+
+It is locked but it does not seem trapped. Mmm. Okay. Um, pulls out a pair of luck. Picks. Is that got like, a of keyhole, it doesn't. I think I'm inside it's gonna be a common question. Now I know you're gonna hate this but it really don't want to get shanked or this store.
+
+We're focusing on this one to my left. Okay. No, you do not hear anything. You do not find any traps. All right, it is an extraordinarily. Good luck. Is it now?
+
+So what if I just took some time here and tried to pop that lock anywhere?
+
+Give me a roll.
+
+I was about so you not one fuck me here. I'm just Of course I did because what I was actually asking is like, I'd probably just take 10 or 20 but oh, You do have time to take 10 if you want. Yeah, that's usually what I would go with because we all know what my dice are like, as you can see, but I whatever you want to go with.
+
+You're the damn? I'm habit, Either you take either take time for 25 and if that doesn't work, I'd probably take 20 and fucking get to it eventually because you don't put a lock that good or nothing. And I'm being really, really, really stupid. And So after the three minutes, it takes before you finally delicately open this DC30.
+
+Lock. Why is there a do you see? Let me look? Yeah.
+
+You do here The door and the other room open. Uh-huh. But the real question is, is this though? Now It is an open. I unlocked it is it okay, cool? Yeah, the moment that happens, open that, and then it's quietly as possible closing.
+
+This day and you hear the sound of two very gruff women and controlling down the stairs, are not downstairs. Down the hallway. Open the other door.
+
+Head downstairs. And you found yourself in a storage closet So holding only mundane supplies. Okay. So, what's really here? Why would they're not put locks on two accountants rooms, but they would put such a hefty lock in the middle of Noah?
+
+Art tip in books and pollen, candles, I guess. Yeah. I mean like, what kind of storm were we talking about? Like is there stuff on the shelves is like is it all cleaning equipment stuff? Is anything mislabeled other walls? Solid and out. The usual give me a percent updoor under the rug in the only description.
+
+They give for this room. Is this closet holds mundane supplies and storage. Yeah, that's that's about like so I mean that's what a one, 20, 19, probably, there is, in fact a secret door.
+
+Uh-huh. This one, take this time to bubbly throttle, piezos writers.
+
+And apparently my dog, what the fuck?
+
+It was the wooden panels easily pull away from the wall.
+
+Revealing a small room with the trapdoor in the floor. Sorry. My my dog's have just decided to go. Absolutely AT. I'm so sorry. But I do see space and I see a floor icon. Yes, hello. It opens into secure storage. It contains a heavy iron lockbox standing against the north wall and a trapdoor going down.
+
+Hmm. So, how Trump does the lockbox? But,
+
+Perception. Can I just maybe real? Yeah, more than up. More than can I can please it is not trapped, but it also has a very good lock on it, not for long, it doesn't.
+
+Take your three minutes. Damn it. Well, it's gonna be. I'm just gonna take a 35. I'm not gonna. Yeah, two minutes and it is another DC study lock! Oh, inside of the strong box are gold bullion and coins. Totaling 2,000. Gold pieces of value, as well as important ledgers.
+
+And paperwork. Oh no. Like it's one heart. One side of her bag of home, just put on the side. Just pause it. Oh no. What, you know, I always said that I was going to be good at something once in my life. I don't think she she meant collecting gold bullion out of but this is, this is fine.
+
+Sarah just like, puts all of that into Her minor bag of holding.
+
+I was the only thing in here, right? There's a trap door. I would drop the relating down. Cool. The trapdoor isn't trapped and it's not locked. Then Stick head. Hmm.
+
+It descends down into another room that I have to scroll up to once. Like eight closets holding mundane office supplies and on the bottom side, it looks like it is designed to match perfectly with the ceiling in the closet. Oh, just like a second. Like things or if I were to open this this would lead.
+
+Okay, that's cool. It's cool. That's actually kind of neat. This is the second floor, right? Yep. Yeah. Okay, that makes sense. You did. So steps going down that makes Yeah, cool cool closes that. Oh, you don't want to go down. I feel like I've got everything I need you because you guys are still missing Ushaka.
+
+Yeah, time. Hi invoice. You might risk going deeper, You know, they're at least four guards downstairs. I do, which is why I'm not doing that, right? This is this is true and we don't know anything about that, that's why I'm like. Well, okay, so I've filled it a few things here.
+
+We're going to make it look like this. Never happened. And I'm just gonna leave the way I can.
+
+And if we have to come back here, then I have to come back but I can probably read these documents somewhere that I don't feel like I'm about to be stabbed by several gods and maybe leave something for the rest of the party to maybe do here as opposed to listening to me failed, dice rolls for the rest of the night.
+
+Like, I've done my one thing. I'm good, guys, you guys can do the rest. Now I'm I'm gonna stop so yours.
+
+No a returns unless she just goes through efforts to hide her return from you guys since you were doing watches. Oh yeah. No, it's not really going to make much of a big deal about it. Just give away and be like. And so I've got someone going on in there, Of course they do.
+
+Mm-hmm. You realize how badly that could have gone, right? No. So I want to as a player raised something real quick, Luke Chaka is missing now, too. I don't have anywhere in my notes. It was kidnapped from the safe house. Okay.
+
+That was where you found the Tingu feather. Yeah. Okay. That makes some things more clear. Gotcha, Wolf has meant it. Like we have notices from space with his hands, not good. And then says, all right, what did you find, right? Can we mark a rest? Oh yeah, go ahead.
+
+Oh thanks. Let them on hubby spells back Specifically. Nothing of any particular notes. She says like walking past you flipping a bullion in her hand. But other than this look like, there were some documentation that I haven't seen fit to read yet. I should probably get Ochi in here for that.
+
+He loves he fucking loves words and numbers. We should. Aces. Oh gee sticks. His head out, says writing. You have writing. I'm surprised you can't smell the ink at this point. You know? I think Tengua like that. Do you think they're like, no, no. I shouldn't ask that. Yes, yes.
+
+Numbers accounting. We're going to partake in an old plan pastime Getting real fucking bored. You ready? That's all right. You handle the sneaky sneaky and I will do the reading. So let's see it to which let's get everybody else awake if they're not already awake. Knock. Knock rise and shine and nobody.
+
+What's what's the word that they do? I do like a rooster ball to wake, everybody out. Crowing. That's what it is. They didn't know you could do that. So stupid, he complaints in this tavern. I now forever, every time there's like an alarm or we're gonna wake up in the morning ochi's.
+
+Good gonna do that. Shit gonna gonna fucking and crew. Are you? Okay. Okay. God's dammit Archie, right? Um but yeah no. I would like go back to wherever her room is. And, you know, through the thing and then just literally empty like the contents of her bag and there's a few other things and you see some bottles of poison kind of spill out somewhere and she's like, oh catches one with her foot, puts it aside, sorry about that.
+
+Um, in adult, half of a of an alchemy set, just kind of goes to one side of the bed. Just the rest is. Presumably like ledgers some gold bullion bars, odds and bits and pieces spice up. Glasses, how much is about? How much he is supposed to gold is worth.
+
+I imagine it's worth gold straightways. It's in her hand and says about this much. It was 2000 GP, okay?
+
+The praise yet. Again, pulling its weight as the most use it. It's it's a pretty good skill.
+
+But, All right, so we look over the papers. What do we find? Here that all right. With some time to go through the documents, you easily confirm that the Arleshammer was rented to, as big long fuse on the night of the attack at Skulls Bridge. Which was the If that you liberated from the open Raiders.
+
+It's very beginning of book, two. One. And that he was contracted by the guild to acquire a TN artifact from a specific address recognizable. That have Finn Snivolt's house. Yeah, More importantly the length. You find ledgers detailing financial transactions, transferring large sums of money over the last few years as well as the aforementioned artifact antique toilet.
+
+Yeah, to a location called Raven Crag. It's really weird way to phrase that These developmental expenses were all personally approved by Thorborg still silver score.
+
+Who is the? He is the owner of the Rheim Runners Guild.
+
+Crap early. The ledgers also revealed that the Rheim Runners purchased Ravenscrag from Snorkestone I 3 years ago. Before his death. So so this is not gone from being potentially, they're basal operations too. Oh absolutely. Mm-hmm.
+
+You think there's anything in here that we could use to blackmail? This guild master here. Anything illegal. Maybe realistically, if they are running alongside the plan, I'd be surprised if they weren't part of it.
+
+I'm just saying that. Maybe we could bring this to her and say If she happens to have a, what's her name? What's our the guides apprentices name bookshop, Shaka Shaka if that happening have ukshaka or I'll make oh maybe tied up somewhere in that. In the, in the Guild Hall, we might be able to get them out without any blood shed.
+
+If we agree to return these without in exchange, for their hostages and return for knots, going to the guards with this,
+
+Mmm. It's documents would be worth a fortune to return to them.
+
+Like the release of one one. Apprentice trailblazer doesn't seem like too much to ask. It's not a bad idea, especially if the woman is business minded. I am open to whatever you decide to do with them. I just had to get a hold of Sounds like we have a business deal to make
+
+Let's pay a visit, Do you have any more of that socket organization? Why?
+
+You should know. I like pick up her bag of holding, give it a shake, The calf bottles falls, in it. That sounds like a good plan to me. Let's go have a talk.
+
+What does everybody think? I think I agree. And I say we we all go together, just in case negotiations, break down, we do want to be able to defend ourselves
+
+So let's pack it up. Let's head over.
+
+Very much. So Shoko will ask to stop on the way there to do a little bit of shopping in town because There are a few items I could pick up here.
+
+And we all probably have a little bit of money so we all probably go shopping at that. Yeah.
+
+I mean I have a little bit. What's the cheapest way to see invisibility? Would it just be like a wand to see invisibility?
+
+Pretty sure that's gonna be your cheapest route. I as a player was looking through options for OG and I saw something really cool.
+
+Talk to Diddy in about it later. It was interesting. Yeah, we could stop and do some shopping but I think force and foremost we want to go do some blackmail, do some business. Such honorable actions from our good sir Ochi as of late. I'm very proud of him. We just, I want to return things to their rifle, owner like someone's freedom for someone else's paper.
+
+Lies point. Mm-hmm says no. I putting gold back in her bag. Mm-hmm.
+
+Yeah, we do have. We do have a bush it to the gold. Now, don't we? You have said, inflammillations that out of here, you people know what my name is. Now, I can't fucking not share gold with you. Shut up. Oh, found the thing of the loot list. Did you That was good on us?
+
+I wasn't gonna assume you know. No, I'm not. That kind of rogue As we've established are not a rog at all. So yeah, it by all means. Just put it on group Manly. Because like ever No, I just doesn't fence things. She steals them and asks other people to do the hunting part.
+
+And you'll hear me. All right. Yeah. Oh, now we can welcome. Sorry, I'm a little late. All right. Everybody was a little slow though. In this morning you back from like a wash tighten. We got Edwish fight ninjas. No, you guys. Got a chance to rest. Okay, so there was an item.
+
+I wanted to try and maybe purchase or technically a scroll. Okay. And put book I wanted to get good at dust.
+
+Yeah, it's like a little spell because it's pretty big. You can find that somewhere. No, I internally cringe just like oh no me. Yes. Yes. Um, about what's the cost of getting a potion for in here? What do you wanting a potion of? Oh, see invisibility. You can't make them same visibility as a personal spell, which means you can't make a potion out of it.
+
+Oh, then a wand of see invisibility is what I'm looking for.
+
+And see invisibility is a first-level spell, right? So, it shouldn't be, it's a single a second level. I'll just, I'll just leave this to her to. Our are our glittery boy, then. Oh, about how long do you think it'll take you to copy down that? Well, explain an hour if I remember, right?
+
+Oh yeah, I assumed you wanted to do this yesterday so you could copy yourself like and prepare it. Yeah. All right. All right. Anything else? We could think of to pick up to help us fight a bunch of ninjas. Oh, I think I have enough gold person to try and find one thing.
+
+If you need more gold, I'm doing the math, on distributing what we've got for everybody. No worries. Um, so there's something that I would want to try and find called a links eye charm. Oh, doesn't. Yes, if you want that, quiet can actually give it to you. That's what I was thinking flavor-wise too.
+
+So I'll go ahead and mark that. I actually gave her crap. Magical tattoo. Say it's a mercyan thing. Yeah, no, I was reading up on them last night. There's like a whole archetype or prestige password, too. A few of them. Actually Yep. Beresian tattoo things are like fucking cool, though.
+
+I will admit in the back and my head. All I heard is immediately know it goes. Please tell me I can get magical Yakuza tattoos, please, it was different style, but yeah, she'll do it for you. But I completely threw me off. What I was I just just in that same moment you just say, no, I just go.
+
+I respected you before. Korea. It is now going to become something. Akin to zeal. Well done. Just he'll go nods. It says, as one of her posters, I can assure you that she does the real good work with that stuff. Well, thank you. She's the only reason I can carry this thing and I tap my backpack a shoko has mule back.
+
+Core tattoos. That's a thing. Yeah.
+
+Yep, you can pay twice the price of a, of a magic item that goes on. I believe it's shoulder. It's a whole list. Oh, you can get it also and you can get and that item as a tattoo. If you're willing to pay double the price and it doesn't, I would like it to be known that.
+
+I have known like a lot of like very cold people here in cow's garden. You are officially the coolest person that I now know. Well don't but also next that's fucking right, Where's it? You say that as Kelda's like walking past the window here? Fine. It's like oh, that cause get some fucking coolers.
+
+Oh, you were talking about me? Oh, tattoos are cool. All right. Oh, that's fucking cool. All right, I have no idea what I was doing now. Well done. Um, I put in discord chat, the everybody's distribution of the equal of the the gold from selling the unwanted stuff 2,929, gold, each.
+
+I don't want to nickel and dime you. But did you take out the stuff that I took off the list before you gave that total? Yeah. Okay, just making sure. Online. Just a second. Just okay. Okay, sorry about that. Someone needed to talk to me. Oh, 2929. All right.
+
+Okay, that is a lot more golden expecting but not really relevant to me, right? So, she probably break up the the good old classics amulet plus one is just one K, right? Maybe, yes, that's one. Okay, natural armor. Yeah, it's okay. Oh, it's okay. Oh, 2K for it's 1,000 and make yeah.
+
+That's one of the few things I don't have. Um, and when we drag items from the items browser, it doesn't make a difference. If I drag the one that that's labeled items and the one that's labeled PF wondrous, If it's in either one it should still calculate as long as you've got the right item.
+
+Yeah. Okay.
+
+Here, you
+
+Wood.
+
+I don't know what to buy with my gold, then It's difficult is not.
+
+I have an idea of what I want to buy. I'm very iffy on it.
+
+How much? Ah,
+
+Yep.
+
+I'm good to go because can't afford the things that I would like to buy. What are you trying to buy friend? Oh, there they're quite a bit more than what we've got. Mm-hmm, mood.
+
+What is the biometer of the town that we're in?
+
+Wells, grab this. It's had it's stamp block up. Does anybody else just picked up an amulet of natural armor and it's not showing in your AC total?
+
+Up. No, I picked one up in it. It's working for me. Fantastic actually guard has a base value of 30,400 GP in a purchase limit of 200,000. I think we're fine. Wow. Okay, I think it is like the biggest trade center in in the country. He market as equipped I did and I just toggled it I was trying to see if I have some kind of overlap that I don't know about but I shouldn't have anything because natural armor
+
+I'll take a look at the emulator. Just second, minor items, all available, medium items.
+
+Here. I will just drop the coals got information into the chat so you guys can just pick and choose if there's something you want.
+
+Surprised. They expect us to have enough gold for a cloak of resistance plus five, but is a ring of regeneration in there. You they'll get used in like other stuff as well. So this isn't too. They do have two things that I wouldn't want to look for in just to make it easier for sound.
+
+I'm just look what they are. Just how do I know what? Some okay, minor items, medium items. So I just picked up a headband of Charisma plus two, is that not a count under this or
+
+It's not listed here so I guess I can't take that as that. What that's saying? I assume that the purchase limit meant that, as long as it was worth less than that. I could buy it for the base value. One of those two. Let me check that this. I don't know what the
+
+All right.
+
+That that's a very nice album.
+
+I didn't I didn't realize there was a list of items that we could buy from. I thought it was I thought it was any, we could buy any item under a certain price. So Yeah. So the way that works is the all of those items that have been listed there.
+
+Basically all above the cost limit, which is what, 35,000, whatever it is. Um, anything below that is fine. You can generally find it, anything above that, but below the purchase limit is something that you would need to roll for to see if they have it in town. The stuff that is currently listed is stuff, that is in that bracket but it's definitely okay.
+
+Okay. Then yeah. All right. That makes sense. I hope I'll yeah. And then there's usually a percentile role but unless you're buying something extraordinarily exotic. Now, if you just buying the the basic stuff that all adventurers want that step is more or less readily available. So that's the stuff that like, No.
+
+It's just gonna be like, I need to go and talk to a black market dealer. I'll see you guys in like five minutes.
+
+If I can find those, of course, I only questions of what I really want a headphone. I've intelligence here, even I'm short on it.
+
+And I will be right back. Yes, you do. Find someone in the JD quarter that will sell you. Those Shoko, are you sure that we're having you pulled your natural armor amulet out of wondrous and it automatically applied?
+
+Did he go away when I wasn't paying attention? He did. Okay. It is saying amulet of natural armor. Yes. I I pulled it and it didn't have the modifier in the changes, so I added it. So I'm like, just making sure that he gets his plus one armor because I had to manually.
+
+Add it. It didn't have any. Yeah. I just checked his sheet. It's adding So just me, then that's while The the sheet is racist against birds. This. It said there's an exception on Miller natural armor, special note. FAQ Tengu are so soft that they can't actually gain natural laundry basis.
+
+It's the hollow bones, man. It's the hollow balls. Oh, geez. Bones have the fragile weapon. Probably. If he dies, you can use them as a fragile weapon. I'll keep that in mind. Tell it worst case scenario. I get the user hollowed out bones for. I don't know. Fucking blue.
+
+Excellent shoes. Excellent chips. Excellent shins. Oh. And if they don't come out, excellent quality. You can I send my complaints to your afterlife of choice then? This new Koya art though. It's the Stone Mountain.
+
+New Koya can get it Newquaya's mommy for sure. Oh my god. Alright I just got back. I just saw the new picture for Koya. That's a nice piece of art. You found. Thank you. She actually of, oh my goodness. Why? Has a little trick to help her get around the city when she goes out.
+
+Shopping. Oh, hell yeah. She cast threefold aspect that's actually badass.
+
+So did we give her? The Ironstone? Is that what your RP here? Is this supposed to represent a 60 year old woman because that new new art design illusions. It's not an illusion threefold. Aspect is a, it's a very specific spell. But basically allows you to shift between the three stages of basically Hecate the maiden mother and krone ah,
+
+And you get bonuses when it's on, like, in her younger form, she actually will have strength again. Yeah, and onstitution again. That's implying that she couldn't body. She'll call. That's cute. I saw what you did with that hatch door. When you couldn't get it. Open you got noodle arms, friend.
+
+I mean, let's mmm. Yeah, I guess. So that's okay and we all feel at something.
+
+So, here's funny as yours. But they only does that when she goes out shopping.
+
+Amazing. No one's going to assume that 60 year old woman suddenly became a 20-year-old woman. It is incredibly useful, wish I could do something like that.
+
+I did get these though. And then Shoko pulls down his his sleeves to pull essentially. Oh, because which I had for a quick second that was very different. That's that's for a different campaign, choco pulls down his sleeves, and then tugs at the new fabric, that's wrapped around his sleeves, and his clothes, change into a, just a different colored version of what he was already wearing with a few different accoutrement.
+
+Oh, that's neat. If things are actually pretty damn useful and damn cheap too. In fact, if I had enough gold, I would have picked up a pair for all of you.
+
+Very, very fancy.
+
+No, I just looks like she's bolt like to raw the lodge one balls so that go into the, the bio folding. Wow. Now that we have all of our errands done, shall we go pay a visit to this? Oh, geez, already forgot the name and the lime runners to Thor Board.
+
+Silver Score. But then,
+
+That's supposing a job. Guild Dawson, Huh? Something Guildmaster. That is the kind of master though. I literally didn't write that down. So, thank you group.
+
+Right. We're actually gonna take our break here, a little early. My dogs are winning. Cool stuff. My poop. My breakfast just got here. So now you will also beach and hang up, right?
+
+You.
+
+Back to being poor.
+
+I'm sorry. No no. It's it's they actually a very good thing that we did that because now I will not be nearly as terrified If I have to like fight an end up. It's okay. When all else fails during your troubles away, I apologize the event. I go buy a scroll of you get?
+
+Yeah, no. He's just gonna be like, please don't get that shit on me. It's Oh, at some point I'll be able to, you know, ignore squares. You know. Oh yeah sure. It's I forget how glitter duster works like. Is it Is it persistent in the region? Or is it just each of the targets that it actually hits some sticks too?
+
+Each character that actually stick to. And interesting, I'll go ahead and later out there. Yeah, it's been been a while since look at it.
+
+That's everything in the area visibly out. Yeah. It's it's physically outlining isn't it? It's a fairy fire.
+
+Negative 40 penalty on stealth tracks, please God do not Have mercy on my soul.
+
+Will help the part. The rest of the party. See, invisible invisible after.
+
+Yeah, the see I've I've got some solutions to get around it but One of the most annoying things is that even with Glitter Dust I can't do precision damage.
+
+Why wouldn't be able to because they're still Invisible? Like I know that sounds weird but they're still concealed So I know that I like a vague outline but you haven't negated the invisibility so they are still like immune to position.
+
+It sucks But I've got ways around it now. So it's like up.
+
+I have I didn't feel like I have a fully charged one. I haven't used yet. Is that a wand of cool stuff? It's a quantum magic missiles. That's the magic missile's. Pretty good. We all love for, you know, automatic force damage up until they have shield Natalities there. But yeah, I know you.
+
+I just really, we have a scroll of the spell magic. We do ain't quite cast third little scholars. Yet You can't. But you can scribe it into Yaba If you Three times. And then, I think I can make the check.
+
+What is he? Oh god. What is the DC Is it something like? Is it 15 plus level or something? It's quite low wrong wouldn't you? You see like 18 something like that? Yes, it's not high. 15 plus fellow. I have plus 13 to my spellcraft. You're fine. Fine and it's just gonna go up every level I take.
+
+Yep.
+
+That behind that.
+
+I think my next arcade exploit I'm going to take as I'm going to take the quick study. Mmm. Silver bullet, pretty much when I need to swap out the spell. I just spend an arcane point and spot it out. Yeah. My table usually just calls it. Silver bulletin. Just just like, all right, what?
+
+What do you need? Let me just load it in. So, right now. What's going on here you?
+
+So we're gonna go and have wonderful conversations with the guild. We're just gonna end up. Somebody getting stabbed, not gonna lie, part of me is wondering if no, I would just be like just be fine, right?
+
+Nobody needs to get stabbed. I would argue a great deal of people need to get stuck. Don't worry about Enochi. If you don't say it from my perspective, Just imagine that everybody that you've ever seen was responsible for a miracle going missing. They are we don't have to stab him if they're gonna So you're nearly had me there.
+
+I nearly had you was a brother there and you you're just abandoned me at the last quarter. Damn you boy. I'm sorry to disappoint anyway. It's okay. We'll work on it. Have you got a bunch of money? I don't know what to do with how much you got 3100, 4100.
+
+So you got your cloak. I take it. Yep. Cool. I never picking up a ring of protection because I have a I have to show the faith back and throw on myself. Oh yeah. You usually the whole night thing, don't you? I'm a mask. Yeah.
+
+Hmm. If you don't have a pink ironstone for like any reason that I know got a plus one through your initiative account, huh? Um, the plus 13 I already have or or you could lose, you could get cool tattoos like everybody else. You know what you? Yeah. You know what or cheer?
+
+Right. It's okay. I'm the one I and then he just like holds his hand out at Koya to see if she's casting an illusion. You cast detect magic. He you're gone for for some manner of divination, there, kind of a sting sort of situation, you know, if he thinks somebody might be around detects of magic.
+
+Oh, International Barry him. Toasty very interested indeed. Yeah, no. Think about it, Definitely something that I could, I could come up with for that. Y'all just have to give me suggestions on design. I'm not exactly good at that, sort of barbed wire. What's barbed wire? It's like Caltrops but a string it's really tough.
+
+Why? That just seems so necessary to show how tough you are. I but I'm like only twice as strong asoka which means I'm still a wet noodle.
+
+What's OG's strength right now? 13 12. I thought I had 13. Oh, no. No power attacking for years now. God fucking oh she says, it's not about size. It's about speed. Oh, that we agree upon.
+
+That's about it. I think I'm I'm pretty definitively, not the fastest person party. This is an incredibly dexterous party. Yeah. Like, I'm pretty sure like Grayson and you beat know it in terms of speed. Yeah. Because no way speed stuff is more bounced. Yeah, I could have been faster for sure, but I didn't really want to take anything under 10 mood, big mood.
+
+It's kind of how I felt with no way. I'm like, okay, she's a bit of an idiot but like, not that much of me. Yeah. Sadly, with the warrior poet. Like all my cool free stuff to be naked when I fight is all charisma based so I couldn't take oh no Grayson isn't dexterous at all.
+
+I keep forgetting because he's a fucking cheetah, yeah. Now yeah, he's a freaking nature. Right, right? Yeah. That is legitimately why? No. He just doesn't understand Grace and at all like, no, no, I've been. I like, I understand monk art. I don't know what the fuck you're doing and I don't know how it works.
+
+I don't care to learn. Grayson fires arrows with his mind. No. No, I think he does that. Oh god, what's it? What's it called?
+
+Another round one yet. It's gonna it's gonna drive me. Mad what? Exactly. Clear. Like there is there's an art form in Kudo, where It's not that you're trying to aim to hit the target. It's that you're, you're already in visited and visited that. You hit the target and you're trying to will be arrow to do the thing that you've already envisaged.
+
+The secret that one book. Something like that. Yeah, pointers. I don't know. It doesn't understand. It did, she doesn't care to understand just like no. Oh, that does remind me. That does remind me um I know we picked up that Sheraton the Omani through. I remember that it was poisoned and I did want to check what poison it was.
+
+Oh dude, I bet you I have this. Hold on because that was what I wanted to do. I wanted to make Auntie toxin.
+
+Well, it never made it onto the lootless so we didn't sell it. I I have like, I'm sure I have a note for that. I'm sure it was like, do this next time? Just before.
+
+Here. Sorry, I'm back. I got slight checked from a roommate. Welcome back. I actually did have it but I think I deleted it. As I was transferring my notes from one thing to another thing because I swear I had that here I'll ask the questions since and sons is back.
+
+Hello, dear. You know, but you remember the shuriken that onioni through I seem to remember you saying that it was poisoned. Yeah, you did a knowledge on it. Yes. What? What kind of poison was it? I forgotten not the top of my head but I can just open her sheet.
+
+So I would like to know how fucked real and by we I really mean me. Oh, my Yanni bump. Boom.
+
+It is.
+
+Let's played.
+
+What and Blade extract? That. Oh. Oh what's? What's a death blade? I did kind of guess what they do. But uh, So it's not a poison from a creature upon for such. It's a concoction that's all chemically made. It's very expensive to do so because it's all chemically made.
+
+It's a very, very nasty poison that I feel that even the freak of nature over here might have a problem with
+
+For player to player. Talk that is two consecutive saves or 1b3. Condomage altitude. Save when it costs 1,800 to make a single dose. Oh well, you know, she's very skilled at crafting poisons. Yeah. As your teacher, you also know that she is fond of Black Lotus, Extract and Hemlock,
+
+Why do I seem to think the Black Lotus is even more expensive? Yeah. Okay. Okay. What the fuck was all this money when I was being trained? Yeah. Okay. So death blade is a direct attack poison. I believe. So, if you just don't do that, she cultivates her own garden.
+
+Yeah. Okay. Yeah, again, where was all this money? Well, hemlock isn't really gonna be of too much use because that requires I think investment. I don't really know. I'll have the Google so that one but Black Lotus I think is just a slow poison, the costs a lot. Which reminds me right around dinner time.
+
+Oh no. One, two, three, four, five, six. Oh look. There's six of you. Oh, no. I feel like I warned about this when I was talking with Grace. I'm gonna choked my poison dinner time. Then we just rest. Yeah we just sorry. Yeah, you did. We did go shopping.
+
+So it's like lunchtime. We went shopping on our way to head to the the Ryan runner's. Guild. Like, I'd either way it was a joke about the hemlock, Panic.
+
+All right. Well, okay. So, on to the lime runners. Guild, how do we want to tackle this?
+
+You're the ones who want to use your words. I am, I have done all that I can.
+
+Well, all up very diplomatically in our fancy threads and say you have something that belongs to us and we have something that belongs to you let's make a deal.
+
+It's it's broad daylight. We're going to talk to a business person, I think with our strength in numbers here, and being so public, should be a relatively safe affair.
+
+Ain't no way you think you could maybe drop the message off for us and the, you know, that thing you the thing you do where you wrap it around an arrow and then you shoot it. Say like at their doorstep, I'm not sure. We all want just walk in there ourselves.
+
+I mean, yes, good link. There's something to be. This is a great idea. First of all, there's something to be said for showing up in force with something that we took from them in the night. Kind of says, we're not to be messed with.
+
+If you're nice, find somebody in the guild, who's a little bit more weak at the knees than most. And perhaps they'll give you an in, huh? All right, if you guys just want to walk in then that works too Grayson and Zeo your thoughts. Shoko does raise a good point?
+
+This was just my first instinct, not sure. Go Grayson and Zio your thoughts As long as as long as you don't expect me to do much talking. So get a little tongue tied under a pressure like that very well Zeo. I'm not very good with words either, but are trying keep us not protected in a way.
+
+Let's be on our way then.
+
+I was an hurricane point to activate meat armor.
+
+Just to be clear, we'll do that. How long does major armor go for actually? I'm not very good at this, for me. It's five. Five hours. Damn. That's probably plenty. Then and it makes he makes it look like he's actually wearing armor.
+
+Five hours. You're I'm a full level caster. No, no. You're a fifth level custom. Yeah. Yeah, we're fifth little characters. When the fuck that your leveled up IS my, my other papers are like in disarray. I need to find where my actual book is. Please continue as you are, by all means, just assume that.
+
+Like no, is, I don't know. Fucking Keeping a watch from the nearby rooftops or something. Just stealthily along with you because I need to find my book. She's counting all of her gold one piece at a time. All I say that race and should hold on to the papers so that nobody can steal them out of his pack to easily.
+
+He's a by far, the best pair of eyes. We've got, yeah, that's good.
+
+Sure, can do.
+
+I imagine with all the kicking jokes, like he's just holding the papers between like his two biggest toes with one foot and standing on the other foot with, like his bow and arrow already, like the whole time. Just one foot. Hopping is where the entire way. Yeah, so awkward here doesn't matter.
+
+Did you like the most graceful foot fancy person?
+
+Okay, so we strike out on our way there. Let's stop. Stop hesitating.
+
+All right.
+
+You know, you are up on a roof.
+
+This windows are supposed to be closed like across the street or something like that.
+
+And you guys reach the front of the Rheim Runner's guild, you scroll back up to it.
+
+This episode of Jade Region is just full of really attractive women.
+
+Oh wow.
+
+The, the guards.
+
+She has very nice hair. The rain runners guild hall has exterior masonry walls. Two feet thick with a roof of sturdy shape. Shingles. The chimneys are led pipes only eight inches in diameter and stout wooden shutters and iron bars block. Almost all of the windows all doors and windows are shuttered.
+
+Which room you don't need to know the rest of that.
+
+How do you guys want to approach? Will assume you're not like right there yet, but that's where the edge of an app starts. Shoko. Do you want to talk or should I? Oh, I'll talk. I'll talk. I'm very much the talker uh Marion Echo. I was hearing an echo for a second.
+
+I would like to hang back for just like a minute or so and just watch the building. See like you know, get an idea of what's happening there, like those look like a bunch. People are going in and out. Does it look like there's anything of no. Some people do come and go.
+
+It does look like it is a guild. That is operating.
+
+All right, and can I get the names that we're looking for here again? Oh, Silver's score was the last name? Hold on, I have to scroll Lordberg. Silver Score. Yes, Thorborg.
+
+And the trailblazers of penches is the person we think they have probably here. Yeah. Oops right. Yes. All right, Shoko will begin. Walking forward to the front door and I I personally would want to play it to just be like we have something that we want to return to Thorborg Silver Score.
+
+We'd like to speak with her instead of like laying it all out to this guard and giving them information but that's just me as a player. And what I would wanted to do is Ochi you play it. However, you want to play it.
+
+Yeah. All right shall go will go up. Is the the guard is guarding the entrance? I assume, uh, they are she gives you a once-over but it doesn't move to stop you from entering. Oh then Shoko will walk on in.
+
+Front office of this building. Feel free to open the doors to Along counter runs across the front of this room. Brass bar is extend from this counter to the ceiling with only small teller windows, allowing transfer of items, elect gate blocks access behind the counter and it wouldn't railing surrounds.
+
+The elevated floor behind the counter Clerk. Sit on stools behind the counter. Wow! Factors work at desks on the raised area.
+
+Good morning. Good morning. He just gonna help you take all the people in here. We have an appointment with the Miss Shoreberg. Silver score. Is she in today? The blurred links and looks over at this gentleman. An appointment for Lady silver score, That's correct.
+
+The clerk, looks through a scroll.
+
+Ladies silver score doesn't have any appointments. Who are you?
+
+This. So the shoko will get down and look at him dead in his eyes and say we're with people that Miss silver score has a very vested relationship with This is Mr. You want to be the one to tell her that you turned us away and I'd suggest you let us upstairs.
+
+You roll? I see, sir.
+
+He was through something to the garden and she steps aside.
+
+Knocked on the door.
+
+Those that behind him.
+
+If you pull out another wildly, attractive, female, NPC. I'm gonna lose it. Dude, I saw a glimpse of that.
+
+Miss Silvers score will see you.
+
+Please follow me.
+
+Go around to the gate over here which he goes down and unlocks to let you guys in
+
+He says, good morning to this one as well. Just being nice.
+
+I swear, I, I swear
+
+Keep it together Ochi you could do this Ochi's fine. Oh, gee doesn't even know women exist. I'm not, okay.
+
+Yes, she is lounging and very attracts. To me get her full picture for you.
+
+School.
+
+Oh, she's gonna battle a little bit as he enters. I am told you have something for me.
+
+Well, that depends trading spots, We
+
+Joker will step up Now. See, Miss Silvers, score. The thing is, we recently misplaced an associate of ours and Well, we also found ourselves in possession of something that we think you might value. Highly, let's see.
+
+Do you know who we are? Miss Silverscore. It's I know who you are. I thought so. We simply want to facilitate in exchange business.
+
+That's all doesn't have to get any messier than that and what is it that you want?
+
+Well.
+
+We have reason to believe that. One of our young friends is here and we would very much like her back young. What, what? Ethnicity was she, what's the term for it? It's Varky or Eritaki. I'm not sure which one he's a party. A young Varkey. Wasn't a manner or a girl, a boy or girl.
+
+Chuck is a girl, Okay, okay, I thought I want to one of you said he just now and I was like, wait, what? Yeah, a young of rocky, girl. Oushaka She goes, by I believe.
+
+Yes, I believe some men recently picked her up from outside. The shop full of Shaolin, brought her here for correct. Oh, how unfortunate?
+
+Are we correct Ms? Silver score. You might be. Mmm. We might be huh.
+
+Can we at this point? Have Grayson past the papers forward and just kind of flash them.
+
+Here. Oh, is that's where they went and we might know some people who are very interested to have these
+
+We don't want to cause any trouble in calls guard, and we don't want to cause any trouble for you. That's not what we came here to do. We just want our friend back and to return. What's yours?
+
+I see I think we can all just go about our day if we could just get some information or our friend back, that would be, That would be very helpful. Thank you.
+
+So you are offering to give back the documents that no way stole in the night. Not no way. Excuse me. But what was your full Tian name? Constellucino. Naruto the Hatsuyuki. I'm sorry. It's is it costuyuki or how to yuki? I have one? And okay, that's course for remembering frankly.
+
+I was so good at that and I questioned myself. Yeah. You yeah technically not don't know how to yuki but yeah you how to Yuki's close enough? He says your full name perfectly in the flawless TN.
+
+So the, the important question now is, am I in the room? No, you're on the roof across the street. Exactly, Exactly. So, I don't know dick, But I mean, is this is a window right here into chococcus office, right? Sorry for speaking over you. But you can see because this is a window right here.
+
+Correct. Didion it is a window. So you can see this conversation going on because you were literally across the street on the map. So I imagine you have a fair idea of what's going on. Yeah, just probably it, probably not enough to be able to lip read from that distance.
+
+I imagine. So it's fine. It's fine. Because yeah, stucco looks up and try and feigns trying to remember and says, hmm not sure. Unfamiliar with that name Not sure. That's quite where we got these papers. Just like, I'm sure you're not sure that. You kidnapped a young woman on off the street.
+
+We could go with both of those things and we could just all go our own way.
+
+Is we could I feel but
+
+I feel about coming.
+
+What makes you think you're going to be leaving here alive?
+
+Okay. Can we raise the rounded by my guards in my guild and you have come to threaten me with stolen goods. Everybody in this room is an accomplice to some sort of crime. You seem the type to operate slightly outside the law. And we just don't need the law involved.
+
+We just need our friend. I don't see the reason for anyone here to be harmed today and you, if you know who we are then you know what we've pulled off so far. So yeah, maybe you could take our lives but you don't want that mess because we won't go down that easily.
+
+Could we roll a diploma away or an intimidate or something like that to try and just kind of impress upon her. Like you don't need to get bloody with this. We know you're blocking, you can roll that. No way. She rolls perception though. Oh dear. I will roll my intimidate then.
+
+Oof, I would like to aid choco if he's gonna try and intimidate.
+
+Jesus Christ.
+
+OG Flexes and he has the smallest bicep you've ever seen. You so many buffs to this fuck. It's get up, Welcome to me and like my my fucking disabled device. Checks my brother. Wait. Oh, I rolled. The does it did it have to be intimidate or good that have been diplomacy?
+
+I wanted to go diplomacy and you went for intimidate. So we both rolled that instead, I missed up. What shows? Skilled Shoko's good at. I could I go for diplomacy instead it would be a plus 4 to this third.
+
+I'm gonna leave my eight roll. I don't think my diplomacy. So almost is definitely better, but if we're changing it, I'm not gonna You have a better diplomacy than me. No, I have a better diplomacy than I have intimidate, that's what I'm saying. Like my would have been higher but if we're gonna rent, calm, the whole thing.
+
+That's and then the total would be a 23 if we're going if you successfully aided, and I'm using my diplomacy instead.
+
+Okay.
+
+She kind of mild as you're talking to her. I annoy with that 31. You see what looks like and rusted iron-bound massive club under her desk.
+
+Oh no.
+
+Don't we let me stop. Do Okay. So the next question really is Is this is this here a window balls? It is barred shit.
+
+And she lets you finish your little speech and then her body ripples. You did this on purpose, you planned, this, you wrote this AV but I I and Europe Mississippi. This is you boom. Theo The 13. Hit your flat-footed AC. I fought for it. No, boom. Oh son of a bitch So now I don't get to do the cool thing where I can smash through a window.
+
+Bro. Okay. Oh! Oh no. Ashoko. Oh gee. As soon as she turns, as soon as he changes, oh, she's gonna turn to show call and be like, I'm sorry you were right.
+
+Do we have?
+
+Hey, are we missing anyone? Queer.
+
+And no way who's casting defensively work again, is that just a caster level? Check a concentration. Check rather concentration. Yep, You're hitting a DC of 15 plus twice. The spell level like the token named Genthus Duggar. And I don't know why it was some dude. I thought she's had a weird name, I don't remember giving them that name.
+
+They should just be rhyme Runner guards. But okay. Well, it's the Genthus Duggar. And quadruplets or triplets. I don't know how many of them, The Gentheses the Genthai. Do we have everyone? They call Yanni the boom. And of course she's going last
+
+Grayson, If you want to delay until after me I'm going to set up a inspire courage to give you a better role on these.
+
+Sure. Yeah, I'll delay until right after Shoko also knowledge local.
+
+Who everyone? Nope. Sorry not knowledgeable knowledge. Planes. Outplay really, I'll never remember. Is it local or planes that covers native outsiders? It's okay. Yeah, for you. Oh no. I since my local in planes is the same bonus. Should I have to? Re-wall it? No, you can give your 27.
+
+Okay, boom. Boom, that is an ogre or an Oni ogre as it were.
+
+No way. It's, it's Kim and Zansu Boss, haha.
+
+It find you, is it cannon.io or Kim, and Dotsu, and or M Him. Okay, I'll fix it in my notes. Kim. And that, too, At least. That's how I got a written here.
+
+Grayson. Were you doing till after Shoko? Yes. Then shoko.
+
+Is that all we get with the knowledge planes that it's a Oni ogre. Oh yes. Are there any questions about the only excuse me? I've never rolled a knowledge check in my life. So you have to walk me through this one and I think I think it correct me if I'm wrong.
+
+That's part of why I took the order for that knowledge planes was for only for are they supernatural? Does that bonus? Apply, I don't know. Your roles are private. Oh gosh, are they? Yeah, yeah. Oh my god, I'm sorry. Okay, hold on. Well, it was a 19 and I could provide a screenshot if you'd like and it's plus just right.
+
+Click on the methods and hit click reveal. Ah, there we go. Sorry about that. Yeah. Oh yes for your your orders. Specifically. Yeah. That applies. So 21 You are also familiar with the only ogres they have. This is where y'all that made it. They have the giant native Oni and shape-changer.
+
+Subtypes ogres are particularly resilient and that's regeneration that can only be stopped with acid or fire. They have a number of at-will spells including darkness and visibility. They are also capable of casting charm. Monster Kona, Cold Deep Slumber and gaseous form Christ. He also has a named Tetsuo with her and now that her glamor is gone, you also see a large composite lung bow.
+
+And she was wearing Tatumi, dough armor.
+
+So she is, she is pretty burly.
+
+Yeah, she's terrifying. So could begins wrapping around a rhythm on his belt drums, and he pulls out his weapons and that show goes, turn you all get in Sparkourage. Yeah. Inspire curry. What level is that now? Five. Um, four for yeah.
+
+I seem to remember you saying that you took a level in something so yeah. Yeah, already. So, that brings us back to Grayson's. Turn. All right, so Grayson is going to shoot at Omoyani but I does she look injured in any way still. Or is she seemed like she got completely healed up overnight?
+
+Nope, she looks pretty good. Okay. I'll do a very close with the key shot. Right against her point blank.
+
+Nice dead. The boom. Definitely not dead, but the second arrow will hit her. Could she only has deflect against one but the third arrow is not high enough tater and she isn't in her flat-footed right now. She just had a surprise around.
+
+He's already acted. I'll take a 5 foot step.
+
+Boom. And then sister. Number one, sister. Number one.
+
+Looking.
+
+I'm really sorry about this. By the way, I am not the one that chose their inventory loadout, Huh? The 17 hit you. Yeah, that'll hit me. 16 points of damage.
+
+Oh, they all have great swords, gonna switch them to having spheres. That's the picture. I chose. Yeah. Probably should have. I might still do that this many NPCs with great swords could be bad.
+
+Bum bum.
+
+This woman draws her weapons and opens the door and that is her turn video.
+
+Top videos going to go ahead and spend an arcane point. We dimension, slide. If I need to link it, I will No. We know what it does. I mean, literally don't mention the slide over here.
+
+And then,
+
+Whip our health. Oh fuck.
+
+I'll shoot her with a nice little snowball.
+
+Hey, oh yeah, Good. Damn.
+
+Like me, Fuck her.
+
+But just by luck today, and that's some good luck. Yo, we move along anything else, you know? That's pretty much it.
+
+Oh good is their term who
+
+Who boom. OG. So Kevin Dotsu, did they pull out the Tetzego? Oh yeah. She stood up with it, okay? He's gonna roughly share those. That's an only an ogre. It, it can heal. We'll need to use fire or acid to kill it. These technically plat-footed. Yeah, she has enacted.
+
+So he's gonna draw both of his swords and swift action challenge. Kim and Dotsu be like you we fight to the death now I don't know I didn't have anything good for that. Hold on, let me just mark that off.
+
+And then he's gonna take a swing out of
+
+A bum that will hit we're pretty solid damage. There will not. It does not, She's wearing to Tommy Doe and has natural armor. Mmm.
+
+With that. Oh gee's, gonna 5 foot step backwards to get some room.
+
+And that's gonna be my turn.
+
+It's
+
+Boop. Wait. I thought that was the one that opened the door. Nope, that was her. Oh, there's another one. Okay, boom. That's a hard corner.
+
+Something clear.
+
+No way. Yeah.
+
+Okay, So I'm like a rooftop, right? Yeah, Cool. So it takes one step of the rooftop and just drops. But while falling actually pulls on a on a wrist, and I didn't think I was gonna have to use this so quickly, but breaks her snap plate, while she's left.
+
+So gets hit with slowfall and just vanishes and in mida. So very thematic. Well, I wasn't expecting to use it for this purpose. This was not my own pension. So this this person here just like opened this door, right? That is correct. Uh-huh. Yeah, well let me let me see what it looks like here and then oh that was that there's not the case one.
+
+Okay.
+
+Blender time. Grayson oh never mind. You don't need. Snapshot, you have an arm strike? Yep, the legs. The legs Next and it is the right down weapon. Which yet would be this one. So yeah, that's that plus two because I'm invisible and additional plus two because wanking, I'm not too up and fighting
+
+Cheers plus two from planking, isn't there? Yes, she is. Flat-footed and AC is a 16, flat-footed you hit Now for for 12 and three. Bleed. I just realized I forgot to target. Kevin. Dotsu. Did we apply that damage? I'll make sure to do it next time I did. Okay, my bad lead.
+
+And the no way appears. Yeah, just and just kind of looks through this window like Hi boss. It smiles at you, her big toothy grin. Hey, you the fuck out here? Shit. I forgot to hit rest on koya.
+
+Aquarius healed. I know, four quick Latoya had no channel energies.
+
+But boom.
+
+Okay. So she is excluding the rhyme Runners and Thorberg.
+
+Can you exclude? Someone you can't see from channel energy, If you can't see them, then the most doesn't work, like it will. It's line of effect.
+
+Well here's healed everyone. Get 10 points of healing.
+
+But she definitely can keep her out of it.
+
+But boom and she continues to smile at you as she swings oathbreaker at Shoko. Oh, can I parry that? Maybe. Oh wait, I'm in. You have an entire range. Harry feature. Yes, she is larger than me. So, I take a minus 2 to this attack. I must make this ability after the creatures attack is announced.
+
+But before the attack role is made. Sorry, I took too long to say that if you want to. Alright, I don't think she hits you. Anyways, Well she doesn't but I'll still go for the Perry because it's cool. Hell yeah, that's the way we just away. Call it a parry.
+
+But Now because if you do paria as an immediate action, you can smack back. Yeah. Yeah, you have to successfully power to do it them.
+
+I just yeah. Like back. Oh no. It's a minus two on the roll because she's bigger than me. So I do not successfully vary. Yes, Did you successfully avoid taking damage?
+
+It can still be flavored as Perry, You just weren't expecting the force of her attack. Boom. Bringing us to Shoko's turn.
+
+I will attempt to hit her again.
+
+Ah, and fortunateness. That is Shoko's turn. I don't really have anything. I could do with my bonus section. Other? Yeah. No. I don't singing us to Grayson little turn to the guard next to her the, with no way behind it. And we'll do a flurry of was what a flurry of bows.
+
+Is the map here right on my attack. It's saying I only get plus one from Inspire Courage. Yep, You are fifth. Oh, okay, It's even fit for six. It's one of the two. You a bum bum? Let me see, continue.
+
+Interesting.
+
+Oh wait, I'm doing it wrong. That's right. I can't do slash grace with the shield in my hand. Fuck. I forgot about that. And you need the next feed after that to do that. Yeah, to work in the rest or something, in it, If you have snapshot, would you benefit from thinking with a bow?
+
+I don't have snapshot, no, I'm just curious because there was reading the wording and it just says you threatened squares within five feet of you. I don't think you would because I think the definition of flanking is that increases melee attacks. Mmm. That's very no. If you have, if you have snapshot and you are with boat, you threatened squares around you with that button.
+
+Yes. That what you do it. You just threaten but and you will provide flanking for other people, but you do not benefit from flanking with arranged attacks, honestly. They definition of flanking in the first line when making Amelia attack. You get a plus you flanking bonus. Okay, There are some exceptions.
+
+So the first is Jack hits. The second one. Misses. All right, but she almost went down. God, I'll stay there to provide flanking for no way.
+
+Bundabar uninjured. One, boom.
+
+Wings are great sword. That's a mess.
+
+Boom, she's so confused on who to attack you. Both actually really fucked her up boom. So one is no way too is Grayson Grayson.
+
+There's a 20 hit. She also bleeds out. Another three, just barely. But yes, 14 points of damage God. She's a two HP Zeo UHP nowhere to go ninja on one side. Monk on the other back in the middle right here.
+
+Hurtling, this one here.
+
+With a nice static blast.
+
+To improve.
+
+The question is so much, they do make a 40 to save or be definite.
+
+Is your saved, not in there. I don't know.
+
+He sure I assume in 20 makes it. Yeah, that's gonna make it not Devoned.
+
+It's only DC like 15 right now. But tofu.
+
+One.
+
+Because it's like half my level, plus my charisma modifier.
+
+Oh, that's upsetting. Boom. Oh, gee. Wait, Zeo, don't you have glitter dust? Yes, I do. But I have not cast it yet. Okay. First question is the door that show go standing in two squares wide? If I moved that door, if I moved Here, what I'd be flanking with Shoko against this one.
+
+Those showcas actually in the room, heck and a half? Okay, So what Ochi is going to do then is
+
+Move to here.
+
+Like so and I'll do acrobatics to avoid attack of opportunity. If necessary from both of them question mark, by the way, does that sound right?
+
+Like, so attack of opportunities I could try and avoid. Yes.
+
+Oh you're pain. Okay, and then I will make an attack against the line. Wait this koya have any weapons drawn? Or was she just channeling? Oh no. She's got her. Start night out. Perfect. Thank you, I will attack that one with one.
+
+Do I hit to you do indeed.
+
+It was really scared because of the number of fourth level fighters in here.
+
+But you doing, okay. That's my turn. Boom. I don't you have Itsuna's Mystique I do but I got planking sneak attack anyways, so it wouldn't have really done. Oh, it is on there. I didn't see the snake attack for some reason. Yeah, I just got it automatically, I didn't have to roll.
+
+I'll choose also got Ochi is also going to yell out on his turn Shoko. You need to get out of there. Oh no. Oh Lord. I may have still been right about the unfortunate number of fourth level. Fighters that is what is known as what? Yeah, That is the special move.
+
+Bonk in Pathfinder bunk is genuinely about. This is actually still confirm. I will be right back. I'm gonna get my alcohol and bring it in here But just I will style. I will also spend and out and our clean point to give myself a bonus to make it right.
+
+You know, AC from time being they what's even worse is that they're not even supposed to be, just normal grade swords here. I will show you their combat gear. Wait, was that you said you did zeal? I pretty much depend on our game point as me that actually get myself a to activate filter faith with a slip up so you don't take as much damage still getting hit.
+
+Oh yeah. No, they were they were very specific about these guards, great sort.
+
+But yeah, he was still standing barely
+
+He Um that bird. Just fucked her up and that's a healer bird was just flicked her up healer bird so that she doesn't die.
+
+Is an 18 hit. I don't believe it too. Actually it's not. He has a 21, it is something lower right now for challenging Kim and Dotsu. So let me check with that modifier. Oh shit. That's right. You moved off from your challenge started. Yes, let me look. I think it's just a minus two negative two.
+
+Yeah, okay, so that's the leaves you with a 19. You're still good. No way. This woman is about to drop. Yeah, she is. Which is why? No, I genuinely isn't gonna give a fuck Elmo, pastor. A bowl of you to think that I need to Mix a hand sign.
+
+And So Unless you unless you have a way to stop me, you still have to making that credit. Check to move through her square Invisibility. Doesn't let you pass through an opponent square. Fair enough, but it will be against her flat-footed sandy. That's fine. Oh, you're more than fine, that's that's fine.
+
+So yeah, yeah. That's kind of kind of a problem, isn't it?
+
+I am just gonna I missed Zeo taking the damage. I fully expected him to be down when I got back, just just dropped. Yeah. Almost, he's almost down but he's still standing. Okay. So, all right, fine.
+
+Come on, master. Where are you? And not that any of you can see it. But no. I like grabs a hold of the new Tom. She's gotten crushes it. So three rounds of scene visibility. He's right behind Zio. Oh no. Yeah, that well that was my standard and because I had the tumble I think that's the maximum of my movement.
+
+So I can't do anything about it. Reward zeo. Yeah, you
+
+He had to drink a person on her last turn. He is an attacked yet. He gets to go out for her next turn. Yeah, Yup. Jordan off here, but that is the best I can do, unfortunately. Boom. Clear. The pool cast here.
+
+She has the cast defensively. Don't cheat. Boom. Oh shit. She failed.
+
+Now, she lost the cure critical. Is she taking? Yeah, I guess she is. You just lose the spell.
+
+He doesn't she does not have combat casting.
+
+Boom. Um, but she will quick channel.
+
+Isn't it literally just zeo? That's hurt right now. No, she was still fucked up too and graceful was fucked up.
+
+Bum bum bum phone.
+
+Don't.
+
+Boom, Thorberg and/or. Kimondatsu.
+
+I will make the attempt to parry.
+
+Hey nice. Not an ass. And then I will smack her. I do not succeed in smacking her. You do not but I do avert 18 damage. Yes, you do. That is that is something to be celebrated.
+
+That honestly, had I seen it been like, no, I would never have claimed that you've got noodle arms ever. Again, That's what you block. So, fucking that subo, from an ocher, You did what to both take her. What the fuck?
+
+You can ignore this? Yeah, there it goes. Thought I had that set up already. Boom. Bringing up the shoko Stern.
+
+Oh, Shoko will. Stay here where she cannot get fling on him. Uh,
+
+Um, but I want to try and cast defensively or do. I want to customer, huh?
+
+I guess I will go for an attempt to cast defensively a first level spell.
+
+And roll. Does that fail? That fails doesn't really know.
+
+All right. Well, that's shotgun's. Turn I lose the spell.
+
+Bringing us to Grayson.
+
+Kristen instead of shooting the one that's almost dead. Next to him is gonna shoot the one next to CEO and is going to do eShot with this. And if Is arrows, take her down and there's any aero shots left. We'll go against the one. That's right. Next.
+
+Who think the only one of those hits? I think we need to rethink Gochi being the party tank because I would have been like two shot at already by Kevin Dotsu and shell goes literally just up there, standing toe to toe, just there's no daiquiry. Don't keep yourself. There's listen, I literally took a level in swashbuckler to try and make myself a bit more the tank you also have like way higher AC than the rest of us.
+
+You succeeding, immensely?
+
+I mean yeah you doing really good boom. Oh. She was like I will not live and ran away immediately and show goes like, let's dance motherfucker. I challenge you.
+
+You're invisible actually. Yep, RIP. Oh, here comes two great sword attacks. I mean just she was going for Grayson surprise, but someone is in her way. Let's see, I think that's automatically grappled under the Pathfinder rules. If you run into them if you run it to them. No. I mean, you just you just take lessons from from the ray school of invisible creature.
+
+Finding just walk in a shit. Yeah, so she bumps into you and like looks really confused. Boom, awkward hugging commences? No, not healing.
+
+So way for and drops. Zeo the way that no way Hatsuyuki just like an arcade points walked away from that bleeding person and they died 10 out of time. Pretty much. Yeah. I mean if you know where the invisible person is and you have glitter does and then he's like a teleport.
+
+He's really moving stuff over there and then Cascular dust Nice. I like how the in the same motion that it would just looked like you fucking exploded. Just like, yeah. No, that's beautiful. And targeting that wouldn't it? Be this square actually. Right. Yeah, but it's a 10 foot thing.
+
+So it would just, oh nice. See what you did. So yes. Well she's still remains invisible. Her body is now, covered in glowing dust and makes her visibility completely pointless. It makes her into sparkle Mommy. By the way, she doesn't make him feel safe to say. She'd find it.
+
+Boom, she's fine and you here, right? Not on her on her. No, I would, you know, I wouldn't. Yeah, I would have dropped it, right. We're on her square subway. I wouldn't eat Koya.
+
+There's a 10 foot radius.
+
+The radius. Okay. So, just hit. Sorry other than the one guard would to get hit by it as well. I literally dropped the template. No, I think move it one to the left and it gets both of them. I think that's what he was going for. Yeah. But then it would also take soya.
+
+I just asked that. Oh that's fair. Okay. Sorry. No, it wouldn't.
+
+But if you drop it here, it only hits her. That's true. So do you drop it where it hits? Both of them. Yeah, it would hit Koia. If you drop it on the other one, doesn't it hit me? No, no, it doesn't know. It doesn't. It's only the purple squares that are indicated.
+
+That it's okay. Looking at the sucks. Okay.
+
+Boom.
+
+Is blind. Look man, I don't play dress wearers. Okay. You're doing fine. You're doing fine. Oh you're, you're character. Makes it seem otherwise I don't like the way you're speaking to me right now. Boom. I think she said you happy about this. He in my character art. I know.
+
+No, she is not so she makes several different signs. Oh shit. She's gonna try cast. Water. Dragon, but not yet. I got on the ability.
+
+I know she cast shadow clone ninjutsu, of course you did. Oh god, that I didn't finish the ability so she only gets one clone. There's no plus one on that right? For like Castro level or anything? No, not for ninja skill. Not not for the weak ass ninja skill for for the good one.
+
+Yes. But not for the week, one.
+
+Is going to move right here.
+
+And provoke and attack. Good. Your bars in the way she is going to miss, though. What? Oh gee I don't know bro, to attacks on the one next to me I guess.
+
+The first one is a miss, but the second one is, is the first one taking into account flanking? They are not. I didn't put flanking on there, Then it hits saving our lives. Good call. They've been koya's life.
+
+I'll add that conditional modifier next time.
+
+All right, so I don't think I have soap. If I put step, that's true. I am going to go there.
+
+And that would be my turn.
+
+With out. Panicking. It's boom in retrieves and cloths of potion. She is a professional. She's targeting me with a push. Oh, There wasn't attempt. I think as it's her turn she gets another save against the blindness. That'll work. Yep. Yep. Add the return. She gets another safe. Mmm. Bill Blind.
+
+No way Too visited during all of that. Well, I could deal with the person directly net next to me. But why would I do that? When I have someone far more important to deal with, oh my go and you're invisible.
+
+Oh, I wasn't ready for that. Oh my god. I'm sorry. So it's beautiful. You know, just all this nobody wants you, he says to you as you step up to her said, nice try kid. Yeah, We were prepared for you this time.
+
+Is that why the boss is currently huddled in a room? Like a coward. If you fighting for her life here. Let's shoko Chuck was fine. Is she though?
+
+So we family to do anything to this lady, like I'm just keeping her here. She regenerated it on her turn. So, swing number one. Well boom. You is a hit swing. Number two, and the bleed, even now flat. But it was a hit Derek. So, I do not get my, my sneak attack on this one because I am not lucky anymore.
+
+Very sad.
+
+I was a fortunate. That's fine because yeah it at the end of that like Klangs both sores together and doesn't just vanishes two can play this game. Oh, did you miss the part where she's can see you? Uh yeah. You didn't mention that top to, he said hello students.
+
+I was prepared for you this time. Um, bitch. This is kind of a sorry I should be doing this in the voice, right? This is kind of a fucked up situation here. If you're able to say, why do we doing this?
+
+You will have to deduct like whatever the bleed and the thing is then because most naked attack doesn't apply. Oh, Yep. Because I'm not blanking. And if it visibility doesn't work, then none of it works. So and I have learned that now and had I learned that I probably wouldn't have done the second attack but you know, it's okay, it's okay.
+
+All right, everyone's number is really should be.
+
+Liqueur.
+
+I,
+
+Oh wait, now that I there is one thing I could have done. I suppose You might want to roll to see whether or not hit the shadow image.
+
+Oh, that's that's for fair. One is her to is the shadow glue. You hit her almost want to say that. Put it out on the second attack. Actually, that is within five. So it per it bursts, the shadow clone. I feel useful. You're being very useful. Oh, what did call you do that?
+
+He's just still had to selected. That was for the shadow clone one. Yeah, but it is her turn now. It is up bum pum clear? It's going to activate. They think it's only.
+
+Yes. Oh, agile. Feet and five, footstep.
+
+A stupid blinking. Well, she misses She doesn't have flanking because it's a ninja he missed. Anyways. Yeah. But boom, a swing this thing. Thank you for reminding me. Uncanny dodges. Okay. Yes, she won't attacks. I will attempt to carry the first one foolish. I do not hurry the first one and then I take a crit.
+
+Oh wow. I think that works.
+
+Um, oh my god, it without me.
+
+That is so much damage times 3. Well, it was nice playing Shoko. I guess though. Minus 12 from that. Why is that buff on there against?
+
+Do I have anything?
+
+Oh wait. I have that's I could do dodging panache instead.
+
+That really know how swatch booklets worked off the top of my head you. Yes. So, you would take the hit but you prevent the crap if you did dodging, right? Yeah. Yeah. Oh, seems like this movement does not negate. The attack is so resolved as if the swashbuckler had not moved from the original scare.
+
+Oh, provides a dodge bonus Again. You seriously? So you get a plus six to your 24 bringing up to a 30. So, yeah, you would just take the 23 instead of the 73, but it's only against, is it only against the triggering attack? I think it's only against the triggering attack.
+
+Yeah, it's not the rest of the round. It is just the triggering attack. Yeah. So you only gets in the gate, the crate.
+
+Which would still drop me because I would still take 22 from the first attack. And on 23 from the second attack, did not dead. You're not pulp.
+
+And she regenerates more. I'm sorry. Hold on. You would use dodging panache, you would move five feet the first attack would resolve. And then you'd be five feet away If she has reached against a wall, okay? I got you, I can only five foot step. Oh yeah. Cuz this person went in the way over here, I got you.
+
+Yeah, so we're saying he uses dodging financial on the second attacks, in the gate, the crit and survive. I see, I was a little bit behind. I was like reading up on this watch. Oh still, you know pictures move to your new square. I can't. It's all. I mean move.
+
+Oops, Mickey, I wasn't even move because you're down now. I hate it.
+
+I'm the fact that you've survived as long as you are, you have is absolutely phenomenal. Like not no word of a lie. I am both in character and out genuinely impressed.
+
+Bringing us to Shoko's turn. So I make a fourth save, right Constitution. Check.
+
+You stabilize, you are not dying. All right.
+
+Face in. I will take three shots at only oh, inspire courage goes down. Ah, good point. Oh yeah, you don't have lingering here.
+
+Oh my
+
+I don't think that's gonna confirm the crit against here though. It unfortunately does not confirm the crate, but Lord. Are there a lot of crits in this fight and then I'll take a 5 foot step back.
+
+Excellent. The completely uninjured guard.
+
+Takes a swing it. Oh, gee and Mrs. Hell yeah. She has done nothing this battle but survive ziko. So, Zeo is going to literally go with Pat good good with belt at the, you got this one trap to it and he's like, I think the time I use this as he, he literally hits her with a
+
+Nice wand. We love us some automatic damage in this house, boom.
+
+Boom.
+
+What's it? She fucked, just bleed damage happen. At the beginning of your turn. Yes. Well, she's not bleeding. Oh, she's not bleeding, right? Not bleeding. But yes, it does. So she's still alive at one HP. Boom.
+
+All right, the
+
+The boom.
+
+15 20.
+
+To speed of 40, right? Yep, and a 26 beats your CMD. Correct. I know. Beats quite as yeah. Yeah, so she looks like she's running Ochi.
+
+Okay. What should show I was gonna add you saw choco drop but there's a garden between you and him. Yeah. So we gonna attack that guard. I believe, Let me have survey a little bit here. Oh me Annie's behind me. Actually, I could go over and attack her and then Chocoble will be turned into paste but she'll could go and attack her show.
+
+You would be abandoning sugar shoko has the same. I mean, okay, here's what we're gonna do. Rough flavor it a little bit. We're gonna attack the guard. Nearest shoko. First, Let's see. Let's see here.
+
+Just do me a favor and just move five feet up. If you're gonna do this, I have a plan. Although, that's it. Okay. With that done. He was hoping he was super strong that she would drop. But oh she has noodle arms Only when he doesn't have any pack.
+
+Oh wait. Technically it one. Last damage right now because oh, you're inspired her. Oh, yeah, you're right. I'm sorry. I was trying to do multiple things and like, Adam modifier to my attacks for defensive fighting and stuff. And it was my turn too soon, So she didn't go down.
+
+So he's gonna move right here and he's gonna shout at Kim and Dotsu and be like, you'll find me a lot tougher than he was Stand and fight. Just a really clearly. Look, you too. Oh, she I'm trying to save your life. Shut up. Stop moving.
+
+And that's pretty much gonna be Ochi's turn.
+
+All right. How close were those attack rolls? By the way? Because I was trying to do multiple things and I was gonna put on the fight defensively. There. AC is 18 Okay, I know that's meta but I'm gonna throw on the buff and say those were minus one each so that his AC is a little baby.
+
+Oh wait a minute. Why is it the squeezing buff on
+
+Squeezing enough. You don't need the squeezing bath bun. Do I don't have squeezing with. Yeah, you have the splitting by this for building.
+
+Is true. I don't have it marked as on I just turned around for you. Oh, and I must have had that on for so long. Yeah, it was on your attacks, too. So you had plenty of wiggle room on those attacks. I must have clicked the wrong one. That's from back in.
+
+That was back from the boat. Yeah. Boom. I'm sure he must have clicked the wrong box, recently. No way. Okay, so my defensive locker Zashi, I'm actually gonna draw and hey remember that poisoned shuriken the didn't land anywhere that I still have? Yeah.
+
+Hey, you forgot something. A so yeah I I don't think it was like a plus or anything. No way whips out a sticker machine and prints out. A sticker that says address was undeliverable and throws it on the Shirley kid and then throws it only before you actually roll for this because this is gonna be more of a cinematic thing.
+
+You say hey you forgot something and throw that at her and she snatches it out of the air with little fingers and says, thank you.
+
+I hate you know that, bro. Yes, those feats, I'm sorry. She's had them from the beginning. It's true. It's true but it's okay. I have more.
+
+So okay, you get to keep that one. I don't. Yeah, I exactly. So I do actually have tend that I can keeping in my wrists the entire time but no, none of the supplies. I just want to hate you. I said don't even care. Um, you because next time she's gonna be even more prepared.
+
+Yeah. Yeah. I know how this works. That's snowball. Fucked her day though. Fucking snowball magic missiles hit. Fuck her up to the magic missile sitting for 11 damage. That was nice, but you're like, 35 damaged crates snowball, that turned the tide, So I don't have it on here, but Then it doesn't exist.
+
+You're a liar. Yeah, I'm pretty sure that's gonna mess Unfortunately as yeah, that's unfortunate. But that's fine. Because So that was the first role. That's your first one that she catches out of the air. Yeah, the first one go out there. That's the second. You didn't you didn't roll for the first one.
+
+There is no point in rolling for it. It was gonna call even if it crept, it was gonna get caught. Yes, So totally fine which is, is still not a problem because I know throw them on danger again first and then the poison one. Well, I did want to give that back to my master and I was just that was just very nice of you then.
+
+Yeah. Well you know, you have to keep up appearances and fordeal relationships. She says, as she takes a five foot step and uses that second walkers actually, like and just slashes straight through this person if she can. Um, so and you may be going well, where is this next attack come from?
+
+And he points. Yeah, because I can do the I can do the grayson thing, but this one gets the full whack.
+
+Oh my
+
+So so that is more key points spent and I believe that's my entire turn At that point. Yep. Yep. I am down one lucky. I'll pick it up. And oh yeah. On a step. Here she is going to spend two channels to switch cast or move cast, general energy.
+
+Above back. I'll take, I'll take 16 health. She can only exclude four people.
+
+She doesn't have to exclude the ogre because the ogres full health. That's true. What when did the over? Oh, it's fast healing so she can exclude the three who are already down and Omayani or exclude all four of the guards and let Omani get healed. What do you guys think?
+
+Or just exclude me. Okay. You are still full health to know you. Yeah it's interesting go ahead and exclude. Okay, yummy.
+
+Probably. All right. So, the blind guard gets healed.
+
+The three that are currently unconscious bleeding out, do not get healed and no neither does only honey. Boom. It's been a while since I've played Pathfinders and forgetting that it's include. Not exclude for this one. Yeah, I have that backwards at the end of my second drink and I don't usually drink.
+
+So I feel great. Boom.
+
+Oop.
+
+Oh, she's gone. Oh, that's nice. You vanishes from site coward. No. Remember what you said Ochi she can go invisible. That's right. So which I squint. She's still standing right there. He had shifted down in size.
+
+But she does hop over here and open this door, but she has to go over the desk. So that's our movement down, boo, boo Shoko.
+
+Um, Shoko will attempt to cast defensively while on the floor because he's assuming that she's is she still right next to me? No. Okay, then she'll go will stand up and she's actually shrunk so she doesn't have any reach anymore Back here. Kevin dancer Shoko will stand up and our showdown will be on the snowy clips.
+
+And we'll cast a mirror image.
+
+I get two images. Yay.
+
+And that will be showcase term already. Grayson, please do not let the ninja get away with step. For I can take the ninja out on my turn, too, and we'll take three shots. Yeah guys.
+
+It feels like racial profiling somehow the ninja. He does not actually escape. This is a blue lives matter situation. It's a profession, not a race. You can take off your ninja outfit at the end of the day, any overkill arrows will go to the guard that just got healed.
+
+So the first arrow gets smacked away. As it's beginning with new round, the second arrow. That's refresh on her turn though. No, because they use up a tax opportunity or no, I'm thinking of something else. You are thinking of something else because it uses a text of opportunity, it comes off of the top of the term.
+
+So it's on her around, they reset. And because I already ated by giving her back, a shirt can Totally the first one. The first one actually dropped her and the second arrow can go to the guard, but the third arrow will miss the guard. Even flat footage and wait, no.
+
+She's blind. Hold on. A 14. Hits are exactly.
+
+Nice. And that's the end of Grayson's train.
+
+He boom. Oh, you know, I can see her then Zeo still has glitter dust.
+
+Yeah. So like or if you over here, what you go to, which no, it is pointing her sword out like this direction and is not that game Foundry. Please stop. I'm not exploding goodness gracious. Go ahead and cast another episode glitter dust Since we were pointing that way. And shouting something very obscene in Tian.
+
+What does she sell in Tian? We most of us speak it. We would like to know, get back here motherfucker, I still want to feed you. My sword. So yeah, you have to drop that here. Right. You can't see those squares over there. I can one here. You have the movement to get further in.
+
+And I guess I could move still move further.
+
+But I can see they're like this square right here.
+
+This. She becomes visible again and then both of us make will saves.
+
+To build. He's fine, you're fine.
+
+She's sort of visible. She's covered in glitter. Oh, bring us to OG. Oh, could you take the the dead guy that's underneath me? I'm like behind.
+
+Okay, Thank you <.
+
+Feel for your challenge target. So I don't play this very well normally but Ochi is lawful good and he's really doesn't want to let all of these people die. Well, yeah. But we know that this ogres is our main enemy and she's just announced her intention to kill us at a later date and now she's running away.
+
+Okay, yes, that's fair. I will want to chase her down primarily so she's through the door through the room in there. Um, can I run through Shoko? I can pass through friendly squares of their up and alive, right? Yeah. Okay.
+
+Oh, I didn't expect her to be like fully right there. Battery further. No, she had to go over a desk or her movement with cut down. Yep. So then we are going to Katsune's, Mystique faint.
+
+I'm assuming that doesn't work.
+
+We're gonna take a swing.
+
+How's that do? That will hit. Where you going?
+
+We're not done.
+
+We are done for now.
+
+But I'm sorry. Hold on. Let's pause for a second. Is she visible? He's covering glitter dust. Oh, okay. That that functions as visible enough, there's no concealment or anything like that. Yeah, okay. Good. Sorry, she was just visible on the map. So I was like pretty sure she was invisible.
+
+Okay, that's pretty much my turn.
+
+Bringing it to no way.
+
+Who I mean, would ordinarily like to get to run? Stop here, but I'm pretty sure I probably won't be able to like, can I attempt a robotics like through that? I don't think I can even on the double move, right?
+
+Will you five? And no you don't have it. Enough movement left. That's a pity. I think he got a key.
+
+There's a yes but involved in that sentence. I'm in.
+
+Sure, why not? This is my former boss. It's not like I'm why? Why bother that? If I use my movement speed to increase by an additional 20 feet as a double move, I should have enough there, right? Yeah.
+
+Time to time to roll men on acrobatics, folks. Y'all already maybe, maybe don't target shoka with my attacks. First, that might be a good idea. She hit the last available moment. How much potash do I have left? You have like six bro, you have plenty. Oh um, where would you like to be?
+
+Ah like hey. No way. Backflips through the planes and lands right there. Just just like comes it's the same situation again, where like choco is a 10, a white side. Like showcas watching from the back and porn. Orchie is like in front. He's that he's ready and then like no ways fucking foot just appears on his shoulder.
+
+You, that's beautiful. Just all right. Are you invisible against her? That is an excellent question to, which I do not have an answer currently. So going to assume that I'm just, he does smile when you land in front of her, he seems to be thoroughly enjoying herself. Oh, come on.
+
+You've not been put through the wrenches and swats last time. My old man was around here. You'll be fine. Probably, It has been some time since I fought opponents who were worthy
+
+Hi. But that enters,
+
+And just a losing which is Honestly impressive. Am I losing?
+
+Looks at the only bane Wakazashi here with that. All of your friends will die, Dude. I should have been hitting her with only being this whole time.
+
+He said that if you attack me with that, all of your friends will die and one of her hands kind of coales with ice.
+
+There's another smell, like, ability that that only ogres have.
+
+And sold there. There is like a very cautious. Look for now. She's she's holding up this sword in her and her off hand and is like, and then very slowly. Very purposefully, you see her put the sword back at its scabbard and takes a 5. Footstep and is like, We'll meet on the mountains.
+
+I Good choice.
+
+Choco take here. There's wounds.
+
+And then in true Wuja evil villain fashion. She takes off flying like feet. Not off the ground. Oh here you can take exact opportunity Did I what language did she say all that stuff to no in beyond? No.
+
+You let her off, yeah.
+
+That she takes a double move and it flies off into the air and no way. You see worlds, take off from a rapid from the railing on the stairs outside following her.
+
+No, I just kind of looks looks down and cried on gives the most luck a days of cool salute. It's like, don't worry. That's the very first and last of my mercy.
+
+A little surprise, you went for it.
+
+Oh, that person directly or indirectly, basically made sure that I didn't get killed during a bit of a family feud. So, all right. So, As for loot, I assume you don't let the guards die since they were just doing their the job. They were hired for. Oh yeah, if she runs you, oh, she's gonna run back around and trying to do heel checks and administer healing to them.
+
+Boom, you save people. Let me remove her potion, because she drank that in the meantime, because no, I just go up and grab like, apparently these stooges that were nearby. And it's like I Where's the arcady lady. What about Amayani? Do we try and save her? Oh, she's going.
+
+No. Oh, gee is going to If you do that. No, I will go over and literally stand her luckazashi on. Only on he's not that's fine. If she decides, she wants to try and run away or attack us right away. Then Ochi won't interfere because he understands that like she's gonna help try and like kidnapp or kill a mako like over and over and over again but she's he is hoping that she does not do that.
+
+So I don't actually move my token for that. It was just still, well, they do, if he was up to you now, I
+
+She failed in our missions, spectacularly. Oh gee says after that She was still hot, all right? That is dilute from the sound of dogs are making. I'm assuming the people who are visiting the house or here though, I should probably bounce. We will deal with the questioning of the merchants next game.
+
+He do have information for you. Hell yeah. Awesome. Congratulations guys, that could have gone so much worse And we're all level six now. Yeah, nope. Five. Damn it. I was fully expecting at least two people to die. When one of the saw that that thing went full onion. I was like, oh oh that's a problem.
+
+I wanted to die. When they what that chick. Credited me with a creeper? Yeah. Yeah. There was so many crits, human not to use fucking Hetsubou crit. Jesus. Yeah, you actually nearly just deleted my character from full health. That was insane. They that would they were so rude and her construction.
+
+They gave her improve critical days. Right. Okay, I got to bounce. You guys are awesome. I would see you all later Next time. Yep. See. So yeah, just a couple quick questions, if no way is still over here by the body, How the hell do you keep doing the invisible thing?
+
+Explain. Oh, it's actually quite simple. All you like like sign language with your hands and then you're invisible. What gives? So a part of basic Ninja series, the ability to manifest your key externally. You've seen other people be able to do Grayson. I know is able to do it through the manifestation of this youth.
+
+It's not a way that it used today. Is that how he kicks so hard with his legs? Is that you can run like 80 feet in a second. I'm very fast to do with the kicking and you guys are both way faster. It has a little it has a little bit to do with the kid.
+
+Um, you have to admit. It is a little freaky but I in my case most of my training came from internal alchemy, but it's something that you can learn to cultivate over a period of time. If you are sensitive to that sort of skill, it's to be quite honest.
+
+Vanishing trick is one of the easiest other box on this. That I could read a lie. You've got a sudden interest that ninjas. I I want to learn how to do this kind of stuff, but I learned best from reading and like out of character that's just like how he likes to learn everything but you know, he practices like with his sword and like meditates like in the mornings and stuff like that.
+
+So he'll actually do a physically. I'm just trying to set up a oh yeah just learning how to use a key for next level, next sense. Well, no. Would that just kind of blink a little? And she's like, well, I certainly didn't learn it from books. We we had mantras and that was a certain set of tenants that you would have to follow in order to make sure that you were able to properly exert your wealth.
+
+But if you want a summary, we don't typically keep scrolls outside of our base of operation. So you're not going to find them here. Damn, I can certainly write you some footnotes though if you desperately want to, I would like to try. I share this is something that's very difficult, but if it's something I could learn how to do.
+
+I, I think it'd be very hopeful, no. I I learned vanishing trick by the time I was eight. We can probably teach it. That's fine. I learned how to help my dad brush horses when I was eight. Mm-hmm. We all learn something different when we're kids, right? I learned how to I learned a lot of things Soco on.
+
+It's sharing time. You just nearly had a textable, replace your entire rib cage. Come on. What did you do when he choco? I can't imagine you is a. You just always seem like a grumpy old, man. I think you always were he was born out of the womb like this just perpetually grumpy and built like a noodle salt and pepper mysterious.
+
+Salt is right a ladder. Well, the built part is right. The reason I never really developed physically because I born with a bit of a condition. Never really never really physically. Good play with the other kids kind of had to be kept in doors. When you might not have been able to play with kids but you did just play with my old boss and stand your ground.
+
+So, frankly, I'm gonna retract my sentences of noodle armness. Yeah, at least for today. Soco where you stood told with an Oni that was absolutely incredible. Yeah, that was
+
+That was weird for me, in a lot of ways. I have a lot to tell you guys but after we rescue on the go no of course of course we're we're getting sidetracked. I'm sorry. It's very exciting that was that was very thrilling.
+
+And you're sure Europe.
+
+Are you sure you're okay? There are no way me. Yeah, I'm fine. You notice that she specifically not looking at the dead fever teachers. Like for better simply messed off. That's we now have a enemy ogre that knows and is capable of making use of the information that they gotten out of this club.
+
+But always, How's Dundee as can be
+
+And I think I'll leave you guys there good. I just wanted to get a couple more notes and I was super, super fun. I had a great time this session and Ochi doesn't feel so limp without now that he's got sneak attack. I'm like, wow, look at that. Damn it.
+
+I'm not sneak attack is. It's so good, isn't it? And yet all of the ninjas have uncannito. Yeah. Yeah. They fortunate screaming, It's screaming. I still can't believe. I credited her man that was felt was an A plus play. Just snow directly to the face. Amazing? Was that kit?
+
+Quit that she rolled against me? Was what the highest damage number. We've seen the entire game. Absolutely dude. Absolutely. I just highest this this thing for sure, We had like several things go specifically our way for the first half of this fight. Otherwise, this would have been really hard.
+
+That would have been a way worse. Like if If only on a had managed to like hit and crit against Zia like that would have been that if the swords God's people could actually hit reliably like that's what base 13 15 inch damage or hit like this. I sucked.
+
+This is all on the entire time. I was like terrified after a day after he read off the ownies spell list. Oh yeah, yeah. So I was never under. So like from a DM perspective I was never under any illusion. We were ever gonna stop Kim. And that's because came in to can fuck off.
+
+Like literally just did anybody see that shit? Come here of like a like the ability she had that could just shut us down like if she had decided to use her first turn to cast darkness in that room Shoko would not have last a single term. Yeah. No. But did anybody see that shit coming?
+
+Because I fully thought like, that. The rhyme Runners were just like happily paid sort of like civilian accounting mercenaries to be like yeah bro. I had a feeling the like they would have ninja, or at least like some people installed. Yeah. Yeah. That's pretty cool acting just surprise Mafia boss.
+
+No. Yeah. When she fully like shifted into Kimondatsu, I was like, I've made a huge mistake Genuinely. If that window hadn't been bored, like, and I and I'd rolled high enough to see that set to go fast enough. I tell you I was fully planning for knowing to just crash in through the fucking window just say get the fuck out of here.
+
+Run Everybody leave. Now We go. We do whatever smoke bomb fucking leave. Just grow because holy shit, ownies are terrifying. Yeah. Terrible things. Yeah, that's pretty entire fight. I was trying to block her down with one of my single targets. Well, but I just I couldn't I couldn't get her like, like, I kept missing with my spelling sword and then I couldn't get the concentration off.
+
+Yeah. It's it sucks. I mean even then I think I don't remember what kind of Onei but most only have SR anyway, so you could be pushing through SR as well. So yeah, it's pretty gross. They're they're just not not cool. Um, yeah, I didn't, I don't know them.
+
+And all good on either didn't know that. I'm getting ahead. Only baby sword. Just oh, go ahead. Sorry, I was gonna ask if the only Bane sword would shut down her regeneration. No. No, I don't think so. No. And I just dropped, I was doing some research on it because I was like, damn, I this this program that I'm using to, like, come up with the notes.
+
+It's even got this, like, cool, like thought web graph view or like ties. All the things together like a conspiracy board. There's a couple workarounds people have made or plugins for this application where you can actually share with people when I'm working on a way to be able to give you guys access to this to where I don't have to send like a manual update.
+
+Every time I rewrite it for like a new session so I'll keep you guys updated but if you want to install it and play with it like I will be able to get you. What I have so far for free but I might have to like pay for a way to automatically have an updated.
+
+After every time I add another session's worth of information, it's really fun. I've been having a good. I just get a folder right now I just downloaded it. Yeah, I will I think I can export it as a zip and send it over to you. I'll play with it here for a little bit after the session and drop it in the discord.
+
+A man. I I love this kind of thing. Like, yeah, I saw you know, dude, I've spent so much time, like I was doing one note. At first, I did like a whole character backstory and a lot of notes on like, how to play. I've been like, what kind of person he is in there?
+
+And then I realized I saw somebody else use this. I'm like YouTube. Those like this is perfect. This is so awesome. I'm really curious to see what the wiki entry for. Shoko says, I haven't really filled out anybody yet. I've mostly just not going back through my notes and creating all the pages as I go by writing like the each session kind of summary.
+
+And then what I'm through that, I think I have one more session to get through. I'm gonna go in and start filling out. Everybody's like individual page with like more information. So when you click on like no way. I have no ways because I she like sent hers and I could just copy her and put it in there.
+
+So that was really easy but like, oh cheese, backstory isn't even in here yet? I've just been working on like the campaign recap session by session and I hit up Didion about like figuring out what the actual start date was for the campaign so I can actually even put in like dates into this and make a timeline.
+
+There's like a plugin I found that people use to like build a timeline. It's so in-depth and wild. And I could sit here and play with it, it like, scratches the part of my brain that loves that kind of stuff, but that's kind of. Now, that I know that you guys are down to even check it out, like I'll put even more effort into it.
+
+I've just been, like, I've been working, like, 60 hours a week out in the Sun. So I haven't had a ton of time to like, get this super caught up, So the fact that you're even doing it at all, I think it's like fucking amazing. Well, I the other one, like one note was just so that I could do the recaps and like, but as we got into like the last two sessions, everything's gotten so dense and I've had a hard time paying attention.
+
+Like I literally didn't even know what was going on. I was like I need to go back and like really figure out who all these people are because I was super lost and I will fold this closure use an apple. My phone to take like a audio, transcripts recording of this, so that I can go back and make good notes of it.
+
+I hope everybody's chill with that. I'm not gonna share it or anything. I just wanted somewhere that I didn't have to type. As we went to try and keep track of everything. You know I'm saying? That's fair. That's fair. If anybody's uncomfortable with it, I can stop and just take manual notes.
+
+And I'll tell Diddy into. I was just trying it to get like a good encapsulation of all the stuff that happens so we can keep better track because it's really hard when you miss like a couple of weeks to like remember what the fuck happened? Yeah, Yeah. For sure, Your character might be getting a nice, it's getting a nice item.
+
+By the way, they're Abby. Which which one won't be talking about? Sorry? What? They got the item. We just acquired from your future. Oh, hey, wind. Yeah. Was was that what? What about what? What? So that's a wonderous magical item. You get free two free vanishing tricks a day if you wear it.
+
+What that's all you needed to say them. Two three managing tricks, 500 phone fan soft tricks. Yeah it's the shows ago. Regular stats plus the youth. You've not a ninja. You get invisibility once a day and if you are you get two vanishing tricks, without spending key on top of your whatever you want to spend.
+
+Okay? So what I'm hearing is this is my body slot for the rest of the campaign. Yeah. Yep. Pretty much. Yeah, there's some super stick stuff in here little. So I think Ochi if you need to know, is March 5th. Was our first session. Oh, I do kind of have dates on those from, like, discord and stuff.
+
+I specifically meant Didion because he had said we're we all made the comment that we're like heading up to go over the pathogen high, right in the future. And he said in the winter and this is like my first campaign. So I was just wondering how all this stuff works.
+
+The actual official Pathfinder in Galarian real-time. You're supposed of correspond to write the publication of the Jade Regent book one. So I was like, it's only been like six or seven in-game days and it was like August. So, you know what I mean? And then we inform you. Well, it took a couple of weeks in game to actually even get past like, Brian Wall.
+
+I was just try and give us like a date on the travel. It took us to get to calls guard just kind of work it backwards with him. He says he has that information and he just hasn't gotten it back to me. I try not to bug him too much because like as you can see why everyone's been busy this fully days ADHD.
+
+I will spend a lot of time on stuff that most people don't care about, just because I want to know. Yeah, I'm getting a guy spend time over the week, actually, writing down show goes backstory in. Getting it over to him. And I want to say sorry in my head.
+
+But yeah, there's just If there's any of you guys who haven't read. I'm assuming everyone. I'm just gonna shame you guys. If you haven't read, Abby's backstory, for no way, Go read that shit. It literally looks like I haven't opened in another tab right now, and literally looks like it came right out of the players guide, for, for Jade region or any of the players, guys, like, literally down to the formatting.
+
+I was so wildly impressed. I'm super jealous of the character art of, like, like, fits in the page, the same way, they formatted it. So I wanted to have that like for everyone like as much as we know if possible, but if not like, I don't know. That's not everybody's bag, but I want to, like, I'm just gonna I'm just sit here with my brain exploding.
+
+A little bits with some ego right now. Just yes. Yes, do place. So that I probably won't just don't worry about in-game knowledge and my character doesn't know it. No, yeah, she explained bits of it but I was it's just impressive. You don't need to know it but like it was just really well done.
+
+You know what I mean? I was like, this is super step. The majority of it. Like, you guys pretty much already know. Now, I was like yeah fun story ninja grew up being one here in girlsgod and then had to leave for a reason and was there the entire time until like I got really lazy and had an amazing time with a friend of mine who also happened to be a skin circle test and that, that ended very badly.
+
+So yeah, there's a little time on the fresh principala and said, like get the fuck out. Go learn some humility and discipline and if you don't go and dig yourself a grave, So now I was like, geez, fuck you. Find them moms, really tell me you got it's like the the tragic rogue tragic backstory TM of a rogue but like, well done, which I didn't think existed.
+
+I was like, this is this is a good shit right here. Chess kiss. Thank you. Yeah. So normally I'm gonna sign off there by the way. I'll see you guys next week. Oh, of course. Thank you guys. Thank you guys so much. I do have a quick question for everybody though.
+
+Yeah. Before we all take off, I'm hoping my character being a little helpful with what he has, Bro. You carry this fight or you kidding? No brush. Yeah, that was the bed teacher body of my new suit. Yes. Not only last time that we encountered over Yani. Did you carry that entire flight by nature of your class.
+
+But this time also like just putting a lot of work ochi in my opinion is like by far the weakest link and I've talked to Didion about like stuff that he can take in the future because I'm worried about him being underpowered. He's like, dude, basically, you know, I'm gonna like rule in your favor right now.
+
+I have to worry about Grayson essentially, just murdering everything from afar. Yeah. And he was wrong races, zero zeo's out here. Rolling creates all day long, dude. The utility like it's just We would be we'd still be doing this fight right now. A few weren't in this fight. No, I don't actually find like, I mean, do I want to play an arcane, a flying, arcane caster?
+
+The answer is yes, If you play a melee character, you're doing it for the flavor. If you play in an arcane caster, you're doing it because you want to win and like, yeah, exactly tip. That was. Yeah, we were yeah. Like the thing about this AP in particular as well.
+
+I'd probably make a good argument with is that they say P. Is it ends a lot lower than most of the other APs? I think it ends at about 50. So like the really really bookshit. You're not going to be in touch with very like for a particularly protracted period of time.
+
+Yeah, and I don't know if you guys all remember and most some people already even here when he brought it up. But he had mentioned, he really likes this game and he was like, we could run this right into the Ruby Phoenix tournament. I think he said, yeah, after this one and phoenix, so if we just moved together, we can go all the way to like, 20.
+
+I believe, I don't know. I'm not a familiar with this as you guys seem to be, but that, just, maybe can potentially go to 20. I was talking with with sounds about this at the time actually because one thing that I I've done in the past is So obviously JB agent is the only AP that really takes place in, you know.
+
+Yeah, so superior lands and we bland. So the problem is like having a lot of other module stuff, the kind of feeds into that, There's tons of stuff that happens like over in the world wound or Verisia or something like that. That you can kind of naturally weave in and use all modules for somebody that there's even stuff in like erosene.
+
+That's got like, the the witch war? The super cool when our witch, yeah, there's the winner witch war or something like that that ties off of the backup or is a prequel to the. I think it's a pretty cool that like for various reasons you can play as though, like your characters that have gone through way of the reign of winter could potentially like end up going back and being involved in.
+
+It's it's got some weird trip. So even Iristown has like self. But Tianja doesn't have many modules and things that take place in, you know, Ganja and I'm not talking about like a country, like Minkai, but why can't all the long time there? Yeah, I really read up on this stuff and I was like noticing every other APA, almost, I'm pretty sure.
+
+Like you just said takes place somewhere in the intersee regions and then we have just Jade Regent that like the second half. Pretty much gets us there. Yeah. There's some minor. So there's some minor modules within Pathfinder society that take place in Tianja. Yeah, a couple were so things.
+
+Yeah. Yeah. Like a couple of one off things. So I was just like if you need just like random shit honestly, just look into the ones that take place in Tianja. You can pull out the wiki to get a list. And even if like the level brackets are way too, low of whatever you want.
+
+Like just change it up. Like, oh, this place is haunted by insert. I don't know. Like a dragon. Yeah. Like like a race and then just go. Okay, there's now a Draco glitch. Like it's you can just like you know and kind of do shit with that. It's it's not like it's not in feasible to do that.
+
+The Ruby Phoenix tournament though is like the other real thing that has been kind of what I think. There's a mini BP in second edition. I currently, yeah, I sort of recommended just grabbing a hold of that and just ripping it and using whatever. The first edition equivalent would be, I'm gonna be cranking up the difficulty of it.
+
+Um, hell yeah. Here's the funny part. When we finally hit sixth level, one of the spells I'm picking up is haste. So, preparing lights this. This many melee, if you hadn't said, hey, that was gonna be like, we need to talk. Maybe you. Furious DM typing, you know? I'm like, haste, I'm like do I want to pick fly or the blower pickup fireball?
+
+Where there's other ones. Like lightning bolts. Yep. You certainly can. I will judge you Because of how many melee we hey hoping. When Choco gets to his third level spells you snags a good hope. That one's always really hope good. Hope is so nice to have never actually heard of that one.
+
+I've listened to a lot of actual play stuff from, like, a couple different people, putting out, stuff like that. So, I've heard a lot of the classics, but I've never heard good hope. So good. Hope it, you know. Okay. Do you know the spell heroism? The vaguely? Okay, so Harry Wism is a 10 minute per level spell that you cast on someone that gives you a plus two, moral bonus to attacks, saving, froze, skill checks, you know, nice little long duration buff but it's a single target deal.
+
+Good. Hope those, the same thing accept that it is one minute per level. It afflicts as many targets as you have castle levels and also affects weapon damage. Wow, The only people that get access to good hope. Bots. I I want to say she says I think like psychics might get it a particular subtype.
+
+Psychics, I know for a fact, get it. But like, I don't know if all do and strangely enough clerics and paladins of Iona Day. Um, that is why I know about Good Hope because I'm like, every time I play and I own a day, and I'm like, fuck, yes, good.
+
+Oh um, but because it's morale, those, If you are particularly sneaky and you give somebody a oh god, what's it called? It's a metamagic rod of Some say it's like beneficial or something like that, it increases the morale bonus of any spell. It's used with by one Jeez. So I mean I have a bod that I have a bad build that rather jokingly I I was supposed to play in Hell's Rebels game and her entire thing is that she can walk into an empty like street that's empty of of any heroes you know just a bunch of peasants and commoners and within three rounds turn them in like all of them.
+
+So 14-ish people into like, what nine tenths Navy Seals was once. Yeah. Fighters. That's crazy. That like her entire thing is no, no, I don't get in. Callback, you do not hit me. You do not get me involved The one time. The she like that was her thing. She was just the support and the one time somebody managed to land something on her, it was people mind.
+
+Oh, So she then proceeded to go while feeble-minded up to the witch that did it and beat the shit out of her with a cane. I literally was like, all right. So my characters completely think so. Luckily I have lingering performance, So all of my buffers both smells are still running and my performance is still running Including my bonus performers that was running at the time.
+
+So I still have all of the shit. Currently I just don't have any of my things. He's like, yep. Like okay, am I allowed to charge? Like Yep, you recognize like, that's people-minded You recognize an enemy and you reckon, you know, enough to be able to, you know, do something about that.
+
+You're just a complete savant right now, you don't have any like cognitive function. It's like, okay. So I go up, I charge and I'm gonna hit it with the wrong end of my squad game and then I crit killed her. Oh my god. Yep. Genuinely the funniest shit just after that very character.
+
+Like they're like, okay, we're gonna go and get you a heel spell and they did. And my character spent two days literally sulking in in the base, just one fear even before. This was, I hate mental domination magic and you might be thinking for a bad. That's weird, but she genuinely is like, no, people are allowed to make free choices.
+
+They're allowed to think, what they want. They're allowed to feel what they want. They're allowed to believe what they can see. I don't like illusions. I don't like enchantment magic. That is negative and I don't like people, you know, being lied to in that fashion. Yeah. So for someone who is supposed to be a haughty pretty bitch that got involved in the Revolution because frankly the dude banned mint and she didn't like that.
+
+I naturally. I enjoyed that character. A great deal. I love Liana. She was. So they actually have a concept was a libertarian that actually cares about helps other people. Yep. She's she's a libertarian novel. Who's entire thing is, I am prissy bitch that has 15 billion vices but I want you to have the freedom to be able to choose those vices I can't criticize with so badly that I had the time to play in another campaign because I have like so many other ideas.
+
+I've been bouncing around and I'm just like, no, We have other responsibilities. We can't just play Pathfinder five days a week. I know. I know the feeling I've been. I've been off with COVID recently. So I'm gonna bounce out. So I'll talk to you guys next week. Take it easy, man.
+
+Thanks for running the loose sheet. Yeah, I'm just so happy. I don't have to do the lucci in this game, So so happy. Well, I'm gonna wrap up my obsidian notes and send them in the discord chat. And then I have to feed my girlfriend so I have to go to but this was super super fun.
+
+Thank you guys. It's always a blasting, guys. You guys and I'm sorry. I was kind of late. Oh dude, no, that's not your fault. You've communicated that everybody you showed up for the fight and carried it. So once again, thank you for that. You know it's still fighting. Yeah, no we can keep it going and do this again next week.
+
+And and really good moving on the campaign because like I'm super stoked for this story. I mean if it continues being early, I am gonna be late an hour. I don't I don't think it's gonna continue for too much longer. It's just the unfortunate situation of, you know, they're trying to sell their house.
+
+So, yeah, I mean sucks, the way the market is right now. Hopefully, he gets it sold, but it is what it is, man. Like that's your schedule. You know. Did he comes the one who's got to change but it's working out right now. So I don't know, maybe we can find a compromise.
+
+I mean. Yeah, cuz it's like, I'm I'm missing out on some of it, but I'm like, but I'm still here for the rest of it. No. Yeah. And like, once I now that I know that everybody's down to, at least try this thing a little bit. I'll try and keep the the recaps go in and get this wiki is in depth as possible.
+
+So that even if you do miss stuff, you can be you know really up to speed so that when you're there you're not like playing catch up, you know, and no problem. All right. Thanks guys, have a good week. Take it easy? Yep, catch you next time, folks. You.
+
+Come on. Brad, just
+
+This is appliance Express Coin. You gave me a call back at 623 Two, four seven, two zero three one. You trying to get scheduled to come. Look at your washer. He's give us a call back 623-247.

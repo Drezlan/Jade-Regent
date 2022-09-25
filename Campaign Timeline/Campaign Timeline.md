@@ -239,13 +239,6 @@ rimerunners guild books will inform our reconnaisance further
 thorborg silverscore owner of the rimerunners guild woman
 rimerunner purchased ravenscragg from snorri 3 years ago
 
-> when you think you're smart enough to do this ![[keyboar.jpg]]
 
-Further testing is required. god help me
-
-testing # 10
-
-123456789
-
-abcdefg
-
+recap
+came back from the [[funeral ship]] and aquired [[zio]] and [[helgarval]] and made our way to the [[shrine or temple of shelyn]] and saved the priest xin po or [[yin po]] from the [[redfeather raven]] and the [[earth elemental]] and found out that [[~~ulf~~]] [[Ukshaka]] wasnt there they had broken into the [[safe house]] to get him and found a tengu feather and a blowgun dart on the ground. With [[Ameiko]] missing still and the [[Frozen Shadows]] several step ahead of them they regrouped at the tavern when on approach [[Koya]] was nearly killed by [[Heckja]] in an ambush. Nearly dying there we 

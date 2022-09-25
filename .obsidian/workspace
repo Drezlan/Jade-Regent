@@ -9,7 +9,31 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Temp page for notes.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6146080f257336cc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Campaign Timeline/Campaign Timeline.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6e19f579dde77914",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Obsidian notes.md",
             "mode": "source",
             "source": false
           }
@@ -134,19 +158,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 215.5
   },
-  "active": "d37b059a6539acd2",
+  "active": "6146080f257336cc",
   "lastOpenFiles": [
-    "Places/Inner Sea Region Folder/Land of the Linnorm Kings Folder/Kalsgard Folder/Kalsgard.md",
-    "Campaign Timeline/Campaign Timeline.md",
     "Obsidian notes.md",
+    "Campaign Timeline/Campaign Timeline.md",
+    "Temp page for notes.md",
+    "Characters/PCs/Hatsuyuki no Naoto/Hatsuyuki no Naoto.md",
+    "Characters/PCs/Ochitsuite Arashi Folder/Ochitsuite Arashi Folder.md",
+    "Characters/PCs/Ochitsuite Arashi Folder/Ochisuite Arashi.md",
+    "Characters/PCs/Ochitsuite Arashi Folder/Ochi.md",
+    "Places/Inner Sea Region Folder/Land of the Linnorm Kings Folder/Kalsgard Folder/Kalsgard.md",
     "Characters/Caravan NPCs/Koya Mvashi Folder/Koya Mvashti.md",
-    "Places/Qadira.md",
-    "Characters/Niska Mvashti Folder/Niska Mvashti.md",
-    "Characters/Niska Mvashti Folder/Niska.md",
-    "Places/Korvosa.md",
-    "Characters/Caravan NPCs/Koya Mvashi Folder/Koya.md",
-    "Characters/Caravan NPCs/Kelda Oxgutter Folder/Kelda Oxgutter.md"
+    "Places/Qadira.md"
   ]
 }
