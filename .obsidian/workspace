@@ -6,6 +6,7 @@
       {
         "id": "d37b059a6539acd2",
         "type": "leaf",
+        "dimension": 50.113036925395626,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,12 +17,13 @@
         }
       },
       {
-        "id": "4503a044d9a1e1f2",
+        "id": "87cd8811411c80c6",
         "type": "leaf",
+        "dimension": 49.886963074604374,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Transcripts/09242022.md",
+            "file": "09242022.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcripts/09242022.md",
+                "file": "09242022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcripts/09242022.md",
+                "file": "09242022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcripts/09242022.md"
+                "file": "09242022.md"
               }
             }
           },
@@ -148,17 +150,17 @@
     "direction": "horizontal",
     "width": 215.5
   },
-  "active": "4503a044d9a1e1f2",
+  "active": "87cd8811411c80c6",
   "lastOpenFiles": [
     "Campaign Timeline/Campaign Timeline.md",
-    "Transcripts/09242022.md",
-    "Places/Inner Sea Region Folder/Land of the Linnorm Kings Folder/Kalsgard Folder/Kalsgard.md",
-    "Obsidian notes.md",
-    "Characters/PCs/Hatsuyuki no Naoto/Hatsuyuki no Naoto.md",
-    "Characters/PCs/Ochitsuite Arashi Folder/Ochitsuite Arashi Folder.md",
-    "Characters/PCs/Ochitsuite Arashi Folder/Ochisuite Arashi.md",
-    "Characters/PCs/Ochitsuite Arashi Folder/Ochi.md",
-    "Characters/Caravan NPCs/Koya Mvashi Folder/Koya Mvashti.md",
-    "Places/Qadira.md"
+    "wight.md",
+    "Ulf.md",
+    "Snorri.md",
+    "Witch.md",
+    "Skalsbridge.md",
+    "Ogre.md",
+    "Heckja.md",
+    "redfeather raven.md",
+    "funeral ship.md"
   ]
 }
