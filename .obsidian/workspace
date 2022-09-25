@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Transcripts/09242022.md",
+            "file": "Places/Inner Sea Region Folder/Land of the Linnorm Kings Folder/Kalsgard Folder/Kalsgard.md",
             "mode": "source",
             "source": false
           }
@@ -22,18 +22,6 @@
           "type": "markdown",
           "state": {
             "file": "Campaign Timeline/Campaign Timeline.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "6e19f579dde77914",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Obsidian notes.md",
             "mode": "source",
             "source": false
           }
@@ -101,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcripts/09242022.md",
+                "file": "Campaign Timeline/Campaign Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcripts/09242022.md",
+                "file": "Campaign Timeline/Campaign Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcripts/09242022.md"
+                "file": "Campaign Timeline/Campaign Timeline.md"
               }
             }
           },
@@ -160,16 +148,16 @@
     "direction": "horizontal",
     "width": 215.5
   },
-  "active": "d37b059a6539acd2",
+  "active": "6146080f257336cc",
   "lastOpenFiles": [
-    "Campaign Timeline/Campaign Timeline.md",
-    "Transcripts/09242022.md",
+    "Places/Inner Sea Region Folder/Land of the Linnorm Kings Folder/Kalsgard Folder/Kalsgard.md",
     "Obsidian notes.md",
+    "Transcripts/09242022.md",
+    "Campaign Timeline/Campaign Timeline.md",
     "Characters/PCs/Hatsuyuki no Naoto/Hatsuyuki no Naoto.md",
     "Characters/PCs/Ochitsuite Arashi Folder/Ochitsuite Arashi Folder.md",
     "Characters/PCs/Ochitsuite Arashi Folder/Ochisuite Arashi.md",
     "Characters/PCs/Ochitsuite Arashi Folder/Ochi.md",
-    "Places/Inner Sea Region Folder/Land of the Linnorm Kings Folder/Kalsgard Folder/Kalsgard.md",
     "Characters/Caravan NPCs/Koya Mvashi Folder/Koya Mvashti.md",
     "Places/Qadira.md"
   ]
