@@ -120,17 +120,9 @@
                 "file": "Campaign Timeline/Campaign Timeline.md"
               }
             }
-          },
-          {
-            "id": "a3d8d2cd8ee141f0",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
