@@ -7,8 +7,12 @@
         "id": "d37b059a6539acd2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Goals threads and questions.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Goals threads and questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Goals threads and questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Goals threads and questions.md"
+              }
             }
           },
           {
@@ -130,6 +138,7 @@
   },
   "active": "d37b059a6539acd2",
   "lastOpenFiles": [
+    "Campaign Timeline/Campaign Timeline.md",
     "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
     "Characters/0 PCs/Ochitsuite Arashi/Ochisuite Arashi.md",
     "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi Folder.md",
@@ -138,7 +147,6 @@
     "Events/Visions of Jade.md",
     "Scions.md",
     "Characters/5 Brinewall NPCs/Nindinzego/Nindinzego.md",
-    "Characters/5 Brinewall NPCs/Tsutoku Amatatsu/Rokuro Kaijitsu.md",
-    "Characters/5 Brinewall NPCs/Tsutoku Amatatsu/Rokuro.md"
+    "Characters/5 Brinewall NPCs/Tsutoku Amatatsu/Rokuro Kaijitsu.md"
   ]
 }
