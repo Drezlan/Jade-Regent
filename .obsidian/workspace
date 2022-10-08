@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Campaign Timeline/Campaign Timeline.md",
+            "file": "New transcript.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "New transcript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "New transcript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md"
+                "file": "New transcript.md"
               }
             }
           },
@@ -138,10 +138,10 @@
   },
   "active": "d37b059a6539acd2",
   "lastOpenFiles": [
+    "Campaign Timeline/Campaign Timeline.md",
     "Groups/Amatatsu Scions/Amatatsu Scions.md",
     "Groups/Amatatsu Scions/Amatatsu Scions 1.md",
     "Groups/Amatatsu Scions/Scions.md",
-    "Campaign Timeline/Campaign Timeline.md",
     "Goals threads and questions.md",
     "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
     "Characters/0 PCs/Ochitsuite Arashi/Ochisuite Arashi.md",
