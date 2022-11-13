@@ -1,36 +1,4 @@
-Use me if you want. I can do a recap. I would love it if you did Grace and recap, let's hear it. So last session we started in the in after having her conversation, there the night before or the afternoon before, whatever. And then we had to go. We had a decide, which in we were in, and, as in which quarter of the city after deciding that we had a bunch of back and forth about where the next destination we should go was between the two options.
 
-One being the Rheim Runner's Guild and the other being Was it Ravens crag, Ravens crack, something like that. And Noah wanted to go scout out the Rheim Runners Guild while we the rest of us rested there was talk of back and forth about oh should somebody come with her?
-
-Do we like and it seems like more and more people were jumping on the the wagon of coming with her and Choco looked at us all like no you guys are stupid. I need my spell slots and eventually we're like, all right, we're just gonna go to bed and then know I went on her own and I think was able to get in through a window if I remember, right?
-
-And kind of searched around a little bit, I think it. I don't know if it was on like the first or second floor or aware of it somewhere and manage to avoid some guards. Managed to find a hidden trapdoor in. I think it was like a supply closet which led down to like a small little secret room that she that had a chest.
-
-She was able to get into the chest and got some papers I believe it was that we're incriminating of, was it? The it was that the raimer's Guild was purchased from snoring a while ago that it clearly was like a front for the frozen shadows now I believe. And oh, and that they have, they were the ones to pay that other guy to rent the boat and come attack us and go get that sword.
-
-The, the katana, the incessiona. Yeah. And so then I she came back, we finished our rest went in the morning. We Then went and everybody except no way went in the front door of the Rheim Runner's Guild to the attendant there. While no way camped out on I think like a nearby roof and we asked to see their boss.
-
-I'm blinking on her name right now even though we just fought her and the attendant was actually like, sure. Yeah. You can come talk to her after, you know, after you confirm it with her and so like, huh. Alright, so they let us back in there. She's behind the desk.
-
-There is some discussion. So, I think some threats on our end towards her, like blackmailing, and eventually she decided. Now, there were gonna gonna ambush you guys. Now turns out she's a Oni ocher, I think it was and then no is Master showed up as well. And at one point in the battle shoka, almost died.
-
-Another point Zeo almost died and eventually, no, it was able to get in and help and there was a bunch of back and forth and a bunch of people were able or no not much the master and the ogre were able to see near see her while she was invisible.
-
-We were able to take her master out but then After finishing off the rest of the guards, the the boss ogre. One yogurt lady threatened. That hey, if you don't let me leave. You're never gonna see your friends alive probably. And so we're we let her go she flew off, remember, right?
-
-And we searched a bunch of bodies and I think that's right where we had left. That is all super correct. That was a really, really good recap. I want to throw in some names and correct one thing. So the correction is that they did not buy the rhyme Runner's.
-
-Guild from Snorri, they bought ravens Crag from Sonori several years ago, which lines up with Helgeval's like until that he gathered because he's been camping out on them. The timeline of them buying that and kind of being active is the same and what they did by was Raven's Crag, not the rhyme Runner skilled.
-
-And Kim and Dotsu is the only ogre and her alias in her human form that she was using to act as the head of the rhymearner's Guild is Thorborg Silver Score but that was perfect. That was really awesome.
-
-And I think we have everybody dead or dying on the ground including Omiyani and that's where we have left off Omiani, I believe was executed by Noah. Yep. You did. I don't have that. Yeah, that's fair though because that's like, oh I'm gonna help her and, you know, it comes over puts slow down and stomps on it to break her napkins.
-
-Like no I had it where you were like holding a sword to her chest in case she got up and tried to run again. But, you know, if you just do a quick little stabby stab, there's not a lot I can do about that. He did not want to risk her former master waking and escaping much.
-
-Yeah. The The general rule of thumb is that if you fail you should probably pay the price for it and we're not having a rerun of a mistakenly intruding on. What is otherwise a appropriate way to die? I'm not repeating. Hell That? Yeah, I have a lot of questions for her.
-
-Oh dear.
 
 Do you think any of these guards are gonna know anything?
 
