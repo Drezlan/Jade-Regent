@@ -91,62 +91,45 @@ She takes literal flight and departs. [[Wodes]] accompanies her from the railing
 
 ---
 
-"I had questions for her" - O frowning deeply
-"Oh, Dear" - N 
-"Do you think the guards know anything?" - O
-"I'm going to take it on faith that they didnt even know that their boss was, well, my boss." - N Waving her hand nonchalantly.
-"I wanted to find out if Ameiko is still alive" - O Frowning still.
-"Maybe she could have said somethign to you but frankly I don't know how much of it would have been useful unless you have ways of detecting people who can lie." - N as she pulls omeyani's clothes back to reveal a lack of a blood geas.
-"Is Everyone okay? Shoko you took quite a beating how are you feeling" - O
-"Augh, Like i just spent a night in the single worst bar in--- where are we again?, About that bad" - S
-"Well you're still alive so if i may offer a personal insight i'd say you haven't been to the worst bar in Kalsguard Also, you took Oathtaker directly to the face and survived. So I am genuinely impressed" - N
-
+*<mark style="background: #FFF3A3A6;">"I had questions for her"</mark>* - O frowning deeply
+<mark style="background: #ABF7F7A6;">"Oh, Dear"</mark> - N 
+<mark style="background: #FFF3A3A6;">"Do you think the guards know anything?"</mark> - O
+<mark style="background: #ABF7F7A6;">"I'm going to take it on faith that they didnt even know that their boss was, well, my boss."</mark> - N Waving her hand nonchalantly.
+<mark style="background: #FFF3A3A6;">"I wanted to find out if Ameiko is still alive"</mark> - O Frowning still.
+<mark style="background: #ABF7F7A6;">"Maybe she could have said somethign to you but frankly I don't know how much of it would have been useful unless you have ways of detecting people who can lie."</mark> - N as she pulls omeyani's clothes back to reveal a lack of a blood geas.
+<mark style="background: #FFF3A3A6;">"Is Everyone okay? Shoko you took quite a beating how are you feeling"</mark> - O
+<mark style="background: #CACFD9A6;">"Augh, Like i just spent a night in the single worst bar in--- where are we again?, About that bad" </mark>- S
+<mark style="background: #ABF7F7A6;">"Well you're still alive so if i may offer a personal insight i'd say you haven't been to the worst bar in Kalsguard Also, you took Oathtaker directly to the face and survived. So I am genuinely impressed"</mark> - N
 Ochi passes Shoko a few potions of cure light.
 
 The party then does inventory of the room and bodies finding on omeyani 2 doses of deathblade, 1 dose of black lotus extract, her dagger deadly kiss, 3 earthfire shuriken, 1 +1 flaming burst shuriken, a blowgun with 10 darts, 5 shuriken, masterwork thieves tools, and her garb the Shozoku of the Night Wind. On the others they find fairly expected weapons and armor and not much else. 
 
 Hearing the commotion downstairs but having been too slow to react several more guards from upstairs make their way the the ground floor and upon seeing what they find to be no longer their business quickly and politely depart. 
 
-Ochi turns toward the others as this occurs "Do we want to hire them?"
-Do you really want someone who's going to run away? The first sign of a massive violence
-that's fair. But we do have a habit of picking up people who used to work for those that we just fought and bringing them with us right Noe?
-What?   I Know it terrifies me
-We did that once i wouldn't call that a habit
-No, we have the ulfen Raiders and we have noe Smiling
-She puts up like a single finger, to be fair, though You didn't exactly know that until fairly recently and you haven't kicked me out yet. So, I can only assume that you're either putting up with me or plotting to have me thrown in the river by the end of the evening, but I'm hoping for the first one.
-Your insider knowledge has been absolutely invaluable. Noe. That's all I'm saying. 
-It has to be. If I don't tell you, I'm gonna die with it Anyways.
-Well, we have no one to ask any questions of and I think we know where we're headed.
-Not unless you know how to talk to the dead. I'm afraid.
-Are we certain that Ushaka's not here. 
-That is an excellent point, Grayson perhaps we should take a look around. 
-Lets search the building. 
+Ochi turns toward the others as this occurs
+<mark style="background: #FFF3A3A6;">*"Do we want to hire them?"*</mark> - O
+<mark style="background: #ABF7F7A6;">*"Do you really want someone who's going to run away at the first sign of a massive violence"* </mark>- N
+<mark style="background: #FFF3A3A6;">*"That's fair. But we do have a habit of picking up people who used to work for those that we just fought and bringing them with us right Noe?"*</mark> - O 
+<mark style="background: #CACFD9A6;">*"What?"*</mark> - S Simulatneously <mark style="background: #ABF7F7A6;">*"I Know it terrifies me"*</mark> - N
+<mark style="background: #CACFD9A6;">"We did that once i wouldn't call that a habit"</mark> - S
+<mark style="background: #FFF3A3A6;">"No, we have the Ulfen Raiders and we have Noe"</mark> - O Smiling
+She puts up a single finger. <mark style="background: #ABF7F7A6;">"To be fair, though You didn't exactly know that until fairly recently and you haven't kicked me out yet. So, I can only assume that you're either putting up with me or plotting to have me thrown in the river by the end of the evening, but I'm hoping for the first one."</mark> - N
+<mark style="background: #FFF3A3A6;">"Your insider knowledge has been absolutely invaluable. Noe. That's is all I am saying"</mark> - O 
+<mark style="background: #ABF7F7A6;">"It has to be. If I don't tell you, I'm gonna die with it."</mark> - N
+<mark style="background: #FFF3A3A6;">"Well, we have no one to ask any questions of and I think we know where we're headed."</mark> - O
+<mark style="background: #ABF7F7A6;">"Not unless you know how to talk to the dead. I'm afraid."</mark> - N
+<mark style="background: #BBFABBA6;">"Are we certain that Ushaka's not here."</mark> - G
+<mark style="background: #FFF3A3A6;">"That is an excellent point Grayson perhaps we should take a better look around."</mark> - O
+<mark style="background: #CACFD9A6;">"Lets search the building."</mark> - S 
 
-They find a clerk who is still in the building who shares Ukshakas location with them being the room with the boarded up windows. 
+They find a clerk who is still in the building who shares Ukshakas location with them being the room with the boarded up windows. Inside they find her bound and gagged.
 
-The one with the boarded up in Bard windows. Oh, the poor lass. Yeah, yeah. That's why we don't take no way out her word. Hey, but you did say that you don't think she would be here. No way. Doesn't even try to defend herself. She's just like hey well make way.
-
-Let's go for your continues like pointing a finger at you as she walks away. Let me.
-
-Your story.
-
-But neatest the cook tree of desk, if he's mundane records, nothing of importance. You've already gotten those documents from the secret room. Meeting room, I guess chambers, where Shaka is quote-unquote? Guest chambers. Well, when they're not being used for prisoners, they can be rented for five gold pieces of the night expensive.
-
-They're very secure rooms. This is the part where we take a hard left and start running a bend breakfast out of here. If man, could you imagine? Ochi crows every single morning that is literally the only things here, which is what really tells you that this place was a front.
-
-There's there's no extra coinage. There's nothing of actual import for business half. The reason why noise like didn't have kept her here, why would they have done that? They've got nothing about Jewishaka. I could be that they just hadn't gotten a chance to take over the other place yet.
-
-Just, they just grabbed her yesterday that I can believe.
-
-Well, Zero tries to fix what is our Bluetooth speaker?
-
-Come out, come out wherever you are. Shaka. It's right here. You found her in that room bound up and gagged.
-
-We've been looking everywhere for you. Mmm. Oh, gee, will notice that she's gagged and bound and untie her and on gag her Is there cool? Character art baboon or rook shaka? Yeah, it's okay. Character art, it's pretty cool. She got cool stick. He does have a cool stick.
-
-You have my. Thanks for bringing me. No, thanks necessary. We desperately need your help.
-
-Have you found any news of olf? We found zero trace of news of Wolf and we've looked quite a few places dangerous ones at that. Are you? Well, Did they harm you? Not be on the beating? They gave me to steal me. We have many strange large bird men.
+<mark style="background: #FFF3A3A6;">"We've been looking everywhere for you."</mark> - O.
+She mumbles in response. Ochi frees her. 
+"You have my thanks for freeing me." - Ukshaka
+<mark style="background: #FFF3A3A6;">"No, thanks necessary. We desperately need your help."</mark> - O
+"Have you found any news of [Ulf]?" - Ukshaka
+We found zero trace of news of Ulf and we've looked quite a few places dangerous ones at that. Are you? Well, Did they harm you? Not be on the beating? They gave me to steal me. We have many strange large bird men.
 
 Strange. How Well to be fair. They all looked like you, but they were all wearing these black pajamas. Please don't call them pajamas. Those are in fashioned lately. I've seen I'll have to get some as Grayson and Noah are both wearing black pajamas right now too. She'll go says under his breath.
 
