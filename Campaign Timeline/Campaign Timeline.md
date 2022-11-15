@@ -149,111 +149,17 @@ Shoko just stares knowingly.
 
 party plans and shops.
 
-Sorted. But this is ocher though. I'm sorry. That is mm-hmm. Yeah, that's your. That's your for the rest of the game. You'll never take that off. They literally put that in for anyone that wanted to play a ninja ninja.
+During this time Noe attempts to get graysons blood to use as a basis for antitoxins against the poisons we've seen the frozen shadows use so far but he refuses
+Later Shoko pulls Noe aside
+<mark style="background: #CACFD9A6;">"Um when we're doing this, when we're assaulting your former clan, are you sure? We might have to kill everyone in there."</mark> - S
+<mark style="background: #ABF7F7A6;">"Oh, I'm very much counting on that you do."</mark> - N
+<mark style="background: #CACFD9A6;">"There's nobody want us to try and set aside. No one. You want us to try and spare?"</mark> - S
+Noe stops, takes off her glasses and ponders the question while cleaning them putting them back on
+<mark style="background: #ABF7F7A6;">"I want you to kill them so thoroughly that Pharasma will not recognize their souls when they go for judgment. They're that kind of people. So, no, I don't want you to save anyone. Ameiko of course that's kind of the whole point of this But the rest? they know what they signed up for"</mark> - N
+Shoko nods.
+<mark style="background: #ABF7F7A6;">"I appreciate that you ask though really."</mark> - N
+<mark style="background: #CACFD9A6;">"It's hard thing when we're about to do, but we gotta"</mark> - S
 
-You know, that meme of the guy that goes. Yes, I'll die then. Like that's, that's the face. I'm pulling. Looking at that item. I'm like, I don't know what you want me to say Another thing. But what the order lady have honor, you don't get her here quite a lot of spite.
-
-He's arrived. We're gonna have to work a little harder to find out. Right. Yeah, she left with zero damage on her actually. Not saying that she wasn't hit but she was perfectly fine when she left.
-
-Alright, let me since you are selling stuff, I will drop the cows guard selling stats and chat again. That is what is currently available for purchase?
-
-Took old be perfect. How do I add a weapons from my inventory into the combat tab? If you go into the details tab,
-
-And open up. Oh yeah. Where's your star knife? Oh no. Clear. Start knife has missing. If you go into the details tab, you'll see the create a tack down under weapon details.
-
-Um, Okay, I'm dumb. Where is the details tab? Or the item or the tab itself, I guess. For either you have you clicked on edit item on the weapon? Okay, edit item. Okay. Okay. Okay. Thank you. You because you guys gave clear that plus one returning star knives, didn't you?
-
-Here I'm feeling like probably I don't see why we would have kept that. When we know somebody who has a thing, um, shocks are night. I love that. One's the one that turns in the lightning bolt spark weight knife.
-
-Okay, so once Noah goes and basically blitzes down more than half of of what I personally was keeping on retainer 6,151 gold pieces. Do what you want with it.
-
-So you saying must No, that's collectively. If I had that together, I'd be asking, like myself. What the fuck was I doing with all this money? No, that is from selling some off pieces. Oh, and then the 278 is from, what was left on the loot list? Grayson. Yep.
-
-You can find defense for the the black market items in jade quarter. Oh we can. Um then when Noah's done like making antitoxins for those poisons that we have on hand so long, it's just got enough to be able to make the anti-toxins with the rest. We can get sold.
-
-Wouldn't So my shuriken are using my strength to attack? I don't think that's correct. Is it there? He's throwing weapon. You change it? Let me just. No, maybe use your strengths. What?
-
-Oh, well, these are useless to me, then. Yeah, we could probably just sell those to. I have no idea. They went off the strength Only for damage. They still use extra throwing for your attack role. Eggs strength or damage. Okay. For so for attack role, it should be next for attack roll on this.
-
-It's a string just switch it to X. Oh, I'm looking for the ability to do that. I like I'm looking under details. I see attack. Type weapon attack. Natural. Attack, class ability. I'm not saying oh held, I could select which hand it's held in, I put down monk and thrown in weapons group, that didn't change anything.
-
-Okay, so you're still on that tab, scroll? All the way back up to the top. Where it says action, see where it says tech. So while they're discussing at that, what was that total again that we were gonna divide for the deadly kiss? I'm I'm reading it because the number is much higher if I can actually get rid of this poison, okay, once you have the edit item for your attack, open go over to action.
-
-Okay. Now I say, okay. All right, all right.
-
-They're also slamming burst but that doesn't seem to be and damage formula.
-
-26 fire.
-
-On a great 1d and fire.
-
-Um, I'm sorry to be the fucking problem. Child here, I changed action type to range weapon attack and it's not changing it. You can still change it manually to Dex and strength.
-
-Boop. Okay. And delete the old attack you made and create a new one Ebola. Thank you. And I'm sorry, I should know this system better by now. So, every time you make an attack on your combat page, it becomes a separate entity from your inventory page. So if the base item changes, you modify it in your inventory, then create a new attack with it, okay?
-
-Stuff up. And,
-
-And, and hardball.
-
-Monday night himself or half value too. I've never sold anything before, Right? Okay, cool.
-
-How do you guys feel about the anti-toxins?
-
-Poison sock. Oh yeah, it does sound like a good idea.
-
-I'm just saying that if I were An injure in the employee of a clan called the Frozen Shadows. I had myself a little place up on the balcony of some cliffside. I'd probably trap it with an image of his license poison that we go into that. I could get my hand on.
-
-Hypothetically speaking and of course,
-
-And,
-
-Ah, no wrong wand.
-
-Okay, if you want to just decides to inflict wounds on zero out of nowhere, you know?
-
-Is anyone in this group good at um ferritting out traps like that?
-
-Doesn't go acts the group but he looks at no way he does. She have trap finding of what, why do you think I would have Trump finding? That seems like a completely. Ridiculous question. Why would I actively anybody can find transfer that magical trap. You need trap finding And you travel that you see over 20.
-
-So I want to get back to this selling the stuff that no ways doing because I'm confused by it. 21 351. Okay, you just typed it. How about that? So we're all agreement about the the poisons we want to make anti-toxins so we don't die. I think the only one that probably doesn't need them as Grayson which is, I didn't think it was a frink of nature as we've established.
-
-He just drinks it for breakfast. In fact, cursing, can you can you come over here? A minute. I'm gonna fix some of your blood and use it as a basis. No, it So work blood is a basis for is there. Action is the two gonna do? It is the 250 coming off of the 10?
-
-Gonna prevent you do that? No, thanks. Now that's the. That's the that's the actual, like, full with the top antitoxin values. That's all that. That's That's the final value that you guys can go shopping with do what? Okay, so we're splitting the 10. 550 0.5.
-
-Come on. It's just a little nick.
-
-And flex maybe but I found I don't know if I could trust your words. So, Oh, I would recently give the smartest person here, but you're also the one. That's a complete freak of nature. And frankly, I think it's rather fascinating that you're able to resist so many toxins.
-
-So well, So I'm out. Just for the benefit of everyone including Amico in front mid, I'm pretty sure it wasn't even poisoned. It was just a terrible tea, Grayson give the scary ninja lady your blood. It's for everyone. It's for all night. I mean there's a non-zero chance that they might have also used something on the good old scion.
-
-Which, I mean, if I could make some manner of, I'm just saying, don't you want to help your Empressed to be? Ah, no, I'm not a citizen of Tianja so she's not gonna be my empress. Oh, political lines of being drawn. You could be, you could get you could apply for a visa man.
-
-It's not that it's not that hard. I think being chosen as a scion of Ahmadatu Sion actually, grant you citizenship be I get stalked at the fucking border despite being divinely. Chosen, you're gonna have to take that up with the commit at some point and that's not my bag sir, but I will remember that.
-
-You said, no, when next, we have a discussion with the Miss Avatar suits. Sure. Mine with me. So with yourself, I mean he really think aminko would have a problem with him not giving his blood, I don't know. It depends how many they've used on her. If we all die, she might be mad.
-
-But I think at that point, I mean, she has bigger problems. Yes she does. I knew the quick question for you. Sans, will they have any wants or settle here in town? Anyway ones probably I mean they have a spell casting limit of six level and all minor items are available.
-
-Okay. I got some money to spend and I want to get a wand.
-
-So Shoku would actually pull Noah aside at some point and ask her. Um when we're doing this, when we're assaulting your former clan, are you sure? We might have to kill everyone in there. Oh, I'm very much counting on that you do. There's nobody want us to try and set aside.
-
-No one. You want us to try and spare.
-
-She liked stops for him and thanks about it. Takes over glasses and gives him a rub.
-
-Put them back on. I want you to kill them. So thoroughly that Furasma will not recognize their souls when they go for judgment through that kind of people. So, no, I don't want you to save anyone. I may go of course that's kind of the whole point of this But the rest they know what they signed up for Choco nods.
-
-I appreciate that. You ask though really? Yeah.
-
-It's hard thing when we're about to do, but we gotta
-
-So are we just gonna strike out and or what's exactly? The plan. Are we gonna ride all day until we get there? And then just if we write out right now, like how long will it take to get there? You said it. Okay. Now is that like as in a day's travel like eight hours or as in 24 hours of travel They don't really get that specific.
-
-So, a day of writing will probably get you there and or you will arrive there in the morning. Shortly after camping, depending on what you guys want to do. You guys are a little beat up and lacking on spell moment.
-
-So, we could get there, We've backed them into a corner. I would like if we absolutely need to rest we can rest on the way they have Amico and we have them cornered. Yeah, I was just asking whether or not. We wanted to make the assault tonight or in the morning.
 
 I'm not sure attacking and jahid out at night. Time would be the best idea though. It'd be funniest fuck if you did. Not that I'm suggesting it. There's no, I think, but there's also the fact that we'll be camping out in their territory. So we're going to have to set a really good watch.
 
