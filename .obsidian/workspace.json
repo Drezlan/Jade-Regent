@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "04575badfca8544e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2f8db741bc5d1b2a",
@@ -162,10 +173,7 @@
     "direction": "horizontal",
     "width": 100
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "be7e189ffa6c7cca",
+  "active": "04575badfca8544e",
   "lastOpenFiles": [
     "Obsidian notes.md",
     "Campaign Timeline/Campaign Timeline.md",

@@ -132,14 +132,18 @@ She mumbles in response. Ochi frees her.
 "Have you found any news of [Ulf]?" - Ukshaka
 <mark style="background: #FFF3A3A6;">"We found zero trace of news of Ulf and we've looked quite a few places dangerous ones at that. Are you well, Did they harm you?"</mark> - O
 "Not beyond the beating they gave me to steal me... with many strange large bird men." - U
-
-Strange. How Well to be fair. They all looked like you, but they were all wearing these black pajamas. Please don't call them pajamas. Those are in fashioned lately. I've seen I'll have to get some as Grayson and Noah are both wearing black pajamas right now too. She'll go says under his breath.
-
-I'm sorry, I didn't Oh many years. You need to study before you actually earn a Shazoku, right? About social actually probably wouldn't know that.
-
-Yeah. But no way things you don't well, Shaka I'm not sure how much, you know, but from things we found here and various other interactions with our pajama friends, We believe that they're holding our friend and olf Raven's Crag.
-
-Hmm, I know the way I could show it to you. You'd take us there. We could use your help If they have captured oath. Of course, well then I think it settled. I think we should make our way there. Maybe do some reconnaissance again. These are very very dangerous enemies.
+<mark style="background: #FFF3A3A6;">"Strange how?"</mark> - O
+"Well to be fair. They all looked like you, but they were all wearing these black pajamas." - U
+<mark style="background: #ABF7F7A6;">"Please don't call them pajamas."</mark> - N
+<mark style="background: #FFF3A3A6;">"Those are in fashion lately."</mark> - O
+<mark style="background: #CACFD9A6;">"I need to get some of those too"</mark> - S
+<mark style="background: #ABF7F7A6;">"Do you know how many years you need to study before you actually earn a Shozoku?"</mark> - N
+Shoko just stares knowingly.
+<mark style="background: #FFF3A3A6;">"Well Ukshaka I'm not sure how much you know but from things we found here, and various other interactions with our pajama friends, We believe that they're holding our friend and Ulf at Ravenscrag."</mark> -O
+"Hmm, I know the way. I could show it to you." - U
+<mark style="background: #FFF3A3A6;">"You would take us there? We could use your help"</mark> - O
+"If they have captured Ulf Of course." - U
+<mark style="background: #FFF3A3A6;">"Well then I think it settled. I think we should make our way there. Maybe we could do some reconnaissance again. These are very very dangerous enemies we are facing"</mark> - O
 
 We're facing.
 
