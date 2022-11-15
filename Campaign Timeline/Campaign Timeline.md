@@ -144,90 +144,10 @@ Shoko just stares knowingly.
 <mark style="background: #FFF3A3A6;">"You would take us there? We could use your help"</mark> - O
 "If they have captured Ulf Of course." - U
 <mark style="background: #FFF3A3A6;">"Well then I think it settled. I think we should make our way there. Maybe we could do some reconnaissance again. These are very very dangerous enemies we are facing"</mark> - O
+<mark style="background: #BBFABBA6;">"How, how long is the trip there?"</mark> - G
+"Two days walk south of Kalsgard toward those grey hills there. One by horse. The way is boggy with shale hillocks. I will take you there and fight with you, for Ulf." - U
 
-We're facing.
-
-How, how long is the trip there? Just a good a couple hours or you know what, let me see if they tell me, I want to say, it was like 20 miles north was said at one point but I could be making that up. It's quite fraven's. Craig lives.
-
-Two days walks, excuse me. South of callsgard not north. Heck, you lied Go back and kill her again. I thought I won't Once it's location is known the journey to Ravens crack can be made in one day on horseback or two days on foot. This is real passes through a buggy terrain.
-
-Salvocals calls guard dotted with small copses and shale hillocks Hilux. The grade line of craggy hills is visible to the south and beyond them. The green forest In addition to? Nope, that's for me. Not you Also other features Probably.
-
-Shall we go for a day ride or whatever time of day? It is now, right? Well, it seemed like if we are if we go there wouldn't make a whole lot of sense to come back without finishing up there. So is there anybody else we want to bring with us?
-
-Yeah, everybody. The whole caravan.
-
-I think Ushaka might be handy, considering we're striking out into the wilderness. A guide might help especially she knows of any places. We can find that are hidden away so that we might be able to camp out for the night before we make our soul. Yeah, I agree. I think we want to take as much forces we can, but those who are inconspicuous only, we don't want to be caught out in the open.
-
-Does anyone need anything before we go? This is likely your best opportunity to shop unhindered since more than likely. All of the frozen shadows have pulled back into Ravens Crag. Now.
-
-No, I would know that if they're preparing for an assault, I mean the fact that cannot do was here tells me that either though of particularly overconfident in clearing us out or they thought the reload the client. Hold on, right. So it's given me a lot of trouble here, like, I pressed save on my custom dice and the entire system is just broken for me.
-
-Hmm. I have bird feathered dice. All right. May apologize for being a final for so long. What I miss Were you able to hear at least? Do you have to be? No, because I would try to meet everything. So I could try and get that. Get the sound thing, figured out, that's cool.
-
-The short version here is up dial. If you draw a line from you to OG over on this, other side of OG is Upchaka, who was tied up and gagged in the boarded up room in the back. And that's basically it. We don't know anything necessarily new over what we do before.
-
-Just that everybody Amiko and Olaf are probably in Ravenscrag and the frozen shadows of all pulled back to Ravens. Craig. Like we just So gather everything you need. We we assault Ravens crack.
-
-Well Ochi and show code, two of you feel confident in the front line or do we need to go get you know someone else. If it's for Amico then I will fight. I didn't mean like show. Don't you are really well fight more. Like are you willing to take the hits?
-
-I didn't hear Kelda, We never really think Kelda would probably be upset if we didn't bring her? Yeah.
-
-I want to address that actually because what where Kelda asked us to escort her back to was that here in calls guard or was it somewhere like further north? Because Nope, it's here. So as we've never really like, RPed that out is like we we were supposed to bring her here and get a reward and we haven't talked about that at all.
-
-So she just like you know what, these guys are pretty cool. This dwarf, dude. He knows how to party. And she's just like, oh yeah, with these guys, she did give us her reward. She gave us a sheath. I think it was covered of vigor. Yeah, so I don't have that anywhere.
-
-I miss that whole thing. Yeah, you guys let me hold on to it, which I mean, it's oh, she wants instead. I'll give it to you. No, no, I remember the discussion about this gavard. I just don't have that anywhere in my notes or remember how? That's how that came up.
-
-So yeah, I just wanted to like, we're just kidnapping Helda after break. Bring your ear here. You're coming with us. We need you. Hey guys, stand in front of everyone. We're gonna go and single file. You're gonna take all the arrows on the way up. Elda is not normally a continuing presence.
-
-In Jade regions. But if you guys want to talk her into going with you, you can just knock on our door. Let's go. We're going to Kelda's house. We're gonna knock on our door. Can Kelda come hang out with us. I get the distinct impression of knowing knocked on her door.
-
-Like like someone related to kill the open. Oh, but just get slammed immediately Just like, nope. But yeah, no, that's a good point. If not killed. It would be. What Sandro? Yeah, pretty decent agility tank. I think we can use all the all the blades we can get our hands on.
-
-Well we don't want to bring the entire extended cast. Every time we go somewhere, do we? Oh no, advising on premise As a prayer. I would not advise it on premise at the DM, please God don't. There's no way Do you know. So, by It's a very different, the question.
-
-Yeah, Speaking of says Noah is she like pockets, every vile but Omanihad and put her hand into her into her bag of many things apparently and was out the shortsword that she's previously been using and hasn't now for a little while. It's like, well, I'm gonna go see him on about getting this turned into a bunch of gold and hopefully right back.
-
-It's Yeah, I don't want to be riddled with both it. I didn't want to bring everyone. If we want to bring someone like, if we think we should bring Kelda or Sandru, I think we should bring one if we're gonna bring one because last time, we had that whole debacle about trying to go into the acidic long fuse long house where they were partying, we had like 10 people deep and we couldn't even like get through the door to fight everyone because we had so many people.
-
-Yep.
-
-About the question would be uchaka. You I know you would help us get there. But are you Are you much of a fighter? Mmm, I have learned many of the Northern ways of How do they stated sword and Board, ah, stick and board. I am very fun of the lungsword.
-
-I think that's all the help that we should need.
-
-I think we want to strike fast and hard with a small group, This place will be well defended. And if we try and stand and fight them, we're going to be vastly outnumbered and outgunned.
-
-And then we do oceans, whatever. Number like montage planning. This this rescue like Fast and the Furious.
-
-You.
-
-Oh, shopping. Chuck already did all of this shopping on the way here. And checking I'm guessing no ways taking all the poison that we just looted, Unless, you know, someone who can you can sell off. Seven grand worth of poison tape. And then, are you taking the show? Zoku of the night wind.
-
-No, I just thought I'd leave it there. And yeah, Yeah. I and what about the dagger? What does it do? It's a named one. That's not. Yeah, definitely. Kiss. What do you do?
-
-A short action, you can manually apply poison to the blade without kinds of expertise me. So it's poison. Oh action. Poison application. That is actually super useful.
-
-I mean, platonically speaking. I don't see why you like daggers aren't really my thing but sentimental value and also it's very good for assassinations you could rather make you money.
-
-Well, which is it you taking it or not? It rolls arise and takes it sign. And these shuriken. Oh hell no I can't. Fire those to save my fucking life. Let me look at that. So let me look at the earth fire. Jerry can real quick. I might take them is a plus one flaming Birth Shuriken.
-
-We have three of them.
-
-Hmm. Could I use these? Sure, can our monk weapon, right? It can be. Yeah.
-
-Plus we do have proficiency monk weapons. It's a DC-15 reflex or you catch fire.
-
-So that's pretty cool. If you want to showco, you can totally take them. I have some and I don't plan to use them often not the earth fire ones. Just some some generics. Oh yeah, sure. Some, some occasional range option would be nice. Yeah, we have, I mean, obviously Grayson is like a gallon gun over here of flurry of bows, but other than that, you and blurry a bows, he's just throwing bows with every flurry attack.
-
-Yeah, showtimes. Doing or better doing damage from range, then the rest of us the rest. Here's three of them then. Well, as far as loot, we basically have nothing. Now, since that we just took 30,000 in loot on her own.
-
-No, he isn't here for this conversation. She's off selling the dagger immediately. You're you're joking. But that's actually, what's happening. Like that tiger is is nice genuinely. Now I just would be more interested in getting it broken down for parts and selling it rather than selling there's a whole night.
-
-Interdesting, We'll get you the big stick from Kim and Dotsu. Grayson, you can have the, the beater
-
-So yeah, how much is that? I think it's 5,000 something for delicacas's sale. I'm just checking the value. He line back down here. You definitely kiss was 10,300 and two gold. So 5,151. Yeah, that's correct. Yeah.
+party plans and shops.
 
 Sorted. But this is ocher though. I'm sorry. That is mm-hmm. Yeah, that's your. That's your for the rest of the game. You'll never take that off. They literally put that in for anyone that wanted to play a ninja ninja.
 
