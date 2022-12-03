@@ -147,7 +147,7 @@ Shoko just stares knowingly.
 <mark style="background: #BBFABBA6;">"How, how long is the trip there?"</mark> - G
 "Two days walk south of Kalsgard toward those grey hills there. One by horse. The way is boggy with shale hillocks. I will take you there and fight with you, for Ulf." - U
 
-party plans and shops.
+The party plans and shops.
 
 During this time Noe attempts to get graysons blood to use as a basis for antitoxins against the poisons we've seen the frozen shadows use so far but he refuses
 Later Shoko pulls Noe aside
@@ -159,6 +159,8 @@ Noe stops, takes off her glasses and ponders the question while cleaning them pu
 Shoko nods.
 <mark style="background: #ABF7F7A6;">"I appreciate that you ask though really."</mark> - N
 <mark style="background: #CACFD9A6;">"It's hard thing when we're about to do, but we gotta"</mark> - S
+
+
 
 We have you seen LA putting a lot of, don't get symbols directly like etching it onto a brush. He's like, don't worry about it. It's fine. It's fine, guys. Don't worry. We're on break right now.
 
