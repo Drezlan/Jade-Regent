@@ -159,7 +159,7 @@ Noe stops, takes off her glasses and ponders the question while cleaning them pu
 Shoko nods.
 <mark style="background: #ABF7F7A6;">"I appreciate that you ask though really."</mark> - N
 <mark style="background: #CACFD9A6;">"It's hard thing when we're about to do, but we gotta"</mark> - S
-
+ 
 
 
 We have you seen LA putting a lot of, don't get symbols directly like etching it onto a brush. He's like, don't worry about it. It's fine. It's fine, guys. Don't worry. We're on break right now.
@@ -1114,4 +1114,4 @@ Like I think you and I are on a very similar page and what we're enjoying about 
 
 I didn't need enough breakfast. Today food is important. You should definitely. My girlfriend is like eight and a half months pregnant right now. So I have to feed her also or she'll relations. Thank you. We're super, super excited. We're making a main character. We're naming him wolf game. So oh my god, amazing.
 
-Yeah, right. Super stoked about that. I gotta build a grill like this weekend. Well, honestly, my best to look for that and congratulations to you both. I hope everything goes well But yeah, Duke get some food. It is. It's good time. Thanks. I'll see you around. See you next week later did
+Yeah, right. Super stoked about that. I gotta build a grill like this weekend. Well, honestly, my best to look for that and congratulations to you both. I hope everything goes well But yeah, Duke get some food. It is. It's good time. Thanks. I'll see you around. See you next week later did.
