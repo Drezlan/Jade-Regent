@@ -19,7 +19,8 @@
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       },
       {
         "id": "2f8db741bc5d1b2a",
