@@ -207,362 +207,43 @@ Ochi also notices footprints in another location.
 
 Grayson reaches down and picks up a handful of snow and flings it at one of the sets of foot prints shouting "Ambush!" and follows the snowball with an arrow.  As the rest of the party begins waking from his call ochi dodges a stab from an invisible attacker whos illusion melts away into the visage of a somehow blurry tengu ninja.
 Shoko who was still sleeping is woken as another assailant sinks their blade into him.
-The first one to alert Grayson closes on him.
+The first one to alert Grayson closes on him but misses his strike. 
+Ochi tries to grab the assassin closest to him so he can't lose track of him and fails.
+Another bird ninja scores a vicious blow against zio before he can react.
+Grayson fills the closest enemy with several arrows felling him.
+Shoko counters his assailant but misses holding his deadly spell in his hand.
+Koya taps Zio with her want reviving him somewhat.
+Ukshaka gets to her feet and readies her weapon.
+Noe being roused as well readies her weapons and steps into the darkness vanishing from sight.
+The Tengu closest to her steps away from the place Noe melted into the darkness and pulls out a blowgun.
+The tengu who had already buried his wakizashi in Shoko once continues trying to eviscerate shoko and scores another devastating attack on him.
+Zio gains his feet only to be struck by the shadow nearest him. Zio responds by drawing his mace and striking back.
+Wei yan cannot connect with a tengu he tries to attack.
+Ochi abandons his plan to grapple the tengu drawing his weapons and slashes the tengu.
+The tengu nearest zio stabs him twice and zios health is drained.
+Helgarval tries to strike a ninja and misses.
+Grayson fires another blazing fast volley at the bird engaged with zio.
+Shoko finally connects with his spell and stands up while his opponent is distracted by his magic.
+Ukshaka swings her sword and strikes the tengu again.
+A sword appears out of the chest of one of the tengu and Noe appears behind him pulling it free and letting it fall to the ground.
+The rattled recipient of Shokos spell tries to back up but in his unpreparedness is struck by Wei-Yan and barely missed by Shoko.
+Zio pulls a wand out firing magical missiles at the fleeing avian.
+Wei-Yan gives chase and strikes him again.
+Ochi cirlces around and cuts off his retreat but fails to connect.
+Grayson refrains from ending the fleeing ninja with an arrow seeing Ochi attempting to knock him unconcious.
+Shoko catches up to the fray and strikes the Tengu in the back of the head felling him.
+Ochi picks him up and carries him back to the fire to be questioned.
+
+Zio is coughing during this. Noe notices and checks the dart in the snow confirming it is poisoned and pulls a vial from her haori and doses Zio with it who seems to recover.
+
+While the poison seems to have run it's course Zio seems worse for the wear. Koya digs in her pack and pulls out a scroll and performs a divine ritual quickly beseeching Desna and restoring Zios vigor.
+
+Ochi says a prayer to Hei Feng over the deceased tengu lying in the snow and he and Noe begin moving the bodies away from camp searching them in the process. After which Ochi helps Shoko back to caravan to finish resting. Looking at the weapons they carried they realize just how much danger they were in. Noe pockets the remaining doses. Koya takes a sip of vodka by the fire before shuffling off the administer to Shoko.
+"Just to avoid that happening so badly again" - N Noe tosses him one of the charms she is wearing about her neck.
 
 
 ---
 
-
-
-Shoko a 23 to hit your butt. Put it AC. I mean considering I'm unconscious, isn't this? Like an automatic crit. No, he had to move 10 feet.
-
-He needs a full round of insta kill. Yes, all right. Well then I assumed this wakes me up. Yes, this will very much. Wake you up? Just a gentle stabbing to wake you up in the morning. Oh, I'm fixing their. We get back for some reason, it broken.
-
-Okay, I have to change these dies since they are very cool looking but they are bogging me down.
-
-Thing. Good ninja. Boom, charges the dwarf.
-
-But around 15, I get your blood-footed.
-
-Sorry for my computer, even just check it. Miss. Yay. The upper class assassins are doing great. Let's see here. So this is a meta question is grappling worthless. If I haven't invested into it, because I don't know, I guess I could make a knowledge. Check to see if they may disappear again, but I really want to know where they are so that other people can beat the heck out of them.
-
-So I'd love to like, grab him and hold him As part of your getting the FYI, from Noah, she would have told you if you're in a situation where you can't see and ninja grab a hold of them and then beat the shit out of them if you can.
-
-That's what I thought. So I think that is what I'm going to go for. Can I don't have the relevant knowledge to know more about the frozen shadows tangu specifically right? I don't get to do that. Uh, no. That's what I thought. That's okay. So we'll How do I make a CMB check?
-
-Here it is. I'm gonna try and grab all the tangu right next to me.
-
-Go for it. I'm gonna say that's a no. That is definitely a no. Yeah, so Ochi whiffs trying to hug this guy.
-
-And then he cries if any crime.
-
-Bringing us to our next Tango. Ninja just crazy wake up.
-
-Is that that's what you.
-
-Removed and go ninja Quit.
-
-The circuit. Oh, my, yeah. That's, that's, yeah. That's, that's that. That's can that's a hit. And I confirm, oh,
-
-And hit that where I put it also, you know, sneak attack. Mastering it. Just roll its character sheet.
-
-Five points of sneak attack. It's gonna be very pissed off. Hi. And now everyone joining initiative and everyone's awake.
-
-Oh, that one did that one day that, you know kind of hit me.
-
-Did he end up? You know, becoming visible. Oh yes.
-
-That everyone, Nope, still Luke Shaka.
-
-Alright, Top of the round, Grayson
-
-Chris is just going to point blank, shoot, the one right next to him with the gear.
-
-Of my you. It's it's oh there's a miss and he's dead.
-
-Whoopa.
-
-Picked him for no reasons it. That was Shoko. That was so much damage.
-
-Shoko will. That was 60 damage. Take out his weapon and look up at the sky and say that's rollerblers and I will make a defensive casting cat. Check, I succeed for mine. The blurs wouldn't have matter because I got the improved say improve the shot. Oh, that's very useful.
-
-Good. There's a reason. It's BAB allowances. Normally 11 by touching creature. What's up related instrument, you call the creatures flesh to loosen and slide against you, okay? And roles that check for me.
-
-Is there just why isn't there just a button to roll base attacks like this? I guess. I'll have to calculate it. So nope. There. There is it right? Click your token under your dropdown menu on the attack tab, you'll have your regular melee range.
-
-Just you and we jump to the stone, I'm gonna fix it.
-
-Standard touch.
-
-Actually amazing spell attack ability dexterity animated formula. Boom Next 5. What kind of damage do you just untied damage, huh? That's very what kind of type, what kind of damage would you call that? Boom, 10. A lot of pain fortitude, it's not offset.
-
-And and let's see if that worked. What's that?
-
-But I probably miss with an 11.
-
-Yeah, you get a bonus to range attacks while you're probably not mainly but you are still holding those nutshell.
-
-I guess I'm staying prone because I don't want to provoke an attack by getting up seems fair. Boom, bringing us to Koya. Um,
-
-Boom. Wholesale her wand and CEO with it. A really bad role. That's a okay, that's a little about wrong. All right.
-
-Look, shaka does stand up Drawing her weapons that she does.
-
-People looking.
-
-Bring up the new way to steps. Thank you again. Steps off from being prone drawing, one of the lockizes and then uses a 5 foot to go here. And then vanishes,
-
-Because I am, I am definitely in a light level lower than normal, right? Yes. Yeah. So this shizoku just like fades out and then so does the rest of her.
-
-And that, that is my time because I can't do much else. Boom, the tango looks in your direction things to step back.
-
-And pulls out a boat blue gun. Not unlike ochis.
-
-The okay below gun? Or the thing, the Ochi has on his character sheet because I don't have a blowgun, it's a blue gun. Okay. I was like, he better not. Yeah, not a two barrel. Shoot, not a two-barrow shooter. Sorry. Well I also have a different tube thingy that I never use many tubes.
-
-Why like so many tubes?
-
-Oh, geez actually played by Lizzo. So, he plays the flute. This makes a lot. Boom, this thing. You continues trying to stab you with his wakazashi. There is not have haste. They're mr. Proman. Oh my all. It doesn't confirm, that's good. Boom. Do I have to make another saved to keep as well?
-
-No, it's already cast. Okay, it's just in your hand, you release the charge. How did I get that health? Did I get healed at some point?
-
-No. Huh. Because morning I put down that I took that damage, right? Let me just scroll back up to it. It was seven damage and a 9 precisions equals, right? So, 25 damage Soko's bloodied.
-
-You were in a lot worse shape than I thought. You were Leo, Mia will stand up, which will provoke
-
-A game next to him.
-
-Yeah, that's gonna hit all right. One second guys.
-
-Interesting.
-
-Please resume. All right, so then he put and then, while he stands up, he pulls out his, his mate. And he's gonna try and beat the shit out of the IDEX to him.
-
-He's good.
-
-Actually hits. And that is almost half as health.
-
-That is the end of his third.
-
-The first time he's pulled out that mace.
-
-Y'all got maces? Yeah, he's had a mace. He's gonna meet stand across club.
-
-I mean yeah. That makes sense. But like No, it's just like you can swing without them.
-
-Apparent. You take the guys kneecap off. Apparently, you can noted.
-
-Oh, right? I mean he's not very not very amazing at the springs, but he's there. Cranking us to weigh-ins turn.
-
-That was not way yet, Are you sorry? I was just clicking around on my sheet. Oh,
-
-And indeed, not actually be there.
-
-Single attack. Oh, this is 16 and fortunately.
-
-The end go there.
-
-A tiny creatures. The way in is in his space. Oh gee. Okay. After having failed to get this boy last time with a hug, he's going to move. Like so drawing his weapons as he does and making an acrobatics to avoid the attacks of opportunity. He's holding a blue gun.
-
-This other guy he can make it exactly.
-
-I think you are good. You weren't the most grateful Tengu on the map. He's gonna swing at the guy, he tried to hug. And it's just a regular one, shouldn't need anything else, a one swing? That hits and he's gonna say. Where do you think you're going? Stay and fight me.
-
-And that'll be OT stern.
-
-Bringing into singing Newton.
-
-Who continues his orders to try and kill the wizard?
-
-It only Here, I really thought he would try and stab me one time. He does take a step back though.
-
-15 hit and in 19 it. Yeah. Both of those with him. Horton. One is the first one though.
-
-Roll fortitude for me, please. Love what?
-
-One point of Constitution damage. Ah, lovely.
-
-And it'll go by. I'm sure Zeo's Constitutions really high, so it won't matter.
-
-You, I go here and then I'm gonna go here.
-
-And the helmet flies up and tries to headbut the Sangu in the back of the head, not doing well.
-
-With his minus four strength. I gotta pick his breath. Weapon. Grayson going to shoot at the one. He's got selected. So, the one that was attacking zero,
-
-He great rules is obliterated. No. This one over here. Yeah. Okay 13 misses the 25. Hits for 15. The 16 hits for another 13 that drop him.
-
-The second one. Not go through. It drops him alive. Even all in one, all of these assassins should have been trying to go. I mean, didn't I do 10 point to damage you should? I did almost half his health. He did. I was so when he did took another 26, I was like fighting.
-
-He, but one of the must not have gone through Shoko. Heck. Yeah. In the Tangu, should both have been trying to come.
-
-Well, this time I will Try to hit again.
-
-A. All right. Now, you actually that fortune safe up to that.
-
-Ready to go.
-
-There we go. Fourtitude tape. Oh my god. Finally.
-
-Then Shoko will stand up because he is now staggered. Which re-key cannot take a ops. Well, why is he taking 17 damage as it also does? Oh, that only place to another creature. Never mind. Now, apologize because not said anything.
-
-That good. Oh well, to be fair, you touch him.
-
-We didn't just we're not prepared for Grayson. We didn't roll that concealment on my attack, on this guy.
-
-Oh, that's fair. He still would have dropped. And this guy hasn't been hit yet. I poked in one time Did you poke him? I thought you poked the other dude, I had this one targeted.
-
-All right, chuckle, get up pick up his shields and and turn somewhere.
-
-You did you did seven points damage to him. Apologies. I did not apply the damage. That's okay. But again, we have to roll the percentage for it if he's got blurred going.
-
-You hit him?
-
-Show go. This is for you.
-
-He is regretting the purchase of this one. It is not serving her well so far.
-
-Oh, shaka. This kit one? Nope. Nope. No five foot step here.
-
-Let's do single attack.
-
-Slim and then long sort mind.
-
-Up over attack. Boom. She is just beating the fuck out of that tengu with her shield and sword. No way he's making parable squawking. Noises amazingly Ms. Chances.
-
-They're blur has done nothing for them and maybe maybe a little of done something at some point.
-
-Can I say invisible things and they you don't know. Well no they can't. You're about to attack. No it seems completely unaware of you. Thank you. I mean I mean he looks like he knows he went invisible and that you might be a threat to him but it's not like he's tracking your movements and at the same time he's getting slammed in the face with the old.
-
-Yep. That's and then you murder him. Oh no. Yeah, just you guys at the front, just see a sword just appear through his chest. Just sup? It's pretty bad, not bad. Yeah, he drops. Um, so this homie can only take a move action or standard action and thus tries to move away.
-
-Working attacks opportunity from Shoko who is now standing algebraval and the monkey Monkey Pirates.
-
-One level.
-
-Pockets sneak attacks. Not working. Either, Why is think that broken on all these guys. So you see the monkey bite into his ankle and rip out his achilles tendon.
-
-By time flavoring that one non-lethal damage he rips out his Achilles tendon. There was this thick, sneak attack damage that it. Oh Nick, I'm gonna switch to doing non-lethal, that's really brutal. Yeah no it's not the non-lethal they they have a racial sneak attack die, he dead legs in but in the calf he like punches him.
-
-Yeah. Did the back of the leg. That's, that's probably much more accurate. It does have two slam attacks as well, the boom city.
-
-Look at why he's thinking to text messed up later Shoko. You get an attack of opportunity. Is trying to flee.
-
-Yeah, yeah, I will absolutely take that attack.
-
-I think I'll try and trip him because I don't I since I have my shield up, I won't be able to do a need real damage. And no, This is the art. I found for them by the way, forgot.
-
-I will unfortunately fail to strip him So I'm 10 15.
-
-25. 30, it cannot take the withdrawal actions. The only moving him. His movement speed did algevolt, take an AOL on it as well. Oh, he did not. I forgot. Thank you for the reminder. Boom, I just want to watch the world bird. It's he fails. Mainly is not his strong suit.
-
-Deo. Some seal will part his wand of magic missile. Yeah, no, dude.
-
-And just see how pulls out, as one. Normally people have to pay for that. Got David happy. So, Lily, target the dude with his wand. All three missiles.
-
-He's just trying to go home.
-
-Oh, I think I gotta make out of portages save, right? Yes. Or we've done around. Okay. Okay, here, I will link it again for you.
-
-We gotta roll the damage again. Anyways, least. You're getting minimum damage. Yay, One more successful. Save and you were free of this late poison that they each have dose of
-
-Well, this thing is that played was on the first start. He fired. Boom. So, there's a dart by the way, with death blade extract, like somewhere in this general area because he missed OG with it.
-
-I mean, it's not very hard to hit me when I don't have HR and stuff.
-
-Oh, I thought I hit interned. I take it that dude stall. I've he is, in fact still alive.
-
-Way and moves right here.
-
-What?
-
-Okay, put it like this.
-
-And clips it. With an arrow are with a dagger with a tiny dagger.
-
-And just love effect, he created on it with it, the dagger hits him square in the back of the head.
-
-He?
-
-Okay.
-
-That's not what I wanted to do, or you sure about that.
-
-Can I make it that far? That's what I was trying to measure. I don't know if it's subtracted it from my movement but I have 50. Yeah, you can easily make it that part.
-
-Yeah, we're gonna go like right there and I'll roll acrobatics if you wants to be spicy about. He is still staggered and ochi will.
-
-He's gonna try and non-lethal him. He's already got it. Bunch of non-lethal. Oh, do they not? I can't just add the non-lethal on top of the lethal and knocking below. You can you can just choose to do not only full damage. I mean, he already has loan people because the monkey has been hitting him.
-
-Yeah. Do I take a minus for doing so with my weapons? I'm pretty no. We're using elephant in the room. You just can't crit with only people. Okay. So I'll roll. Regular attack. That sounds great.
-
-God damn it. That didn't work. Like I wanted it to wait, the fuck, is that? Because critical confirmation. I tried to add a role at the beginning. Like I saw Zeo had for against concealment and it took it as my attack roll. That's not a concealment thing. Magic missile just hits.
-
-Yeah, it just does that because it sucks let me. I'll just take that modifier off and swing again and we'll see what it actually was.
-
-Is that better? It is an unfortunate miss but it is better. Okay, fix that thing.
-
-That's about all I can do by the way. You like, well I still have and here Reth Weapon. That's he is well in hand. Grayson. Well, Are we trying to capture this one alive? I was just gonna see like oh man, he didn't have the blood geos. So I was hoping maybe these tango a little bit higher ranked and they didn't either and we could ask them about Ravens crag a little bit.
-
-If is it the one that's still staggered? Yeah, then you should be able to catch him fairly easily. What they've already caught him. Okay, he did not get very far because if I if I shoot at him it's gonna be lethal damage. You do what? You don't got to do, Grayson.
-
-Well, since you guys seem to want to catch them all just I just won't do anything.
-
-A shoko just to be clear like you see Ochi swinging at him you have dark vision so you can see that he's like hitting them with the flat of the blade but he didn't say anything. He's not like don't kill him. Yeah, she'll go will attempt to catch up with you guys.
-
-So if it'll let me move. Oh okay, okay foundry. Yeah, sure that's what I wanted. And that, okay, it has clipped to me out of bounds like, no longer reenter that
-
-These windows.
-
-I cannot see that, I only, so,
-
-I guess Shoko will swing wildly at the air in front of him because he remembers. That's where the dude was and I'll try and do this non-lethally.
-
-Okay up. So, not being able to see him and not only post about to 20 to hit then because we're minus 4 for being on lethal. You just can't create. Oh, okay. Which he already had three long lethal. He's got 11 HP left. He balls uncontives.
-
-And that is everyone either dead dying or unconscious. Sochi will grab this guy and pick him up and fireman's. Carry him back over here to the fire where we can all see and he run away so easily. So since we started at 10, it's It's been four and a half hours.
-
-Do you think we could call it there started at 11?
-
-So we were gonna wrap up after this fight in questioning, Are you okay? Thanks sticking around for that.
-
-You can I I kind of gotta go. Yeah, it's all good. It happens. The questioning doesn't go particularly far. Anyways, these ninja all do have the blood gears on them.
-
-But these ones have much better gear than the last ones and I got to make a couple more four distances if you do, let me drop that in the chat again for you. So, round three.
-
-I failed that one Another point of con damage, Round four. And this isn't one the exact reason why? No way. Yeah, anti-talk them. I was nowhere, is probably like, looking over the moment that she realizes that this poison on. Was it the blades or the belt or something? All right, yeah, so at the start of like the next one, the moment you kind of like cough a bit and you know it's obvious that you got hit by a dart.
-
-She just comes over, pulls out. It pulls out of vial guys. Next week I got I gotta take off. Thank you. And yeah, just shows one of the anti-toxins down your throat. Just like stop being a pussy. Come on. That's mean we're at negative three or three con damage so far Round forward.
-
-You gotta plus five to all subsequent attempts. Mm-hmm. And you make one more, save You need to make two. Is it two steps or two? Concurrent saves it. Just says, two saves. Not too concurrent. Thank God. Let me double check. I think it might be consecutive. I think it's consecutive It's probably consecutive since that's what everything else is.
-
-Oh two more points. Two consecutive saves. Yes, it is. Okay, after I've got one way over for around acquired doesn't have neutralized poison but she has restoration. Lesser got my help and she hasn't prepared even
-
-All right. Last one. You. All right, you
-
-Yet for max condoms. The only thing that Noah can kind of suggest at this point is like, okay, so you're probably gonna want to stem the wound somehow and actually in her bag of tricks, as usual pulls out a bunch of other vials and it's like the problem is I'm not a surgeon.
-
-I don't know how to fucking do that. Which is my way of saying, is anyone in the party, actually good at heal. Give me like just tosses it over. Take you take A plus 3 to your heel track. If you use the jawed from methadone skit, I got this in case I stabbed myself in the eye, go call you go alone.
-
-All right, so for a night of rest, you are going to double your gain back. 22, We will get. You have three potions of lesser or sorry. Three scrolls of lesser restorations. Do you? Yes, we do. Let give those two koia then and she can use those cut. Oh my god.
-
-This is bad. Yeah. Now, imagine if only Yanni had actually hit with any of her, a tags. Yeah, yeah. It's all of her weapons were coded with desk blade.
-
-This is part of the reason why I know I get to be annoyed when Grayson's, like, oh, who gives gets down about poison? It's like you were fucking freak. You know, Yanni really should have been a much more challenging battle. He just wasn't for you guys's group because she didn't get Oh damn okay so that's four back on the first scroll.
-
-I think you were minus six. I would like minus eight. Oh my word and there's the light but the last four I needed goddamn koia with your restoration scrolls. So, I'm gonna take it, we're taking the wand back, but keeping the scrolls and finding out who provided those and putting them on the billing.
-
-Yes, we have them. Those are party inventory. Those are actually a party inventory. Oh, impressively done! Yeah, he's been casually. I think you guys got those in brainwall. Yes, Good always good. Keep them around. Always useful. So with zero, now dying we try and tie up and wake at the tango up, check in for the blood geos.
-
-See that? It's there and then wake him up and ask him a question and watch him die. Anyways, that is pretty much how that will go. Yes. Yeah.
-
-Well that's fun. Is that though? Not the word I'd use personally. Gonna say a prayer over these fools to Hey, Fang. Mmm, you wanna actually give presents to their own. God, might I suggest Yazang. It's not for them. It's for me for my conscience. Oh, that thing. Nah, you didn't and no, I will actually like move the corpsos back to the tree line and like get them out of the way.
-
-Because there was a little bit of sarcasm, it was for them but he just does whatever God. Yeah, he thinks is appropriate and I think it seems like anyone was it. Allow super, I'll shoot up the patron for. Thank you is, hey fang? I'm pretty sure. Oh, I genuinely don't not and probably neither would know it.
-
-You've dropped it multiple times of like that sick and now you're like, yeah, but that doesn't mean. She knows much about like how the culture actually functions. Yeah. He's the a tengu worship. A thing primarily. Don't this working like no, I wouldn't know that he's an if I'm remembering correctly.
-
-He's a type of Oni. I think. Oh no, much more about that. He's represented as a Tangu. He's like the god of story. He's represented as a yama. Bushi tango. What is anonym? Yeah, which is one, I would not and like anything. Beyond that is like fully completely beyond her.
-
-That is a cultural like the thing that she'd be like, huh.
-
-Honestly, I'll never known as the the angry champion of storms. Yes. But always sounded really cool. The Duke of Thunder. Yeah, agree. No.
-
-So, let's lose their bodies.
-
-Very used to and some days. Sorry, I was fixing how hungerville's breath weapon and weigh in sneak attack. You're fine. I'm gonna talk show. Go in to bed rest. Now old man. You did good.
-
-He goes to bed. He is told to go zero you alright, will you be? Well, I'll be fine. Yeah, Meanwhile, he so yeah, on the break of the oldest is over here, taking shots of vodka.
-
-Didn't I didn't want to actually cast something he did. He's got a, he's got to get a full night's sleep now.
-
-Did he cuss it always in his with them? No, he know. He casts. Yeah, he cast on my plush. See also Preakiest fucking shit I've ever seen. So today's meter day are all of their weapons. Poisoned like that, that was terrifying. Zeo almost died in a matter of a minute.
-
-And we now understanding why I said antitoxin this useful, not all of them, they only had one dose so it was just on their first dart from their blowgun but now knowing like he's just commenting on it. Like that was, that's scary. I didn't realize, you know what I mean.
-
-He's realizing like how dangerous these fights he's been and have been and he's like coil, let me get some of that. Vodka. Yo, this 17 year old is like ma'am. If I might and or except for the desk blade, there's only two doses of that. But everything else is time for and mmm.
-
-Unless anyone stops her know, I just like I assume they're in the dots, the sort of sock expose Talks them into a. They are all loaded up and ready to be used. Took them to the inside of her hairy.
 
 Yes, terrible things. Definitely a crime against all living. You know, man and humanity old bird or looks at zero again thing.
 

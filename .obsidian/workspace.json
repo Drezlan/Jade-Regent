@@ -6,14 +6,17 @@
       {
         "id": "7181ff4e3a704d62",
         "type": "tabs",
-        "dimension": 78.83165829145729,
         "children": [
           {
             "id": "be7e189ffa6c7cca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Timeline/Campaign Timeline.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -27,40 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "71af60482ce81f60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transcripts/10 1 22 grayson.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "2f8db741bc5d1b2a",
-        "type": "tabs",
-        "dimension": 21.168341708542712,
-        "children": [
-          {
-            "id": "848a8f66c76afa49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -126,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Campaign Timeline/Campaign Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Campaign Timeline/Campaign Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Campaign Timeline/Campaign Timeline.md"
+              }
             }
           },
           {
@@ -204,10 +180,10 @@
   },
   "active": "be7e189ffa6c7cca",
   "lastOpenFiles": [
-    "Campaign Timeline/Campaign Timeline.md",
     "Transcripts/10 1 22 grayson.md",
-    "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
+    "Campaign Timeline/Campaign Timeline.md",
     "Obsidian notes.md",
+    "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
     "Transcripts/10 22 22 stairs.md",
     "Transcripts/1 7 22 crystals.md",
     "Transcripts/Untitled 11.md",
