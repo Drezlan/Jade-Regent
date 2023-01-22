@@ -275,4 +275,8 @@ Noe continues her survey of the area as she makes her way back down the stair lo
 
 And they make their way up the stairs finding no traps on their way and arriving at the rock landing and the strange insectoid mass. Ochi steps closer to try to examine it while still tens of feet away but before he can infer anything a spider eater with a pincered face, pincered hands and a stinger emerges from the mass. Ochi recognizes the beast and relays to the party the dangers it poses including a poison that paralyzes unhale victims for weeks at a time and the reproductive method of implating it's young inside those it paralyzes.
 
-It lunges before anyone can react. 
+It lunges before anyone can react baring pincers and stinger scoring multiple hits on Ochi who is unprepared. Ochi stealing himself against this onlaught and though he has clearly been stung by the creature he doesn't seem overly hurt.
+Koya attempted to strike it and missed.
+Noe does the same and strikes true flaying the creature then vanishes.
+Ochi having recuperated somewhat also attempts to stab him adopting a defensive stance and strikes true on the slightly weakened spider eater.
+
