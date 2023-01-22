@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "42108bea7c4c8339",
+            "id": "53c1d221f0d31bae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcripts/10 1 22 grayson.md",
+                "file": "Transcripts/10 8 22 trolls.md",
                 "mode": "source",
                 "source": false
               }
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,15 +181,15 @@
   },
   "active": "be7e189ffa6c7cca",
   "lastOpenFiles": [
-    "Transcripts/10 1 22 grayson.md",
+    "Transcripts/10 8 22 trolls.md",
     "Campaign Timeline/Campaign Timeline.md",
-    "Obsidian notes.md",
-    "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
-    "Transcripts/10 22 22 stairs.md",
-    "Transcripts/1 7 22 crystals.md",
-    "Transcripts/Untitled 11.md",
-    "Transcripts/12 31 22 trolls.md",
-    "Transcripts/12 17 22 gon.md",
-    "Transcripts/12 3 22 gon.md"
+    "Transcripts/10 1 22 grayson.md",
+    "Characters/1 Caravan NPCs/Koya Mvashti/Koya Mvashti.md",
+    "Characters/1 Caravan NPCs/Ameiko/Ameiko.md",
+    "Characters/1 Caravan NPCs/Ameiko/Ameiko Amatatsu.md",
+    "Characters/1 Caravan NPCs/Ameiko/Ameiko Kaijitsu.md",
+    "Characters/Kimmendatsu/Kimmendatsu.md",
+    "Characters/Kimmendatsu/Thorborg Silverskorr.md",
+    "Characters/Kimmendatsu/SIlverskorr.md"
   ]
 }
