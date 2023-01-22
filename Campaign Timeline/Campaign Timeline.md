@@ -200,21 +200,16 @@ As they come to rest. One answers shoko.
 "Your cousins are weird Ochi"
 "So are yours"
 
-The party determines a watch order and sets to bed
+The party determines a watch order and sets to bed.
+
+In the night on graysons watch he notices bird footprints appear in the snow one by one and hears a twig snap on the other side of camp.
+Ochi also notices footprints in another location.
+
+Grayson reaches down and picks up a handful of snow and flings it at one of the sets of foot prints. 
 
 
 ---
 
-
-But resuming Perception. Checks for me, please.
-
-Here comes a 35 from Grayson.
-
-All right, Grayson
-
-You see a pair of birdie footprints appear in the snow, my hair than my ping working.
-
-Well then, let me reload.
 
 You guys come here, often.
 
