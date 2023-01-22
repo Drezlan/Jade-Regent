@@ -272,3 +272,6 @@ Noe continues her survey of the area as she makes her way back down the stair lo
 "No, but you probably should have seen me coming" - N
 "I do not have a way to see that which is unseen." Ukshaka
 "Well lets march on shall we." - O
+
+And they make their way up the stairs finding no traps on their way and arriving at the rock landing and the strange insectoid mass. Ochi steps closer to try to examine it while still tens of feet away but before he can infer anything a spider eater with a pincered face, pincered hands and a stinger emerges from the mass. Ochi recognizes the beast and relays to the party the dangers it poses including a poison that paralyzes unhale victims for weeks at a time and the reproductive method of implating it's young inside those it paralyzes.
+
