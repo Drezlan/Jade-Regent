@@ -80,7 +80,7 @@ While the group is pondering these revelations and confirmations [[Shoko]] raise
 As they approach the [[Rimerunners]] guild office [[Noe]] Hangs back to watch for any deceit from the guild from a rooftop across the street. The rest of the group walks straight in not being stopped by the guard outside and after some strong words to the clerk from [[Shoko]] in spite of a failed "appointment" ruse [[SIlverskorr]] agrees to see them.
 [[Thorborg Silverskorr]] is right through the office door and is apparently a beautiful [[Ulfen]] woman. She asks after the mysterious item we've brought her and [[Shoko]] goes into the notion of our exchange, [[Ukshaka]] for the [[Stolen Documents]]. [[SIlverskorr]] plays dumb at first but when we mention the [[Shelyn Temple Safehouse]] and the probablilty of [[Ukshaka]] being brought here she says we might be correct. At this point we have [[Grayson]] pass the [[Stolen Documents]] forward and flash them to her and repeat the terms of the exchange. "So you're offering the documents that [[Noe]] -excuse me- [[Hatsuyuki]] (spoken in perfect tian) stole in the night?" Meanwhile [[Noe]] is across the street watching this conversation through the barred window to the office. [[Shoko]] feigns ignorance and calls out the womans feigned ignorance of the whereabouts of the guide's apprentice.
 <mark style="background: #CACFD9A6;">"We could both leave here with what we want"</mark> -[[Shoko]]
-"We could.... but.... what makes you think you're going to be leaving here alive" she emphasizes that we're in a building full of her guards.
+<mark style="background: #FF5582A6;">"We could.... but.... what makes you think you're going to be leaving here alive"</mark> she emphasizes that we're in a building full of her guards.
 The group attempts to diffuse with diplomacy while [[Hatsuyuki]] notices a rusted iron-bound massive club under the office desk. As [[Shoko]]'s speech ends [[SIlverskorr]]'s appearance ripples and changes as she transforms.
 
 As the battle begins [[Ochi]] turns to [[Shoko]] and says <mark style="background: #FFF3A3A6;">"I'm so sorry you were right."</mark> [[Ochi]] is able to immediately identify [[SIlverskorr]]'s new appearance as an [[Oni]] and an [[Ogre]] at that. The party including [[Koya]] battles it out against the [[Ogre]], [[Omeyani]], and the [[Rimerunners]] guards. [[Grayson]] firing arrows left and right, [[Zio]] nearly freezing [[Omeyani]] in one shot right away. As [[Noe]] closes in having recognized the danger she also recognizes the transformed [[SIlverskorr]] as [[Kimmendatsu]] and says <mark style="background: #ABF7F7A6;">"Hi boss"</mark> and [[Kimmendatsu]] grins back at her. Still smiling she attempts to obliterate [[Shoko]] who was left in the office alone with her but he skillfully dodges and deflects all her deadly blows. [[Ochi]] having challenged [[Kimmendatsu]] but not wanting to engage in such close quarters yells for [[Shoko]] to retreat out of the room just as [[Zio]] is nearly cleaved in half by a guard's greatsword attack. [[Noe]] having closed into the room in the fray and spotting her sensei [[Omeyani]] says <mark style="background: #ABF7F7A6;">''where are you master"</mark> and crushes a charm in her fist and spots her magically undetected behind a very wounded [[Zio]]. [[Zio]] having planned ahead for this appears to explode into glitter revealing [[Omeyani]]'s position and retreating to safety outside magically. [[Omeyani]] Recognizes she's been had and beings making several hand signs appearing to split in two which is just in time as [[Noe]] appears and takes several swings at her, evaporating her newly made twin. [[Omeyani]] greets her with a <mark style="background: #D2B3FFA6;">"Hello student"</mark> proving she can see [[Noe]] just as well as [[Omeyani]] can see her. Just when the odds are beginning to favor the scions however [[Kimmendatsu]] finally connects with [[Shoko]] powerfully on the backswing of another miss and he falls unconscious to the ground. [[Ochi]] sees this and tries to make his way to [[Shoko]] and fells another guard. [[Noe]] attempts to return [[Omeyani]]'s poisoned shuriken from the encounter in the alley but she catches it in midair. [[Grayson]] sinks some more arrows into [[Omeyani]] before she can escape as [[SIlverskorr]] shifts back into her smaller human form and tries to do the same.
@@ -205,61 +205,14 @@ The party determines a watch order and sets to bed.
 In the night on graysons watch he notices bird footprints appear in the snow one by one and hears a twig snap on the other side of camp.
 Ochi also notices footprints in another location.
 
-Grayson reaches down and picks up a handful of snow and flings it at one of the sets of foot prints. 
+Grayson reaches down and picks up a handful of snow and flings it at one of the sets of foot prints shouting "Ambush!" and follows the snowball with an arrow.  As the rest of the party begins waking from his call ochi dodges a stab from an invisible attacker whos illusion melts away into the visage of a somehow blurry tengu ninja.
+Shoko who was still sleeping is woken as another assailant sinks their blade into him.
+The first one to alert Grayson closes on him.
 
 
 ---
 
 
-You guys come here, often.
-
-Pardon. Oh, that might be why I started lagging suddenly, Netflix was playing.
-
-Mmm.
-
-You see some 30 footprints appear in the snow right over here? And at the same time You hear a twig snap over here. Only crazy only Grace. And here's this. No, he actually beat two of the ones with higher stealth roles. You will only beat one of them.
-
-Who appears in the snow right here, just their footprints. So, you guys Grayson sing, where these two are OSG seeing where this one is, as well as Grayson. He also sees the other well, so much for only the higher ups knowing how to turn invisible. I never said that.
-
-I said if they are are taking their time like sneaking towards us. They are Grayson wants to get just like a big handful of snow and just like toss it in this space where he sees the footsteps behind it. They use it like like flour or something to coat and invisible person.
-
-I see what you're going for there and I will let that work for the round. You hit them after that. The snow will either melt or become invisible with them.
-
-You, If you would make a range attack for me against touch AC
-
-Very nice higher low worth it. Hi.
-
-The Tango narrowly evades. The snow. You see part of it brush. What? Looks like an arm. I would improved precise shot have any effect on that.
-
-That have any effect on concealment. It's tall concealment so which is what invisibility provides.
-
-Let me nor easy bonus, granted by targets of anything less than total cover and the mischance granted by targets it by anything less than total concealment. So not quite. I didn't know they made improved versions of precise shot. Oh yeah. I'm precise is amazing because otherwise you end up taking like negatives.
-
-Every time you try and fire at someone through a doorway? Yeah, that's fair. So unfortunately. No, because they are getting total concealment. Okay. I I don't know how we're going to fight for invisible enemies. They're not it's not greater invisible. You don't know it. That's fair. I'm not helpful.
-
-I'm gonna be. So I'm the sound of combat. Wake the rest of us up. I mean, we haven't gone into initiative yet and he was like he saw before. I'm gonna say with his better perception role. I think that Grayson saw these things happening before OG did. But we haven't like I was gonna whistle first thing.
-
-Why are your initial go private?
-
-Oh, should we write it and ochi you both get to accent in the surprise rounds? Should we all know you guys rolling it?
-
-Okay, and then after we do this round we will bring in everyone else. Basin. What would you like to do? Christian will show out loud that there's an ambush and, and gosh, I yes. Trying to shoot at the one that he threw Snow at it. You get one attack because of the surprise around.
-
-That's okay, you're busy trying to wake everyone up, everyone perception. Minus 10, please.
-
-Everyone. Well, everyone who's asleep?
-
-Okay. I but I only needed a five. You're good. No, no. That's before the minus 10. Oh, you are sleeping quite soundly this evening.
-
-No, no. He's immediately awake. You just see like, jackknife, I won't.
-
-In boom. All right. No way, Koya.
-
-Option.
-
-Look shaka. Right, you guys all wake up. You will get to join combat next round. Nope. Nope. So, does he wake up to? It's the only needed if
-
-Boom. Oh, gee, rapping bird feed up here in the sand or in the snow before you Here before me. Yes. Okay. A 14. It's your flat footed. AC, it does not the boom and while he appears his form is still blurred,
 
 Shoko a 23 to hit your butt. Put it AC. I mean considering I'm unconscious, isn't this? Like an automatic crit. No, he had to move 10 feet.
 
