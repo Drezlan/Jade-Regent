@@ -198,8 +198,8 @@ As he does this hundreds and hundreds of ravens swirl towards them from out of t
 As they come to rest. One answers shoko.
 "Yes, You are being hunted."
 "You would be hunted now if our master knew you called us. *they know they know they know they know*"
-"Your cousins are weird Ochi"
-"So are yours"
+"Your cousins are weird Ochi." - N
+"So are yours." - O
 
 The party determines a watch order and sets to bed.
 
@@ -285,4 +285,27 @@ Grayson from the rear fires a flurry of arrows ending the spider eaters existenc
 "Given the color of these that's coming out of your sting hole there might I suggest chugging these anti-toxins." - N *tinking as small bottles hit the wooden walkway they stand on*
 
 After having seen the first of the defenses of Ravenscragg Grayson Focuses his inner energies for a moment and his skin darkens.
+
+"We should be very careful. If this was the front guard, they these things can paralyze you. I don't know how I fought it off but these are very dangerous defensive measures." - O
+"I bet they don't get lots of solicitors." - G
+"Thank you for healing me by the way Koya" - O
+"Of course darling. Thank you for never... being boring." - Koya
+"See Koya gets it." - N
+
+The adventurers make their way further up the walkway and come upon a wide porch surmounting the rickety conglomeration of stairs and landings below providing a panoramic view of the boggy plains that extend to the hazy horizon. The looming green-grey stone hall of the fortress blocks further progress. Inset arrow slits with heavy wooden shutters flank a bronze banded portal that leads within above three more arrow slits look out over the precipice. Upon this fortress porch more of the avian assassins await the rescuers.
+
+Grayson, more than prepared, sinks several arrows into the foremost frosty shadow who slumps to the planks. 
+"I don't think they are here to welcome us."
+Wei yan quickly pounces along the railing to close on another.
+Ukshaka draws her sword and shield and steps into the fray.
+The feathered defenders step forward and vanish.
+One of them appears and strikes at Ukshaka and connects but ukshaka seems to have weathered the attack well.
+Ochi charges another screaming "Where is Lady Ameiko?!" and attempt to feint and strike making a pitiful show in his emotional state.
+Helgarval spouts a gout of flame from his visor onto one of the Tengu.
+Noe slashes at the Tengu nearest her and cuts it down and vanishes from sight again.
+Grayson sends another volley felling the last of the feathered foes.
+
+Ochi continues on rushed in his fervor to find Ameiko "Let's go!" - O
+
+Rows of pillars support the 40-foot high roof of this long hall torches set into pillars sconces and two fire pits set with iron spits in the center of the rust strewn floor give the room a ruddy glow. Several doors open into rooms on either side beneath 10 foot high balconies lined with feasting tables. At the far end of the hall a 15-foot high balcony with the master's high table looks out over all. Smoke holes cut into the roof high above allow in more light, and the croaking of the many ravens that roost on the roofs ridge pole.
 
