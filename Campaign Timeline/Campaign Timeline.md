@@ -279,4 +279,10 @@ It lunges before anyone can react baring pincers and stinger scoring multiple hi
 Koya attempted to strike it and missed.
 Noe does the same and strikes true flaying the creature then vanishes.
 Ochi having recuperated somewhat also attempts to stab him adopting a defensive stance and strikes true on the slightly weakened spider eater.
+Grayson from the rear fires a flurry of arrows ending the spider eaters existence.
+
+"I don't feel great Koya. Could you help me?" - O
+"Given the color of these that's coming out of your sting hole there might I suggest chugging these anti-toxins." - N *tinking as small bottles hit the wooden walkway they stand on*
+
+After having seen the first of the defenses of Ravenscragg Grayson Focuses his inner energies for a moment and his skin darkens.
 
