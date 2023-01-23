@@ -309,4 +309,3 @@ Ochi continues on rushed in his fervor to find Ameiko "Let's go!" - O
 
 Rows of pillars support the 40-foot high roof of this long hall torches set into pillars sconces and two fire pits set with iron spits in the center of the rust strewn floor give the room a ruddy glow. Several doors open into rooms on either side beneath 10 foot high balconies lined with feasting tables. At the far end of the hall a 15-foot high balcony with the master's high table looks out over all. Smoke holes cut into the roof high above allow in more light, and the croaking of the many ravens that roost on the roofs ridge pole.
 
-
