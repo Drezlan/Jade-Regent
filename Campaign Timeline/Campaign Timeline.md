@@ -295,7 +295,7 @@ After having seen the first of the defenses of Ravenscragg Grayson Focuses his i
 The adventurers make their way further up the walkway and come upon a wide porch surmounting the rickety conglomeration of stairs and landings below providing a panoramic view of the boggy plains that extend to the hazy horizon. The looming green-grey stone hall of the fortress blocks further progress. Inset arrow slits with heavy wooden shutters flank a bronze banded portal that leads within above three more arrow slits look out over the precipice. Upon this fortress porch more of the avian assassins await the rescuers.
 
 Grayson, more than prepared, sinks several arrows into the foremost frosty shadow who slumps to the planks. 
-"I don't think they are here to welcome us."
+"I don't think they are here to welcome us." - G
 Wei yan quickly pounces along the railing to close on another.
 Ukshaka draws her sword and shield and steps into the fray.
 The feathered defenders step forward and vanish.
@@ -308,4 +308,5 @@ Grayson sends another volley felling the last of the feathered foes.
 Ochi continues on rushed in his fervor to find Ameiko "Let's go!" - O
 
 Rows of pillars support the 40-foot high roof of this long hall torches set into pillars sconces and two fire pits set with iron spits in the center of the rust strewn floor give the room a ruddy glow. Several doors open into rooms on either side beneath 10 foot high balconies lined with feasting tables. At the far end of the hall a 15-foot high balcony with the master's high table looks out over all. Smoke holes cut into the roof high above allow in more light, and the croaking of the many ravens that roost on the roofs ridge pole.
+
 

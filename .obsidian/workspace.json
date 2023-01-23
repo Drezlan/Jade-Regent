@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcripts/10 8 22 trolls.md",
+                "file": "Campaign Timeline/Campaign Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcripts/10 8 22 trolls.md",
+                "file": "Campaign Timeline/Campaign Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcripts/10 8 22 trolls.md"
+                "file": "Campaign Timeline/Campaign Timeline.md"
               }
             }
           },
@@ -180,10 +179,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "53c1d221f0d31bae",
+  "active": "be7e189ffa6c7cca",
   "lastOpenFiles": [
-    "Campaign Timeline/Campaign Timeline.md",
     "Transcripts/10 8 22 trolls.md",
+    "Campaign Timeline/Campaign Timeline.md",
     "Transcripts/10 1 22 grayson.md",
     "Characters/1 Caravan NPCs/Koya Mvashti/Koya Mvashti.md",
     "Characters/1 Caravan NPCs/Ameiko/Ameiko.md",
