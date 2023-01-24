@@ -309,3 +309,39 @@ Ochi continues on rushed in his fervor to find Ameiko "Let's go!" - O
 
 Rows of pillars support the 40-foot high roof of this long hall torches set into pillars sconces and two fire pits set with iron spits in the center of the rust strewn floor give the room a ruddy glow. Several doors open into rooms on either side beneath 10 foot high balconies lined with feasting tables. At the far end of the hall a 15-foot high balcony with the master's high table looks out over all. Smoke holes cut into the roof high above allow in more light, and the croaking of the many ravens that roost on the roofs ridge pole.
 
+"That's a lot of options on where to go." - G
+"Check em all." - N
+"We may as well start searching." - O
+
+Ochi walks up to the first door on the right and looks back at Noe and turns back to the door and looks it over for signs of traps. He sees nothing suspicious and opens it. Inside he finds a guard room empty save for rocks and piles of broken rubble. 
+
+"Nothing in here." - O
+
+Grayson opens the opposing door across the hall and sees a very similar guard room in a similar state.
+The party continues down the long hall. When they arrive near the center the ravens in the roof and rafters take wing closing in on the invaders.
+"So this is where Shoko summoned them from." - G *readying his bow*
+
+1
+Noe draws one of her blades and slashes and punches at the assailing murder immediately knocking some of them out of the air.
+Zio recites an incantation and performs some arcane movements with his hands.
+A frozen shadow steps out from a doorway further down the long hall.
+One of the flocks of ravens descends on Ochi pecking and clawing to little effect due to his agility.
+Another mass swarms around his head attempting to peck out his eyes and fails in it's efforts.
+Ochi slashes out with both blades in retaliation ending several more birds.
+Ukshaka screams in pain as another of the flocks manages to gouge at her eyes blinding her.
+Wei yan scurries past Ochi and spits out a gout of flame roasting one of the whirlwinds of ravens.
+Ukshaka swings blindly in a panic at her assailants and misses.
+A door bursts open next to Ochi surprising him and revealing another Tengu who looks equally surprised at the scene before him.
+Another tengu appears and stabs Ochi.
+Grayson takes note of more Tengu appearing to the south from doors further down the long hall and attempts to keep them from joining the fray with surpressing fire stepping between shots toward his targets.
+Helgarval mimics Wei Yan and roasts the unprepared ravens.
+Someone fires an arrow Ochi but narrowly misses. 
+Ochi is blocking a doorway still stemming the flow of Ninja from one of the rooms. 
+2
+Noe strikes out with more of her martial arts devastating more of the circling ravens and then vanishes.
+Zio disappears in one place and appears in another performing more arcane incantations and movements and fires a blast of heat at the last of the frenzied ravens.
+Ochi reaches into his belt pouch and pulls out a handful of caltrops which he scatters across the floor in front of the crowded doorway.
+Wei yan continues spitting fire upon the enemies.
+
+
+
