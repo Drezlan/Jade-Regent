@@ -342,6 +342,32 @@ Noe strikes out with more of her martial arts devastating more of the circling r
 Zio disappears in one place and appears in another performing more arcane incantations and movements and fires a blast of heat at the last of the frenzied ravens.
 Ochi reaches into his belt pouch and pulls out a handful of caltrops which he scatters across the floor in front of the crowded doorway.
 Wei yan continues spitting fire upon the enemies.
+Ukshaka still blinded remains in place unsure of what to do.
+One of the freshly singed ninja passes across the caltrops and leaps back favoring an injured foot.
+Koya touches Ochi with a want rejuvenating him.
+Another ninja attempts to pass through the caltrop filled portal also gaining a limp but continues on to strike at Ochi and misses.
+Grayson continues to stem the tide of ninja attempting to reinforce from further south in the hall with a hail of arrows stepping further towards them.
+Helgarval continues adding to the flames started by Wei Yan.
+One of the ninja fires his own bow at Grayson who is unharmed as 
+Another swings past Ochi.
+3
+Noe narrowly misses a ninja with her own blades in return.
+Zio sprays a contained blizzard from his hands at the foes and two more of the ninja slump.
+Ochi closes on the ninja too cautious to traverse the caltrops going the the door into one of the rooms off of the long hall. 
 
+Inside ten sleeping pallets lay neatly arranged about this room. At the foot of each is a small locker for personal belongings and an open iron trapdoor sits in the floor and near the east wall.\
 
+Inside Ochis blade meets with the flesh of his target and finishes it.
+Wei Yan joins Ochi in the room running along the wall to leap at the last remaining foe slashing as he does.
+Ukshaka continues to hold position blinded.
+Grayson finishes Wei Yans work with a few more arrows.
+The remaining human shadow sprints to the trap door and throws itself down and out of sight.
+4
+Noe gives chase and after a moment of confused sounds from below the rest of the caravaneers just hear 
+"Trolls!" Called louldy back up.
 
+The room below is a furnace room sweltering from the effort. The coals in the rooms name sake roar opposite the chute Noe just entered from. A heap of coal is stacked against the east wall and an iron door opens in the ceiling above the coal pit. Three crude beds made of poorly cured bear skins and wolf pelts have been thrown on the floor before the fire. A Hog's head, rests between them next to the bloody bones of someone unfortunate creature.
+
+The two Troll occupants look up from the boar they were enjoying at their two unexpected guests.
+
+Zio with a word and a flourish creates several copies of himself and enters the room past the caltrops.
