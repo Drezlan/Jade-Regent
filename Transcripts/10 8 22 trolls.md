@@ -2,43 +2,7 @@
 
 You're a negative 30 hit points like a little bit. Like he was still alive. Yeah. Why didn't he get the debt condition? Now, just salt. So here we go. So this gentleman only getting his or a standard is taking a move action.
 
-01:37:35
 
-Oh,
-
-01:37:41
-
-That's not good.
-
-01:37:47
-
-No way.
-
-01:37:54
-
-Where is the one last unfortunate? Dude. Like, he just went down a slide. There's a trapdoor in here and he just dove down it. Oh, did he? Oh, that's okay. So, I'm just going to use a full round action and light stuff. So, we're out of this leads to
-
-01:38:27
-
-Now, you don't look friend.
-
-01:38:37
-
-Charles Trolls. Shout So Trolls. That. Okay, now that means scroll down to the dungeons levels. Like you do a description of this room. Who this is the four.
-
-01:39:00
-
-Just oh, shit. No. Okay. You five. The coal seller. This room is oppressively hot compared to the rest of the sellers, not that, you know, that yet a culverness rotors in the far wall, giving the room stacked against the east wall and iron door opens in this feeling above the cold pit.
-
-01:39:24
-
-Three crude beds made of poorly cured bare, skins and wolf. Pelts have been thrown on the floor before the fire. Hog's head, rests between them next to the bloody bones of someone unfortunate creature. And yes, the two trolls look up from the board that it looks like they were eating.
-
-01:39:45
-
-Now, I just likes kicks. This one ninja in the back back lightly, just kind of like, that's your problem friend and then that's just
-
-01:40:00
 
 Oop, boom. Zeo, it's not hard to hear. It's not hard to hear the trolls echoing up from beneath the ground, the ground. I'm making. Now, let's check on trolls. You can which one I forgotten what it is. Let me back over to the Trolls. They are humanoids giant. So local.
 
