@@ -71,8 +71,9 @@ With few leads the scions make way to the [[Kalsgard Shelyn Temple]] which they 
 <mark style="background: #ABF7F7A6;">"Sensei"</mark> -[[Noe]]
 The party confused at first in the clash ask if this is someone they shouldn't be killing and [[Noe]] assures them that they want her dead. The woman is able to appear and disaapear at will making for a very difficult fight which ends with the scions still breathing and a retreating foe as well as dead assassin and a poisoned shuriken buried in the alley wall. The woman runs up the side of the building and disappears across the rooftops as [[Noe]] gives chase up the side of the building losing sight of her. The caravaneers take stock of the throwing star left behind as well as the orginal assassins horse. Understandably having many questions for her [[Noe]] urges the party not to do so in the open so they head inside the inn for some privacy. [[Noe]] informs them of her history with the [[Frozen Shadows]] a la her parentage and her tutelage under [[Omeyani]], the one who addressed her as student a short time ago. She also tells them the mastermind behind this particular band of assassins is [[Kimmendatsu]] who reports to the [[Oni of the Five Storms]]. With their foe's strength becoming clearer they also discuss [[Ravens Cragg]]. [[Noe]] notes it is a likely locale for them as most in the area only travel north to take the northern passage, The [[Path of Agenhai]]. She also reveals her true name to be [[Naoto no Hatsuyuki]], that her father is the head of some even more serious and sinister operation he was called away from the [[Frozen Shadows]] for, and that her mother [[Kireama]] took her away. [[Kireama]] was the reason she was at [[Brinewall]], sent to gain an understaning of her own family history or legacy. [[Noe]] decided then not to kill us and thus damned herself to be an enemy of her former organization. She shares some more nitty gritty on the [[Frozen Shadows]] combat abilities such as most of their number cannot perform ninjutsu like she or [[Omeyani]], and that the [[Red Feather Raven]] is somehow associated and working on their behalf or at least for mutual benefit. She assures the group that the [[Rimerunners]] guild office will hold more information for them.
 
----
+
 ### Rest
+---
 
 Having learned all that the party determines they need rest before they act and that they will take watches and recuperate at an inn in the [[Ivory Quarter]] while [[Noe]] does some reconaissance on the [[Rimerunners]]. In the morning the party does some shopping on the way to prepare for some of the tricks that they've seen from the [[Frozen Shadows]] so far.
 While this is going [[Noe]] is carefully watching the [[Rimerunners]] building noting the points of egress and the guards number and shift changes. Only one windows is boarded up and barred. With careful prodding she finds an easy way in and finds herself in an empty office. FInding nothing of interest she continues on to more rooms peering through a keyhole she passes on a room with two lounging guards for a different locked one and picks the lock. It appears to be a storage closet at first but after careful searching she finds a secret door behind a panel. Inside she finds a trapdoor in the floor to another storage location, this one containing a heavy iron lockbox against the north wall. After bypassing the lock on that as well she finds it contains two thousand gold pieces as well as some very importnat looking ledgers and paperwork. Gathering these pilfered treasures up and peering through another portal she decides she's risked enough on her own and makes a mental note of the secret rooms location and carefully covers her tracks and makes her exit. Returning to the others flipping some of her spoils she, [[Ochi]], and [[Shoko]] gather everyone to go over [[Noe]]'s findings.
@@ -164,15 +165,17 @@ Shoko nods.
 Reaching a defensible clearing the party decides they should rest to be better prepared for the dangers to come but not before an ocre jelly emerges from under the bridge they camp near and attacks them. Shoko recognizes the creature and relays to the party 
 that cutting or stabbing the creature has little effect except to cause it to split into copies of itself creating more enemies.
 
-zio attacks with sonic blast which seems effective
-shoko creates illusionary copies of himself and charges it.
-ochi fires an arrow out of his sleeve which causes the ooze to duplicate.
-ukchaka charges it.
-grayson flying kicks his way in and decimates one of the oozes
-ooze attacks shoko dispelling an image
-zio fires a blast of heat from his hands on the remaining ooze
-shoko adopts a defensive stance.
-Ochi closes the gap and strikes it with his staff.
+	1. 
+	Zio attacks with sonic blast which seems effective
+	Shoko creates illusionary copies of himself and charges it.
+	Ochi fires an arrow out of his sleeve which causes the ooze to duplicate.
+	Ukshaka charges it.
+	Grayson flying kicks his way in and decimates one of the oozes
+	ooze attacks shoko dispelling an image
+	2. 
+	Zio fires a blast of heat from his hands on the remaining ooze
+	shoko adopts a defensive stance.
+	Ochi closes the gap and strikes it with his staff.
 
 Ochi wipes his weapon clean in the grass.
 
@@ -203,41 +206,44 @@ As they come to rest. One answers shoko.
 
 The party determines a watch order and sets to bed.
 
-In the night on graysons watch he notices bird footprints appear in the snow one by one and hears a twig snap on the other side of camp.
+In the night on Graysons watch he notices bird footprints appear in the snow one by one and hears a twig snap on the other side of camp.
 Ochi also notices footprints in another location.
 
-Grayson reaches down and picks up a handful of snow and flings it at one of the sets of foot prints shouting "Ambush!" and follows the snowball with an arrow.  As the rest of the party begins waking from his call ochi dodges a stab from an invisible attacker whos illusion melts away into the visage of a somehow blurry tengu ninja.
-Shoko who was still sleeping is woken as another assailant sinks their blade into him.
-The first one to alert Grayson closes on him but misses his strike. 
-Ochi tries to grab the assassin closest to him so he can't lose track of him and fails.
-Another bird ninja scores a vicious blow against zio before he can react.
-Grayson fills the closest enemy with several arrows felling him.
-Shoko counters his assailant but misses holding his deadly spell in his hand.
-Koya taps Zio with her want reviving him somewhat.
-Ukshaka gets to her feet and readies her weapon.
-Noe being roused as well readies her weapons and steps into the darkness vanishing from sight.
-The Tengu closest to her steps away from the place Noe melted into the darkness and pulls out a blowgun.
-The tengu who had already buried his wakizashi in Shoko once continues trying to eviscerate shoko and scores another devastating attack on him.
-Zio gains his feet only to be struck by the shadow nearest him. Zio responds by drawing his mace and striking back.
-Wei yan cannot connect with a tengu he tries to attack.
-Ochi abandons his plan to grapple the tengu drawing his weapons and slashes the tengu.
-The tengu nearest zio stabs him twice and zios health is drained.
-Helgarval tries to strike a ninja and misses.
-Grayson fires another blazing fast volley at the bird engaged with zio.
-Shoko finally connects with his spell and stands up while his opponent is distracted by his magic.
-Ukshaka swings her sword and strikes the tengu again.
-A sword appears out of the chest of one of the tengu and Noe appears behind him pulling it free and letting it fall to the ground.
-The rattled recipient of Shokos spell tries to back up but in his unpreparedness is struck by Wei-Yan and barely missed by Shoko.
-Zio pulls a wand out firing magical missiles at the fleeing avian.
-Wei-Yan gives chase and strikes him again.
-Ochi cirlces around and cuts off his retreat but fails to connect.
-Grayson refrains from ending the fleeing ninja with an arrow seeing Ochi attempting to knock him unconcious.
-Shoko catches up to the fray and strikes the Tengu in the back of the head felling him.
-Ochi picks him up and carries him back to the fire to be questioned.
-
-Zio is coughing during this. Noe notices and checks the dart in the snow confirming it is poisoned and pulls a vial from her haori and doses Zio with it who seems to recover.
-
-While the poison seems to have run it's course Zio seems worse for the wear. Koya digs in her pack and pulls out a scroll and performs a divine ritual quickly beseeching Desna and restoring Zios vigor.
+	1. 
+	Grayson reaches down and picks up a handful of snow and flings it at one of the sets of foot prints shouting "Ambush!" and follows the snowball with an arrow.  As the rest of the party begins waking from his call Ochi dodges a stab from an invisible attacker whos illusion melts away into the visage of a somehow blurry tengu ninja.
+	Shoko who was still sleeping is woken as another assailant sinks their blade into him.
+	The first one to alert Grayson closes on him but misses his strike. 
+	Ochi tries to grab the assassin closest to him so he can't lose track of him and fails.
+	Another bird ninja scores a vicious blow against zio before he can react.
+	1. 
+	Grayson fills the closest enemy with several arrows felling him.
+	Shoko counters his assailant but misses holding his deadly spell in his hand.
+	Koya taps Zio with her want reviving him somewhat.
+	Ukshaka gets to her feet and readies her weapon.
+	Noe being roused as well readies her weapons and steps into the darkness vanishing from sight.
+	The Tengu closest to her steps away from the place Noe melted into the darkness and pulls out a blowgun.
+	The tengu who had already buried his wakizashi in Shoko once continues trying to eviscerate shoko and scores another devastating attack on him.
+	Zio gains his feet only to be struck by the shadow nearest him. Zio responds by drawing his mace and striking back.
+	Wei yan cannot connect with a tengu he tries to attack.
+	Ochi abandons his plan to grapple the tengu drawing his weapons and slashes the tengu.
+	The tengu nearest zio stabs him twice and zios health is drained.
+	Helgarval tries to strike a ninja and misses.
+	3. 
+	Grayson fires another blazing fast volley at the bird engaged with zio.
+	Shoko finally connects with his spell and stands up while his opponent is distracted by his magic.
+	Ukshaka swings her sword and strikes the tengu again.
+	A sword appears out of the chest of one of the tengu and Noe appears behind him pulling it free and letting it fall to the ground.
+	The rattled recipient of Shokos spell tries to back up but in his unpreparedness is struck by Wei-Yan and barely missed by Shoko.
+	Zio pulls a wand out firing magical missiles at the fleeing avian.
+	Wei-Yan gives chase and strikes him again.
+	Ochi cirlces around and cuts off his retreat but fails to connect.
+	Grayson refrains from ending the fleeing ninja with an arrow seeing Ochi attempting to knock him unconcious.
+	Shoko catches up to the fray and strikes the Tengu in the back of the head felling him.
+	Ochi picks him up and carries him back to the fire to be questioned.
+	
+	Zio is coughing during this. Noe notices and checks the dart in the snow confirming it is poisoned and pulls a vial from her haori and doses Zio with it who seems to recover.
+	
+	While the poison seems to have run it's course Zio seems worse for the wear. Koya digs in her pack and pulls out a scroll and performs a divine ritual quickly beseeching Desna and restoring Zios vigor.
 
 Ochi says a prayer to Hei Feng over the deceased tengu lying in the snow and he and Noe begin moving the bodies away from camp searching them in the process. After which Ochi helps Shoko back to caravan to finish resting. Looking at the weapons they carried they realize just how much danger they were in. Noe pockets the remaining doses. Koya takes a sip of vodka by the fire before shuffling off the administer to Shoko.
 "Just to avoid that happening so badly again" - N Noe tosses him one of the charms she is wearing about her neck.
@@ -321,7 +327,8 @@ Grayson opens the opposing door across the hall and sees a very similar guard ro
 The party continues down the long hall. When they arrive near the center the ravens in the roof and rafters take wing closing in on the invaders.
 "So this is where Shoko summoned them from." - G *readying his bow*
 
-1
+
+1. 
 Noe draws one of her blades and slashes and punches at the assailing murder immediately knocking some of them out of the air.
 Zio recites an incantation and performs some arcane movements with his hands.
 A frozen shadow steps out from a doorway further down the long hall.
@@ -371,5 +378,16 @@ The room below is a furnace room sweltering from the effort. The coals in the ro
 The two Troll occupants look up from the boar they were enjoying at their two unexpected guests.
 
 Zio with a word and a flourish creates several copies of himself and enters the room past the caltrops.
-Ochi darts down the trap door after Noe arriving next to her and the fleeing ninja.
+Ochi darts down the trap door after Noe arriving next to her and the fleeing ninja. Seeing that Noe is up to her shinobi tricks again and the ninja is stunned face down on the floor in the face of the trolls Ochi buries a sword in his back ending his life.
+
+It is at this point that the rooms occupants begin to react the faster of the two commenting.
+"Look what we got 'ere, Tasty li'il bird."
+And he strikes Ochi.
+Koya also arrives down the chute gracefully on her feet.
+"Oh... You're just right there."
+The other Troll steps up and also attemps to sink his claws into Ochi.
+Grayson hesitates to follow his companions and leave Ukshaka defenseless and alone watches her feel her way to a curtain and duck behind it and gives chase. Landing just as gracefully as Koya he looses an arrow before even fully coming to rest at the bottom of the chute finding the flesh of one of the disturbed diners.
+5 
+Noe carves a piece off of one of the Trolls with a deft blade who promptly begins bleeding profusely.
+
 
