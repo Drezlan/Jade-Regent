@@ -372,3 +372,4 @@ The two Troll occupants look up from the boar they were enjoying at their two un
 
 Zio with a word and a flourish creates several copies of himself and enters the room past the caltrops.
 Ochi darts down the trap door after Noe arriving next to her and the fleeing ninja.
+

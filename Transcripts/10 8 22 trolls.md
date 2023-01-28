@@ -1,29 +1,4 @@
 
-
-You're a negative 30 hit points like a little bit. Like he was still alive. Yeah. Why didn't he get the debt condition? Now, just salt. So here we go. So this gentleman only getting his or a standard is taking a move action.
-
-
-
-Oop, boom. Zeo, it's not hard to hear. It's not hard to hear the trolls echoing up from beneath the ground, the ground. I'm making. Now, let's check on trolls. You can which one I forgotten what it is. Let me back over to the Trolls. They are humanoids giant. So local.
-
-01:40:29
-
-I think I know trolls you know trolls fire antacid are your friends. Well, I got eight. Will eat you? Yeah. So he's gonna look like he's gonna go ahead and cast a nice. I'll get three images. I still can't go in your room, right? Okay, probably was my family.
-
-01:41:00
-
-Figure out how I can get myself. We'll find you something.
-
-01:41:08
-
-All right, use the other I haven't really figured out how to work that one yet, either. We'll you have three images. Okay, and that's pretty somewhat help. Held, I move into the room Of course walking over color. Cops purple. There's a lot of an inch touch AC. No, You are unaffected by the caltrops and they felt like, wait, right there and that's the end.
-
-01:41:50
-
-OTG you gotten go and then we are going to take our break here because I really need to be Gotcha. I'm gonna taste wearing away and the ninja went Egypt down the suit. Shoot.
-
-01:42:07
-
 Oh, Boys from next to you Trolls.
 
 01:42:18
