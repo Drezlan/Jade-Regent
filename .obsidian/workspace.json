@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7181ff4e3a704d62",
+        "id": "0a108fdd42af6dfd",
         "type": "tabs",
         "children": [
           {
-            "id": "be7e189ffa6c7cca",
+            "id": "6be2ab20965cb6fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b92bf1565743643",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53c1d221f0d31bae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transcripts/10 8 22 trolls.md",
+                "file": "Characters/1 Caravan NPCs/Ameiko/Ameiko Kaijitsu.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Characters/1 Caravan NPCs/Ameiko/Ameiko Kaijitsu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Characters/1 Caravan NPCs/Ameiko/Ameiko Kaijitsu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md"
+                "file": "Characters/1 Caravan NPCs/Ameiko/Ameiko Kaijitsu.md"
               }
             }
           },
@@ -192,15 +167,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "be7e189ffa6c7cca",
+  "active": "6be2ab20965cb6fe",
   "lastOpenFiles": [
-    "Obsidian notes.md",
+    "Characters/1 Caravan NPCs/Ameiko/Ameiko Amatatsu.md",
+    "Characters/1 Caravan NPCs/Ameiko/Ameiko.md",
     "Campaign Timeline/Campaign Timeline.md",
     "Transcripts/10 8 22 trolls.md",
+    "Obsidian notes.md",
     "Transcripts/10 1 22 grayson.md",
     "Characters/1 Caravan NPCs/Koya Mvashti/Koya Mvashti.md",
-    "Characters/1 Caravan NPCs/Ameiko/Ameiko.md",
-    "Characters/1 Caravan NPCs/Ameiko/Ameiko Amatatsu.md",
     "Characters/1 Caravan NPCs/Ameiko/Ameiko Kaijitsu.md",
     "Characters/Kimmendatsu/Kimmendatsu.md",
     "Characters/Kimmendatsu/Thorborg Silverskorr.md"
