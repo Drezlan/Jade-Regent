@@ -438,15 +438,48 @@ Ochi grabs her arm and pulls her closer to the underground stream.
 "Oh, okay. That's unnerving." - N
 "It is good to see the rise of the Amatatsus once more" - T
 
-Now closer and with the others stepping forward as well they party deliberates the way forward. North or South.
+Now closer and with the others stepping forward as well they party deliberates the way forward. North, South, or the door across the hall.
 
-"The sword. I believe is this way. I think it would be very helpful." - O Nodding towards the south.
+"The sword. I believe is this way. I think it would be very helpful." - O Nodding forwards.
 "Certainly so long as we're not going to get jumped by any further surprises this time around" - N
 
 She steps forward examining the door to the south carefuly for traps and finding none. The door is locked however but Noe expertly applies some mechanical trickery and the door clicks and cedes ingress.
 
 "Now what do you have locked up." - N easing the door open.
-The ceiling of this Grand Chamber rises 20 feet overhead. It's heavy beam serving as both Raftors and supports for the great hall above. Teak paneling covers the walls and the floors of polished wood. Along the walls wooden columns rise to the ceiling above bearing banners and emblazoned with pictograms from far off Tian Xia. Above these hang small oil lamps that give up a dim glow. A small, porcelain bowl rests before the center column to the south and four read mats our arranged before it.
+The ceiling of this Grand Chamber rises 20 feet overhead. It's heavy beam serving as both Raftors and supports for the great hall above. Teak paneling covers the walls and the floors of polished wood. Along the walls wooden columns rise to the ceiling above bearing banners and emblazoned with pictograms from far off Tian Xia. Above these hang small oil lamps that give up a dim glow. A small, porcelain bowl rests before the center column to the south and four reed mats are arranged before it.
+
+"I think we go this way." - O
+"I suspect this might be their equivalent of a Dojo." - N
+
+Ochi steps in to the room and after nothing unexpected happens his fellows follow him.
+The caravaneers spread out across the dojo noting the numerous doors leading from the large main room.
+Noe quietly edges one open to peek into the interior.
+Inside she appraises and shirtless and loose pant clad muscled human meditating with his back turned. He does not notice Noe's presence. She edges into the room without a sound drawing one of her blades as she does. 
+
+	1. 
+	
+	Noe attempts to eviscerate him but at the last second he gracefully leaps out of the way.]
+	
+	1. 
+	
+	Before he can fully recover Noe presses her advantage levying another swing at him which he again narrowly dodges but cannot manage it on the second blade. He slumps to the floor silently.
+
+With the enemy neutralized Noe takes stock of the contents of the room and finds Inside are three beautiful jade raven statuettes, a short spear of master quality, and an amulet made of beast scales. Noe examines and then stows these items then emerges from wherever she had vanished to covered in a great deal of blood.
+
+The others unaware of this creep up to various other doors. Grayson similarly to Noe quietly edges open another door. He is not as successful in supressing his presence from the occupant.
+
+0. 
+
+Before he can fully react to Grayson's Intrusion an arrow sprouts from his chest and he cries out alerting any other enemies who may be nearby. 
+
+1. 
+
+Zio who is still in the larger hall produces a wand from his belt readying himself for trouble at the cry.
+Grayson finishes the bleak work he started and snuffs out his target before he can do anymore.
+One of the doors bursts open and Zio prepared for this fires off several bolts of magical energy from his wand at the new enemy a similarly garbed human.
+Still standing after the magical barrage the dojo dweller returns a missile in kind in the form of a spear hurled just past Zio.
 
 
-""
+
+
+
