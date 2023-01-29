@@ -478,6 +478,16 @@ Zio who is still in the larger hall produces a wand from his belt readying himse
 Grayson finishes the bleak work he started and snuffs out his target before he can do anymore.
 One of the doors bursts open and Zio prepared for this fires off several bolts of magical energy from his wand at the new enemy a similarly garbed human.
 Still standing after the magical barrage the dojo dweller returns a missile in kind in the form of a spear hurled just past Zio.
+Koya who was lingering near the door into the large room hurries forward to assist.
+Another human bursts forth from yet another door. Their eyes settle on Noe and they launch a spear just past her.
+
+Noe having casually dodged that "What was sensei doing with you."
+
+Another student clamours out of their room adds to the spears on the floor of the room with another miss.
+
+2. 
+
+Noe closes quickly on one of the students forcing them to dodge her slashes.
 
 
 
