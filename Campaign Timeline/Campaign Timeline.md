@@ -328,66 +328,125 @@ The party continues down the long hall. When they arrive near the center the rav
 "So this is where Shoko summoned them from." - G *readying his bow*
 
 
-1. 
-Noe draws one of her blades and slashes and punches at the assailing murder immediately knocking some of them out of the air.
-Zio recites an incantation and performs some arcane movements with his hands.
-A frozen shadow steps out from a doorway further down the long hall.
-One of the flocks of ravens descends on Ochi pecking and clawing to little effect due to his agility.
-Another mass swarms around his head attempting to peck out his eyes and fails in it's efforts.
-Ochi slashes out with both blades in retaliation ending several more birds.
-Ukshaka screams in pain as another of the flocks manages to gouge at her eyes blinding her.
-Wei yan scurries past Ochi and spits out a gout of flame roasting one of the whirlwinds of ravens.
-Ukshaka swings blindly in a panic at her assailants and misses.
-A door bursts open next to Ochi surprising him and revealing another Tengu who looks equally surprised at the scene before him.
-Another tengu appears and stabs Ochi.
-Grayson takes note of more Tengu appearing to the south from doors further down the long hall and attempts to keep them from joining the fray with surpressing fire stepping between shots toward his targets.
-Helgarval mimics Wei Yan and roasts the unprepared ravens.
-Someone fires an arrow Ochi but narrowly misses. 
-Ochi is blocking a doorway still stemming the flow of Ninja from one of the rooms. 
-2
-Noe strikes out with more of her martial arts devastating more of the circling ravens and then vanishes.
-Zio disappears in one place and appears in another performing more arcane incantations and movements and fires a blast of heat at the last of the frenzied ravens.
-Ochi reaches into his belt pouch and pulls out a handful of caltrops which he scatters across the floor in front of the crowded doorway.
-Wei yan continues spitting fire upon the enemies.
-Ukshaka still blinded remains in place unsure of what to do.
-One of the freshly singed ninja passes across the caltrops and leaps back favoring an injured foot.
-Koya touches Ochi with a want rejuvenating him.
-Another ninja attempts to pass through the caltrop filled portal also gaining a limp but continues on to strike at Ochi and misses.
-Grayson continues to stem the tide of ninja attempting to reinforce from further south in the hall with a hail of arrows stepping further towards them.
-Helgarval continues adding to the flames started by Wei Yan.
-One of the ninja fires his own bow at Grayson who is unharmed as 
-Another swings past Ochi.
-3
-Noe narrowly misses a ninja with her own blades in return.
-Zio sprays a contained blizzard from his hands at the foes and two more of the ninja slump.
-Ochi closes on the ninja too cautious to traverse the caltrops going the the door into one of the rooms off of the long hall. 
+	1. 
+	
+	Noe draws one of her blades and slashes and punches at the assailing murder immediately knocking some of them out of the air.
+	Zio recites an incantation and performs some arcane movements with his hands.
+	A frozen shadow steps out from a doorway further down the long hall.
+	One of the flocks of ravens descends on Ochi pecking and clawing to little effect due to his agility.
+	Another mass swarms around his head attempting to peck out his eyes and fails in it's efforts.
+	Ochi slashes out with both blades in retaliation ending several more birds.
+	Ukshaka screams in pain as another of the flocks manages to gouge at her eyes blinding her.
+	Wei yan scurries past Ochi and spits out a gout of flame roasting one of the whirlwinds of ravens.
+	Ukshaka swings blindly in a panic at her assailants and misses.
+	A door bursts open next to Ochi surprising him and revealing another Tengu who looks equally surprised at the scene before him.
+	Another tengu appears and stabs Ochi.
+	Grayson takes note of more Tengu appearing to the south from doors further down the long hall and attempts to keep them from joining the fray with surpressing fire stepping between shots toward his targets.
+	Helgarval mimics Wei Yan and roasts the unprepared ravens.
+	Someone fires an arrow Ochi but narrowly misses. 
+	Ochi is blocking a doorway still stemming the flow of Ninja from one of the rooms. 
+	
+	2. 
+	
+	Noe strikes out with more of her martial arts devastating more of the circling ravens and then vanishes.
+	Zio disappears in one place and appears in another performing more arcane incantations and movements and fires a blast of heat at the last of the frenzied ravens.
+	Ochi reaches into his belt pouch and pulls out a handful of caltrops which he scatters across the floor in front of the crowded doorway.
+	Wei yan continues spitting fire upon the enemies.
+	Ukshaka still blinded remains in place unsure of what to do.
+	One of the freshly singed ninja passes across the caltrops and leaps back favoring an injured foot.
+	Koya touches Ochi with a want rejuvenating him.
+	Another ninja attempts to pass through the caltrop filled portal also gaining a limp but continues on to strike at Ochi and misses.
+	Grayson continues to stem the tide of ninja attempting to reinforce from further south in the hall with a hail of arrows stepping further towards them.
+	Helgarval continues adding to the flames started by Wei Yan.
+	One of the ninja fires his own bow at Grayson who is unharmed as 
+	Another swings past Ochi.
+	
+	3. 
+	
+	Noe narrowly misses a ninja with her own blades in return.
+	Zio sprays a contained blizzard from his hands at the foes and two more of the ninja slump.
+	Ochi closes on the ninja too cautious to traverse the caltrops going the the door into one of the rooms off of the long hall. 
+	
+	Inside ten sleeping pallets lay neatly arranged about this room. At the foot of each is a small locker for personal belongings and an open iron trapdoor sits in the floor and near the east wall.\
+	
+	Inside Ochis blade meets with the flesh of his target and finishes it.
+	Wei Yan joins Ochi in the room running along the wall to leap at the last remaining foe slashing as he does.
+	Ukshaka continues to hold position blinded.
+	Grayson finishes Wei Yans work with a few more arrows.
+	The remaining human shadow sprints to the trap door and throws itself down and out of sight.
+	
+	4. 
+	
+	Noe gives chase and after a moment of confused sounds from below the rest of the caravaneers just hear 
+	"Trolls!" Called louldy back up.
+	
+	The room below is a furnace room sweltering from the effort. The coals in the rooms name sake roar opposite the chute Noe just entered from. A heap of coal is stacked against the east wall and an iron door opens in the ceiling above the coal pit. Three crude beds made of poorly cured bear skins and wolf pelts have been thrown on the floor before the fire. A Hog's head, rests between them next to the bloody bones of someone unfortunate creature.
+	
+	The two Troll occupants look up from the boar they were enjoying at their two unexpected guests.
+	
+	Zio with a word and a flourish creates several copies of himself and enters the room past the caltrops.
+	Ochi darts down the trap door after Noe arriving next to her and the fleeing ninja. Seeing that Noe is up to her shinobi tricks again and the ninja is stunned face down on the floor in the face of the trolls Ochi buries a sword in his back ending his life.
+	
+	It is at this point that the rooms occupants begin to react the faster of the two commenting.
+	"Look what we got 'ere, Tasty li'il bird."
+	And he strikes Ochi.
+	Koya also arrives down the chute gracefully on her feet.
+	"Oh... You're just right there."
+	The other Troll steps up and also attemps to sink his claws into Ochi.
+	Grayson hesitates to follow his companions and leave Ukshaka defenseless and alone watches her feel her way to a curtain and duck behind it and gives chase. Landing just as gracefully as Koya he looses an arrow before even fully coming to rest at the bottom of the chute finding the flesh of one of the disturbed diners.
+	
+	5. 
+	
+	Noe carves a piece off of one of the Trolls with a deft blade who promptly begins bleeding profusely.
+	Zio joins the fray clambering down the chute himself and upon view the scene in the furnace room applies extra heat to the situation firing a cone of searing flames from his hands onto the trolls.
+	Ochi zeroes in on the weakness of the more ailing of the two trolls that Noe had carved up and levies a few strikes at it very nearly felling it.
+	Wei Yan makes his way to the fray clambering over Zio to fire his own cone of flames at the trolls.
+	The visibly flagging troll falls with a boom to the floor after this onslaught.
+	Koya puts a hand on Ochi's shoulder filling him with healing energies.
+	The still standing furnace denizen lashes out at Ochi wildly missing on all counts.
+	Grayson sends several more arrows into the flesh of the troll in response.
+	Helgarval spews yet more fire from his mouth on both trolls
+	
+	6. 
+	
+	Noe steps up to the remaining troll drawing out her second blade and scores vicious blows sending him to the floor to join his roomate.
+	Zio draws out his mace and brains the helpless foe ending the danger.
 
-Inside ten sleeping pallets lay neatly arranged about this room. At the foot of each is a small locker for personal belongings and an open iron trapdoor sits in the floor and near the east wall.\
+Ochi mutters a prayer under his breath for the life lost.
 
-Inside Ochis blade meets with the flesh of his target and finishes it.
-Wei Yan joins Ochi in the room running along the wall to leap at the last remaining foe slashing as he does.
-Ukshaka continues to hold position blinded.
-Grayson finishes Wei Yans work with a few more arrows.
-The remaining human shadow sprints to the trap door and throws itself down and out of sight.
-4
-Noe gives chase and after a moment of confused sounds from below the rest of the caravaneers just hear 
-"Trolls!" Called louldy back up.
+"You keep praying like that and the gods might actually listen" - N
 
-The room below is a furnace room sweltering from the effort. The coals in the rooms name sake roar opposite the chute Noe just entered from. A heap of coal is stacked against the east wall and an iron door opens in the ceiling above the coal pit. Three crude beds made of poorly cured bear skins and wolf pelts have been thrown on the floor before the fire. A Hog's head, rests between them next to the bloody bones of someone unfortunate creature.
+Surveying the room they find a poorly hidden stash, presumably belonginging to the trolls, under a very thin layer of coals. Inside are gold armbands and a small sack of amethysts.
 
-The two Troll occupants look up from the boar they were enjoying at their two unexpected guests.
+Now out of the clamor of combat they are able to look around and see another hallyway out of the other side of the furnace room Ochi leading the pack steps forward to get a closer look. It is a flooded passage. A deep channel of flowing water crosses. The hall here on the opposite side lies, a heavy timber plank a brass bell, and Clapper hanging from the wall on this side of the stream. 
 
-Zio with a word and a flourish creates several copies of himself and enters the room past the caltrops.
-Ochi darts down the trap door after Noe arriving next to her and the fleeing ninja. Seeing that Noe is up to her shinobi tricks again and the ninja is stunned face down on the floor in the face of the trolls Ochi buries a sword in his back ending his life.
+"Scion of Amatatsu you have come to retrieve me from this place of darkness. You are close now. They have cast me into some sort of dark pit. Seek me out." - T
+"Do they have a Ameiko? Have you seen her? Is she alive?!" - O
+"I assume this is the Amatatsu you serve?" - T
+"Yes!" - O
+"I have not touched her mind in this place." - T
+"They've captured her and I hope they're holding her here... We will need your help." - O
 
-It is at this point that the rooms occupants begin to react the faster of the two commenting.
-"Look what we got 'ere, Tasty li'il bird."
-And he strikes Ochi.
-Koya also arrives down the chute gracefully on her feet.
-"Oh... You're just right there."
-The other Troll steps up and also attemps to sink his claws into Ochi.
-Grayson hesitates to follow his companions and leave Ukshaka defenseless and alone watches her feel her way to a curtain and duck behind it and gives chase. Landing just as gracefully as Koya he looses an arrow before even fully coming to rest at the bottom of the chute finding the flesh of one of the disturbed diners.
-5 
-Noe carves a piece off of one of the Trolls with a deft blade who promptly begins bleeding profusely.
+Seeing everyone else's looks as he has this mental dialouge Ochi turns to them.
+
+"I hear... the voice of the sword... I think the sword is here and it's speaking to me." - O
+"How hard did you get hit by the troll?" - N looking at Ochi quizically.
+
+Ochi grabs her arm and pulls her closer to the underground stream. 
+
+"Ah, There are multiple scions." - T
+"Oh, okay. That's unnerving." - N
+"It is good to see the rise of the Amatatsus once more" - T
+
+Now closer and with the others stepping forward as well they party deliberates the way forward. North or South.
+
+"The sword. I believe is this way. I think it would be very helpful." - O Nodding towards the south.
+"Certainly so long as we're not going to get jumped by any further surprises this time around" - N
+
+She steps forward examining the door to the south carefuly for traps and finding none. The door is locked however but Noe expertly applies some mechanical trickery and the door clicks and cedes ingress.
+
+"Now what do you have locked up." - N easing the door open.
+The ceiling of this Grand Chamber rises 20 feet overhead. It's heavy beam serving as both Raftors and supports for the great hall above. Teak paneling covers the walls and the floors of polished wood. Along the walls wooden columns rise to the ceiling above bearing banners and emblazoned with pictograms from far off Tian Xia. Above these hang small oil lamps that give up a dim glow. A small, porcelain bowl rests before the center column to the south and four read mats our arranged before it.
 
 
+""

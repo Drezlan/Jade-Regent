@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/1 Caravan NPCs/Ameiko/Ameiko Kaijitsu.md",
+                "file": "Campaign Timeline/Campaign Timeline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1869b0fab9b5431c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transcripts/10 8 22 trolls.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/1 Caravan NPCs/Ameiko/Ameiko Kaijitsu.md",
+                "file": "Campaign Timeline/Campaign Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/1 Caravan NPCs/Ameiko/Ameiko Kaijitsu.md",
+                "file": "Campaign Timeline/Campaign Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/1 Caravan NPCs/Ameiko/Ameiko Kaijitsu.md"
+                "file": "Campaign Timeline/Campaign Timeline.md"
               }
             }
           },
@@ -169,14 +181,14 @@
   },
   "active": "6be2ab20965cb6fe",
   "lastOpenFiles": [
+    "Transcripts/10 8 22 trolls.md",
+    "Campaign Timeline/Campaign Timeline.md",
+    "Characters/1 Caravan NPCs/Ameiko/Ameiko Kaijitsu.md",
     "Characters/1 Caravan NPCs/Ameiko/Ameiko Amatatsu.md",
     "Characters/1 Caravan NPCs/Ameiko/Ameiko.md",
-    "Campaign Timeline/Campaign Timeline.md",
-    "Transcripts/10 8 22 trolls.md",
     "Obsidian notes.md",
     "Transcripts/10 1 22 grayson.md",
     "Characters/1 Caravan NPCs/Koya Mvashti/Koya Mvashti.md",
-    "Characters/1 Caravan NPCs/Ameiko/Ameiko Kaijitsu.md",
     "Characters/Kimmendatsu/Kimmendatsu.md",
     "Characters/Kimmendatsu/Thorborg Silverskorr.md"
   ]
