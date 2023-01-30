@@ -468,51 +468,68 @@ With the enemy neutralized Noe takes stock of the contents of the room and finds
 
 The others unaware of this creep up to various other doors. Grayson similarly to Noe quietly edges open another door. He is not as successful in supressing his presence from the occupant.
 
-0. 
-
-Before he can fully react to Grayson's Intrusion an arrow sprouts from his chest and he cries out alerting any other enemies who may be nearby. 
-
-1. 
-
-Zio who is still in the larger hall produces a wand from his belt readying himself for trouble at the cry.
-Grayson finishes the bleak work he started and snuffs out his target before he can do anymore.
-One of the doors bursts open and Zio prepared for this fires off several bolts of magical energy from his wand at the new enemy a similarly garbed human.
-Still standing after the magical barrage the dojo dweller returns a missile in kind in the form of a spear hurled just past Zio.
-Koya who was lingering near the door into the large room hurries forward to assist.
-Another human bursts forth from yet another door. Their eyes settle on Noe and they launch a spear just past her.
+	1. 
+	
+	Before he can fully react to Grayson's Intrusion an arrow sprouts from his chest and he cries out alerting any other enemies who may be nearby. 
+	
+	1. 
+	
+	Zio who is still in the larger hall produces a wand from his belt readying himself for trouble at the cry.
+	Grayson finishes the bleak work he started and snuffs out his target before he can do anymore.
+	One of the doors bursts open and Zio, prepared for this, fires off several bolts of magical energy from his wand at the new enemy a similarly garbed human.
+	Still standing after the magical barrage the dojo dweller returns a missile in kind in the form of a spear hurled just past Zio.
+	Koya who was lingering near the door into the large room hurries forward to assist.
+	Another human bursts forth from yet another door. Their eyes settle on Noe and they launch a spear just past her.
 
 Noe having casually dodged that "What was sensei doing with you."
 
-Another student clamours out of their room adds to the spears on the floor of the room with another miss.
-
-2. 
-
-Noe closes quickly on one of the students forcing them to dodge her slashes.
-In return one of the students reinforces their peer and strikes Noe with a spinning kick.
-Ochi evens the odds for Noe bringing his blades to bear on the pair flanking Noe scoring a hit.
-Zio unleashes a boulder of snow and Ice impacting one of the trained fists.
-Koya whips her starknife across the room only to have it deflected in the same manner Omeyani had done previously. To the students surprise though the star knife flies back to Koyas hand.
-Grayson seeing the technique again takes advantage of their distraction to dispatch them with two arrows. His third is sent at another only to have them deflect it in the same fashion.
-The surrounded Noe continues to be beset with fists and feet taking another blow from her masters students.
-
-3. 
-
-She returns strikes in kind.
-Wei Yan and Helgarval do fire stuff but their foes are too quick.
-Ochi circles around to even the odds. Attempting to cut him off his quarry scores a stab with a spear across his shoulder. Ochi weathers it and levels his sword before swinging at one of the encirclers.
+	Another student clamours out of their room adds to the spears on the floor of the room with another miss.
+	
+	2. 
+	
+	Noe closes quickly on one of the students forcing them to dodge her slashes.
+	In return one of the students reinforces their peer and strikes Noe with a spinning kick.
+	Ochi evens the odds for Noe bringing his blades to bear on the pair flanking Noe scoring a hit.
+	Zio unleashes a boulder of snow and Ice impacting one of the trained fists.
+	Koya whips her starknife across the room only to have it deflected in the same manner Omeyani had done previously. To the students surprise though the star knife flies back to Koyas hand.
+	Grayson seeing the technique again takes advantage of their distraction to dispatch them with two arrows. His third is sent at another only to have them deflect it in the same fashion.
+	The surrounded Noe continues to be beset with fists and feet taking another blow from her masters students.
+	
+	3. 
+	
+	She returns strikes in kind.
+	Wei Yan and Helgarval do fire stuff but their foes are too quick.
+	Ochi circles around to even the odds. Attempting to cut him off his quarry scores a stab with a spear across his shoulder. Ochi weathers it and levels his sword before swinging at one of the encirclers.
 
 "Why don't you try me instead." - O
 
-His blow while full of intent still misses.
-Zio narrowly misses clubbing another student with his mace.
-Koya closes the distance to Noe and with a touch uses Desna's Grace to mend some of her copious wounds.
+	His blow while full of intent still misses.
+	Zio narrowly misses clubbing another student with his mace.
+	Koya closes the distance to Noe and with a touch uses Desna's Grace to mend some of her copious wounds.
 
 Noe still spewing blood "I appreciate you trying."
 
-Grayson fires at the unarmed attacker next to Zio with such a strong draw and precision that their inevitable maneuver to deflect missiles does not stop the shaft.
-Ochi continues harrying Noe's Outflankers but can't connect.
-Noe's assailants continue pressing their advantage landing even more blows.
+	Grayson fires at the unarmed attacker next to Zio with such a strong draw and precision that their inevitable maneuver to deflect missiles does not stop the shaft.
+	Ochi continues harrying Noe's Outflankers but can't connect.
+	Noe's assailants continue pressing their advantage landing even more blows.
+	
+	5. 
+	
+	Noe deftly steps around her opponent to change the battlefield to her advantage pressing her attackers back but not connecting with any strikes.
+	Ochi continues to not be able to cause any real damage to their enemies.
+	Zio returns to his wand tactic pinpointing magical energies to fell one of the remaining students.
+	Koya releases a burst of divine energy revivifying her companions.
+	Grayson targets the last remaining enemy but he deflects and dodges all the deadly shots.
+	Omeyani's last remaining student continues their assault on Noe landing yet more blows.
+	Wei yan passes through his legs and attacks him.
+	
+	6. 
+	
+	Noe attempts to fight back but her opponent is much haler than her in her state and her swings fall short.
+	Helgarval fills Ochi with angelic energies aiding him.
+	Ochi steps to close the distance to the remaining foe and with Helgarvals assistance strikes him twice but he remains standing.
+	Zio goes to use his wand again and the bolts of magic finally overcome the monk.
 
 
 
-Noe deftly steps around the change the battlefield.
+You recognize the lacquered screen in this room as the meditation screen that only Yanni used some meditate behind. He's green itself is worth 200 gold pieces and it's obviously a Tian Ming style. Behind the screen is a small leather trunk in which are kept a washer woman's clothes and other possessions, including a disguise kit, an ornate, blowgun fashion from Jade and lapis. Lazuli not usable as the weapon but worth 200 gold as an art object, 150 gold pieces in Tian coins and a Rit signed by Sven blood eagle. That gives the bear the authority to commandeer any of the norm kings housecarled within two miles of cows guard for up to 12 hours that onlyani saves for emergencies,
