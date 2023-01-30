@@ -15,30 +15,33 @@
               "state": {
                 "file": "Campaign Timeline/Campaign Timeline.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "5e169f93896254e7",
+            "id": "abffb792e5afcbba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Obsidian notes.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "1869b0fab9b5431c",
+            "id": "fd808ade845b377d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Transcripts/10 8 22 trolls.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -95,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 184.5
+    "width": 200
   },
   "right": {
     "id": "c53138176d88334e",
@@ -192,7 +195,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5e169f93896254e7",
+  "active": "abffb792e5afcbba",
   "lastOpenFiles": [
     "Campaign Timeline/Campaign Timeline.md",
     "Obsidian notes.md",
