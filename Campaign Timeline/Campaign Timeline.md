@@ -503,3 +503,16 @@ Ochi circles around to even the odds. Attempting to cut him off his quarry score
 
 "Why don't you try me instead." - O
 
+His blow while full of intent still misses.
+Zio narrowly misses clubbing another student with his mace.
+Koya closes the distance to Noe and with a touch uses Desna's Grace to mend some of her copious wounds.
+
+Noe still spewing blood "I appreciate you trying."
+
+Grayson fires at the unarmed attacker next to Zio with such a strong draw and precision that their inevitable maneuver to deflect missiles does not stop the shaft.
+Ochi continues harrying Noe's Outflankers but can't connect.
+Noe's assailants continue pressing their advantage landing even more blows.
+
+
+
+Noe deftly steps around the change the battlefield.
