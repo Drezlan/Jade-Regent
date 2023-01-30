@@ -488,8 +488,18 @@ Another student clamours out of their room adds to the spears on the floor of th
 2. 
 
 Noe closes quickly on one of the students forcing them to dodge her slashes.
+In return one of the students reinforces their peer and strikes Noe with a spinning kick.
+Ochi evens the odds for Noe bringing his blades to bear on the pair flanking Noe scoring a hit.
+Zio unleashes a boulder of snow and Ice impacting one of the trained fists.
+Koya whips her starknife across the room only to have it deflected in the same manner Omeyani had done previously. To the students surprise though the star knife flies back to Koyas hand.
+Grayson seeing the technique again takes advantage of their distraction to dispatch them with two arrows. His third is sent at another only to have them deflect it in the same fashion.
+The surrounded Noe continues to be beset with fists and feet taking another blow from her masters students.
 
+3. 
 
+She returns strikes in kind.
+Wei Yan and Helgarval do fire stuff but their foes are too quick.
+Ochi circles around to even the odds. Attempting to cut him off his quarry scores a stab with a spear across his shoulder. Ochi weathers it and levels his sword before swinging at one of the encirclers.
 
-
+"Why don't you try me instead." - O
 
