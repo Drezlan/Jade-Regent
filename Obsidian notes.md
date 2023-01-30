@@ -35,3 +35,7 @@ writing more than one line
 
 ">" is for block quote
 
+Command palette find and replace. 
+
+[^1
+[^1]: Footnotes
