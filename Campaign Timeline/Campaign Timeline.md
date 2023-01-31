@@ -911,177 +911,51 @@ over a 17 you discover several roles of leather covered in tiny cramps scalded r
 
 01:15:28
 
-Apocalyptic. You say, Indeed Anyone that can read scald make me a linguistics check? Oh, come on. I got you.
+Apocalyptic. You say, Indeed Anyone that can read scald make me a linguistics check?
 
-01:15:49
+You find in the rantings. Something we're referring to a concealed cash in the upstairs, flu. I didn't away for the coming winter. Also, in that room is all displayed old snorty. Had a little holiday stash. I thought that sunk with him. Sudden apparently he did very well first until we go and find that stash doing a murder and stuff. There's a reason he was called the Mad River. Where would that flu be? i think you're kind of just hand waving that. But where would that at the end of the haul? It says in the upstairs flu. I don't even know what a flu is. It's a fireplace thing.
 
-I was about to say I feel like just looks at the bird poaching will clear his throat and read it out to everybody. Deal in my thunder.
+If someone could move me would be greatly appreciated. I can't quite be my computer right now, you
 
-01:16:07
+Say the stores locked. Good. It is 29. It's open 
 
-You find in the rantings. Something we're referring to a concealed cash in the upstairs, flu. I didn't away for the coming winter.
+wooden pegs on the walls of this chamber holds shields and scabbards wooden sands. Hold chainmail, hobler, Hallbergs and open chest sold arrows, and axes, a number of spheres have also been stacked together in one corner. This room is Raven crabs Armory and there is magic in here.
 
-01:16:23
+Oh, there is a single magical arrow in the 225 arrows. In the chest. Oh, Starcraft Fold story, really didn't spare any expense? 
 
-Also, in that room is all displayed old snorty. Had a little holiday stash. I thought that sunk with him. Sudden apparently he did very well first until we go and find that stash doing a murder and stuff. There's a reason he was called the Mad River. Where would that flu be?
-
-01:16:53
-
-I think you're kind of just hand waving that. But where would that at the end of the haul? It says in the upstairs flu. I don't even know what a flu is. It's a fireplace thing.
-
-01:17:10
-
-It's what the actual tube that takes this smoke up is called.
-
-01:17:19
-
-And y'all go in the long way round.
-
-01:17:24
-
-I just wanted to see if the flu was on the nava. If someone could move me would be greatly appreciated. I can't quite be my computer right now, you
-
-01:17:40
-
-Say the stores locked. Good. It is 29. It's open wooden pegs on the walls of this chamber holds shields and scabbards wooden sands. Hold chainmail, hobler, Hallbergs and open chest sold arrows, and axes, a number of spheres have also been stacked together in one corner. This room is Raven crabs Armory and there is magic in here.
-
-01:18:11
-
-Oh, there is a single magical arrow in the 225 arrows. In the chest. Oh, Starcraft Fold story, really didn't spare any expense? Yes, smell crap. Please.
-
-01:18:37
+Yes, smell crap. Please.
 
 And the bum. Do they single greater magical beast? Slang arrow. No. I spend that around and hand it over to Greyson.
 
-01:18:58
+Well, I think we found everything. We're going to find up here. 
 
-He says Mary Christler.
-
-01:19:04
-
-Well, I think we found everything. We're going to find up here. All right? So, the greater arrow of slang.
-
-01:19:15
-
-Come on updates. But the bomb This plus one arrows key to a particular type of creature. In this case a nope that is the unless here we go a greater sling arrow functions. Just like a normal slang arrow but the DC to avoid the death effect is 23 in the arrow deals.
-
-01:19:37
-
-A hundred points of damage. If the saving throw is failed.
-
-01:19:44
-
-I am.
-
-01:19:48
-
-You said the DC was what? It's a VC23. I think there are the sling arrows, are in the items to convenients.
-
-01:20:03
-
-Get trails lane. I will drop that on heat. That's neat. Oh, thank you.
-
-01:20:19
-
-And it is for magical piece.
-
-01:20:27
-
-And yes DC23 or a hundred points of damage. Oops. It never unlocked the door for you. It's all right. So long as a giant, spider thing doesn't creep out of it and try and eat me. Oh, that's absolutely going to happen. This is farm waiting for it.
-
-01:20:50
+Oops. It never unlocked the door for you. It's all right. So long as a giant, spider thing doesn't creep out of it and try and eat me. Oh, that's absolutely going to happen. This is farm waiting for it.
 
 But she just hear himself. Yeah, I'm just hoping the princess and decided to get herself into a bit of bother. I'll just be always there. A staggered low bat on the map.
 
-01:21:06
-
 And because I felt like it. Okay above. I didn't know, like it.
-
-01:21:15
 
 Oh we'll see too much fat. Would you preferred less fat as opposed to know that Just regular bat would have been acceptable? The boom and then with a screeching screaming sound. Oh, it's here. Several raven swarms drop from the openings in the ceiling.
 
-01:21:48
+initiative. Whatever. I don't want to fight the giant rear and swarms but they have eyeballs for you.
 
-Um over under on how effective sleep is on swarms.
-
-01:21:56
-
-Like I don't know how that that works. I don't that much.
-
-01:22:04
-
-How do they was that calculator? I gotta get back to my food. Now. It's just dependent upon the BC's of the creatures. And then SH. Yeah. They had died because they're not like it is a swarm of creatures that quantify this many had died and they are I assume but the plate but I don't know.
-
-01:22:39
-
-Oh Well, I guess I'll just see what happens with my cast it.
-
-01:22:50
-
-I just don't know if like it would like say, oh, one Raven is like one quarter of a hit die. No. The swarms have a singular hit dice, okay? Because when they destroyed, they break up and disperse. Now, I initiative. Whatever. I don't want to fight the giant rear and swarms but they have eyeballs for you.
-
-01:23:22
-
-It didn't ask for them, you know.
-
-01:23:30
-
-You are still really damaged.
-
-01:23:42
-
-Are you on the measure tool? Essentially, there's a wall.
-
-01:23:51
-
-Boom, move into this square out from where there you go. And now move. That's three of my movement. And this is a big opening open area, right? Because it goes down into the Great Hall below.
-
-01:24:13
-
-A higher part of these things, they are coming in through the ceiling. So see about eighty feet high. We have fly speed of 40. So there's still about 40 feet up from the ground So I can't wait hit him with an AoE just yet. I can't remember. Can I be tablet?
-
-01:24:37
-
-Our date targeted. No. Okay. I guess I'm going to ready ready in action when they get caught within range then like I guess,
-
-01:24:57
+No. Okay. I guess I'm going to ready ready in action when they get caught within range then like I guess,
 
 Here. I forget one of that more than that range. I will cast a spell. It'll be a furious small. Stumbles, okay. Hello.
 
-01:25:40
-
 Well, that sucks for that swarm. What's that? They drop into the bonfires directly beneath them. They also take fall damage.
-
-01:26:01
 
 36, but let me
 
-01:26:09
-
 How far they drop it was. That question. 40 feet. That's that's pretty. So they're open the ceiling right now. They drop. Yeah, with 43 to get to water our level is and then they're got an additional however many people to drop further.
-
-01:26:30
 
 No, they're still 40 feet from the ground. Okay. Hopeless is not it's called I mean it's still pretty tall. 40 feet like and then conference and they are catching on fire.
 
-01:26:57
-
 All right. How does following damage work with us? Componentate each tape. Stop thinking about them. As individual creatures, I know It was a creature.
-
-01:27:16
-
-Understand it, go.
-
-01:27:35
 
 That's hatching on fire. Okay, we will just go with besides, for boiling water damage. I guess they have that but not a bonfires more often immerse. There's something that I bought for playing damage. He exposure.
 
-01:28:02
-
 Don't actually see a bonfire on here anywhere though.
-
-01:28:13
 
 I mean author, just separate rules for catching on fire. There are. But then they'd only take one new 6 points of damage being immersed in the boiling. Water. Does Henry stick points damage for a round of exposure? And I mean, bonfires get really fucking hot. They seem like basically at least be comfortable to that set up 1v6.
 
