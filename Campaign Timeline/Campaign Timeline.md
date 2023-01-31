@@ -583,7 +583,12 @@ Noe still spewing blood
 	Ochi steps to close the distance to the remaining foe and with Helgarvals assistance strikes him twice but he remains standing.
 	Zio goes to use his wand again and the bolts of magic finally overcome the monk.
 
+Ochi says a prayer for the dead.
+Grayson collects the quality crafted spears that the students were bearing.
+
 The room the battle left the Scions in contains a meditation screen of obviously Tian Ming style. Behind the screen is a small leather trunk. 
 inside they find a washer woman's clothes and other possessions, including a disguise kit, an ornate decorative blowgun fashioned from Jade and lapis lazuli, gold pieces in Tian coins, and a writ signed by Sven Bloodeagle that gives the bearer the authority to commandeer any of the Linnorm Kings housecarls within two miles of Kalsgard for up to 12 hours.
+
+> "Do what you want with this. Take it. Burn it. i don't care." - N
 
 
