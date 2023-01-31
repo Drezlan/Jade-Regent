@@ -940,733 +940,93 @@ Oh we'll see too much fat. Would you preferred less fat as opposed to know that 
 initiative. Whatever. I don't want to fight the giant rear and swarms but they have eyeballs for you.
 
 No. Okay. I guess I'm going to ready ready in action when they get caught within range then like I guess,
-
-Here. I forget one of that more than that range. I will cast a spell. It'll be a furious small. Stumbles, okay. Hello.
-
-Well, that sucks for that swarm. What's that? They drop into the bonfires directly beneath them. They also take fall damage.
-
-36, but let me
-
-How far they drop it was. That question. 40 feet. That's that's pretty. So they're open the ceiling right now. They drop. Yeah, with 43 to get to water our level is and then they're got an additional however many people to drop further.
-
-No, they're still 40 feet from the ground. Okay. Hopeless is not it's called I mean it's still pretty tall. 40 feet like and then conference and they are catching on fire.
-
-All right. How does following damage work with us? Componentate each tape. Stop thinking about them. As individual creatures, I know It was a creature.
-
-That's hatching on fire. Okay, we will just go with besides, for boiling water damage. I guess they have that but not a bonfires more often immerse. There's something that I bought for playing damage. He exposure.
-
-Don't actually see a bonfire on here anywhere though.
-
-I mean author, just separate rules for catching on fire. There are. But then they'd only take one new 6 points of damage being immersed in the boiling. Water. Does Henry stick points damage for a round of exposure? And I mean, bonfires get really fucking hot. They seem like basically at least be comfortable to that set up 1v6.
-
-01:28:42
-
-Yeah, you want you can you can also anywhere you want. The reason why they only do one V6 is because abstractly speaking, you can like survive running through it on my You can but dropping directly into it for an entire roundness. It's different.
-
-01:29:04
-
-I don't disagree. So I'm gonna roll it as full immersion, just like boiling water since they're literally dropping directly onto it. Yeah. I feel It would be really silly if like straying someone up and like setting them on fire like a witch. Only did 1D specs damage time. Ridiculous.
-
-01:29:36
-
-Of.
-
-01:29:42
-
-That's warm is gone. But now I'm just saying that I have made this house, really. It applies to players too. But don't fall into a bonfire unconscious.
-
-01:30:00
-
-Favorite sports.
-
-01:30:11
-
-They have to double move, but they're coming. No, she did.
-
-01:30:26
-
-What?
-
-01:30:35
-
-Yeah, I think that's just you and choir right now Shoko. Yeah, and then their irate.
-
-01:30:50
-
+Here. I forget one of that more than that range. I will cast a spell. It'll be a  nowball okay. Hello.
 Lose what you see important in reflex. Save.
-
-01:31:05
-
-Oh yeah.
-
-01:31:20
-
 All right. Play will technically be blind for one day.
-
-01:31:31
-
-Bones just over here.
-
-01:31:44
-
-Wow.
-
-01:31:55
-
-Making it. Okay. Turn now,
-
-01:32:05
-
-Oh, gee says, brothers brothers. There's no need for this. Just kidding. They're too far away from me to really do anything. I will run all the way up into do some stab on this other one. Perhaps.
-
-01:32:24
-
-You may be needed. Am I interesting? Organ called away with baby? No, I see him doing stuff.
-
-01:32:47
-
-You can charge into this square if you want.
-
-01:32:56
-
-He went way in, as little,
-
-01:33:08
-
-Here. Now anywhere. Yeah, just discord things With a charge. I can move double speed and attack still, that is correct. Oh then I'll take a swing and they are tiny. So that if you have damage from attacks but you can attack them, I remember they're fun.
-
-01:33:35
-
+Ochi They're too far away from me to really do anything. I will run all the way up into do some stab on this other one. Perhaps.
 That hits.
+zio casts snowball here and a bunch of frozen birds fall from the sky.
+Koya heals
+Noe is gonna throw hands lands a strike
 
-01:33:39
-
-All right, that's all I got you.
-
-01:33:53
-
-Theocast. That's good.
-
-01:34:06
-
-Here.
-
-01:34:25
-
-They fail and a bunch of frozen birds fall from the sky.
-
-01:34:42
-
-I'm sorry. Anything else nature? No. That I over the main concern. It's better already action, you know?
-
-01:34:59
-
-Find your bread.
-
-01:35:06
-
-Babies Ravens. Cannot make reflex saves save their lives.
-
-01:35:12
-
-Now, I did you get the healing from that channel. That was a channel. Yeah, clear. Just channeled. Oh so she did. Thank you. Apologies. Cool. But we're gonna roundhouse throw hands.
-
-01:35:40
-
-Not should be the first attack.
-
-01:35:56
-
-Pull down, because it was bloomberg that on. This is.
-
-01:36:02
-
-Right, they're funny.
-
-01:36:13
-
-And see that. These are just one. Of course, that's just that's just rude supposed to action key point. I ate her ones people. Wow, I'll just take these. Let's go to make up for all the creating we did on Thursday it really is no I would be doing all the credit on Thursday.
-
-01:36:34
-
-You knows very out of character. Great incredibly. So actually make all the one occasionally feed actually like massive, but yeah, no, that's that's my entire time. I will definitely.
-
-01:36:53
-
-And controvert.
-
-01:37:21
-
-Protection, heat can go over here.
-
-01:37:27
-
-Backgrounds.
-
-01:37:32
-
-And no directions where he doesn't hit someone actually.
-
-01:38:04
-
-That's his turn. Grayson.
-
-01:38:11
-
-Here's a little, pull out some blunt arrows, and we'll shoot at the swarm.
-
-01:38:25
-
-You. That's okay. You only need to done first one.
-
-01:38:35
-
+Grayson. pull out some blunt arrows, and we'll shoot at the swarm. killing them.
 See, you don't need to be scared of all swarms. You guys can handle the ratings forms, just fine.
 
-01:38:47
-
-Press X to down.
-
-01:38:54
-
-I'm suppose anyone's all red-bellied one among these.
-
-01:39:02
-
-You know, production, but no because he didn't. No, I didn't say anything.
-
-01:39:19
+they look for the red feather raven and dont see it
 
 Oh, close the cases. Now going to be smelling up, roasted bird for at least the next little while, but still no closer to finding what we're actually here for, I take it. Oh, and a frozenberg Township. Oh, I'm dessert. Wonderful.
 
-01:39:40
-
-Raven obstacles.
-
-01:39:47
-
-In front of where
-
-01:39:57
-
 So you guys have searched the entirely now of the first floor and second floor of the long novel. So the only places left are open to that tower or back down to the dungeon.
 
-01:40:20
-
 I think we're not towards the power for me to find that.
-
-01:40:32
-
 And if I don't know, here might as well Since we don't know whether she is up or down, triple up.
 
-01:41:00
+so we're heading for the tower, right?
 
-The up and down stairs on this weren't working in a minute ago. Ah crap. And so we're heading for the tower, right? I'm just gonna gather everyone up. Yeah, they are. Instead of making a wonder through, which while amusing is also time to consuming.
-
-01:41:30
-
-You're gonna take all the amusement you can get it. I really do, There are some days where I want to just shake players and like let me have fun too. Real loud Tap. The front, the power This way, is the direction that does not
-
-01:42:03
-
-Oh great. That's lovely.
-
-01:42:09
-
-Let me get to move all of us back onto this. Oh, you did. Thank you. I don't know why that particular teleporter shoots everyone right into that wall. I appear to accept the time space continuum, there was one important thing that I left out before you got back here.
-
-01:42:29
-
-Abby, How did you get there? You don't have this latest clue but I decided to take a peek into the cliffside.
-
-01:42:47
-
-So something I missed you said.
-
-01:42:53
-
-Yeah, when you get up here, I could show you. If you move to where like, Koya is on the stairs, Oh, what is that? A local day. This room off behind the staircase, is Jordan, the axis bedroom, where we left him alone to drink in his sorrows because he's level good and being forced to do.
-
-01:43:15
-
-Bad boy, bad bear things until we passed on finding
-
-01:43:26
-
-And we're sure that he's being forced. That was about to say, no I just kind of like shakes her head in his late is under a black heels. Is Though I didn't put it on the artwork because it's not my original artwork and I totally forgot. He does have a big red, bloody mark on his chest.
-
-01:43:49
-
-So we're going up these stairs. It's another people have blood gears as usually because they willfully got them.
-
-01:44:00
+This room off behind the staircase, is Jordan, the axis bedroom, where we left him alone to drink in his sorrows because he's level good and being forced to do.
 
 How do you remove one of those? By the way that something we could remove from it. Well, then my case apparently you put it yourself into contact with an incredibly powerful artifact and it blats it off. But I get the suspicion that wouldn't work for him and more importantly you certain that he's so goodly intended.
 
-01:44:27
-
-I'm sure he's my backup character.
-
-01:44:33
-
-That's a joke.
-
-01:44:40
-
-All right, you Didian, we did say, he said wear bears are laval good. I don't know if that's always or most of the time or a lot. Oh, but no, that's that's just they are traditionally and inclined to be. That means absolutely nothing for As a mouse can be evil.
-
-01:45:01
-
 It's true. Well, he seems sad so I didn't want to hurt him. He did, he was drowning in wine. It looked like I just sounds like something man, if you want to fight it you can go fight him. I'll stand right here and watch.
 
-01:45:24
+She now that you've laid some eggs and had them hatch, you've become very soft on us. 
 
-She now that you've laid some eggs and had them hatch, you've become very soft on us. I think you and I both know, I've been very soft the entire time. Yep, you're right. Oh excellent. Remember that one time? I spared some goblins. Oh boy, what just happened? He's just, Why would you do that?
-
-01:45:48
-
+I think you and I both know, I've been very soft the entire time. 
+Yep, you're right. Oh excellent. Remember that one time? I spared some goblins. 
+Oh boy, what just happened? He's just, 
+Why would you do that?
 That was what I say. All right, your backseat drivers. Get up here and die with me.
-
-01:45:58
 
 Above. There's about to be a lot of bird on bird violence right here. There's a super bird on bird violence going. Okay, I'm sorry. No, you you don't need to worry. They were waiting for someone to step up on the stairs before. This is against flat-footed as they popped out of invisibility, dang.
 
-01:46:27
-
 We've been thinking sneak attack. Hold on one second.
-
-01:46:40
 
 I don't think I have it yet. If you're looking for uncanny, you don't have it. Yeah, well I can take it from the flourishes for warrior poet too and I don't look, it doesn't look like I have. So yeah, that gets me. Yeah, you. Yeah. And it's back which is sick.
 
-01:46:58
-
 It is quick. So I took a stab and I took another stab, what you got too fast, but they're not get sneak attacks off on me. Oh, they do. Oh boy, I set up sneak attacks separately.
-
-01:47:17
 
 OG just goes of 23 points of damage outs.
 
-01:47:29
-
 And then the next encounter will be good.
-
-01:47:38
-
-Oh boy.
-
-01:47:45
 
 Okay, koias right here.
 
-01:47:57
 
-They won't hit me again. That's for sure. Hear the question isn't quite kind of you know plane. All right. That's actually a good point. Probably not actually because having read read the iRake it can be gotten rid of with these E15 heel check. Which you probably have done Shaka?
+retcon ukshaka watching the merchant after being healed from her gouged eyes.
 
-01:48:26
-
-Yeah, Yeah. Probably Though, we'll say she did and Chaka is still guarding. That merchants Also the stairs, you
-
-01:48:45
-
-And we're going to take a quick 10. People to grab drinks and use the restroom KK. Oh,
-
-02:00:27
-
-And, And since the stage of quitting smoking where I'm hacking stuff up. Oh, school. Dear. No, it's it's a good stage. Just an awful stage of the same time.
-
-02:00:48
-
-We're not even. If everyone here.
-
-02:00:58
-
-Sound off.
-
-02:01:03
-
-Do we have magnets because these look like he's moved. Yeah, yeah. I was called away partway for what we were doing earlier. And so yeah, I got sprinkled down here. Where are we? I will put you up here.
-
-02:01:24
-
-They are up these stairs in the tower.
-
-02:01:30
 
 If you would join us in initiative, please?
 
-02:02:10
+zio does a magic on a blurred tengu?
+tengu ninja full attack two hits sneak attack going down
+wei yan reappears and stabs a tengu in the thigh
+Koya moves up and magic tries to Heal Ochi
+Grayson moves quickly and far getting next to a tengu
+raven tries to cast zio recognizes he is summoning air elemenetals
+Shoko elbows past zio searching for their red feathered nemesis but can only hear him. he instead targets the raven swarm out the window putting them to sleep mid flight.
 
-Pleasurable. Hey Theo.
+I'm sure you wonderful people have some sort of plan. 
 
-02:02:20
+Ochi continues laying on the floor
+Zio magic missile?
+ninja retalitates against the dwarf
+wei yan bites and claws again.
+Koya tries to revive him again and suceeds
+Grayson focuses on the ravens sound to pinpoint him and charges towards it's location and once in range levies a careful shot at the bird spellslinger interrupting his summoning.
 
-I can't move. Look inside. It's imposed, though.
+The bird narrows his eyes at grayson and calls out something else in druidic and a wall of wind flares to life between them.
 
-02:02:29
+The Tango like panic swings at helgarval.
 
-And come over there.
+shoko tries to sleep some more birds.
 
-02:02:33
+Noe appears and cuts deeply into one of the tengu ninja who squawks in pain unfazed by his blurred image.
 
-Artist that guy. But this.
+Ochi is going to stand up. I stand and swing on that boy. You hit him
 
-02:02:43
+Helgarval??.. flies over and tries to headbutt
 
-That breaks through his blur effect.
-
-02:02:49
-
-And that's the end of my turn. Oh, it's turning in. I guess he will pull it back. He will want. Now, he will pull attack.
-
-02:03:14
-
-It's too.
-
-02:03:21
-
-Yeah, they go, they one of those fitsy. Right first. Oh, well, no. Yeah, he hits me away. He want the 20, net 20. What would hit the internet 20? Yeah, it wasn't that 20. Oh, it isn't that 20, but it wouldn't confirm. Talk about the Tango's attackers Zeo's attack.
-
-02:03:46
-
-This is the tank attack. Is it walk is Ashi attack will hit his bite. Attack will hit the crit, will not hit. Okay. And then here to snack attacks, I'm sorry, is the flanking included in the bite? Actually the confirmation because then he would the 16 hits. You got my flat-footed, I still have an acted.
-
-02:04:14
-
-Oh shit.
-
-02:04:18
-
-Well, at least the critical damage is only three points more. You got your backup character, already, and all your? Yeah, this gonna put me really low dude. So if I apply time, they did something apply. Alright, I don't mean that the expense of your character but he's ninjas have been pretty worthless.
-
-02:04:48
-
-I'm at negative three. I'm down. So, that was him.
-
-02:05:01
-
-You, you
-
-02:05:19
-
-Try it.
-
-02:05:26
-
-And,
-
-02:05:37
-
-Okay. Yeah, and OG's just gonna go down, he's not gonna use resolve. No. No. I don't think that's a very good idea way in reappears and stabs one of the Tengu in the thigh.
-
-02:06:16
-
-And have double moves there.
-
-02:06:26
-
-Well yeah.
-
-02:06:35
-
-Important to come backcast. For that, but she's targeting here. So again.
-
-02:06:52
-
-Really quiet.
-
-02:06:58
-
-He fails the cast defensively, but refusing to let her little birdie go. Oh, she can't pass the move action because she had to move.
-
-02:07:24
-
-Grayson. Okay, it's gonna start moving.
-
-02:07:42
-
-Well it's great to know what the fucking already and we'll do us the service of that 50. That's one move and then we'll start a just double moving.
-
-02:08:02
-
-The handy 80 and he'll just run right up next to the guy and that's his turn.
-
-02:08:28
-
-You hear screeching, Raven's voice beginning to cast the spell and just get
-
-02:08:42
-
-Lemon Nature's Allied 3. And with the 35, I will tell you he is summoning air element rules.
-
-02:08:52
-
-Oh, goody
-
-02:09:04
-
-Bringing us to Shoko.
-
-02:09:11
-
-Where is it one? Nope, not that way. Up these stairs.
-
-02:09:39
-
-Okay, circle and shove his way past Zeo.
-
-02:09:55
-
-Where is the bird? You have no idea.
-
-02:10:06
-
-But you can hear him.
-
-02:10:13
-
-This flock of Ravens, are they about to come together and open window? They're outside though. Yeah, they're playing around the tower. Okay asleep.
-
-02:10:47
-
-Default to their doom. That's so lucky. They were also flying over a bonfire. No, they're just flying 80 feet in here. I'm still gonna roll the damage and see, but it is more than likely that they're dead. The storm only has 18 HP. They're dead and I'll be shot.
-
-02:11:12
-
-Goes turn and falling is clutching damage. Oh, dear form.
-
-02:11:33
-
-Plus it's busy little bit.
-
-02:11:45
-
-I'm sure you wonderful people have some sort of plan. I'm sure you do. My plan is to stop bleeding. I recommend it. Uncheck, if you believe.
-
-02:12:04
-
-And fortunately that is one short but you do not stabilize this room. Okay, what happens. Never died before. Minus one more HP, negative 4.
-
-02:12:41
-
-Why is it doing that? I don't know doing what he's committed. Negative 11, it's I tried to just change it to four and it took it as subtract 4 from my total twice. So yeah, I think. Yeah. Oh, she's dead. I died. I've lost vision. I'm really dead.
-
-02:13:12
-
-Okay, want to do?
-
-02:13:23
-
-Oh, I accidentally deleted you. It looks like he. Alright go ahead and throw Jordan in this room. That's my new character.
-
-02:13:39
-
-You information tracker.
-
-02:13:47
-
-Okay, the exact same role you got before, huh? There's two of me in there now thing. Yeah, they're two of them in there. Oh disappeared, but that's fine. Yeah, I deleted the old one, the boom like videos.
-
-02:14:14
-
-You. The only thing stopping them from swarming. You is the tango in the way.
-
-02:14:35
-
-Their place, we just intense.
-
-02:14:52
-
-Video.
-
-02:14:58
-
-I can move over there, right?
-
-02:15:03
-
-Uh, yeah. That's one.
-
-02:15:09
-
-Well, I'm not I'm I'm to go ahead and, you know, use this on the same, the same thing. You grab it with trying to beat up on one missiles. Hit kick them down the other one with left or the other one.
-
-02:15:31
-
-He is still up.
-
-02:15:37
-
-Oh, that's the end of my turn.
-
-02:15:42
-
-Now, it is his turn and he is a monkey, stabbing him in the crotch and the grace, the next one. Not sure which is more terrifying. The legs are right there, man. It's true. He will swing at the door and I believe Miss. Correct.
-
-02:16:09
-
-And,
-
-02:16:14
-
-You bite.
-
-02:16:20
-
-Look.
-
-02:16:32
-
-Though, this monkey starts scrambling all over him blaming and biting.
-
-02:16:45
-
-I'm gonna say when he technically gets detected. No, is signing in doesn't provide you and is not invisible. That Raven. Swarm is dead.
-
-02:17:07
-
-Quiz going to step into the square over him so she doesn't have to roll shit.
-
-02:17:19
-
-21 points. Hell yeah.
-
-02:17:29
-
-Phone. She moved great sand.
-
-02:17:35
-
-A concentrime perception. The fact that pinpoint the like the location of the the changes or casting
-
-02:18:00
-
-It sounds like it's coming from the other side of the tower.
-
-02:18:15
-
-All right, I might regret this Grace is gonna try to like run over there. Obviously not a run maneuver, but
-
-02:18:32
-
-I'm sure there's a text opportunity. So There are from two tengo.
-
-02:18:44
-
-But let me quick.
-
-02:18:54
-
-So, the first one gets a 16 hit Artemis. The second one is against your flat-footed AC with the 15. Also a mess. Very nice over them. Give me now resume.
-
-02:19:18
-
-And he's gonna take a Was it called perfect strike. Shot. The one where he rolls twice and uses the better attack. Sure Are we sure words doesn't have deflect arrows. So it'll be the 29 to hit. He's trying to attempting to interrupt the spellcast,
-
-02:20:00
-
-Not key roles this.
-
-02:20:08
-
-Don't roll the twice. The 13. You interrupt. His spellcasting Everybody. In this term Grayson will like narrows his eyes. He feels like he's got unfinished business from when he tried to take the bird down back at the temple. Yeah, definitely man. Everyone's got even with this bird.
-
-02:20:38
-
-Boom.
-
-02:20:44
-
-The bird narrows his eyes at you.
-
-02:20:51
-
-Pause out. Something else in druidic.
-
-02:21:01
-
-It's not.
-
-02:21:06
-
-And a wall torrent of wind appears between the two of you.
-
-02:21:30
-
-This is therapy, all right. Boom. The Tango like panic swings at the flying gold helm Mrs. Choko.
-
-02:21:54
-
-To find know.
-
-02:22:02
-
-Swarms are very annoying. So,
-
-02:22:09
-
-What? I'm like that. So that just in case somehow, the swarm in the Tango are both to HD. They are both for HD actually. So which one would you like to target of it would be the swarm because the storm is closer to the epicenter. Little boom. But at the past outs form,
-
-02:22:38
-
-Some very effective uses of sleep today. Yes. Incredibly Anyway, and this is a very useful spot But 20 20. Hmm.
-
-02:23:02
-
-Yeah. Okay.
-
-02:23:06
-
-Um,
-
-02:23:15
-
-Schwing.
-
-02:23:23
-
-The nope. Nope, nope. Nope.
-
-02:23:33
-
-That deeply into the tengo who squats that, you much the same way that It oats you squawks.
-
-02:23:46
-
-It's the death car. People are probably going to hate me for saying this, but I note that they probably have blurup. Oh yeah, they do. Hope they're up. These are the competent Ninjas. I forgot the boom. You still had like the blurred vanishes for a moment. I'm just put this right here.
-
-02:24:14
-
-Oh look. And then just kind of looks urgent. Just like what are you? Come on. Very tired. Is it? No way. Adjust her glasses. Slightly in the blurriness goes away. This would experiment. That's pretty thematic edge. Ochi is going to stand up. Probably get stabbed. We'll see you were club-footed before.
-
-02:24:46
-
-Yeah. Does me now standing count as acting? They all look up everything, so that'll be a miss then actually he doesn't have combat reflexes. I'm helping You are helping I guess that's just what I would buy on ninjas who were trying to help points in area. I know, right?
-
-02:25:14
-
-These are terrible or Carol, ninjas. They're terrible news. I stand and swing on that boy. You hit him that boy and that's pretty much going to be the turn for me. Unfortunately. But look at how sweet their faces are. Why would you ever want to hurt them?
-
-02:25:51
-
-Look at those spaces. Why does that one look cuddlier than mine? I don't like how they've drawn the floof here. It looks more like he's diseased.
-
-02:26:06
-
-I'm in their feathers. He's part sheep. I know he's bird sheep just tell that they're supposed to be bushy feathers but it looks more like just corpse skin to me and anything else on your turn out. She. No, that's all I got really or even swarm continues to use.
-
-02:26:45
-
-Lines over and tried to head button but it is not it.
-
-02:26:56
-
-Deal.
-
-02:27:05
-
-Forget that guy. And hit it with the snowball, right? No, no. I got a blur effect going. I roll for my cool blur. By the way. Oh yeah.
-
+zio hit it with the snowball,
 02:27:28
 
 I mean, I liked it better when you hit
