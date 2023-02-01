@@ -1,3 +1,7 @@
+---
+Alias: Noe, Noe Icemark, Hatsuyuki
+---
+
 #person #caravan #PC
 
 ![[Noe.png]]
@@ -10,3 +14,7 @@ Father Hongal tian han
 name is tianshu
 name is minkain.
 wants to be the only frozen shadow
+
+[[Noe]]
+noe
+N

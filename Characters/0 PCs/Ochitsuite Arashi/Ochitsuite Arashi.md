@@ -1,9 +1,5 @@
-# Ochitsuite Arashi Overview
- 
-```ccard
-type: folder_brief_live
-```
- 
-
+---
+Alias: Ochi, Ochisuite
+---
 
 #person #caravan #PC

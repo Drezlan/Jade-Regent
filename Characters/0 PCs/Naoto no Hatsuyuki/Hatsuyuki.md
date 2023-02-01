@@ -1,1 +1,0 @@
-Referring to [[Hatsuyuki no Naoto]]

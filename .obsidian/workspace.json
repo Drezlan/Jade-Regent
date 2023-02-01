@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6be2ab20965cb6fe",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Noe.png"
-              }
-            }
-          },
-          {
-            "id": "794f4c93aebc4a2a",
+            "id": "4434a5d20ad9a799",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
+                "file": "Campaign Timeline/Campaign Timeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -31,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -82,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 317.5026054382324
   },
   "right": {
     "id": "c53138176d88334e",
@@ -98,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
+                "file": "Campaign Timeline/Campaign Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
+                "file": "Campaign Timeline/Campaign Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md"
+                "file": "Campaign Timeline/Campaign Timeline.md"
               }
             }
           },
@@ -159,12 +148,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 459.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,17 +167,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "794f4c93aebc4a2a",
+  "active": "4434a5d20ad9a799",
   "lastOpenFiles": [
-    "Noe.png",
-    "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
-    "Characters/0 PCs/Naoto no Hatsuyuki/Hatsuyuki.md",
-    "Characters/0 PCs/Naoto no Hatsuyuki/Untitled 1.canvas",
-    "Characters/0 PCs/Naoto no Hatsuyuki/Untitled.canvas",
-    "Characters/0 PCs/Naoto no Hatsuyuki/Noe Icemark.md",
-    "Characters/0 PCs/Naoto no Hatsuyuki/Noe.md",
+    "[Ochitsuite Arashi.md",
     "Campaign Timeline/Campaign Timeline.md",
     "Places/Inner Sea/Varisia/Sandpoint folder/Rusty Dragon.md",
-    "Transcripts/10 8 22 trolls.md"
+    "Places/Inner Sea/Varisia/Sandpoint folder/Sandpoint.md",
+    "Places/Inner Sea/Varisia/Varisia.md",
+    "Places/Inner Sea/Varisia/Brinewall Village Folder/keep/Brinewall Keep.md",
+    "Places/Inner Sea/Varisia/Brinewall Village Folder/Brinewall Graveyard.md",
+    "Places/Inner Sea/Varisia/Brinewall Village Folder/Brinewall VIllage.md",
+    "Places/Inner Sea/Inner Sea.md",
+    "Places/Vault.md"
   ]
 }
