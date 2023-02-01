@@ -1021,45 +1021,14 @@ The Tango like panic swings at helgarval.
 shoko tries to sleep some more birds.
 
 Noe appears and cuts deeply into one of the tengu ninja who squawks in pain unfazed by his blurred image.
-
 Ochi is going to stand up. I stand and swing on that boy. You hit him
-
 Helgarval??.. flies over and tries to headbutt
+zio hit it with the snowball or magic missile.
+wei yan attempts to slit the unconscious ninjas throat. 
 
-zio hit it with the snowball,
-02:27:28
+The monkey is growing on me.
 
-I mean, I liked it better when you hit
-
-02:27:38
-
-Will leave the head. The snowball collides with him academic muscle, the magic missile collides with him. But here in my turn. Angry ninja is unconscious way and takes full round action, and slits his throat.
-
-02:28:08
-
-I don't think she was a little monkey. Just gets done. We've done a switchblade.
-
-02:28:18
-
-The monk is growing on me.
-
-02:28:31
-
-Who loves fortitude and still does in succeed, that was really good role.
-
-02:28:45
-
-On the hey, fucking birds. Not you OG, rude.
-
-02:29:11
-
-There's nothing to huggle his beak. Bounces off of the tiny Cassian, angel.
-
-02:29:19
-
-Who has DR10 or 5 cold, iron or evil. She. Oh yeah. But with a boom, boom.
-
-02:29:37
+someone attacks helgarval
 
 They're 26 back to OG.
 
