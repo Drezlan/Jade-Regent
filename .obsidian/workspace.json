@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "21e205130c33f2de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
         "stacked": true
@@ -148,11 +161,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 459.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,15 +182,15 @@
   },
   "active": "4434a5d20ad9a799",
   "lastOpenFiles": [
-    "[Ochitsuite Arashi.md",
+    "Obsidian notes.md",
     "Campaign Timeline/Campaign Timeline.md",
+    "[Ochitsuite Arashi.md",
     "Places/Inner Sea/Varisia/Sandpoint folder/Rusty Dragon.md",
     "Places/Inner Sea/Varisia/Sandpoint folder/Sandpoint.md",
     "Places/Inner Sea/Varisia/Varisia.md",
     "Places/Inner Sea/Varisia/Brinewall Village Folder/keep/Brinewall Keep.md",
     "Places/Inner Sea/Varisia/Brinewall Village Folder/Brinewall Graveyard.md",
     "Places/Inner Sea/Varisia/Brinewall Village Folder/Brinewall VIllage.md",
-    "Places/Inner Sea/Inner Sea.md",
-    "Places/Vault.md"
+    "Places/Inner Sea/Inner Sea.md"
   ]
 }
