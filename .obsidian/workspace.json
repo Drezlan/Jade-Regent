@@ -13,21 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd808ade845b377d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transcripts/10 8 22 trolls.md",
-                "mode": "source",
+                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md"
+                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md"
               }
             }
           },
@@ -183,15 +170,15 @@
   },
   "active": "6be2ab20965cb6fe",
   "lastOpenFiles": [
-    "Places/Inner Sea/Varisia/Sandpoint folder/Rusty Dragon.md",
+    "Characters/0 PCs/Naoto no Hatsuyuki/Hatsuyuki.md",
+    "Characters/0 PCs/Naoto no Hatsuyuki/Noe Icemark.md",
+    "Characters/0 PCs/Naoto no Hatsuyuki/Noe.md",
+    "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
     "Campaign Timeline/Campaign Timeline.md",
+    "Places/Inner Sea/Varisia/Sandpoint folder/Rusty Dragon.md",
     "Transcripts/10 8 22 trolls.md",
     "Te No Sui.md",
     "Obsidian notes.md",
-    "Characters/1 Caravan NPCs/Ameiko/Ameiko Kaijitsu.md",
-    "Characters/1 Caravan NPCs/Ameiko/Ameiko Amatatsu.md",
-    "Characters/1 Caravan NPCs/Ameiko/Ameiko.md",
-    "Transcripts/10 1 22 grayson.md",
-    "Characters/1 Caravan NPCs/Koya Mvashti/Koya Mvashti.md"
+    "Characters/1 Caravan NPCs/Ameiko/Ameiko Kaijitsu.md"
   ]
 }
