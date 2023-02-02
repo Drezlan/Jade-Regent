@@ -59,5 +59,16 @@
   "ITS@@h3-b-c@@dark": "#1D5913",
   "ITS@@h4-b-c@@dark": "#10350A",
   "ITS@@h4-illusion@@dark": "#10350A",
-  "ITS@@sphd-pre-1@@dark": "#54E339"
+  "ITS@@sphd-pre-1@@dark": "#54E339",
+  "ITS@@sphd-ed-1@@dark": "#54E339",
+  "ITS@@sphd-pre-2@@dark": "#2C851C",
+  "ITS@@sphd-ed-2@@dark": "#2C851C",
+  "ITS@@sphd-pre-3@@dark": "#1D5913",
+  "ITS@@sphd-ed-3@@dark": "#1D5913",
+  "ITS@@sphd-pre-4@@dark": "#10350A",
+  "ITS@@sphd-ed-4@@dark": "#10350A",
+  "ITS@@header-borders": false,
+  "ITS@@dark-accent@@dark": "#54E339",
+  "ITS@@deep-dark-accent@@dark": "#54E339",
+  "ITS@@graph-lines@@dark": "#E7E7E7"
 }
