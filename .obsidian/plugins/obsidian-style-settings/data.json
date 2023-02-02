@@ -44,5 +44,7 @@
   "ITS@@code-text@@dark": "#E3C93E",
   "ITS@@inactive@@dark": "#2C851C",
   "ITS@@bg@@dark": "#E3C93E",
-  "ITS@@table@@dark": "#E3C93E"
+  "ITS@@table@@dark": "#575755",
+  "ITS@@lh": 1.3,
+  "ITS@@b-line": 2
 }
