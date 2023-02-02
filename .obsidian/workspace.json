@@ -13,21 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21e205130c33f2de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian notes.md",
-                "mode": "source",
+                "file": "Campaign Timeline/Campaign Timeline.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
+                "file": "Campaign Timeline/Campaign Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
+                "file": "Campaign Timeline/Campaign Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md"
+                "file": "Campaign Timeline/Campaign Timeline.md"
               }
             }
           },
@@ -180,8 +167,47 @@
       "audio-recorder:Start/stop recording": false
     }
   },
+  "floating": {
+    "id": "a9a337ead0bb7155",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d62b3a1ea9ae8ecd",
+        "type": "window",
+        "children": [
+          {
+            "id": "7f2b9b40e8ab797f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1efa0d02cb0534ff",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Campaign Timeline/Campaign Timeline.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 830,
+        "y": 138,
+        "width": 700,
+        "height": 799,
+        "maximize": false,
+        "zoom": 1
+      }
+    ]
+  },
   "active": "4434a5d20ad9a799",
   "lastOpenFiles": [
+    "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
     "Campaign Timeline/Campaign Timeline.md",
     "Obsidian notes.md",
     "[Ochitsuite Arashi.md",
@@ -190,7 +216,6 @@
     "Places/Inner Sea/Varisia/Varisia.md",
     "Places/Inner Sea/Varisia/Brinewall Village Folder/keep/Brinewall Keep.md",
     "Places/Inner Sea/Varisia/Brinewall Village Folder/Brinewall Graveyard.md",
-    "Places/Inner Sea/Varisia/Brinewall Village Folder/Brinewall VIllage.md",
-    "Places/Inner Sea/Inner Sea.md"
+    "Places/Inner Sea/Varisia/Brinewall Village Folder/Brinewall VIllage.md"
   ]
 }
