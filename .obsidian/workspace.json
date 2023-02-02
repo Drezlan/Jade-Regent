@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md"
+                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "4434a5d20ad9a799",
   "lastOpenFiles": [
-    "Obsidian notes.md",
     "Campaign Timeline/Campaign Timeline.md",
+    "Obsidian notes.md",
     "[Ochitsuite Arashi.md",
     "Places/Inner Sea/Varisia/Sandpoint folder/Rusty Dragon.md",
     "Places/Inner Sea/Varisia/Sandpoint folder/Sandpoint.md",
