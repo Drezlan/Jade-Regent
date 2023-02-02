@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Campaign Timeline/Campaign Timeline.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -186,7 +186,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Campaign Timeline/Campaign Timeline.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "backlinks": true,
                     "source": false
                   }
@@ -196,26 +196,26 @@
           }
         ],
         "direction": "vertical",
-        "x": 830,
-        "y": 138,
-        "width": 700,
-        "height": 799,
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
         "maximize": false,
         "zoom": 1
       }
     ]
   },
-  "active": "4434a5d20ad9a799",
+  "active": "1efa0d02cb0534ff",
   "lastOpenFiles": [
-    "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
+    "Deities/Desna.md",
     "Campaign Timeline/Campaign Timeline.md",
+    "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
     "Obsidian notes.md",
     "[Ochitsuite Arashi.md",
     "Places/Inner Sea/Varisia/Sandpoint folder/Rusty Dragon.md",
     "Places/Inner Sea/Varisia/Sandpoint folder/Sandpoint.md",
     "Places/Inner Sea/Varisia/Varisia.md",
     "Places/Inner Sea/Varisia/Brinewall Village Folder/keep/Brinewall Keep.md",
-    "Places/Inner Sea/Varisia/Brinewall Village Folder/Brinewall Graveyard.md",
-    "Places/Inner Sea/Varisia/Brinewall Village Folder/Brinewall VIllage.md"
+    "Places/Inner Sea/Varisia/Brinewall Village Folder/Brinewall Graveyard.md"
   ]
 }
