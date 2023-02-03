@@ -1,3 +1,8 @@
+Adventure start date
+08/11/2011 IRL
+Fireday 11th of Arodus 4711
+
+
 Sandpoint days spent
 Brinewall days spent
 
@@ -6,12 +11,16 @@ Brinewall days spent
 Brinewall to Kalsgard
 
 Tomgruv 6 days
-Solskinn 1 day
-Delmon's Glen 65 mi
-Losthome crossing the river .5 days.
-Eldente 1 day
-Skalsbridge 1 day
-Ullerskad 2 days
-Kalsgaard 2 days
+Solskinn 1 day     7
+Delmon's Glen 65 mi 2 days     9
+Losthome crossing the river .5 days.   10
+Eldente 1 day    11
+Skalsbridge 1 day  12
+Ullerskad 2 days  14
+Kalsgaard 2 days  16
 
+1300 miles
+Turvik 41 days
+
+Iqaliat
 
