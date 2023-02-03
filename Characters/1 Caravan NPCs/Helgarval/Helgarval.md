@@ -1,9 +1,5 @@
-# Helgarval Overview
- 
-```ccard
-type: folder_brief_live
-```
- 
-
+---
+Alias: Talking Helmet, Helmet, Angel, The Cassian Angel
+---
 
 #person #caravan 

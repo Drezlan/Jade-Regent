@@ -1,5 +1,5 @@
 ---
-Alias: Noe, Noe Icemark, Hatsuyuki
+Alias: Noe, Noe Icemark, Hatsuyuki, Hatsuyuki No Naoto, Naoto-san, Hatsu-chan, Hatsu, 
 ---
 
 #person #caravan #PC

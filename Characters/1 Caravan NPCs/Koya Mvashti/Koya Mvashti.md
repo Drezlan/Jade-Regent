@@ -1,3 +1,7 @@
+---
+Alias: Koya, The old woman, Fortune Teller, The healer,
+---
+
 #person #caravan
 
 Until she passed away from natural causes just a few months ago, Madame [[Niska Mvashti]]i was the oldest person in [[Sandpoint]]. No one quite knows exactly how old the Varisian seer actually was when she died (she was already old when [[Sandpoint]] was founded over 40 years ago)—but the fact that her only daughter Koya is herself an old woman is a telling fact. Koya has spent a fair amount of her life traveling [[Varisia]] with a number of caravans, serving as a healer when she was younger and more recently as a fortune-teller. For the past several years, she’s been traveling with her adopted son [[Sandru Vhiski]] on a regular caravan route that travels between
