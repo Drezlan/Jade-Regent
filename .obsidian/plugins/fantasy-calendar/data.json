@@ -1201,6 +1201,18 @@
           "category": null
         },
         {
+          "name": "Goblin Bounties",
+          "description": "The party meet for the first time.",
+          "date": {
+            "day": 11,
+            "month": 7,
+            "year": 4711
+          },
+          "id": "ID_1b7a28599949",
+          "note": null,
+          "category": "ID_fbf93a087a1a"
+        },
+        {
           "name": "Bastion Day",
           "description": "Solku\n\nBastion Day is a two-day festival held annually on 19 and 20 Lamashan in the Katapeshi town of Solku honoring the founding of the town, when it is traditional to host a stranger from one noon until the next.",
           "id": "824545",
@@ -1239,6 +1251,11 @@
           "name": "Miscellaneous Events",
           "id": "miscellaneous-events",
           "color": "#0288D1"
+        },
+        {
+          "id": "ID_fbf93a087a1a",
+          "color": "#ffee33",
+          "name": "Travellers event"
         }
       ]
     }
