@@ -1,8 +1,3 @@
-# Snorri Stoneye Overview
- 
-```ccard
-type: folder_brief_live
-```
- 
-
-
+---
+Alias: Snorri, the Mad Reaver
+---

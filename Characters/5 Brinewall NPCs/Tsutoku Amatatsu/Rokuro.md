@@ -1,1 +1,0 @@
-Referring to [[Rokuro Kaijitsu]]

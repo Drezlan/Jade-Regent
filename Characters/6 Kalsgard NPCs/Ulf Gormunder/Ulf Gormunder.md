@@ -1,8 +1,3 @@
-# Ulf Gormunder Overview
- 
-```ccard
-type: folder_brief_live
-```
- 
-
-
+---
+Alias: Ulf, The Guide
+---

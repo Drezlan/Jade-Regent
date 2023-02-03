@@ -1,8 +1,3 @@
-# Rokuro Amatatsu Overview
- 
-```ccard
-type: folder_brief_live
-```
- 
-
-
+---
+Alias: Tsutoku, Rokuro, Rokuro Kaijitsu
+---

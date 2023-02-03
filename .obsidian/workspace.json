@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12928efac61ca4b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Inner Sea/Varisia/Brinewall Village/Third Vault.md",
+                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md"
+                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md"
               }
             }
           },
@@ -174,15 +161,15 @@
   },
   "active": "70a127c9114c7a2b",
   "lastOpenFiles": [
-    "Places/Inner Sea/Varisia/Brinewall Village/Third Vault.md",
-    "Campaign Timeline/Campaign Timeline.md",
-    "Places/Inner Sea/Varisia/Brinewall Village/Brinewall Village.md",
-    "Places/Inner Sea/Varisia/Varisia.md",
-    "Places/Vault.md",
-    "Characters/0 PCs/Grayson.md",
     "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
-    "Characters/4 Brinestump NPCs/Ratling Familiar.md",
-    "Characters/7 Sandpoint NPCs/Belor Hemlock.md",
-    "Things/Kaijitsu Fan map.md"
+    "Characters/1 Caravan NPCs/Te No Sui.md",
+    "Characters/1 Caravan NPCs/Spivey.md",
+    "Characters/1 Caravan NPCs/Ameiko Amatatsu.md",
+    "Characters/1 Caravan NPCs/Wei Yan/Wei Yan.md",
+    "Characters/1 Caravan NPCs/Shelalu Andosana/Shelalu Andosana.md",
+    "Characters/1 Caravan NPCs/Sandru Vhiski/Sandru Vhiski.md",
+    "Characters/1 Caravan NPCs/Koya Mvashti/Koya Mvashti.md",
+    "Characters/1 Caravan NPCs/Kelda Oxgutter/Kelda Oxgutter.md",
+    "Characters/1 Caravan NPCs/Helgarval/Helgarval.md"
   ]
 }
