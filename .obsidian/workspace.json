@@ -11,8 +11,13 @@
             "id": "f0bc67d37618aace",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md"
+              }
             }
           },
           {
@@ -150,17 +159,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e79d630e41bbdbd0",
+  "active": "f0bc67d37618aace",
   "lastOpenFiles": [
+    "Image.png.md",
     "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
+    "Ameiko.md",
     "Campaign Timeline/Campaign Timeline.md",
     "Places/Inner Sea/Varisia/Brinewall Village/Brinewall Village.md",
     "Places/Inner Sea/Varisia/Brinewall Village/Brinewall keep/Brinewall keep.md",
     "Places/Inner Sea/Varisia/Brinewall Village/Third Vault.md",
     "Places/Inner Sea/Varisia/Brinewall Village/Brinewall Lighthouse.md",
     "Places/Inner Sea/Varisia/Brinewall Village/Brinewall Graveyard.md",
-    "Places/Inner Sea/Varisia/Brinewall Village/Brinewall Catacombs.md",
-    "Places/Inner Sea/Varisia/Varisia.md",
-    "Ameiko.md"
+    "Places/Inner Sea/Varisia/Brinewall Village/Brinewall Catacombs.md"
   ]
 }
