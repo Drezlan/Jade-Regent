@@ -2,6 +2,23 @@
 Alias: Noe, Noe Icemark, Hatsuyuki, Hatsuyuki No Naoto, Naoto-san, Hatsu-chan, Hatsu, 
 ---
 
+> [!infobox]
+> # Name
+> ![[Image.png|cover hsmall]]
+> ###### Stats
+> | Type |  Stat |
+> | ---- | ---- |
+> | Test | Testing |
+> | Test | Testing |
+> 
+> ##### Stats 2
+> | Type | Stat |
+> | ---- | ---- |
+> | Test | Testing |
+> | Test | Testing |
+
+
+
 #person #caravan #PC
 
 ![[Noe.png | InlR]]
