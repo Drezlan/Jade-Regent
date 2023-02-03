@@ -71,5 +71,6 @@
   "ITS@@dark-accent@@dark": "#1D5913",
   "ITS@@deep-dark-accent@@dark": "#54E339",
   "ITS@@graph-lines@@dark": "#E7E7E7",
-  "ITS@@graph-tag@@dark": "#1D5913"
+  "ITS@@graph-tag@@dark": "#1D5913",
+  "ITS@@alt-chkbx-off": true
 }
