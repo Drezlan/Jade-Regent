@@ -1,0 +1,3 @@
+---
+Alias: sparing Goblins
+---

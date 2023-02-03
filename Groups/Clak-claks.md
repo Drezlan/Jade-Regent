@@ -1,1 +1,0 @@
-[[Kaitjitsu Clan Skeletons]]

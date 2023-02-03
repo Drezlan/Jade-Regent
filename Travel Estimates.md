@@ -24,3 +24,15 @@ Turvik 41 days
 
 Iqaliat
 
+
+
+> [!infobox|Right|300]
+> # Naoto no Hatsuyuki
+> ##### Appearance
+> | Type |  Stat |
+> | ---- | ---- |
+> | Race | [[Varki]] [[Human]] |
+> | Gender | Female |
+> | Height | 5'1" |
+> | Weight | 125lbs |
+> | Age | 20's |

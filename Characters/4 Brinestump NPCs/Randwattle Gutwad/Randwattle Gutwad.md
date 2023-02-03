@@ -1,6 +1,5 @@
-# Randwattle Gutwad Overview
- 
-```ccard
-type: folder_brief_live
-```
+---
+Alias: Goblin Chief, The Chief
+---
+
  #person #brinestump 

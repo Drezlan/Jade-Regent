@@ -1,0 +1,3 @@
+---
+Alias: a chest, chest
+---

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0bc67d37618aace",
+            "id": "ecac54328500f413",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
+                "file": "Characters/0 PCs/Grayson.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
+                "file": "Characters/0 PCs/Grayson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
+                "file": "Characters/0 PCs/Grayson.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md"
+                "file": "Characters/0 PCs/Grayson.md"
               }
             }
           },
@@ -140,11 +140,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 208.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,17 +159,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f0bc67d37618aace",
+  "active": "ecac54328500f413",
   "lastOpenFiles": [
-    "Image.png.md",
     "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
-    "Ameiko.md",
     "Campaign Timeline/Campaign Timeline.md",
-    "Places/Inner Sea/Varisia/Brinewall Village/Brinewall Village.md",
-    "Places/Inner Sea/Varisia/Brinewall Village/Brinewall keep/Brinewall keep.md",
-    "Places/Inner Sea/Varisia/Brinewall Village/Third Vault.md",
-    "Places/Inner Sea/Varisia/Brinewall Village/Brinewall Lighthouse.md",
-    "Places/Inner Sea/Varisia/Brinewall Village/Brinewall Graveyard.md",
-    "Places/Inner Sea/Varisia/Brinewall Village/Brinewall Catacombs.md"
+    "Characters/4 Brinestump NPCs/Ratling Familiar.md",
+    "Characters/7 Sandpoint NPCs/Belor Hemlock.md",
+    "Things/Kaijitsu Fan map.md",
+    "Groups/The Amatatsu/The Amatatsu.md",
+    "Things/Tsutamu's Chest.md",
+    "Groups/The Amatatsu/Amatatsu.md",
+    "Groups/The Amatatsu/Kaijitsus.md",
+    "from [[Rokuro Kaijitsu.md"
   ]
 }
