@@ -1,6 +1,6 @@
 {
-  "findText": "[[[Naoto no Hatsuyuki|Noe]]]]",
+  "findText": "[[[[Grayson]]]]",
   "findRegexp": "",
   "regexpFlags": "",
-  "replace": "[[Naoto no Hatsuyuki|Noe]]"
+  "replace": "[[Grayson]]"
 }

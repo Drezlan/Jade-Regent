@@ -37,5 +37,6 @@ writing more than one line
 
 Command palette find and replace. 
 
-[^1
-[^1]: Footnotes
+123456 [^1]
+
+[^1]: these are numbers

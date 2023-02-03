@@ -26,7 +26,7 @@
   "ITS@@f-hover@@dark": "#54E339",
   "ITS@@scrollbar-thumb-bg@@dark": "#54E339",
   "ITS@@file@@dark": "#54E339",
-  "ITS@@tag@@dark": "#54E339",
+  "ITS@@tag@@dark": "#1D5913",
   "ITS@@hr@@dark": "#5E5D58",
   "ITS@@progress@@dark": "#E3C93E",
   "ITS@@th@@dark": "#1D5913",
@@ -36,7 +36,7 @@
   "ITS@@h4-c@@dark": "#54E339",
   "ITS@@h5-c@@dark": "#54E339",
   "ITS@@h6-c@@dark": "#54E339",
-  "ITS@@accent@@dark": "#54E339",
+  "ITS@@accent@@dark": "#1D5913",
   "ITS@@lite-accent@@dark": "#1D5913",
   "ITS@@accent2@@dark": "#54E339",
   "ITS@@accent2-lite@@dark": "#54E339",
@@ -68,7 +68,8 @@
   "ITS@@sphd-pre-4@@dark": "#10350A",
   "ITS@@sphd-ed-4@@dark": "#10350A",
   "ITS@@header-borders": false,
-  "ITS@@dark-accent@@dark": "#54E339",
+  "ITS@@dark-accent@@dark": "#1D5913",
   "ITS@@deep-dark-accent@@dark": "#54E339",
-  "ITS@@graph-lines@@dark": "#E7E7E7"
+  "ITS@@graph-lines@@dark": "#E7E7E7",
+  "ITS@@graph-tag@@dark": "#1D5913"
 }
