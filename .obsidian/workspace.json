@@ -34,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -210,17 +211,17 @@
       }
     ]
   },
-  "active": "d796a2ff089ff31c",
+  "active": "b8b62688dfdc3499",
   "lastOpenFiles": [
-    "Frozen Shadows1.md",
     "Campaign Timeline/Campaign Timeline.md",
+    "Untitled.md",
+    "Places/Inner Sea/Land of the Linnorm Kings/Ravenscrag.md",
+    "Places/Inner Sea/Land of the Linnorm Kings/Land of the Linnorm Kings.md",
+    "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
+    "Characters/6 Kalsgard NPCs/Omeyani.md",
+    "Thorborg Silverskorr.md",
+    "Frozen Shadows1.md",
     "Tian1.md",
-    "Places/The Crown of the World/The Crown of the World.md",
-    "Places/Inner Sea/Varisia/Varisia.md",
-    "Tengu1.md",
-    "Groups/0 Misc/Samurai.md",
-    "Groups/Oni/Oni.md",
-    "Groups/Naoto Clan 1.md",
-    "Groups/Trogolodytes/Trogolodytes.md"
+    "Places/The Crown of the World/The Crown of the World.md"
   ]
 }
