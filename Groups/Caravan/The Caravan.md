@@ -1,1 +1,0 @@
-referring to [[Sandru's Caravan]]

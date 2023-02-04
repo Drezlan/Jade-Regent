@@ -1,3 +1,3 @@
 ---
-Alias: Read Feather Raven, Raven
+Alias: Red Feather Raven, Raven
 ---

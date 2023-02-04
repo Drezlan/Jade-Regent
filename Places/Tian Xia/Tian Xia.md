@@ -1,3 +1,3 @@
 ---
-alias: Dragon Empires
+Alias: Dragon Empires
 ---
