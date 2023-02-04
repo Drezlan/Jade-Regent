@@ -11,13 +11,19 @@ Whispering shrike
 Rokuros letter
 Rokuros chest
 Brinewall village / keep
+
+
 kaijitsu fan
 Spiders
+
 Ratling familiar to brinestump witch
 Kami
 Spivey
 Sea Drake
+
 Corby
+
+
 Flatbelly
 Big spider
 Mobat
