@@ -1,3 +1,3 @@
 ---
-Alias: The Master, Sensei
+Alias: The Master, Sensei, Ninja
 ---

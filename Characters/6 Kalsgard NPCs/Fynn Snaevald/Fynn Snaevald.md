@@ -1,3 +1,3 @@
 ---
-Alias: Fynn, The Merchant
+Alias: Fynn, The Merchant, Ulfen Man
 ---
