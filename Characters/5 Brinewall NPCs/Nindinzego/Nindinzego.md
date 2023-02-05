@@ -1,7 +1,8 @@
 ---
-Alias: Ten-Handed One
+Alias: Ten-Handed One, Decapus
 ---
 
+[[Decapus]]
 
 #creature #brinewall 
 
