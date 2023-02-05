@@ -1,5 +1,34 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "Inner-Sea",
+      "lastAccessed": 1675613117584,
+      "markers": [
+        {
+          "id": "ID_68e8ba5a4829",
+          "type": "default",
+          "loc": [
+            -0.04604467749595642,
+            0.1302998811006546
+          ],
+          "link": "Saga Lands",
+          "layer": "%5B%5BInner%20Sea%20World%20Anvil.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 12,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Places/Inner Sea/Inner Sea.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",

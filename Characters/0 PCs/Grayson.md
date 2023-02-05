@@ -1,7 +1,7 @@
 ---
 Alias: The Dwarg, Legs, Freak of Nature, The Monk,
 ---
-![[Grayson 1.png|left ws-med]]
+![[Grayson.png|left ws-med]]
 
 > [!infobox|Right wmed]
 > # Grayson
