@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fac922f10214c7b2",
+        "id": "6cd12dbcf5b88307",
         "type": "tabs",
         "children": [
           {
-            "id": "d796a2ff089ff31c",
+            "id": "7a1689ce3a7f59e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,17 +150,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d796a2ff089ff31c",
+  "active": "7a1689ce3a7f59e5",
   "lastOpenFiles": [
-    "Campaign Timeline/Campaign Timeline.md",
+    "Places/Inner Sea/Saga Lands/Land of the Linnorm Kings/Sotlands.md",
+    "Places/Inner Sea/Saga Lands/Land of the Linnorm Kings/Land of the Linnorm Kings.md",
+    "Thorborg Silverskorr.md",
     "Untitled.md",
+    "Campaign Timeline/Campaign Timeline.md",
     "Obsidian notes.md",
     "Characters/6 Kalsgard NPCs/Kimandatsu/Kimandatsu.md",
-    "Decapus.md",
+    "Characters/5 Brinewall NPCs/Decapus.md",
     "Characters/5 Brinewall NPCs/Nindinzego/Nindinzego.md",
-    "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
-    "Things/Tsutamu's Chest.md",
-    "Places/Inner Sea/Land of the Linnorm Kings/Ravenscrag.md",
-    "Places/Inner Sea/Land of the Linnorm Kings/Land of the Linnorm Kings.md"
+    "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md"
   ]
 }
