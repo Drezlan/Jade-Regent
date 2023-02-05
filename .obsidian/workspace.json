@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -161,9 +161,9 @@
   },
   "active": "d796a2ff089ff31c",
   "lastOpenFiles": [
+    "Campaign Timeline/Campaign Timeline.md",
     "Untitled.md",
     "Obsidian notes.md",
-    "Campaign Timeline/Campaign Timeline.md",
     "Characters/6 Kalsgard NPCs/Kimandatsu/Kimandatsu.md",
     "Decapus.md",
     "Characters/5 Brinewall NPCs/Nindinzego/Nindinzego.md",
