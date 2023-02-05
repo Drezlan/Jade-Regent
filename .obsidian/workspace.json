@@ -11,8 +11,13 @@
             "id": "2b24da6e9bcde894",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Places/Inner Sea/Inner Sea.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Places/Inner Sea/Inner Sea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Places/Inner Sea/Inner Sea.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Places/Inner Sea/Inner Sea.md"
+              }
             }
           },
           {
@@ -179,23 +188,23 @@
           }
         ],
         "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
+        "x": 1211,
+        "y": 366,
+        "width": 1086,
+        "height": 805,
+        "maximize": true,
         "zoom": 1
       }
     ]
   },
   "active": "2b24da6e9bcde894",
   "lastOpenFiles": [
+    "Campaign Timeline/Campaign Timeline.md",
     "Places/Inner Sea/Inner Sea.md",
     "Z_Assets/Noe.png",
     "Z_Assets/Grayson.png",
     "Places/Inner Sea/Saga Lands/Saga Lands.md",
     "Z_Assets/Inner sea elevations and landmarks.jpeg",
-    "Campaign Timeline/Campaign Timeline.md",
     "Z_Assets/map_of_minkai - Copy.jpg",
     "Z_Assets/keyboar.jpg",
     "Z_Assets/Kalsgard 1 1.png",
