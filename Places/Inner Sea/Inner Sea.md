@@ -1,6 +1,6 @@
 ```leaflet 
 id: Inner-Sea 
-image: [[Inner Sea World Anvil.jpg]] 
+image: [[Inner Sea unknown.jpg]] 
 height: 600px 
 width: 95%
 bounds:
