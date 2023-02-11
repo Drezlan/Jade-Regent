@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Inner Sea/Inner Sea.md",
+                "file": "Campaign Timeline/Campaign Timeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.50260543823242
+    "width": 200
   },
   "right": {
     "id": "c53138176d88334e",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Inner Sea/Inner Sea.md",
+                "file": "Campaign Timeline/Campaign Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Inner Sea/Inner Sea.md",
+                "file": "Campaign Timeline/Campaign Timeline.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Inner Sea/Inner Sea.md"
+                "file": "Campaign Timeline/Campaign Timeline.md"
               }
             }
           },
@@ -161,15 +161,15 @@
   },
   "active": "2b24da6e9bcde894",
   "lastOpenFiles": [
-    "Places/Inner Sea/Saga Lands/Saga Lands.md",
+    "Places/Inner Sea/Saga Lands/Land of the Linnorm Kings/Kalsgard/Kalsgard.md",
     "Places/Inner Sea/Inner Sea.md",
+    "Places/Tian Xia/Tian Xia.md",
+    "Places/Inner Sea/Saga Lands/Saga Lands.md",
     "Places/The Crown of the World/The Crown of the World.md",
     "Places/Inner Sea/Saga Lands/Land of the Linnorm Kings/Land of the Linnorm Kings.md",
     "Z_Assets/Maps/Saga lands - Copy.jpg",
     "Z_Assets/Maps/Saga Lands SalesWorlds Deviant art - Copy.jpg",
     "Places/Inner Sea/Qadira.md",
-    "Z_Assets/Maps/map_of_minkai - Copy.jpg",
-    "Campaign Timeline/Campaign Timeline.md",
-    "Z_Assets/Noe.png"
+    "Z_Assets/Maps/map_of_minkai - Copy.jpg"
   ]
 }

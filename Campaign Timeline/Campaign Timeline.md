@@ -715,7 +715,7 @@ It doesn't actually say how it opens though, I'm assuming. One of the yeah, the 
 
 ---
 
-Of the limbics crucibels, burners and assorted tools, as well as a large glass case holding what appears to be a humanoid body. A variety of dried herbs and plants tangle, and perfusion from hooks on the bottoms of the stairs and sax, and chest holding additional equipment components, have been shoved underneath the stairs, a torch mounted on one of the stairs post illuminates, the chamber with a flickering glow,
+Of the alembics, crucibels, burners and assorted tools, as well as a large glass case holding what appears to be a humanoid body. A variety of dried herbs and plants tangle, and perfusion from hooks on the bottoms of the stairs and sax, and chest holding additional equipment components, have been shoved underneath the stairs, a torch mounted on one of the stairs post illuminates, the chamber with a flickering glow,
 
 knowledge check
 
