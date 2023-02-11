@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "Inner-Sea",
-      "lastAccessed": 1675836407041,
+      "lastAccessed": 1676147048585,
       "markers": [
         {
           "id": "ID_a97b3a5ae95a",
@@ -29,6 +29,38 @@
           ],
           "link": "Saga Lands",
           "layer": "%5B%5BInner%20Sea%20World%20Anvil.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8594a1b7b3b",
+          "type": "default",
+          "loc": [
+            -0.007809827686287463,
+            0.004489932331710018
+          ],
+          "layer": "%5B%5BInner%20Sea%20unknown.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1ad9f978bbcb",
+          "type": "default",
+          "loc": [
+            -0.007809827686287463,
+            0.0045701027212561715
+          ],
+          "layer": "%5B%5BInner%20Sea%20unknown.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
