@@ -1091,136 +1091,24 @@ The chamber in the rear is empty of furnishings and the floor is splattered with
 The room next door holds a simple bed and table bearing a water pitcher and basin. A fireplace stands in the eastern wall.
 
 02:52:44
+shoko moves double move
+No way. steps up and coup de grace tengu
+ochi readies his weapons for the last and hidden tengu to appear
+zio tries to foil their invisibility with a cloud of glittery magic but they do not appear.
+undetectable avian slashes Koya then appears.
+Koya lashes out with her star knife in response knocking him out the window.
 
-I think people were still in combat. We are still in combat. This bird had a nicer room than I did back in the cut. Okay. Well that's my movements. Oh no, I have actually 10 feet more. So, then I'll go over here and I guess I'll double move.
+as everyone recovers from the fight the poison makes its way through koya
 
-02:53:13
+Does anyone have a way to deal with poison? - shoko
 
-Oh, more. Okay.
+I didn't know better. I'd say you really want to die. - noe 
 
-02:53:23
-
-That appears to be everything here. No way. See why we would still be in combat because there's still a tango alive.
-
-02:53:38
-
-Hmm.
-
-02:53:45
-
-Five footsteps and acute the graph.
-
-02:53:52
-
-On our good. I think it's that one. Whichever one is currently, I know, one of them is. Yeah, this one. Yes, this one. Cool. Pretty girl. Oh, daycare. Is he? No, he's dead. No. I was about. So I'm using Wakazo shoes, which means that it's like timed three so that the chances pretty terrible good.
-
-02:54:17
-
-Yeah, nope. And that's my Before. I'm actually, So,
-
-02:54:27
-
-Oh, gee perception. We got the Tengue, right? Are these Ravens still alive. They should have dispersed snow, They are a sleep right now. But they will disburse when they awaken. We're still in combat rounds because of loads. Can I know that? No, no. You're still comment around because of the one who used vanish.
-
-02:54:53
-
-He's around here somewhere. Okay. OG delay until he appears.
-
-02:55:20
-
-Video.
-
-02:55:27
-
-Move to here. And I'm going to attempt, we take acid spell, I'm gonna hit it. Glitter dust.
-
-02:55:39
-
-Here.
-
-02:55:48
-
-Input radius strand.
-
-02:55:58
-
-Thick corner. Here we going right there.
-
-02:56:13
-
-All right. That thing appears, okay.
-
-02:56:19
-
-Through. I tried to find him. It was a good try.
-
-02:56:29
-
-Apparently we hope it became foot slanted. He's a little tipsy on his feet now.
-
-02:56:42
-
-So,
-
-02:57:05
-
-My kids.
-
-02:57:10
-
-Single shot.
-
-02:57:16
-
-Don't think then it's quite a slept, but it does hit every left footed.
-
-02:57:34
-
-Pack by 13 damage. Oh, the tengu appears. Boom. And then,
-
-02:58:03
-
-Oh, it's already got it in there. Still didn't very nice.
-
-02:58:11
-
-Need two to That really hurt. Poor quite a lot.
-
-02:58:24
-
-And then it's immediately her turn.
-
-02:59:02
-
-And then Koya, throws her star knives, at him, and knock his ass out the window.
-
-02:59:23
-
-Does anyone have a way to deal with poison?
-
-02:59:29
-
-That is a big no steps for Nomi's anti-toxin, which coya drinks.
-
-02:59:41
-
-Okay, I was about to head over and give her my own antitoxit, but doesn't that? Doesn't she still? Oh yeah. Yeah, Scroll of Lester restoration without remove any. Yeah. From there. I'll restore the damage but it won't get rid of the hose. Oh my god, max damage book times.
-
-03:00:05
-
-I know the first one was actually only two.
-
-03:00:15
-
-The anti-toxin is still there. Little plus. Oh yeah.
-
-03:00:27
-
-I didn't know better. I'd say you really want to die. Um, Brain, trying to remember.
+Um, Brain, trying to remember.
 
 03:00:45
 
-Oh yeah, it's gonna cast spell on herself.
+koya, is gonna cast spell on herself.
 
 03:00:58
 
