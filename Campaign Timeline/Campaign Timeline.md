@@ -1104,47 +1104,12 @@ Does anyone have a way to deal with poison? - shoko
 
 I didn't know better. I'd say you really want to die. - noe 
 
-Um, Brain, trying to remember.
-
-03:00:45
-
 koya, is gonna cast spell on herself.
 
-03:00:58
+Koya resists the poison
 
-More importantly. What kind of place most that? I wonder. Let's played that was round. Three. Does inspire courage give set? No, it doesn't give him. People says you guys maybe watching play a die. Oh thank god. Heck no bro. How safe Sorry. It's just coyas built different, I'm good.
-
-03:01:27
-
-By the way, you go over to quiet, doesn't definitely say. It needs to saves, but is that one that we I'm pretty sure it's too, that would really suck but at least she doesn't take any contest around.
-
-03:01:47
-
-By the way, I'm casting this inquire. Oh, she's gonna stoop down and like, put his hand on their shoulder. Like, he's worried.
-
-03:02:01
-
-We're out of combat rounds, right? Or we keeping them off for the poison. Or you can see one round for six rounds. You can Is it consecutive saves that? Just says, two saves two seconds. So she needs to save again By the way. I didn't. Okay, let me put that on here.
-
-03:02:32
-
-As Jesus Christ. She's already getting like some kind of bonus from like an anti-toxin or anything like that. Gonna heal skill helper. Yeah, you know, hair was them. [[Ochitsuite Arashi|Ochi]] has heal. If he could do anything to help he would be. Oh yeah. Does she have? Do you have to a two dual cloak of resistance to use it?
-
-03:02:55
-
-Or could I just scrape it around us over? I don't think there's an attainment time. No little skill. Let me see it matter. But no streets poison. It's a standard action. He's going to take more damage every time. The poison character makes sense or against poison. You make heel check if your heel check exceeds DC of the poison, the character receives a plus.
-
-03:03:24
-
-Four competence bonus on this on the saving throw against the poison. That's a no, I throw the cloak of resistance on her. All right, another plus one then
-
-03:03:40
-
-Come on, clear.
-
-03:03:46
-
-Oh no, I that's a plus six. So a 15, there's not enough that was around four. Why is she not rolling? Any ones don't know, man. I don't want anything to happen. Sequoia By the way. At this point, the opposite goes into a handy habitat and pulls out a potion.
+Ochi puts his hand on koya's shoulder worried over her expression.
+He continues worrying over her as Zio pulls out a potion
 
 03:04:25
 
