@@ -1110,184 +1110,60 @@ Koya resists the poison
 
 Ochi puts his hand on koya's shoulder worried over her expression.
 He continues worrying over her as Zio pulls out a potion
-
-03:04:25
-
-Okay. And has her drink it. I fully thought you were about to be like, any drinks? Just stop with the pregnant puzzles. Boom. Exit, Didn't we establish? The restoration wasn't gonna do anything, They can yield the damage, the currents there, for sure. No. Yeah, that's what it out. We have multiple potions and the scroll of it.
-
-03:04:55
-
-Now. All right, Here on round five. Leave a gun persons.
-
-03:05:07
-
-All right. Now, damage this round. I think that was your final round too? Nope, Round six is the final round. She makes it with a 25 Sequoia. Is fucked the hell up? Hmm, composers. Don't do anything. Nor there. I'm making shits up says [[Grayson]] poisonous. The worst fucking mechanic about.
-
-03:05:35
-
-Actually it's much worse than unchanned or better depending on who you ask. No, no, no, no, no. Not from not from like fucking viability point of view. Oh no. No, I'm speaking entirely from a quick air perspective. Do do not play iron gods with the Unchained. Yeah, boys. It's, It's both so weak.
-
-03:06:00
-
-In any way, a player could use it that you cannot make a viable character built around poison and expected lies a complete life. He has a Abby said, challenge accepted. I literally have a character but I have a character that is literally set up to do nothing. But pretty much poison people with one little nick from her.
-
-03:06:23
-
-A rapier Koya? Are you all right? Yeah, you guys have another rank. So let's continue that OG Shagan. Her shoulder, Are you okay? Koya. Koya say something that was the most intense poison I've ever encountered. You are very, very strong my friend. I'm glad you're still with us. Pretty sure I saw stars there for a moment.
-
-03:06:54
-
-Tesla's not ready for you yet. Here's my journey is not a defend. You've got another 90 years in UI. Swear. Ha, I hope not. So I think for today it's probably for the best that we get you back with the others, we have to take off. All right, all right.
-
-03:07:21
-
-We'll see you next week that time already. You. Yep, but if we play this, like later in electric, I'll be up here. The whole game. We won't have this issue. Next time, I had the decouple of walk-ins that were unscheduled. No race. All right. I'll see y'all guys next week.
-
-03:07:46
-
-I would not want to leave you without your, I am. Alright, to go on Only continue with us. If you can Kwaya, we don't want [[Shoko]] shakes aside and says would you will be fine on our own for the rest of us? We don't We will not, but you can say that between the potion and the scroll, she's actually only down three con.
-
-03:08:15
-
-Now. Oh, okay. Well, from 13 cotton, We can absolutely give her another potion of lesser restoration. I'm sure we have them. Actually, wait the chi. She did prepare lesser restoration, hang on to the potion.
-
-03:08:42
-
-He casts, another spell does this healing lights surrounds her and she hops back up to her feet, as Giddy is the day. She became a priestess See, that's not sure back. She's just little late, Well trials and tribulations, young. Knowing that's not expect us to go through them. [[Grayson]], what were you doing over here?
-
-03:09:05
-
-I nearly died, just enjoying the view. Um speaking of which and he Grace is gonna try to climb out the window. Oh just gonna look out and see what the heck you were looking at. While he was getting murdered, You're gonna free climb an icy tower. I thought you said it was only 20 feet down, it is only 20 feet down a very fast.
-
-03:09:30
-
-I see a very fast 20 feet here. Oh gee. Oh, hold this rope. Okay, much better. How much do you weigh? Oh god, great question. Hold on a second. What I'm hearing? A stupid ideas. What are you trying to do? I like to think that like, no, I just tons the corner and it's just you with your leg out of a window.
-
-03:09:55
-
-He just like, what? Why of so much to live for? She says it's dead. It should be on the summary page. Yeah, it's on the summary page. Under your religion, near the rest button.
-
-03:10:15
-
-185 pounds. Yeah I don't know. The [[Ochitsuite Arashi|Ochi]] can hold you. Let's his 76 pounds of gear. Yeah you're like I don't know sorry. 40 pounds of gear. That's still 200 something pounds. I am a very, very tiny bird, man. I weigh a hundred pounds. If I'm closed as well, though, My drag is 650.
-
-03:10:42
-
-I'm trying to look for where that is on my sheet, it's on your inventory, tab. All the way to bottom, okay. I mean, now we're just kind of looks at you looks at the rope looks outside. Like pans down the thing. What are you trying to do? Hold on, we're doing something.
-
-03:11:00
-
-Go ahead. I got you in. His arms are shaking the whole time. All right. Recent climbs out and slides down the rope, okay? It's still gonna be a DC-10 even with the real because it is an icy wall. So, If you want to take 10 on it and go, slow and steady, you get down without any issues.
-
-03:11:23
-
-Okay. And you collect a bird. Yes. So I I don't know if there's any actual magic items on or not, but that's not the point of this because [[Grayson]] is going to make sure he's dead and then it's going to pluck his feathers, including the blood red ones and he's gonna plans to use them to put on his arrow.
-
-03:11:45
-
-Fletchings. Oh, that is pretty neat. Actually, he's just like yo dude, what the actual foot? What have you never killed and eaten a chicken before? I've never skinned a person who looks like you right next to you. You don't look like him. Hey he just you're planners may be blood red 'cause you're covered in blood all the time but but you're not in him.
-
-03:12:22
-
-My own blood. It is his own blood a lot. Oh my god. Oh Jesus. Fine. You guys done fucking around. Can we get back to saving on the go fucking around? He killed the guy that almost killed us three times. There's a trap door over here too. That goes through the ceiling.
-
-03:12:45
-
-Oh, she's gonna say a prayer over all these dead Tangu and the Ravens and our special Raven to Hey Fang, just murmuring under his breath.
-
-03:12:57
-
-Should I just put in miscellaneous gear? Just like a big handful of Raven feathers I you can do that. Yeah. And he does have a small ring on his foots that resizes to medium size and a scrollcase containing a scroll of Summon Nature's Ally 5. Wow. What are you seeing over here?
-
-03:13:19
-
-[[Shoko]], Where does this? Go. It goes up. You have to climbing letter.
-
-03:13:27
-
-Shall we continue? There's also the fireplace up here but contains a flu [[Grayson]] offers the the ring to shoko or one of the other casters to identify OG will go take a look at the fireplace because he's the one who read and remembers the and stuff about the chimney flu.
-
-03:13:51
-
-Which I think you already gave us it on the loot sheet but, you know, checking all the boxes. What is it all? I don't applying Starcraft Spellcraft. Yes. So scattered about in the first room where all the Tango were probably not. You get all of this. I'm so sorry.
-
-03:14:12
-
-Abby, there's a lot from this session. I'm not doing it for this game, It's amazing. Yeah, it's grace. And [[Grayson]] is our hero for this game. There's so many of these that we need to. Like make sure we say that we drag them out at the end because there's a lot of like really heavy stuff like the bales of the wool that are like 500 pounds, the owl chemical set, that is like 175 pounds, all right?
-
-03:14:43
-
-And in the flu of the fireplace, you find a sturdy, kind of dirty pair of leather and fur lined boots, swag, you very nice boots. I pull them out and I look at them and I sit down on the little stool right next to me with a mirror. And I try them on.
-
-03:15:10
-
-And then some Tango dude wearing like a referee shirt comes over and asks me if I'm finding everything okay that's there.
-
-03:15:23
-
-No, I don't actually try them on because I have cool shoes already but I do want to see what they are. And shovel with that ring shoko The bill bring a protection. Plus one, Would you like to drive for the boots? Look at these cool shoes. I found [[Shoko]] slash koya.
-
-03:15:58
-
-Well, times in me, not your not your thing.
-
-03:16:10
-
-McCoya says, those are really cool shoes OG. Thank you for sharing a well you both know they're magical.
-
-03:16:24
-
-And image at their tractor level. Nope, it's the Winterland. So, theware of these boots is able to travel across the snow at their normal speed leaving. No tracks. Additionally, the boots enable her to travel at normal speeds across the slipperiest ice. Horizontal surfaces, only not vertical or sharply, slanted ones without falling or slipping.
-
-03:16:51
-
-Finally Boots of the Winterlands warm their wires. If they were affected by an endure element spell constantly, Those are the opposite of ice gates. They are yes. If we're heading up north after this, eventually those might be super useful. For example, they'll be super useful. Oh, where did [[Naoto no Hatsuyuki|Noe]] go?
-
-03:17:15
-
-Oh, you guys messing around with like Now he's probably gone back looking around trying to figure out where we haven't gone because we are missing one. Commandotsu and one Scion. Yes, you are. Well there's a ladder house. There's a ladder up right here.
-
-03:17:40
-
-But I agree, we'll go. We could sweep on the way down, there's just a ladder with the trapdoor and the ceiling up here. Still. I mean, feel free to check it. [[Shoko]]. I'm not feeling super great. Would you mind checking this out?
-
-03:18:01
-
-Soco gives you a look. I just remembered what it looked like the last time show was the one that was asked out fucking door. Any size and stop climbs up and tries to open it. Let me guess strength. Isn't high enough again. No, you're fine. Okay, it just opens it's not locked or anything.
-
-03:18:30
-
-Open. Boom. Apparently that's square isn't working the way. It's supposed to the rooks nest, they wouldn't platform has been built into the Thatcher of the Tower. It is backed by wooden siding. While the far edge is a shear drop off to the veil below trap doors sits in the corner of the roof.
-
-03:18:49
-
-And a small wired coup was a wooden table next to it sits in the shelter formed by the roof's peak entire platform and joining group are thick with bird droppings and numerous blackbirds Flutter around and croak ominously. Have United grapple one and keep it But you finally catch a raven.
-
-03:19:13
-
-Italian and sitting in the bird droppings. Gaining brightly because it's diamond shine, bright like a Batman.
-
-03:19:35
-
-That is all that's up here. Yeah, that was worth looking up there. Yeah, diamond.
-
-03:19:48
-
-I'm just gonna, So I bought like an animal training kit and like a little birdcage when I was gonna get a bird, but then I took it off my sheet and gave myself the money back because we said that I couldn't have one, I couldn't buy one and calls guard.
-
-03:20:05
-
-Sorry, So OG's, just gonna bare hand, stick it into his backpack and then close the backpack. Okay. There's a flurry of angry squawking coming from OG's. Backpack that for once isn't coming from here.
-
-03:20:21
-
-Just wait, calm down.
-
-03:20:29
-
-I don't even know what to call this scenario. Cheer, are you able to talk to crows or Ravens? No. Do you even more reason why? You're not one of them. I'm going to win, aways.
-
-03:20:47
+The group begins frantically feed Koya potions to restore her faster than the poison is killing her.
+
+"Poisons don't do anything Noe. I'm making shit up says Grayson."
+
+ Koya? Are you all right? Are you okay? Koya. Koya say something
+ that was the most intense poison I've ever encountered.
+ You are very, very strong my friend. I'm glad you're still with us.
+ Pretty sure I saw stars there for a moment.
+Tesla's not ready for you yet.
+Here's my journey is not a defend.
+You've got another 90 years in UI. Swear.
+Ha, I hope not. 
+So I think for today it's probably for the best that we get you back with the others - S
+I would not want to leave you without your, I am. Alright, to go on
+Only continue with us. If you can Kwaya, we dont' want to lose you
+ [[Shoko]] shakes aside and says would you will be fine on our own for the rest of us? We don't
+We will not, but you can say that
+Koya casts another spell on herself restoring the rest of her health
+See, that's not sure back. She's just little late,
+Well trials and tribulations, young. Knowing that's not expect us to go through them. 
+[[Grayson]], what were you doing over here? I nearly died,
+ just enjoying the view. 
+Ochi peers out of the window with him.
+ Oh gee. Oh, hold this rope.
+
+Noe rounds the corner as Grayson has one leg out the window. She looks at the pair of them, then the rope, then outside
+"what are you trying to do."
+
+Grayson finished clambering out and collects the remains of the bird only to start plucking it immediately. Also finding a scroll and a ring.
+“What the actual fuck?” - O
+“What, have you never killed and eaten a chicken before?” - G 
+“I've never skinned a person who looks like you right next to you.” - O 
+“You don't look like him.” - G
+Noe begins laughing hysterically.
+“Your feathers may be blood red 'cause you're covered in blood all the time but you're not him.” - G
+“My own blood” - O 
+"Can we get back to saving ameiko" 
+
+The group then notices there's a trap door that goes through the ceiling.
+
+Ochis murmurs a prayer to Hei Feng under his breath over all the dead Tengu and Ravens 
+He sidles up to Shoko shortly after who is staring at the trap door
+"Where does it go?"
+As Shoko tests the ladder Ochi spots the fireplace. Remembering Snorri's writings he feels around and finds the mentioned stashed including Boots of Winterland.
+
+Shoko by this time starts his way up the ladder opening the hatch. Above he finds the Rooks nest. A wooden platform has been built into the thatched roof of the tower. It is backed by wooden siding while the far edge is a sheer drop off to the veil below. The trap doors sits in the corner of the roof and a small wire coup with a wooden table next to it sits in the shelter formed by the roof's peak. The entire platform and joining roof are thick with bird droppings and numerous blackbirds flutter around and croak ominously.
+
+Ochi takes the time to pull some food out and lure one and snare it and stows it gently in his pack for later. That doesn't stop the raven from squawking angrily in a flurry of feathers.
+
+Grayson spots something shiny among the bird droppings and recovers a diamond all the while watching Ochi's proceedings.
+
+"Ochi are you able to talk to crows or Ravens?" - G
+"No" - O
+"Even more reason why you're not one of them." - G
 
 Noise. Like just probably marched off. Probably halfway down the tower and is the bottom looking awaiting for you guys reason, just shrugs and rolls his eyes while looking at that [[Shoko]] and [[Zio]] to be like,
 
