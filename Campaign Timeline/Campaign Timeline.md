@@ -7,7 +7,7 @@ Rest
 ```
 ---
 
-# The [[Soggy Swamp Monster|Pale Figure]] and The Village
+# The Pale Figure and The Village
 
 Returning to [[Brinestump marsh]] with more accurate information they decide they want to investigate this [[Soggy Swamp Monster|Pale Figure]]. Retracting their steps to the point on the path to [[Walthus' Home]] where they saw the creature they set out in the direction it travelled. Finding it to be the [[Soggy Swamp Monster]] and the source of many a missing person from [[Sandpoint]]. They dispatch the creature with [[Ochitsuite Arashi|Ochi]] nearly being felled. They investigate the bodies and bring the information back to town so that the victims families may know peace. They share what they have learned with the sheriff [[Belor Hemlock]] first who rewards them for the good deed.
 
@@ -21,8 +21,7 @@ They return to [[Brinestump marsh]] again and head towards the [[Licktoad Villag
 Rest
 ```
 ---
-# The [[Tsutamu's Cave|Cave]]
-
+# The Cave and The Letter
 Following up on the goblin's information about the [[Kaitjitsu Clan Skeletons|Clak-Claks]] incursion into [[Licktoad Village]] the party travels back to the village and follows the clear path the [[Kaitjitsu Clan Skeletons|Skeletons]] cut back to [[Tsutamu's Cave|The Cave]] through the swampy undergrowth. On arrival at the [[Tsutamu's Cave|Cave]] [[Ochitsuite Arashi|Ochi]] cuts down the vines covering the entrance. They enter and find it fairly normal until they reach pooling water as deep as their shoulders in some places. This is compounded by lack of vision in the darkness. Wading through the water they find the bottom of the body to be slick and difficult to cross. When making their way to the second disconnected exposed landing the [[Kaitjitsu Clan Skeletons|Skeletons]] emerge and attack them. The heros stay close together to call out approaching enemies in the dark. They finish dispatching these [[Kaitjitsu Clan Skeletons|skeletons]] and find another more [[Tsutamu|Regal Skeleton]] in the furthest chamber in the back. This skeleton watches them but makes no move until they get close. It lowers it's sword to point it at them as a challenge. [[Ochitsuite Arashi|Ochi]] and [[Grayson]] understand the gesture and [[Grayson]] does not interfere. [[Ochitsuite Arashi|Ochi]] is outmatched and surrenders. The skeleton accepts his surrender and lowers his weapon and turns to dust in front of them leaving [[Tsutamu's Chest|a chest]] to the party as well as his weapon the [[Whispering Shrike]]. Inside the [[Tsutamu's Chest|chest]] they find [[Rokuro's letter|a letter]] from [[Tsutoku Amatatsu|Rokuro Kaijitsu]] to his son [[Lonjiku Kaijitsu]] that mentioned some secret that would be revealed at a later date but never was. The rest of it informs the party that they may find more at the old [[The Amatatsu|Kaijitsu]] settlement of [[Brinewall Village]]. They also find inside the [[Tsutamu's Chest|chest]] a richly made [[Kaijitsu Fan map|Fan]] with a map drawn on one side that marks the shipwrecks in the area. They gather the [[Tsutamu's Chest|chest]] to return to town. On the way out they attempt to take a different route stumbling in to a lair of giant spiders who don't spot them. [[Ochitsuite Arashi|Ochi]] insists that they are hurting no one as they have heard no reports of spiders attacking anyone. [[Grayson]] wants to clear them out for the safety of [[Sandpoint]] and the inhabitants of the marsh Ultimately [[Ochitsuite Arashi|Ochi]] wins out arguing they are too wounded to face them and they end up avoiding the spiders. They return the way they came and depart towards the [[Brinestump Marsh Witch]]es hut on recommendation from [[Belor Hemlock|The Sheriff]] that they perform a wellness check. They arrive and knock and call out for her but she does not appear. They enter anyways apologizing and discover that she seems to have been a casualty of her own experiments. While searching the house [[Ochitsuite Arashi|Ochi]] discovers her [[Ratling Familiar]] who screeches at him to leave. Not wanting to be rude he asks the creatures relation to the [[Brinestump Marsh Witch]] and understands that she was it's mistress. Backing out and apologizing he informs the others and they exit. As they all reach the front and wonder at what will become of the place the Ratling cracks the door and throws out a bag of goods and tells them to leave. The party does.
 
 ```
@@ -45,7 +44,7 @@ The party returns to [[Caravan|The Caravan]]
 Rest
 ```
 ---
-# The [[Kokinu|Oni]] and The Harpy
+# The Oni and The Harpy
 [[Shoko]] Comes looking for [[Koya Mvashti|Koya]] realizing she had departed [[Sandpoint]] and finds the party regrouping at [[Caravan|The Caravan]]. He joins the party after playing a bit of catch up and hearing of [[Ameiko's Possession]]. He recalls that [[Brinewall keep]] is a [[Kaijitsus]] holding from 30 years ago. They set out for the keep again. Arriving at the keep they decide to enter through the front gate this time. Believing they cleared most of the [[Corby]]s and other evils from the outer defenses the travelers still proceed cautiously. Inside the gatehouse they find two dead [[Corby]]s that the party had no hand in killing which raises some suspicions. In the interest of surprise they peek out windows as they pass them and see some large creatures to the east where they have not been yet. Entering the courtyard again they encounter two wrestling Ogrekin which [[Grayson]] had spotted from the gatehouse. [[Shoko]] casts sleep on them and the party dispatches them while they're unconscious. [[Ochitsuite Arashi|Ochi]] abstains [[Refusing to kill the helpless]]. Shortly after they enter the nearest and most southern room of the keep. Inside they find [[Muthilduh]] who is angry we have killed her harem and strikes [[Ochitsuite Arashi|Ochi]] who is unaware yet of her presence. The party dispatches her also. [[Koya Mvashti|Koya]] heals the not insignificant damage [[Ochitsuite Arashi|Ochi]] took in the engagement. Continuing on into the keep entering the main hall (west) they find several [[Corby]]s performing a play for a long-nosed red masked humanoid [[Kokinu]]. They sneak closer and [[Shoko]] tries to put them to sleep as well. He only gets one on the first attempt but gets more on the second. [[Ochitsuite Arashi|Ochi]] moves in a strikes the only conscious [[Corby]] and then runs up to [[Kokinu|the Oni]] who has transformed into a winged [[Tengu]] form and retreats a little. [[Trogolodytes]] pour in from another room off of the hall to the Northeast and engage [[Shoko]] and [[Grayson]] filling the room with a powerful stench. A monitor lizard joins in from the same door also. The party sleeps or kills all the enemies, fighting on two fronts, except the Oni [[Kokinu]] who retreats by disappearing magically[^2]. The party enters the ballroom off of the main hall (Southwest) and spots him on the balcony a floor up and they pursue. Looking out the arrow slits in their chase they spot some giant insectoid creature dwelling in a small body of water (chillin). The [[Kokinu|Oni]] flees again as more [[Corby]]s enter from a series of rooms to the northeast lead by a Corby priest of [[Pazuzu]] [[Nevakali]]. The travellers dispatch them all.
 Ascending further they find themselves in the living quarters. Checking all the rooms one by one they encounter an [[Attic Whisperer]] and It steals [[Ochitsuite Arashi|Ochi]]'s voice and is vanquished by the party thanks to [[Koya Mvashti|Koya]] On the walls they discover drawings depicting [[Oni]] and Ninja storming the keep and mudering it's inhabitants. They believe the bookcase fell on the boy in the commotion. The other ghostly inhabitant in the halls outside the living quarter is the remnants of the souls of the [[Murdered Brinewallers]]. [[Koya Mvashti|Koya]] puts them to rest temporarily and believes that they will find peace when the evil that took their lives and this castle is ousted. Finding much of the rest of the living quarters/ kitchen on the second floor empty with signs of [[Corby]] habitation they also find a defaced shrine to [[Desna]] seeming to be altered to some winged creature the party failed to identify. [[Koya Mvashti|Koya]] and the others attempt to clean it up. Afterwards they continue on and up.
 At the top of the tower they come across a Harpy. She does not speak to the party verbally but instead they take measure of each other and she gestures for them to come closer. [[Ochitsuite Arashi|Ochi]] does and she touches him and communicates telepathically with him. She tells him she is [[Zaiobe]] and she has lost love for the [[Kokinu|Oni]] who they learn is called [[Kokinu]]. [[Kokinu]] serves something called the [[Nindinzego|Ten-Handed One]]. [[Zaiobe]] and [[Kokinu]] used to date. She volunteers to aid us in killing [[Kokinu]]. She has lived in [[Brinewall Village|Brinewall]] for a long time. She tells that there is a[[Third Vault|Vault]] no one has been able to enter thus far. [[Ochitsuite Arashi|Ochi]] tries to communicate this all to his companions through a really terrible game of charades for what is far too long before [[Shoko]] makes him step aside to speed up the process. With [[Zaiobe]] in tow they all journey to the dungeon and clear a southern room containing [[Rotscale]] and two other [[Trogolodytes]] fighting for his amusement as well as a mostly scoured armory. After which they also discover strange spores in an antechamber off the kitchen to the west and after following that to it's source they find a slime creature[^4] they dispatch from range. Even deeper still they find a proper dungeon containing [[Sluwort]] and some prison cells. Having the jump on him and the aid of some Alchemist's fire via [[Shoko]] and [[Zaiobe]] he is quickly ended. Inside one of the cells [[Grayson]] finds one [[Kelda Oxgutter]]. [[Sluwort]] was threatening to eat her. She didn't trust us right away but after a little coaxing her story is revealed. She and her very late party were responsible for the mysterious end of the [[Sea Drake]] back in [[Brinewall Village]]. She was weak after the ordeal and was captured by the [[Corby]]s and Co and brought into [[Brinewall keep]]. She offered aid and also mentioned that she needs to return home at some point and if we help her back to her home of [[Kalsgard]] her family will reward us. Attempting to continue deeper the caravaneers are confroned with a series of what seem impossibly well locked doors into a cave-like chamber we unlock one of the second locks after jamming the first one and get stopped by the third. Returning and trying another route they spot [[Nindinzego]] and [[Kokinu]] in the cavernous room off the dungeon and attempt to sneak up on them. There is a large drop in the path and in crossing it [[Shoko]] stumbles climbing down and the noise of [[Koya Mvashti|Koya]]'s casting of feather fall alerts the enemies ending their ploy for surprise. Long and grueling fight ensues. There's flying. [[Zaiobe]] and [[Grayson]] carry us. [[Koya Mvashti|Koya]] spends the entire time keeping [[Ochitsuite Arashi|Ochi]] alive. [[Kokinu]] is pretty much out of spells at this point and employs [[Dancing Wasp]] while [[Nindinzego]] flies high above casting down with a wand and nastier things. The party prevails. 
@@ -54,7 +53,7 @@ At the top of the tower they come across a Harpy. She does not speak to the part
 [^4]: [[Phycomid]]
 
 ---
-# The Legacy and The [[Amatatsu Seal|Seal]]
+# The Legacy and The Seal
 [[Zaiobe]] makes it clear that she currently means no harm to the party but considers [[Brinewall keep]] to be her home and with no further common goal gives them 24 hours to conclude their business there before she will consider them tresspassers and slay them. The party thanks her and goes about just that.
 After confirming the death of [[Nindinzego]] and [[Kokinu]] the party climbs up the two sheer drop offs constituting the way from the other dungeon related entrance. Faced with an Iron gate with a woman on it and funerary alcoves branching from the way in perpendicular fashion. Part of the room is collapsed and contains flowing motes of light. Knowledge these Alcoves contain the previous commanders of [[Brinewall Village|Brinewall]]
 Still not having found anything they believe will help [[Ameiko Amatatsu|Ameiko]] they make sure they have searched the entire cavern system and dungeon under [[Brinewall keep]]. They discover a secret sea cliff walk path that leads straight into the chamber that housed [[Nindinzego]]. 
@@ -67,8 +66,11 @@ Weeping he begs them to "Take the [[Amatatsu Seal|seal]] away from here. Take it
 
 Behind him is a Hidden door through which the party find 3 darkwood chests the left and right of which are locked. Opening the middle chest they find a complex and beautiful red and gold filigreed [[Warding Box|Box]] radiating magic. it is a [[Warding Box]]. Once opened it blinds [[Ochitsuite Arashi|Ochi]] temporarily and the party detects something even more powerful inside. The source is a [[Amatatsu Seal|Stone Statuette of a Dragon]]. Upon beholding it a vision overtakes the group.
 
-### *[[Visions of Jade]]*
+### *Visions of Jade* 
+[5^]
 >__*An [[Oni]] army with burning skin, glaring eyes, and sharp tusks, wearing strange armor and wielding exotic weapons—emerge in a storm from a vast forest, then descend upon [[Minkai]]. This vision is swiftly followed by another: [[Emperor Shigure]] dressed in royal robes stands over a simple well, a friend at his side. Suddenly, the friend grows nearly three times in size and is sheathed in a frightening suit of jade armor. The [[Jade Regent|Jade Warrior]] draws a sword and strikes down his royal friend, then holds the bloody sword aloft in triumph. A third vision follows, this time of [[Tsutoku Amatatsu|Tsutoku]] (now known to be the true name of [[Tsutoku Amatatsu|Rokuro Kaijitsu]] handing the legendary sentient sword [[Te No Sui]] to a richly dressed [[Fynn Snaevald|Ulfen Man]] man, [[Fynn Snaevald]], in exchange for a bag of gold to fund his families flight. Finally, this vision fades, and we see [[Ameiko Amatatsu]] waking from  her [[Ameiko's Possession|Possession]] as the [[Kami]] inhabiting her flys back into the [[Amatatsu Seal|Seal]], but she is dressed in the finery of an empress. She rises from sleep not in [[Caravan|The Caravan]], but from a resting spot within the arms of a [[jade throne]].*__
+
+[5^]: [[Visions of Jade]]
 
 These visions pass in the span of a few heartbeats, and after they do, the [[Amatatsu Scions]] are left with the knowledge that they are just that, That [[Te No Sui]] may have even more knowledge of the [[The Amatatsu|Amatatsu]]'s legacy, That [[Ameiko Amatatsu]] is the heir to the [[The Amatatsu|Amatatsu]] royal family and rightful heir of the [[Jade Throne]] of [[Minkai]], and that the [[Warding Box]] has protected the [[Amatatsu Seal]] from detection by the [[Oni of the Five Storms]] for this long and having the opened it they have revealed themselves to great danger.
 With this knowledge the party opens the other chests finding more treasures that appear tailored to their strengths and quickly gather up those items and the [[Warding Box]] to make haste back to [[Caravan|The Caravan]] and [[Ameiko Amatatsu|Ameiko]]. They discover quite quickly that she is waiting for them back in the throne room. She confirms she also shared in the vision. [[Ochitsuite Arashi|Ochi]] swears himself to her service and in gratitude and her newfound right grants him the title of [[Samurai]]. [[Shoko]] Warns her that she can throw the [[Warding Box]] into the sea and forget it all. [[Ameiko Amatatsu|Ameiko]] says she cannot stand by and allow the suffering under the [[Jade Regent]]. [[Naoto no Hatsuyuki|Noe]] asks what she will do. She believes her responsibility to the [[Minkai]]an people too great in spite of no wish to rule.
@@ -178,9 +180,9 @@ She takes literal flight and departs. The [[Wodes|Raven]] accompanies her from t
 
 Frowning Deeply
 
-><mark style="background: #ABF7F7A6;">"Oh, Dear"</mark> - N 
-<mark style="background: #FFF3A3A6;">"Do you think the guards know anything?"</mark> - O
-<mark style="background: #ABF7F7A6;">"I'm going to take it on faith that they didnt even know that their boss was, well, my boss."</mark> - N 
+><mark style="background: #ABF7F7A6;">"Oh, Dear"</mark> - N
+><mark style="background: #FFF3A3A6;">"Do you think the guards know anything?"</mark> - O
+><mark style="background: #ABF7F7A6;">"I'm going to take it on faith that they didnt even know that their boss was, well, my boss."</mark> - N 
 
 Waving her hand nonchalantly.
 
@@ -188,13 +190,16 @@ Waving her hand nonchalantly.
 
 Frowning still.
 
-><mark style="background: #ABF7F7A6;">"Maybe she could have said somethign to you but frankly I don't know how much of it would have been useful unless you have ways of detecting people who can lie."</mark> - N 
+><mark style="background: #ABF7F7A6;">"Maybe she could have said something to you but frankly I don't know how much of it would have been useful unless you have ways of detecting people who can lie."</mark> - N 
 
 as she pulls [[Omeyani]]'s clothes back to reveal a lack of a [[blood geas]].
 
 ><mark style="background: #FFF3A3A6;">"Is Everyone okay? Shoko you took quite a beating how are you feeling"</mark> - O
-<mark style="background: #CACFD9A6;">"Augh, Like i just spent a night in the single worst bar in--- where are we again?, About that bad" </mark>- S
-<mark style="background: #ABF7F7A6;">"Well you're still alive so if i may offer a personal insight i'd say you haven't been to the worst bar in Kalsguard Also, you took [[Oathtaker]] directly to the face and survived. So I am genuinely impressed"</mark> - N
+><mark style="background: #CACFD9A6;">"Augh, Like i just spent a night in the single worst bar in--- where are we again?, About that bad" </mark>- S
+><mark style="background: #ABF7F7A6;">"Well you're still alive so if i may offer a personal insight i'd say you haven't been to the worst bar in Kalsguard Also, you took Oathtaker directly to the face and survived. So I am genuinely impressed"</mark> - N
+
+[6^]
+[6^]: [[Oathtaker]]
 
 [[Ochitsuite Arashi|Ochi]] passes [[Shoko]] a few potions of cure light.
 
@@ -204,19 +209,21 @@ Hearing the commotion downstairs but having been too slow to react several more 
 
 [[Ochitsuite Arashi|Ochi]] turns toward the others as this occurs
 ><mark style="background: #FFF3A3A6;">"Do we want to hire them?"</mark> - O
-<mark style="background: #ABF7F7A6;">"Do you really want someone who's going to run away at the first sign of a massive violence" </mark>- N
-<mark style="background: #FFF3A3A6;">"That's fair. But we do have a habit of picking up people who used to work for those that we just fought and bringing them with us right Noe?"</mark> - O 
-<mark style="background: #CACFD9A6;">"What?"</mark> - S Simulatneously <mark style="background: #ABF7F7A6;">"I Know it terrifies me"</mark> - N
-<mark style="background: #CACFD9A6;">"We did that once i wouldn't call that a habit"</mark> - S
-<mark style="background: #FFF3A3A6;">"No, we have the Raiders and we have Noe"</mark> - O Smiling
-She puts up a single finger. <mark style="background: #ABF7F7A6;">"To be fair, though You didn't exactly know that until fairly recently and you haven't kicked me out yet. So, I can only assume that you're either putting up with me or plotting to have me thrown in the river by the end of the evening, but I'm hoping for the first one."</mark> - N
-<mark style="background: #FFF3A3A6;">"Your insider knowledge has been absolutely invaluable. Noe. That's is all I am saying"</mark> - O 
-<mark style="background: #ABF7F7A6;">"It has to be. If I don't tell you, I'm gonna die with it."</mark> - N
-<mark style="background: #FFF3A3A6;">"Well, we have no one to ask any questions of and I think we know where we're headed."</mark> - O
-<mark style="background: #ABF7F7A6;">"Not unless you know how to talk to the dead. I'm afraid."</mark> - N
-<mark style="background: #BBFABBA6;">"Are we certain that Ushaka's not here."</mark> - G
-<mark style="background: #FFF3A3A6;">"That is an excellent point Grayson perhaps we should take a better look around."</mark> - O
-<mark style="background: #CACFD9A6;">"Lets search the building."</mark> - S 
+><mark style="background: #ABF7F7A6;">"Do you really want someone who's going to run away at the first sign of a massive violence" </mark>- N
+><mark style="background: #FFF3A3A6;">"That's fair. But we do have a habit of picking up people who used to work for those that we just fought and bringing them with us right Noe?"</mark> - O
+><mark style="background: #CACFD9A6;">"What?"</mark> - S Simultaneously <mark style="background: #ABF7F7A6;">"I Know it terrifies me"</mark> - N
+><mark style="background: #CACFD9A6;">"We did that once i wouldn't call that a habit"</mark> - S
+><mark style="background: #FFF3A3A6;">"No, we have the Raiders and we have Noe"</mark> - O Smiling
+
+She puts up a single finger. 
+><mark style="background: #ABF7F7A6;">"To be fair, though You didn't exactly know that until fairly recently and you haven't kicked me out yet. So, I can only assume that you're either putting up with me or plotting to have me thrown in the river by the end of the evening, but I'm hoping for the first one."</mark> - N
+><mark style="background: #FFF3A3A6;">"Your insider knowledge has been absolutely invaluable. Noe. That's is all I am saying"</mark> - O
+><mark style="background: #ABF7F7A6;">"It has to be. If I don't tell you, I'm gonna die with it."</mark> - N
+><mark style="background: #FFF3A3A6;">"Well, we have no one to ask any questions of and I think we know where we're headed."</mark> - O
+><mark style="background: #ABF7F7A6;">"Not unless you know how to talk to the dead. I'm afraid."</mark> - N
+><mark style="background: #BBFABBA6;">"Are we certain that Ushaka's not here."</mark> - G
+><mark style="background: #FFF3A3A6;">"That is an excellent point Grayson perhaps we should take a better look around."</mark> - O
+><mark style="background: #CACFD9A6;">"Lets search the building."</mark> - S 
 
 They find a clerk who is still in the building who shares Ukshakas location with them being the room with the boarded up windows. Inside they find her bound and gagged.
 
@@ -225,16 +232,16 @@ They find a clerk who is still in the building who shares Ukshakas location with
 She mumbles in response. [[Ochitsuite Arashi|Ochi]] frees her. 
 
 >"You have my thanks for freeing me." - [[Ukshaka]]
-<mark style="background: #FFF3A3A6;">"No, thanks necessary. We desperately need your help."</mark> - O
-"Have you found any news of [[Ulf Gormunder|Ulf]]?" - [[Ukshaka]]
-<mark style="background: #FFF3A3A6;">"We found zero new of him and we've looked quite a few places, dangerous ones at that. Are you well, Did they harm you?"</mark> - O
-"Not beyond the beating they gave me to steal me... with many strange large bird men." - U
-<mark style="background: #FFF3A3A6;">"Strange how?"</mark> - O
-"Well to be fair. They all looked like you, but they were all wearing these black pajamas." - U
-<mark style="background: #ABF7F7A6;">"Please don't call them pajamas."</mark> - N
-<mark style="background: #FFF3A3A6;">"Those are in fashion lately."</mark> - O
-<mark style="background: #CACFD9A6;">"I need to get some of those too"</mark> - S
-<mark style="background: #ABF7F7A6;">"Do you know how many years you need to study before you actually earn a Shozoku?"</mark> - N
+><mark style="background: #FFF3A3A6;">"No, thanks necessary. We desperately need your help."</mark> - O
+>"Have you found any news of [[Ulf Gormunder|Ulf]]?" - [[Ukshaka]]
+><mark style="background: #FFF3A3A6;">"We found zero new of him and we've looked quite a few places, dangerous ones at that. Are you well, Did they harm you?"</mark> - O
+>"Not beyond the beating they gave me to steal me... with many strange large bird men." - U
+><mark style="background: #FFF3A3A6;">"Strange how?"</mark> - O
+>"Well to be fair. They all looked like you, but they were all wearing these black pajamas." - U
+><mark style="background: #ABF7F7A6;">"Please don't call them pajamas."</mark> - N
+><mark style="background: #FFF3A3A6;">"Those are in fashion lately."</mark> - O
+><mark style="background: #CACFD9A6;">"I need to get some of those too"</mark> - S
+><mark style="background: #ABF7F7A6;">"Do you know how many years you need to study before you actually earn a Shozoku?"</mark> - N
 
 [[Shoko]] just stares knowingly.
 
