@@ -174,7 +174,7 @@ She takes literal flight and departs. The [[Wodes|Raven]] accompanies her from t
 
 
 ---
-# The
+# The Eve and The Warning
 
 >*<mark style="background: #FFF3A3A6;">"I had questions for her"</mark>* - O
 
@@ -287,7 +287,7 @@ ooze attacks shoko dispelling an image
 [[Zio]] fires a blast of heat from his hands on the remaining ooze
 [[Shoko]] adopts a defensive stance.
 [[Ochitsuite Arashi|Ochi]] closes the gap and strikes it with his staff.
-# 
+##
 [[Ochitsuite Arashi|Ochi]] wipes his weapon clean in the grass.
 
 ><mark style="background: #FFF3A3A6;">"Nice Kick Grayson"</mark> - O 
@@ -360,16 +360,14 @@ Wei-Yan gives chase and strikes him again.
 [[Grayson]] refrains from ending the fleeing ninja with an arrow seeing [[Ochitsuite Arashi|Ochi]] attempting to knock him unconcious.
 [[Shoko]] catches up to the fray and strikes the [[Tengu]] in the back of the head felling him.
 [[Ochitsuite Arashi|Ochi]] picks him up and carries him back to the fire to be questioned.
-
-# 
----
+##
 [[Zio]] is coughing during this. [[Naoto no Hatsuyuki|Noe]] notices and checks the dart in the snow confirming it is poisoned and pulls a vial from her haori and doses [[Zio]] with it who seems to recover.
 	
 While the poison seems to have run it's course [[Zio]] seems worse for the wear. [[Koya Mvashti|Koya]] digs in her pack and pulls out a scroll and performs a divine ritual quickly beseeching [[Desna]] and restoring [[Zio]]s vigor.
 
 [[Ochitsuite Arashi|Ochi]] says a prayer to Hei Feng over the deceased [[Tengu]] lying in the snow and he and [[Naoto no Hatsuyuki|Noe]] begin moving the bodies away from camp searching them in the process. After which [[Ochitsuite Arashi|Ochi]] helps [[Shoko]] back to caravan to finish resting. Looking at the weapons they carried they realize just how much danger they were in. [[Naoto no Hatsuyuki|Noe]] pockets the remaining doses. [[Koya Mvashti|Koya]] takes a sip of vodka by the fire before shuffling off the administer to [[Shoko]].
 
->"Just to avoid that happening so badly again" - N 
+><mark style="background: #ABF7F7A6;">"Just to avoid that happening so badly again"</mark> - N 
 
 [[Naoto no Hatsuyuki|Noe]] tosses him one of the charms she is wearing about her neck.
 [[Ochitsuite Arashi|Ochi]] recognizes it as the charm she crushed when they fought [[Omeyani]].
@@ -380,57 +378,66 @@ He thanks her and the party beds down for the night.
 Rest
 ```
 ---
-
+# The Storming and The Craeg 
 
 In the morning the caravaneers make their way the rest of the way to [[Ravenscraeg]]. They come upon the structure towering up on a cliff consisting of a large hall and tower silent except for the caw of the mass of ravens adorning the roofs, eaves and railings. The way up is a narrow wooden stairway winding up the cliff 90 feet in switchback fashion. In some places the stair is anchored directly into the rock face and others they are suspended upon supports and buttresses driven into the rock. Lichen and moss cover the stairs and rocks with pale vines roots and blooms of Nightshade, Willow herb, and Bog Tea sprouting from the occasional crevice in the stone.
 
-"We should be wary of traps" - N
-"I think this is one of the rare times i agree with [[Naoto no Hatsuyuki|Noe]]" - G
-"Well, there's nowhere to go but up. Do you want to look around? See if there's another way. I have a feeling. This is gonna be our only method of egress." - O
-"I can go and take a look from the top if you'd prefer and see if there's anything on the way down."
-"Information would be good. There's not many ways to retreat here." - O
-"Yeah don't get yourself too badly harmed." - N
+><mark style="background: #ABF7F7A6;">"We should be wary of traps"</mark> - N
+<mark style="background: #BBFABBA6;">"I think this is one of the rare times i agree with Noe"</mark> - G
+<mark style="background: #FFF3A3A6;">"Well, there's nowhere to go but up. Do you want to look around? See if there's another way. I have a feeling this is gonna be our only method of egress."</mark> - O
+<mark style="background: #ABF7F7A6;">"I can go and take a look from the top if you'd prefer and see if there's anything on the way down."</mark> - N
+<mark style="background: #FFF3A3A6;">"Information would be good. There's not many ways to retreat here."</mark> - O
+<mark style="background: #ABF7F7A6;">"Yeah don't get yourself too badly harmed."</mark> - N
 
 [[Naoto no Hatsuyuki|Noe]] takes a few steps forward and dissapears instantly from sight. They party cannot see her but she climbs straight up the cliff using her supernatural abilities and circumvents much of the stairway. She scouts the landing and sees a place where the rock creates a landing upon wich a small hollow is plastered over with what appears to be a huge wasps nest. [[Naoto no Hatsuyuki|Noe]] makes a mental note of that.
 
-"How's it looking up there?" - O
-"How much do you like wasps?" - N
-"They can be really tasty actually, Kind of Spicy" - O
-"... " - N
+><mark style="background: #FFF3A3A6;">"How's it looking up there?"</mark> - O
+><mark style="background: #ABF7F7A6;">"How much do you like wasps?"</mark> - N
+><mark style="background: #FFF3A3A6;">"They can be really tasty actually, Kind of Spicy"</mark> - O
+><mark style="background: #ABF7F7A6;">"... "</mark> - N
 
 [[Naoto no Hatsuyuki|Noe]] continues her survey of the area as she makes her way back down the stair looking for traps. Upon returning to the party she puts a hand on [[Ochitsuite Arashi|Ochi]] and [[Ukshaka]]'s Shoulders.
 
-"It's more or less fine with exception of teh creepy looking wasp nest that looks big enough for me to walk into." - N
+><mark style="background: #ABF7F7A6;">"It's more or less fine with exception of teh creepy looking wasp nest that looks big enough for me to walk into."</mark> - N
 " *Son of a bitch* " - [[Ukshaka]] in [[Varki]] whos hand is on her sword
-"Sorry she just kind of does that" - O
+<mark style="background: #FFF3A3A6;">"Sorry she just kind of does that"</mark> - O
 "You should not do that when we hunt those of your kind." - [[Ukshaka]]
-"No, but you probably should have seen me coming" - N
+<mark style="background: #ABF7F7A6;">"No, but you probably should have seen me coming"</mark> - N
 "I do not have a way to see that which is unseen." [[Ukshaka]]
-"Well lets march on shall we." - O
+<mark style="background: #FFF3A3A6;">"Well lets march on shall we."</mark> - O
 
-And they make their way up the stairs finding no traps on their way and arriving at the rock landing and the strange insectoid mass. [[Ochitsuite Arashi|Ochi]] steps closer to try to examine it while still tens of feet away but before he can infer anything a spider eater with a pincered face, pincered hands and a stinger emerges from the mass. [[Ochitsuite Arashi|Ochi]] recognizes the beast and relays to the party the dangers it poses including a poison that paralyzes unhale victims for weeks at a time and the reproductive method of implating it's young inside those it paralyzes.
+And they make their way up the stairs finding no traps on their way and arriving at the rock landing and the strange insectoid mass. [[Ochitsuite Arashi|Ochi]] steps closer to try to examine it while still tens of feet away but before he can infer anything a spider eater with a pincered face, pincered hands and a stinger emerges from the mass. [[Ochitsuite Arashi|Ochi]] recognizes the beast and relays to the party the dangers it poses including a poison that paralyzes unhale victims for weeks at a time and the reproductive method of implanting it's young inside those it paralyzes.
 
+## The Watchdog
+
+1. 
 It lunges before anyone can react baring pincers and stinger scoring multiple hits on [[Ochitsuite Arashi|Ochi]] who is unprepared. [[Ochitsuite Arashi|Ochi]] stealing himself against this onlaught and though he has clearly been stung by the creature he doesn't seem overly hurt.
 [[Koya Mvashti|Koya]] attempted to strike it and missed.
 [[Naoto no Hatsuyuki|Noe]] does the same and strikes true flaying the creature then vanishes.
 [[Ochitsuite Arashi|Ochi]] having recuperated somewhat also attempts to stab him adopting a defensive stance and strikes true on the slightly weakened spider eater.
 [[Grayson]] from the rear fires a flurry of arrows ending the spider eaters existence.
+##
+><mark style="background: #FFF3A3A6;">"I don't feel great Koya. Could you help me?"</mark> - O
+><mark style="background: #ABF7F7A6;">"Given the color of these that's coming out of your sting hole there might I suggest chugging these anti-toxins."</mark> - N 
 
-"I don't feel great [[Koya Mvashti|Koya]]. Could you help me?" - O
-"Given the color of these that's coming out of your sting hole there might I suggest chugging these anti-toxins." - N *tinking as small bottles hit the wooden walkway they stand on*
+*tinking as small bottles hit the wooden walkway they stand on*
 
 After having seen the first of the defenses of Ravenscragg [[Grayson]] Focuses his inner energies for a moment and his skin darkens.
 
-"We should be very careful. If this was the front guard, they these things can paralyze you. I don't know how I fought it off but these are very dangerous defensive measures." - O
-"I bet they don't get lots of solicitors." - G
-"Thank you for healing me by the way [[Koya Mvashti|Koya]]" - O
-"Of course darling. Thank you for never... being boring." - [[Koya Mvashti|Koya]]
-"See [[Koya Mvashti|Koya]] gets it." - N
+><mark style="background: #FFF3A3A6;">"We should be very careful. If this was the front guard, they these things can paralyze you. I don't know how I fought it off but these are very dangerous defensive measures."</mark> - O
+><mark style="background: #BBFABBA6;">"I bet they don't get lots of solicitors."</mark> - G
+><mark style="background: #FFF3A3A6;">"Thank you for healing me by the way Koya" </mark>- O
+>"Of course darling. Thank you for never... being boring." - [[Koya Mvashti|Koya]]
+><mark style="background: #ABF7F7A6;">"See Koya gets it."</mark> - N
 
 The adventurers make their way further up the walkway and come upon a wide porch surmounting the rickety conglomeration of stairs and landings below providing a panoramic view of the boggy plains that extend to the hazy horizon. The looming green-grey stone hall of the fortress blocks further progress. Inset arrow slits with heavy wooden shutters flank a bronze banded portal that leads within above three more arrow slits look out over the precipice. Upon this fortress porch more of the avian assassins await the rescuers.
 
+## The Shadows Defenses
+1. 
 [[Grayson]], more than prepared, sinks several arrows into the foremost frosty shadow who slumps to the planks. 
-"I don't think they are here to welcome us." - G
+
+><mark style="background: #BBFABBA6;">"I don't think they are here to welcome us."</mark> - G
+
 [[Wei yan]] quickly pounces along the railing to close on another.
 [[Ukshaka]] draws her sword and shield and steps into the fray.
 The feathered defenders step forward and vanish.
@@ -438,181 +445,202 @@ One of them appears and strikes at [[Ukshaka]] and connects but [[ukshaka]] seem
 [[Ochitsuite Arashi|Ochi]] charges another screaming "Where is [[Ameiko Amatatsu|Lady Ameiko]]?!" and attempt to feint and strike making a pitiful show in his emotional state.
 [[Helgarval]] spouts a gout of flame from his visor onto one of the [[Tengu]].
 [[Naoto no Hatsuyuki|Noe]] slashes at the [[Tengu]] nearest her and cuts it down and vanishes from sight again.
+2. 
 [[Grayson]] sends another volley felling the last of the feathered foes.
+##
 
-[[Ochitsuite Arashi|Ochi]] continues on rushed in his fervor to find [[Ameiko Amatatsu|Ameiko]] "Let's go!" - O
+[[Ochitsuite Arashi|Ochi]] continues on rushed in his fervor to find [[Ameiko Amatatsu|Ameiko]] 
+><mark style="background: #FFF3A3A6;">"Let's go!"</mark> - O
 
 Rows of pillars support the 40-foot high roof of this long hall torches set into pillars sconces and two fire pits set with iron spits in the center of the rust strewn floor give the room a ruddy glow. Several doors open into rooms on either side beneath 10 foot high balconies lined with feasting tables. At the far end of the hall a 15-foot high balcony with the master's high table looks out over all. Smoke holes cut into the roof high above allow in more light, and the croaking of the many ravens that roost on the roofs ridge pole.
 
-"That's a lot of options on where to go." - G
-"Check em all." - N
-"We may as well start searching." - O
+><mark style="background: #BBFABBA6;">"That's a lot of options on where to go."</mark> - G
+><mark style="background: #ABF7F7A6;">"Check em all."</mark> - N
+><mark style="background: #FFF3A3A6;">"We may as well start searching."</mark> - O
 
 [[Ochitsuite Arashi|Ochi]] walks up to the first door on the right and looks back at [[Naoto no Hatsuyuki|Noe]] and turns back to the door and looks it over for signs of traps. He sees nothing suspicious and opens it. Inside he finds a guard room empty save for rocks and piles of broken rubble. 
 
-"Nothing in here." - O
+><mark style="background: #FFF3A3A6;">"Nothing in here."</mark> - O
 
 [[Grayson]] opens the opposing door across the hall and sees a very similar guard room in a similar state.
 The party continues down the long hall. When they arrive near the center the ravens in the roof and rafters take wing closing in on the invaders.
 "So this is where [[Shoko]] summoned them from." - G *readying his bow*
 
 ## Battle in the long hall
+
+#### Part 1
+
 1. 
-	[[Naoto no Hatsuyuki|Noe]] draws one of her blades and slashes and punches at the assailing murder immediately knocking some of them out of the air.
-	[[Zio]] recites an incantation and performs some arcane movements with his hands.
-	A frozen shadow steps out from a doorway further down the long hall.
-	One of the flocks of ravens descends on [[Ochitsuite Arashi|Ochi]] pecking and clawing to little effect due to his agility.
-	Another mass swarms around his head attempting to peck out his eyes and fails in it's efforts.
-	[[Ochitsuite Arashi|Ochi]] slashes out with both blades in retaliation ending several more birds.
-	[[Ukshaka]] screams in pain as another of the flocks manages to gouge at her eyes blinding her.
-	[[Wei yan]] scurries past [[Ochitsuite Arashi|Ochi]] and spits out a gout of flame roasting one of the whirlwinds of ravens.
-	[[Ukshaka]] swings blindly in a panic at her assailants and misses.
-	A door bursts open next to [[Ochitsuite Arashi|Ochi]] surprising him and revealing another Tengu who looks equally surprised at the scene before him.
-	Another tengu appears and stabs [[Ochitsuite Arashi|Ochi]].
-	[[Grayson]] takes note of more Tengu appearing to the south from doors further down the long hall and attempts to keep them from joining the fray with surpressing fire stepping between shots toward his targets.
-	[[Helgarval]] mimics [[Wei Yan]] and roasts the unprepared ravens.
-	Someone fires an arrow [[Ochitsuite Arashi|Ochi]] but narrowly misses. 
-	[[Ochitsuite Arashi|Ochi]] is blocking a doorway still stemming the flow of Ninja from one of the rooms. 
+
+[[Naoto no Hatsuyuki|Noe]] draws one of her blades and slashes and punches at the assailing murder immediately knocking some of them out of the air.
+[[Zio]] recites an incantation and performs some arcane movements with his hands.
+A frozen shadow steps out from a doorway further down the long hall.
+One of the flocks of ravens descends on [[Ochitsuite Arashi|Ochi]] pecking and clawing to little effect due to his agility.
+Another mass swarms around his head attempting to peck out his eyes and fails in it's efforts.
+[[Ochitsuite Arashi|Ochi]] slashes out with both blades in retaliation ending several more birds.
+[[Ukshaka]] screams in pain as another of the flocks manages to gouge at her eyes blinding her.
+[[Wei yan]] scurries past [[Ochitsuite Arashi|Ochi]] and spits out a gout of flame roasting one of the whirlwinds of ravens.
+[[Ukshaka]] swings blindly in a panic at her assailants and misses.
+A door bursts open next to [[Ochitsuite Arashi|Ochi]] surprising him and revealing another Tengu who looks equally surprised at the scene before him.
+Another tengu appears and stabs [[Ochitsuite Arashi|Ochi]].
+[[Grayson]] takes note of more Tengu appearing to the south from doors further down the long hall and attempts to keep them from joining the fray with surpressing fire stepping between shots toward his targets.
+[[Helgarval]] mimics [[Wei Yan]] and roasts the unprepared ravens.
+Someone fires an arrow [[Ochitsuite Arashi|Ochi]] but narrowly misses. 
+[[Ochitsuite Arashi|Ochi]] is blocking a doorway still stemming the flow of Ninja from one of the rooms. 
 	
 2. 
 	
-	[[Naoto no Hatsuyuki|Noe]] strikes out with more of her martial arts devastating more of the circling ravens and then vanishes.
-	[[Zio]] disappears in one place and appears in another performing more arcane incantations and movements and fires a blast of heat at the last of the frenzied ravens.
-	[[Ochitsuite Arashi|Ochi]] reaches into his belt pouch and pulls out a handful of caltrops which he scatters across the floor in front of the crowded doorway.
-	Wei yan continues spitting fire upon the enemies.
-	Ukshaka still blinded remains in place unsure of what to do.
-	One of the freshly singed ninja passes across the caltrops and leaps back favoring an injured foot.
-	Koya touches [[Ochitsuite Arashi|Ochi]] with a want rejuvenating him.
-	Another ninja attempts to pass through the caltrop filled portal also gaining a limp but continues on to strike at [[Ochitsuite Arashi|Ochi]] and misses.
-	[[Grayson]] continues to stem the tide of ninja attempting to reinforce from further south in the hall with a hail of arrows stepping further towards them.
-	[[Helgarval]] continues adding to the flames started by [[Wei Yan]].
-	One of the ninja fires his own bow at [[Grayson]] who is unharmed as 
-	Another swings past [[Ochitsuite Arashi|Ochi]].
+[[Naoto no Hatsuyuki|Noe]] strikes out with more of her martial arts devastating more of the circling ravens and then vanishes.
+[[Zio]] disappears in one place and appears in another performing more arcane incantations and movements and fires a blast of heat at the last of the frenzied ravens.
+[[Ochitsuite Arashi|Ochi]] reaches into his belt pouch and pulls out a handful of caltrops which he scatters across the floor in front of the crowded doorway.
+Wei yan continues spitting fire upon the enemies.
+Ukshaka still blinded remains in place unsure of what to do.
+One of the freshly singed ninja passes across the caltrops and leaps back favoring an injured foot.
+Koya touches [[Ochitsuite Arashi|Ochi]] with a want rejuvenating him.
+Another ninja attempts to pass through the caltrop filled portal also gaining a limp but continues on to strike at [[Ochitsuite Arashi|Ochi]] and misses.
+[[Grayson]] continues to stem the tide of ninja attempting to reinforce from further south in the hall with a hail of arrows stepping further towards them.
+[[Helgarval]] continues adding to the flames started by [[Wei Yan]].
+One of the ninja fires his own bow at [[Grayson]] who is unharmed as 
+Another swings past [[Ochitsuite Arashi|Ochi]].
 	
 3. 
 	
-	[[Naoto no Hatsuyuki|Noe]] narrowly misses a ninja with her own blades in return.
-	[[Zio]] sprays a contained blizzard from his hands at the foes and two more of the ninja slump.
-	[[Ochitsuite Arashi|Ochi]] closes on the ninja too cautious to traverse the caltrops going the the door into one of the rooms off of the long hall. 
-	
+[[Naoto no Hatsuyuki|Noe]] narrowly misses a ninja with her own blades in return.
+[[Zio]] sprays a contained blizzard from his hands at the foes and two more of the ninja slump.
+[[Ochitsuite Arashi|Ochi]] closes on the ninja too cautious to traverse the caltrops going the the door into one of the rooms off of the long hall. 
+
+### Down the chute
 Inside ten sleeping pallets lay neatly arranged about this room. At the foot of each is a small locker for personal belongings and an open iron trapdoor sits in the floor and near the east wall.
-	
-	Inside [[Ochitsuite Arashi|Ochi]]s blade meets with the flesh of his target and finishes it.
-	[[Wei Yan]] joins [[Ochitsuite Arashi|Ochi]] in the room running along the wall to leap at the last remaining foe slashing as he does.
-	Ukshaka continues to hold position blinded.
-	[[Grayson]] finishes [[Wei Yan]]s work with a few more arrows.
-	The remaining human shadow sprints to the trap door and throws itself down and out of sight.
+
+#### Part 2
+
+Inside [[Ochitsuite Arashi|Ochi]]s blade meets with the flesh of his targetand finishes it.
+[[Wei Yan]] joins [[Ochitsuite Arashi|Ochi]] in the room running along the wall to leap at the last remaining foe slashing as he does.
+Ukshaka continues to hold position blinded.
+[[Grayson]] finishes [[Wei Yan]]s work with a few more arrows.
+The remaining human shadow sprints to the trap door and throws itself down and out of sight.
 	
 4. 
 
-	[[Naoto no Hatsuyuki|Noe]] gives chase and after a moment of confused sounds from below the rest of the caravaneers just hear 
-	"Trolls!" Called louldy back up.
-	
-The room below is a furnace room sweltering from the effort. The coals in the rooms name sake roar opposite the chute [[Naoto no Hatsuyuki|Noe]] just entered from. A heap of coal is stacked against the east wall and an iron door opens in the ceiling above the coal pit. Three crude beds made of poorly cured bear skins and wolf pelts have been thrown on the floor before the fire. A Hog's head, rests between them next to the bloody bones of someone unfortunate creature.
+[[Naoto no Hatsuyuki|Noe]] gives chase and after a moment of confused sounds from below the rest of the caravaneers just hear 
+"Trolls!" Called louldy back up.
+
+### The Furnace Room
+The room below is a furnace room sweltering from the effort. The coals in the rooms namesake roar opposite the chute [[Naoto no Hatsuyuki|Noe]] just entered from. A heap of coal is stacked against the east wall and an iron door opens in the ceiling above the coal pit. Three crude beds made of poorly cured bear skins and wolf pelts have been thrown on the floor before the fire. A Hog's head, rests between them next to the bloody bones of someone unfortunate creature.
 	
 The two Troll occupants look up from the boar they were enjoying at their two unexpected guests.
-	
-	[[Zio]] with a word and a flourish creates several copies of himself and enters the room past the caltrops.
-	[[Ochitsuite Arashi|Ochi]] darts down the trap door after [[Naoto no Hatsuyuki|Noe]] arriving next to her and the fleeing ninja. Seeing that [[Naoto no Hatsuyuki|Noe]] is up to her shinobi tricks again and the ninja is stunned face down on the floor in the face of the trolls [[Ochitsuite Arashi|Ochi]] buries a sword in his back ending his life.
+
+#### Part 3
+
+[[Zio]] with a word and a flourish creates several copies of himself and enters the room past the caltrops.
+[[Ochitsuite Arashi|Ochi]] darts down the trap door after [[Naoto no Hatsuyuki|Noe]] arriving next to her and the fleeing ninja. Seeing that [[Naoto no Hatsuyuki|Noe]] is up to her shinobi tricks again and the ninja is stunned face down on the floor in the face of the trolls [[Ochitsuite Arashi|Ochi]] buries a sword in his back ending his life.
 	
 It is at this point that the rooms occupants begin to react the faster of the two commenting.
 
-"Look what we got 'ere, Tasty li'il bird."
-	
-	
-And he strikes [[Ochitsuite Arashi|Ochi]].
-	Koya also arrives down the chute gracefully on her feet.
-	"Oh... You're just right there."
-	The other Troll steps up and also attemps to sink his claws into [[Ochitsuite Arashi|Ochi]].
-	[[Grayson]] hesitates to follow his companions and leave Ukshaka defenseless and alone watches her feel her way to a curtain and duck behind it and gives chase. Landing just as gracefully as Koya he looses an arrow before even fully coming to rest at the bottom of the chute finding the flesh of one of the disturbed diners.
-	
-5
-	
-	[[Naoto no Hatsuyuki|Noe]] carves a piece off of one of the Trolls with a deft blade who promptly begins bleeding profusely.
-	[[Zio]] joins the fray clambering down the chute himself and upon view the scene in the furnace room applies extra heat to the situation firing a cone of searing flames from his hands onto the trolls.
-	[[Ochitsuite Arashi|Ochi]] zeroes in on the weakness of the more ailing of the two trolls that [[Naoto no Hatsuyuki|Noe]] had carved up and levies a few strikes at it very nearly felling it.
-	[[Wei Yan]] makes his way to the fray clambering over [[Zio]] to fire his own cone of flames at the trolls.
-	The visibly flagging troll falls with a boom to the floor after this onslaught.
-	Koya puts a hand on [[Ochitsuite Arashi|Ochi]]'s shoulder filling him with healing energies.
-	The still standing furnace denizen lashes out at [[Ochitsuite Arashi|Ochi]] wildly missing on all counts.
-	[[Grayson]] sends several more arrows into the flesh of the troll in response.
-	[[Helgarval]] spews yet more fire from his mouth on both trolls
-	
-6
-	
-	[[Naoto no Hatsuyuki|Noe]] steps up to the remaining troll drawing out her second blade and scores vicious blows sending him to the floor to join his roomate.
-	[[Zio]] draws out his mace and brains the helpless foe ending the danger.
+>"Look what we got 'ere, Tasty li'il bird."
 
+And he strikes [[Ochitsuite Arashi|Ochi]].
+Koya also arrives down the chute gracefully on her feet.
+>"Oh... You're just right there."
+
+The other Troll steps up and also attemps to sink his claws into [[Ochitsuite Arashi|Ochi]].
+[[Grayson]] hesitates to follow his companions and leave Ukshaka defenseless and alone watches her feel her way to a curtain and duck behind it and gives chase. Landing just as gracefully as Koya he looses an arrow before even fully coming to rest at the bottom of the chute finding the flesh of one of the disturbed diners.
+	
+5. 
+	
+[[Naoto no Hatsuyuki|Noe]] carves a piece off of one of the Trolls with a deft blade who promptly begins bleeding profusely.
+[[Zio]] joins the fray clambering down the chute himself and upon view the scene in the furnace room applies extra heat to the situation firing a cone of searing flames from his hands onto the trolls.
+[[Ochitsuite Arashi|Ochi]] zeroes in on the weakness of the more ailing of the two trolls that [[Naoto no Hatsuyuki|Noe]] had carved up and levies a few strikes at it very nearly felling it.
+[[Wei Yan]] makes his way to the fray clambering over [[Zio]] to fire his own cone of flames at the trolls.
+The visibly flagging troll falls with a boom to the floor after this onslaught.
+Koya puts a hand on [[Ochitsuite Arashi|Ochi]]'s shoulder filling him with healing energies.
+The still standing furnace denizen lashes out at [[Ochitsuite Arashi|Ochi]] wildly missing on all counts.
+[[Grayson]] sends several more arrows into the flesh of the troll in response.
+[[Helgarval]] spews yet more fire from his mouth on both trolls
+	
+6. 
+	
+[[Naoto no Hatsuyuki|Noe]] steps up to the remaining troll drawing out her second blade and scores vicious blows sending him to the floor to join his roomate.
+[[Zio]] draws out his mace and brains the helpless foe ending the danger.
+
+##
 [[Ochitsuite Arashi|Ochi]] mutters a prayer under his breath for the life lost.
 
-"You keep praying like that and the gods might actually listen" - N
+><mark style="background: #ABF7F7A6;">"You keep praying like that and the gods might actually listen"</mark> - N
 
 Surveying the room they find a poorly hidden stash, presumably belonginging to the trolls, under a very thin layer of coals. Inside are gold armbands and a small sack of amethysts.
 
 Now out of the clamor of combat they are able to look around and see another hallyway out of the other side of the furnace room [[Ochitsuite Arashi|Ochi]] leading the pack steps forward to get a closer look. It is a flooded passage. A deep channel of flowing water crosses. The hall here on the opposite side lies, a heavy timber plank a brass bell, and Clapper hanging from the wall on this side of the stream. 
 
-"Scion of Amatatsu you have come to retrieve me from this place of darkness. You are close now. They have cast me into some sort of dark pit. Seek me out." - T
-"Do they have a Ameiko? Have you seen her? Is she alive?!" - O
-"I assume this is the Amatatsu you serve?" - T
-"Yes!" - O
-"I have not touched her mind in this place." - T
-"They've captured her and I hope they're holding her here... We will need your help." - O
+>"Scion of Amatatsu you have come to retrieve me from this place of darkness. You are close now. They have cast me into some sort of dark pit. Seek me out." - T
+><mark style="background: #FFF3A3A6;">"Do they have a Ameiko? Have you seen her? Is she alive?!"</mark> - O
+>"I assume this is the Amatatsu you serve?" - T
+><mark style="background: #FFF3A3A6;">"Yes!"</mark> - O
+>"I have not touched her mind in this place." - T
+><mark style="background: #FFF3A3A6;">"They've captured her and I hope they're holding her here... We will need your help."</mark> - O
 
 Seeing everyone else's looks as he has this mental dialouge [[Ochitsuite Arashi|Ochi]] turns to them.
 
-"I hear... the voice of the sword... I think the sword is here and it's speaking to me." - O
-"How hard did you get hit by the troll?" - N looking at [[Ochitsuite Arashi|Ochi]] quizically.
+><mark style="background: #FFF3A3A6;">"I hear... the voice of the sword... I think the sword is here and it's speaking to me."</mark> - O
+><mark style="background: #ABF7F7A6;">"How hard did you get hit by the troll?"</mark> - N 
 
+looking at [[Ochitsuite Arashi|Ochi]] quizically.
 [[Ochitsuite Arashi|Ochi]] grabs her arm and pulls her closer to the underground stream. 
 
-"Ah, There are multiple scions." - T
-"Oh, okay. That's unnerving." - N
-"It is good to see the rise of the Amatatsus once more" - T
+>"Ah, There are multiple scions." - T
+><mark style="background: #ABF7F7A6;">"Oh, okay. That's unnerving."</mark> - N
+>"It is good to see the rise of the Amatatsus once more" - T
 
 Now closer and with the others stepping forward as well they party deliberates the way forward. North, South, or the door across the hall.
 
-"The sword. I believe is this way. I think it would be very helpful." - O Nodding forwards.
-"Certainly so long as we're not going to get jumped by any further surprises this time around" - N
+><mark style="background: #FFF3A3A6;">"The sword. I believe is this way. I think it would be very helpful."</mark> - O
+
+Nodding forwards.
+><mark style="background: #ABF7F7A6;">"Certainly so long as we're not going to get jumped by any further surprises this time around"</mark> - N
 
 She steps forward examining the door to the south carefuly for traps and finding none. The door is locked however but [[Naoto no Hatsuyuki|Noe]] expertly applies some mechanical trickery and the door clicks and cedes ingress.
 
-"Now what do you have locked up." - N easing the door open.
+><mark style="background: #ABF7F7A6;">"Now what do you have locked up."</mark> - N 
+
+easing the door open.
+
 The ceiling of this Grand Chamber rises 20 feet overhead. It's heavy beam serving as both Raftors and supports for the great hall above. Teak paneling covers the walls and the floors of polished wood. Along the walls wooden columns rise to the ceiling above bearing banners and emblazoned with pictograms from far off Tian Xia. Above these hang small oil lamps that give up a dim glow. A small, porcelain bowl rests before the center column to the south and four reed mats are arranged before it.
 
-"I think we go this way." - O
-"I suspect this might be their equivalent of a Dojo." - N
+><mark style="background: #FFF3A3A6;">"I think we go this way."</mark> - O
+><mark style="background: #ABF7F7A6;">"I suspect this might be their equivalent of a Dojo."</mark> - N
 
 [[Ochitsuite Arashi|Ochi]] steps in to the room and after nothing unexpected happens his fellows follow him.
 The caravaneers spread out across the dojo noting the numerous doors leading from the large main room.
 [[Naoto no Hatsuyuki|Noe]] quietly edges one open to peek into the interior.
 Inside she appraises and shirtless and loose pant clad muscled human meditating with his back turned. He does not notice [[Naoto no Hatsuyuki|Noe]]'s presence. She edges into the room without a sound drawing one of her blades as she does. 
 
-1
-	
-	[[Naoto no Hatsuyuki|Noe]] attempts to eviscerate him but at the last second he gracefully leaps out of the way.]
-	
-1
-	
+## The Dojo
+### The First
+
+0. 
+[[Naoto no Hatsuyuki|Noe]] attempts to eviscerate him but at the last second he gracefully leaps out of the way.
+1. 
 Before he can fully recover [[Naoto no Hatsuyuki|Noe]] presses her advantage levying another swing at him which he again narrowly dodges but cannot manage it on the second blade. He slumps to the floor silently.
+###
 
 With the enemy neutralized [[Naoto no Hatsuyuki|Noe]] takes stock of the contents of the room and finds Inside are three beautiful jade raven statuettes, a short spear of master quality, and an amulet made of beast scales. [[Naoto no Hatsuyuki|Noe]] examines and then stows these items then emerges from wherever she had vanished to covered in a great deal of blood.
 
 The others unaware of this creep up to various other doors. [[Grayson]] similarly to [[Naoto no Hatsuyuki|Noe]] quietly edges open another door. He is not as successful in supressing his presence from the occupant.
 
-1
-	
-Before he can fully react to [[Grayson]]'s Intrusion an arrow sprouts from his chest and he cries out alerting any other enemies who may be nearby. 
-	
-1 
-	
-	[[Zio]] who is still in the larger hall produces a wand from his belt readying himself for trouble at the cry.
-	[[Grayson]] finishes the bleak work he started and snuffs out his target before he can do anymore.
-	One of the doors bursts open and [[Zio]], prepared for this, fires off several bolts of magical energy from his wand at the new enemy a similarly garbed human.
-	Still standing after the magical barrage the dojo dweller returns a missile in kind in the form of a spear hurled just past [[Zio]].
-	Koya who was lingering near the door into the large room hurries forward to assist.
-	Another human bursts forth from yet another door. Their eyes settle on [[Naoto no Hatsuyuki|Noe]] and they launch a spear just past her.
+### The Rest of the Class
 
-[[Naoto no Hatsuyuki|Noe]] having casually dodged that "What was sensei doing with you."
+0. 	
+Before he can fully react to [[Grayson]]'s Intrusion an arrow sprouts from his chest and he cries out alerting any other enemies who may be nearby.
+1. 	
+[[Zio]] who is still in the larger hall produces a wand from his belt readying himself for trouble at the cry.
+[[Grayson]] finishes the bleak work he started and snuffs out his target before he can do anymore.
+One of the doors bursts open and [[Zio]], prepared for this, fires off several bolts of magical energy from his wand at the new enemy a similarly garbed human.
+Still standing after the magical barrage the dojo dweller returns a missile in kind in the form of a spear hurled just past [[Zio]].
+[[Koya Mvashti|Koya]] who was lingering near the door into the large room hurries forward to assist.
+Another human bursts forth from yet another door. Their eyes settle on [[Naoto no Hatsuyuki|Noe]] and they launch a spear just past her.
+[[Naoto no Hatsuyuki|Noe]] having casually dodged that 
+
+><mark style="background: #ABF7F7A6;">"What was sensei doing with you."</mark> - N
 
 Another student clamours out of their room adds to the spears on the floor of the room with another miss.
 	
