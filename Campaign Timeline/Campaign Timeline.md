@@ -245,14 +245,15 @@ She mumbles in response. [[Ochitsuite Arashi|Ochi]] frees her.
 
 [[Shoko]] just stares knowingly.
 
-><mark style="background: #FFF3A3A6;">"Well Ukshaka I'm not sure how much you know but from things we found here, and various other interactions with our pajama friends, We believe that they're holding our friend and Ulf at Ravenscrag."</mark> -O [^5]
-"Hmm, I know the way. I could show it to you." - U
-<mark style="background: #FFF3A3A6;">"You would take us there? We could use your help"</mark> - O
-"If they have captured [[Ulf Gormunder|Ulf]] Of course." - U
-<mark style="background: #FFF3A3A6;">"Well then I think it settled. I think we should make our way there. Maybe we could do some reconnaissance again. These are very very dangerous enemies we are facing"</mark> - O
-<mark style="background: #BBFABBA6;">"How, how long is the trip there?"</mark> - G
-"Two days walk south of [[Places/Inner Sea/Saga Lands/Land of the Linnorm Kings/Kalsgard/Kalsgard|Kalsgard]] toward those grey hills there. One by horse. The way is boggy with shale hillocks. I will take you there and fight with you, for [[Ulf Gormunder|Ulf]]." - U
+><mark style="background: #FFF3A3A6;">"Well Ukshaka I'm not sure how much you know but from things we found here, and various other interactions with our pajama friends, We believe that they're holding our friend and Ulf at Ravenscrag."</mark> -O
+>"Hmm, I know the way. I could show it to you." - U
+><mark style="background: #FFF3A3A6;">"You would take us there? We could use your help"</mark> - O
+>"If they have captured [[Ulf Gormunder|Ulf]] Of course." - U
+><mark style="background: #FFF3A3A6;">"Well then I think it settled. I think we should make our way there. Maybe we could do some reconnaissance again. These are very very dangerous enemies we are facing"</mark> - O
+><mark style="background: #BBFABBA6;">"How, how long is the trip there?"</mark> - G
+>"Two days walk south of [[Places/Inner Sea/Saga Lands/Land of the Linnorm Kings/Kalsgard/Kalsgard|Kalsgard]] toward those grey hills there. One by horse. The way is boggy with shale hillocks. I will take you there and fight with you, for [[Ulf Gormunder|Ulf]]." - U
 
+[^5]
 [^5]: [[Ravenscraeg]]
 
 The party plans and shops.
@@ -261,19 +262,20 @@ During this time [[Naoto no Hatsuyuki|Noe]] attempts to get graysons blood to us
 Later [[Shoko]] pulls [[Naoto no Hatsuyuki|Noe]] aside
 
 ><mark style="background: #CACFD9A6;">"Um when we're doing this, when we're assaulting your former clan, are you sure? We might have to kill everyone in there."</mark> - S
-<mark style="background: #ABF7F7A6;">"Oh, I'm very much counting on that you do."</mark> - N
-<mark style="background: #CACFD9A6;">"There's nobody want us to try and set aside. No one. You want us to try and spare?"</mark> - S
+><mark style="background: #ABF7F7A6;">"Oh, I'm very much counting on that you do."</mark> - N
+><mark style="background: #CACFD9A6;">"There's nobody want us to try and set aside. No one. You want us to try and spare?"</mark> - S
 
 [[Naoto no Hatsuyuki|Noe]] stops, takes off her glasses and ponders the question while cleaning them putting them back on
-><mark style="background: #ABF7F7A6;">"I want you to kill them so thoroughly that Pharasma will not recognize their souls when they go for judgment. They're that kind of people. So, no, I don't want you to save anyone. [[Ameiko Amatatsu|Ameiko]] of course that's kind of the whole point of this But the rest? they know what they signed up for"</mark> - N
+><mark style="background: #ABF7F7A6;">"I want you to kill them so thoroughly that Pharasma will not recognize their souls when they go for judgment. They're that kind of people. So, no, I don't want you to save anyone. Except the lady Ameiko of course that's kind of the whole point of this But the rest? they know what they signed up for"</mark> - N
 
 [[Shoko]] nods.
 ><mark style="background: #ABF7F7A6;">"I appreciate that you ask though really."</mark> - N
-<mark style="background: #CACFD9A6;">"It's hard thing when we're about to do, but we gotta"</mark> - S
+><mark style="background: #CACFD9A6;">"It's hard thing when we're about to do, but we must"</mark> - S
 
 Reaching a defensible clearing the party decides they should rest to be better prepared for the dangers to come but not before an ocre jelly emerges from under the bridge they camp near and attacks them. [[Shoko]] recognizes the creature and relays to the party 
 that cutting or stabbing the creature has little effect except to cause it to split into copies of itself creating more enemies.
 
+## Jelly Assault
 1.	
 [[Zio]] attacks with sonic blast which seems effective
 [[Shoko]] creates illusionary copies of himself and charges it.
@@ -285,17 +287,17 @@ ooze attacks shoko dispelling an image
 [[Zio]] fires a blast of heat from his hands on the remaining ooze
 [[Shoko]] adopts a defensive stance.
 [[Ochitsuite Arashi|Ochi]] closes the gap and strikes it with his staff.
-
+# 
 [[Ochitsuite Arashi|Ochi]] wipes his weapon clean in the grass.
 
 ><mark style="background: #FFF3A3A6;">"Nice Kick Grayson"</mark> - O 
 
 Elbowing Noe 
 ><mark style="background: #FFF3A3A6;">"What did i tell you look at those kicks"</mark>
-<mark style="background: #ABF7F7A6;">"Fucking terrifying, Grayson remind me again, Where did you learn how to do that?"</mark> -N
-<mark style="background: #BBFABBA6;">"No need to remind you. I never told you in the first place"</mark> - G
-<mark style="background: #ABF7F7A6;">"Yeah, that was kind of the hint. I was gonna be, you know, like decent about it. But seriously, What school are you from?"</mark> - N
-<mark style="background: #BBFABBA6;">"I learned it in my clan hold and then a lot of practicing with Shelalu"</mark> - G
+><mark style="background: #ABF7F7A6;">"Fucking terrifying, Grayson remind me again, Where did you learn how to do that?"</mark> -N
+><mark style="background: #BBFABBA6;">"No need to remind you. I never told you in the first place"</mark> - G
+><mark style="background: #ABF7F7A6;">"Yeah, that was kind of the hint. I was gonna be, you know, like decent about it. But seriously, What school are you from?"</mark> - N
+><mark style="background: #BBFABBA6;">"I learned it in my clan hold and then a lot of practicing with Shelalu"</mark> - G
 ><mark style="background: #ABF7F7A6;">"Interesting don't believe i've ever heard of Dwarven-based martial arts but it makes sense, you know? I just expected. It would be more..." </mark>
 
 She makes a motion arounds graysons outline and then almost picks it up and throws it.
@@ -309,16 +311,16 @@ While this conversation was happening [[Shoko]] strokes his chin over the remain
 [[Naoto no Hatsuyuki|Noe]] queiting surveyed the area noticing very large bird footprints alongside human prints.
 [[Ochitsuite Arashi|Ochi]] sees her staring once the fire is started and also gazes upon them ponderously 
 
-><mark style="background: #FFF3A3A6;">"That is a good number of them. We should definitely set watches tonight. I don't to get any closer until we've had some rest."</mark>
+><mark style="background: #FFF3A3A6;">"That is a good number of them. We should definitely set watches tonight. I don't want to get any closer until we've had some rest."</mark>
 
 [[Shoko]] takes notice and mutters some words under his breath and waving his hands lets out a bird call loud and clear.
 As he does this hundreds and hundreds of ravens swirl towards them from out of the surrounding trees landing nearby. 
 As they come to rest. One answers shoko.
 
 ><mark style="background: #FF5582A6;">"Yes, You are being hunted."</mark>
-<mark style="background: #FF5582A6;">"You would be hunted now if our master knew you called us.</mark> *they know they know they know they know*"
-<mark style="background: #ABF7F7A6;">"Your cousins are weird Ochi."</mark> - N
-<mark style="background: #FFF3A3A6;">"So are yours."</mark> - O
+><mark style="background: #FF5582A6;">"You would be hunted now if our master knew you called us.</mark> *they know they know they know they know*"
+><mark style="background: #ABF7F7A6;">"Your cousins are weird Ochi."</mark> - N
+><mark style="background: #FFF3A3A6;">"So are yours."</mark> - O
 
 The party determines a watch order and sets to bed.
 
@@ -326,6 +328,7 @@ In the night on [[Grayson]]s watch he notices bird footprints appear in the snow
 [[Ochitsuite Arashi|Ochi]] also notices footprints in another location.
 
 ## Ambush
+---
 1. 
 [[Grayson]] reaches down and picks up a handful of snow and flings it at one of the sets of foot prints shouting "Ambush!" and follows the snowball with an arrow.  As the rest of the party begins waking from his call [[Ochitsuite Arashi|Ochi]] dodges a stab from an invisible attacker whos illusion melts away into the visage of a somehow blurry [[Tengu]] ninja.
 [[Shoko]] who was still sleeping is woken as another assailant sinks their blade into him.
@@ -359,12 +362,16 @@ Wei-Yan gives chase and strikes him again.
 [[Ochitsuite Arashi|Ochi]] picks him up and carries him back to the fire to be questioned.
 
 # 
+---
 [[Zio]] is coughing during this. [[Naoto no Hatsuyuki|Noe]] notices and checks the dart in the snow confirming it is poisoned and pulls a vial from her haori and doses [[Zio]] with it who seems to recover.
 	
 While the poison seems to have run it's course [[Zio]] seems worse for the wear. [[Koya Mvashti|Koya]] digs in her pack and pulls out a scroll and performs a divine ritual quickly beseeching [[Desna]] and restoring [[Zio]]s vigor.
 
 [[Ochitsuite Arashi|Ochi]] says a prayer to Hei Feng over the deceased [[Tengu]] lying in the snow and he and [[Naoto no Hatsuyuki|Noe]] begin moving the bodies away from camp searching them in the process. After which [[Ochitsuite Arashi|Ochi]] helps [[Shoko]] back to caravan to finish resting. Looking at the weapons they carried they realize just how much danger they were in. [[Naoto no Hatsuyuki|Noe]] pockets the remaining doses. [[Koya Mvashti|Koya]] takes a sip of vodka by the fire before shuffling off the administer to [[Shoko]].
-"Just to avoid that happening so badly again" - N [[Naoto no Hatsuyuki|Noe]] tosses him one of the charms she is wearing about her neck.
+
+>"Just to avoid that happening so badly again" - N 
+
+[[Naoto no Hatsuyuki|Noe]] tosses him one of the charms she is wearing about her neck.
 [[Ochitsuite Arashi|Ochi]] recognizes it as the charm she crushed when they fought [[Omeyani]].
 [[Naoto no Hatsuyuki|Noe]] explains how it works and how to activate it to him.
 He thanks her and the party beds down for the night.
@@ -373,6 +380,8 @@ He thanks her and the party beds down for the night.
 Rest
 ```
 ---
+
+
 In the morning the caravaneers make their way the rest of the way to [[Ravenscraeg]]. They come upon the structure towering up on a cliff consisting of a large hall and tower silent except for the caw of the mass of ravens adorning the roofs, eaves and railings. The way up is a narrow wooden stairway winding up the cliff 90 feet in switchback fashion. In some places the stair is anchored directly into the rock face and others they are suspended upon supports and buttresses driven into the rock. Lichen and moss cover the stairs and rocks with pale vines roots and blooms of Nightshade, Willow herb, and Bog Tea sprouting from the occasional crevice in the stone.
 
 "We should be wary of traps" - N
@@ -447,8 +456,8 @@ Rows of pillars support the 40-foot high roof of this long hall torches set into
 The party continues down the long hall. When they arrive near the center the ravens in the roof and rafters take wing closing in on the invaders.
 "So this is where [[Shoko]] summoned them from." - G *readying his bow*
 
-1
-
+## Battle in the long hall
+1. 
 	[[Naoto no Hatsuyuki|Noe]] draws one of her blades and slashes and punches at the assailing murder immediately knocking some of them out of the air.
 	[[Zio]] recites an incantation and performs some arcane movements with his hands.
 	A frozen shadow steps out from a doorway further down the long hall.
@@ -465,7 +474,7 @@ The party continues down the long hall. When they arrive near the center the rav
 	Someone fires an arrow [[Ochitsuite Arashi|Ochi]] but narrowly misses. 
 	[[Ochitsuite Arashi|Ochi]] is blocking a doorway still stemming the flow of Ninja from one of the rooms. 
 	
-2
+2. 
 	
 	[[Naoto no Hatsuyuki|Noe]] strikes out with more of her martial arts devastating more of the circling ravens and then vanishes.
 	[[Zio]] disappears in one place and appears in another performing more arcane incantations and movements and fires a blast of heat at the last of the frenzied ravens.
@@ -480,7 +489,7 @@ The party continues down the long hall. When they arrive near the center the rav
 	One of the ninja fires his own bow at [[Grayson]] who is unharmed as 
 	Another swings past [[Ochitsuite Arashi|Ochi]].
 	
-3
+3. 
 	
 	[[Naoto no Hatsuyuki|Noe]] narrowly misses a ninja with her own blades in return.
 	[[Zio]] sprays a contained blizzard from his hands at the foes and two more of the ninja slump.
@@ -488,13 +497,13 @@ The party continues down the long hall. When they arrive near the center the rav
 	
 Inside ten sleeping pallets lay neatly arranged about this room. At the foot of each is a small locker for personal belongings and an open iron trapdoor sits in the floor and near the east wall.
 	
-Inside [[Ochitsuite Arashi|Ochi]]s blade meets with the flesh of his target and finishes it.
-[[Wei Yan]] joins [[Ochitsuite Arashi|Ochi]] in the room running along the wall to leap at the last remaining foe slashing as he does.
-Ukshaka continues to hold position blinded.
-[[Grayson]] finishes [[Wei Yan]]s work with a few more arrows.
-The remaining human shadow sprints to the trap door and throws itself down and out of sight.
+	Inside [[Ochitsuite Arashi|Ochi]]s blade meets with the flesh of his target and finishes it.
+	[[Wei Yan]] joins [[Ochitsuite Arashi|Ochi]] in the room running along the wall to leap at the last remaining foe slashing as he does.
+	Ukshaka continues to hold position blinded.
+	[[Grayson]] finishes [[Wei Yan]]s work with a few more arrows.
+	The remaining human shadow sprints to the trap door and throws itself down and out of sight.
 	
-4
+4. 
 
 	[[Naoto no Hatsuyuki|Noe]] gives chase and after a moment of confused sounds from below the rest of the caravaneers just hear 
 	"Trolls!" Called louldy back up.
