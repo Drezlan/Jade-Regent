@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 342.5026054382324
   },
   "right": {
     "id": "c53138176d88334e",
@@ -159,17 +159,55 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7d1f955edd152ae6",
+  "floating": {
+    "id": "6fe6ff57930482b8",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3314fcd6118feb85",
+        "type": "window",
+        "children": [
+          {
+            "id": "bb49325ccab43e2f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "69577bb867754bbc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Obsidian notes.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1
+      }
+    ]
+  },
+  "active": "2b24da6e9bcde894",
   "lastOpenFiles": [
-    "Recap.md",
+    "Shozoku.md",
     "Campaign Timeline/Campaign Timeline.md",
+    "Deadly Kiss.md",
+    "Obsidian notes.md",
+    "Characters/6 Kalsgard NPCs/Wodes/Wodes.md",
+    "Recap.md",
     "Places/Inner Sea/Saga Lands/Land of the Linnorm Kings/Kalsgard/Kalsgard.md",
     "Places/Inner Sea/Inner Sea.md",
     "Places/Tian Xia/Tian Xia.md",
-    "Places/Inner Sea/Saga Lands/Saga Lands.md",
-    "Places/The Crown of the World/The Crown of the World.md",
-    "Places/Inner Sea/Saga Lands/Land of the Linnorm Kings/Land of the Linnorm Kings.md",
-    "Z_Assets/Maps/Saga lands - Copy.jpg",
-    "Z_Assets/Maps/Saga Lands SalesWorlds Deviant art - Copy.jpg"
+    "Places/Inner Sea/Saga Lands/Saga Lands.md"
   ]
 }
