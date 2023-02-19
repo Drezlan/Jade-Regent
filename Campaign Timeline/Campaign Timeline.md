@@ -1157,247 +1157,57 @@ As Shoko tests the ladder Ochi spots the fireplace. Remembering Snorri's writing
 
 Shoko by this time starts his way up the ladder opening the hatch. Above he finds the Rooks nest. A wooden platform has been built into the thatched roof of the tower. It is backed by wooden siding while the far edge is a sheer drop off to the veil below. The trap doors sits in the corner of the roof and a small wire coup with a wooden table next to it sits in the shelter formed by the roof's peak. The entire platform and joining roof are thick with bird droppings and numerous blackbirds flutter around and croak ominously.
 
-Ochi takes the time to pull some food out and lure one and snare it and stows it gently in his pack for later. That doesn't stop the raven from squawking angrily in a flurry of feathers.
+Ochi takes the time to pull some food out and lure one of the ravens and snare it and stows it gently in his pack for later. That doesn't stop the raven from squawking angrily in a flurry of feathers.
 
 Grayson spots something shiny among the bird droppings and recovers a diamond all the while watching Ochi's proceedings.
 
 "Ochi are you able to talk to crows or Ravens?" - G
 "No" - O
-"Even more reason why you're not one of them." - G
+"See even more reason why you're not one of them." - G
+"I'm going to follow Noe now."
 
-Noise. Like just probably marched off. Probably halfway down the tower and is the bottom looking awaiting for you guys reason, just shrugs and rolls his eyes while looking at that [[Shoko]] and [[Zio]] to be like,
+The aforementioned is tapping her foot impatiently at the bottom of the tower.
+Grayson shrugs rolling his eyes to Shoko and Zio.
 
-03:21:12
+Having found no sign of Ameiko or Kimmandatsu the party scours over the keep again mapping out as far as they have explored it searching for some passageway they may have missed. They find it when they retrace the Dojo downstairs in the storage closet. 
 
-I'm stuck in the tower now.
+Inside the room is a brazier in the corner which glows faintly with red coals, it's smoke reminiscent of the stench of scorched flesh. A short bed with a headboard carved with the image of an open mouthed demon stands against one wall and a small table cluttered with books, scrolls, and a stuffed and mounted sturge sits across from it. A magic circle has been scribed in the center of the floor with chalk. Torn paper, bits of food and other debris are scattered about the room collecting in corners and under the bed and table. 
 
-03:21:25
+Ochi takes notice of the contents of the table.
 
-And I mean, flip, You were trapped in a stairwell.
+The items on the table hold an assorted paraphernalia related to magic research including a partially scribed scroll of planar binding. The scroll is incomplete. The circle on the floor is an outline for a protective circle for use with the planar binding spell. Examination of the brazier confirms that strips of dried flesh have been burns in it to create the repellent odor.
 
-03:21:44
+"Horrifying." - O
 
-I'm just gonna put everyone down here.
+"I do not know of any mantras that would involve stripping the flesh and wearing it on display like that." - N
 
-03:21:56
+As the group hovers over the circle to make sense of it a very large hand to crawls out from under the bed and leaps towards Ochi's face.
 
-The bones.
+1.
 
-03:22:09
+Noe readies her blades to strike it out of the air but hears Koya yell out that bladed weapons will cause it to explode in a burst of sickness.
+"It will wha--" - N
+She quickly shifts her strike and punches it instead with her blade gripped in her fist.
 
-Headbutting angel, murderous Monkey.
+"Why is so many things in here like this?" - N visibly annoyed.
 
-03:22:39
+Shoko reaches out to disrupt the undead hand but narrowly misses.
 
-Okay, so I'm trying to make sense of this year. I zoomed all the way out to look at maybe areas. We didn't explore. You have explored what you think is everything? Yeah. The only place that we didn't go was up the veil because it does look like the past continues up away.
+The hand retaliates but also fails to meet it's mark.
 
-03:22:55
+Ochi hearing Koya's warning plants a kick into the Giant Hand lacking the correct martial arts training though he leaves himself open and is stuck in kind by the creature.
 
-I don't exactly remember the description but if they can, maybe there's more tower up there or something another, there is not actually
+Grayson rushes through the doorway and lands a kick of his own.
 
-03:23:06
+Koya also enters and places a hand on Ochi's shoulder mending him once again and then quickly lashes out with a glowing hand to cleanse the unliving hand.
 
-So is it just like it's completely walled in by the steep phases up there? There's not like a path to travel up that path past the bridge. There is a secret path out, but it leads out to the planes, not to a secret location.
+Helgarval flies forward and charges past the hand missing.
 
-03:23:24
+2.
 
-Okay. So, what we're going to do here is we're going to say after some exhaustive searchings, I imagine you're going to look now for the secret door that you missed. Yeah.
+Noe lashes out unarmed again but does not connect.
 
-03:23:43
-
-Completely, but and paste. I mean, this is what [[Grayson]]'s ridiculous perception is for. I'm surprised he didn't find it. That is true, but he checked in the wrong room, though. It was Omayani's room that you checked in. You find the secret door in the dusty. Unused storage closet. They love putting stuff in storage closets.
-
-03:24:11
-
-That was a storage closet. Empty storage room. Not a closet necessarily sorry it's just The room's. All look fucking same. I know they do. New people.
-
-03:24:38
-
-And After a squish opening.
-
-03:24:49
-
-I've heard people complain about this with Paisal before, but like, how you gonna make the only way to advance the plot? Be a secret door and like one tiny room in the lower level. I know there's usually a towel they get better about my player. There's usually a, what the tell on this one was that the cell was being unused by any of the months.
-
-03:25:15
-
-And, yeah, I get that. Now that we're down here, but like, I don't know. Like was it? Not because I speak to remember that. This guy came out of this room. And that's why I thought it was like another one of these, like, generic rooms. Yes, but there's no bed in this one.
-
-03:25:34
-
-Oh, of course, how could we miss that this? I don't know. It's just a real story. Killer from pies oven in my opinion. I know me putting the monk in there was actually to encourage you guys to search it. Well, I I search it. You vastly, overestimated, as this players, I mean, which is my personally, if I had gone in, it wouldn't I've gotten a free search from stone cunning.
-
-03:26:05
-
-If it's stone, it is stone. This is underground. And yes, you should have If you got any phenomena. All right, but again that's why we're just skipping your searching over the rest of this room again. You found it. It's there.
-
-03:26:29
-
-Oh, damn it, is there? Come on folks, I found this secret door. Oh. Is that how we're gonna play? Hey Koya. It's theory. 10. Gold says he gets hit in the face with another wakazashi before he like actually sees who swings it. Oh, she's never gonna kicks. Open this door.
-
-03:26:54
-
-Overcome a brazier in the corner of this room, flows, faintly with red colds, it's smoke. Reminiscent of the stench of scorched flesh, A short bed with a headboard carved with the image of an open mouth demon stands against one wall and a small table cluttered with books scrolls and a stuffed and mounted sturge sits across from it.
-
-03:27:16
-
-That's gross. A magic circle has been scribed in the center of the floor with chalk, torn paper, but bits of food and other. Debris are scattered about the room collecting in corners and under the bed and table. What's up with all those papers? Anything cool or interesting in there.
-
-03:27:37
-
-Last The items on the table. Hold an assorted paraphernalia related to magic research, including a partially ascribed. Scroll of planar binding. The scroll is incomplete. The circle on the floor is an outline for a protective circle. For use with the planar. Binding spell examination of the brazier confirmed that strips of dried flesh, have been burns in it, to create the repellent odor.
-
-03:28:12
-
-That's horrifying.
-
-03:28:19
-
-I do not know of any mantras that would involve stripping the flesh and wearing it on display like that. Hey [[Zio]], you might know some stuff about this. What's up with this circle? And what could they be trying to do with this? Well done. And letting you know what?
-
-03:28:48
-
-Well, guess not, that's right. [[Zio]]'s not here. I'm so dumb. He is not here. But as you move into the room to examine the papers in the circle, a very large hand to crawled out from under the bed. Hello Guy and tries to slide your face.
-
-03:29:16
-
-See, You're the one that but wasn't a sword, this
-
-03:29:30
-
-And,
-
-03:30:00
-
-Is that everyone that looks like a plan? No way. You're up first. So I am. What the hell is just knowledge religion for those that have it? Yeah. How about? No hey, you born. But I actually have moments be done. And it's true, but that's fine.
-
-03:30:39
-
-There's anything you'd like to tell me before I take this one.
-
-03:30:45
-
-Yes, quiet does shall don't use slashing or piercing attacks on it. It will explode.
-
-03:30:56
-
-It will what Like what was? It's just. Okay. All right, so rocks. Koya and [[Shoko]]. If you guys got so fucking high, the dragon crawling hand is a neutral evil medium, undead, with blank sense and dark vision Standard Undead trade supply. It has an ability called Mark Quarry. A curling hand is a signed a quarry by anointing.
-
-03:31:24
-
-The hand with a drop of the intended. Quarries, blood. The hand has, though, current quarry, it automatically gains the next creature. A damages as its quarry continue to a target, it becomes aware of the target's location as if under the effects of a continuous locate creature. Spell, It also gains a plus one on all attack, roles damage, rolls and skill checks made to seek out and destroy the marked quarry this last until it.
-
-03:31:47
-
-Or the hand is slain husbands when damaged by a piercing or slashing melee weapon, a spray of vile, push strikes. The attacker unless the attacker makes the DC-15. Reflex saves Weapon said provide reach. Protect the attacker. Completely from a, thus first creatures, struck by pus become nauseated, for 1v3, rounds, and take 2D 6 points of negative energy damage.
-
-03:32:16
-
-Give you, you punch the very large hand like, what's going to stop it. And then world's just like okay no stabby, Why is so many things in here? Don't stop it.
-
-03:32:37
-
-Oxford. That's a really fair question. Go.
-
-03:32:50
-
-Okay, circle will calmly approach. The undead hand and uses on that killings. Well.
-
-03:33:07
-
-And roll an 11.
-
-03:33:17
-
-It's study. JC is unfortunately 14. Whom so you don't get him but he's not dead yet either, or you don't lose the spell.
-
-03:33:33
-
-All right. Enter nobody. Not made zombie tokens.
-
-03:33:44
-
-Okay. Phone. If you appeal, if you have a touch attack charged on your hand, can you use it in an attack of opportunity? You need? I would say yes. Okay, I'll just I just never know it varies one of those weird rules. I don't see any reason you couldn't.
-
-03:34:12
-
-I agree.
-
-03:34:16
-
-Requires, once it's up and charged requires less effort than the swing of sword. I don't use agree. He misses. Oh, gee
-
-03:34:39
-
-I'll go there and kick it. I don't know what my role. My bonus is all worked out to be without though it's light, so I can use finesse with it. So just be like, a melee attack, right? Yeah, you just take an AOL here, not profession. That's fair.
-
-03:35:08
-
-What are we doing unproficient? Martial strike.
-
-03:35:17
-
-The boom. You, you hit? I don't know. My damn one. Wendy three, twenty three. And he lashes out at you with a 22 hit.
-
-03:35:37
-
-What's a D4? How do I do a D? Oh like that. I just type backslash roll and then one d3, they go he's winning this this on our fight by a lot. It is what he is. Designed for boom. Anything else on your turn now, that's going to be it racing.
-
-03:36:07
-
-This will come in. See what's going on it, move up and then just as you rushes up to, he's just gonna kick.
-
-03:36:24
-
-And with it.
-
-03:36:34
-
-Kicks are powerful Boy. Yeah. Going to cast your light, our the cure serious ones, that's just going to move up and try to touch it.
-
-03:36:55
-
-And,
-
-03:37:01
-
-Is Right.
-
-03:37:18
-
-So plus 3 to 12 plus then another three adding her decks is a 15.
-
-03:37:32
-
-And she zaps the fucking undead.
-
-03:37:44
-
-And El Carval play over here and but the hand
-
-03:37:59
-
-You should also be adding text to your text.
-
-03:38:11
-
-I will still not fit my long shot. No way. Acromatics.
-
-03:38:23
-
-Why is this thing here? What? I was just a hand groom.
-
-03:38:33
-
-This is very clearly a spellcaster's room and not a nice spellcaster.
-
-03:38:52
-
-And attack does not hit that. Includes your blinking up Unfortunately. We are looking for a 19 for this beast.
-
-03:39:07
-
-Well, I accidentally clicked them to map [[Shoko]].
+Shoko tries again to disrupt the hand magically
 
 03:39:17
 
