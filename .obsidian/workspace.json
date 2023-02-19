@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -159,7 +159,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2b24da6e9bcde894",
+  "active": "7d1f955edd152ae6",
   "lastOpenFiles": [
     "Recap.md",
     "Campaign Timeline/Campaign Timeline.md",
