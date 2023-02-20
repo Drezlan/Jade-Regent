@@ -1,7 +1,13 @@
 ---
 Alias: The Dwarg, Legs, Freak of Nature, The Monk,
+type: PC 
+faction: Caravan, Amatatsu,
+location: The Caravan 
+description:  
+race: Dwarf
+gender: Male
+class: Monk
 ---
-![[Grayson.png|left ws-med]]
 
 > [!infobox|Right wmed]
 > # Grayson
@@ -10,9 +16,8 @@ Alias: The Dwarg, Legs, Freak of Nature, The Monk,
 > | ---- | ---- |
 > | Race | [[Dwarf]] |
 > | Gender | Male |
-> | Height | 5'1" |
-> | Weight | 125lbs |
-> | Age | 20's |
+> | Height | 4'2" |
+> | Weight | 185lbs |
+> | Age | early 100's |
 
-
-#person #caravan #PC
+![[Grayson.png|left ws-med]]

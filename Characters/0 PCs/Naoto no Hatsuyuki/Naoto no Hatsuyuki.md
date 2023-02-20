@@ -1,7 +1,7 @@
 ---
 Alias: Noe, Noe Icemark, Hatsuyuki, Hatsuyuki No Naoto, Naoto-san, Hatsu-chan, Hatsu 
 type: PC 
-faction: Frozen Shadows 
+faction: Frozen Shadows, Naoto Clan, Amatatsu, Caravan
 location: The Caravan 
 description:  
 race: Human, Varki 
@@ -14,7 +14,7 @@ class: Ninja, Monk
 > ##### Appearance
 > | Attribute |  Value
 > | ---- | ---- |
-> | Race | [[Varki]] [[Human]] |
+> | Race | [[Erutaki]] - [[Tian]] |
 > | Gender | Female |
 > | Height | 5'1" |
 > | Weight | 125lbs |
