@@ -714,27 +714,43 @@ While the closer portion is very dim, far down at the bottom is much brighter as
 Peering through the only foot diameter hole
 ><mark style="background: #ABF7F7A6;">"This would be very problematic if..."</mark> - N
 
-[[Naoto no Hatsuyuki|Noe]] clears her throat loudly and looks aroudn searching for [[Wei Yan]]
+[[Naoto no Hatsuyuki|Noe]] clears her throat loudly and looks around searching for [[Wei Yan]] who has just made his way into the room at the back of the pack.
 
->"What" - W
+>"What... Who throws one of those down a well?! -W
+><mark style="background: #ABF7F7A6;">"Fancy retriving a relic for us?"</mark> - N
 
+[[Wei Yan]] grumbles a bit but deftly makes his way into the well and down toward the blade.
 
+>"I didn't sign up for this" - W
 
-I'm retrieving and a will come around one of those down a. Well honestly, who's my goodness. Apparently Google.
-Let's complain and more going to fucking gets the book. He claims easily done the well.
-Inside up for this. So, very slowly because
-This is actually really heavy for him.
-Yeah, his push drag is 50 pounds. How broken light heavy? It's like regular katana. Heavy six pounds. So it's it's almost at his lift above head weight and he's kind of got a lift above head. Push not drag. Okay? Okay. I'm hearing a lot of complaints and what I'm actually needing to hear is how far down is it?
+He grunts with effort to push the [[Te No Sui|Katana]] before him up the well.
 
-Because if you can't pull it, we have this wonderful Fandangled invention, year called rule, I'm getting it. Oh well, why didn't you just send a rope down? Because it was funny funnier to see you get after it. I asked question, even the one who went into this. He me the room time.
+As he makes it someway up from the bottom he feels a rope brush across his head as he is fully emperors new grooving it up the well shaft.
 
-We throw it all down to him. Okay, goes through a bag. Pulls up. And last year, is the end of it and hand it. Filing up complaints. With the heavenly Bureau fear. I well, the heavenly bureaucracy can talk in ways until we've gotten back our sail and I would tug on the rope after a minute.
+>"Why didn't we just do that in the first place." - W
+><mark style="background: #ABF7F7A6;">"It was way, way funnier to do it this way."</mark> - N
 
-That. And yeah you guys pull out blah ocean endlessly. Excuse me, it's changed. Where did you go? There you are. If we were home.
+Patiently waiting for him to fasten the rope to the sword
+>"I'm filing a complaint with the Heavenly Bureau." - W
 
-So this beautiful blade made an ancient Tian style, has both a scabbard and that's so basic looking. I think that makes sense. I it is almost beautiful and its simplicity. It's scabbard is black and glossy and still in perfect condition. And the wrapped handle appears to be made of some form of leather. That you're not familiar with and the gold. Accoutrement are shining sill. Fancy that's rings. A cloth out. Whips off. Whatever dust and gumkit managed to get on old adapter. Archie, you're free my friend and he grabbed out of the vomitasu. Very have my thanks for the rest. It is good. Now, that this plan has finally come to fruition, as I foresaw, They did not foresee the only stealing me before your it's concerned. They've been very hard at work with a concern, you to learn that. They also have our Scions somewhere around here. It does greatly it. That's the like, literally just drops the sword unless he capture that. And then just what I stand is. Like I said, I grab a gingerly. Well, no no. I said I grabbed it, I grab it and tuck it into like the back of my belt, my little OB. you can come with me. S
+As he tugs on the rope to let [[Naoto no Hatsuyuki|Noe]] know she can start bringing the sword up.
+>"That can wait till we have Ameiko back"
 
-o here's fun thing. Solution is a plus two defending flaming katana. The endcircle blade of the Amitatsu family and switching can be wielded by any amatatou scion. You don't just have to be a natural ward dependent. You will allow someone who acts in defense of the throne to wield it as well. You hear that? [[Grayson]]. That could be fun. Flurry of katana, Although solution is neutral. Good, any amatatou style. Regardless of the Lightning can Falconing and negative level. This boon is at their discretion. However, and should such a Scion ever betrayed the family or prove. Unworthy. The sword can reinstate this penalty and cause a personality conflict and because this is an artifact lightly take over your body.
+Noe brings it up and over the edge and unties it.
+
+So this beautiful blade made an ancient Tian style is almost beautiful in it's simplicity and still in perfect condition. It's scabbard is black and glossy and the wrapped handle appears to be made of some form of leather that you're not familiar with. The gold accoutrement are shining still. 
+
+[[Naoto no Hatsuyuki|Noe]] Wrings a cloth out and wipes off whatever dust and debris managed to attach itself to the weapon in the well and holds it out toward [[Ochitsuite Arashi|Ochi]] who accepts it gently.
+><mark style="background: #FFF3A3A6;">"You're free my friend"</mark> - O
+>"Scions of Amatatsu you have my thanks for the rescue. I am glad to see things finally unfolding as i have seen them. I was concerned when the Oni had me stolen before you arrived. I did not foresee that part." - T
+><mark style="background: #FFF3A3A6;">"They have been hard at work."</mark> - O
+>"Does it also concern you to know that they have the Amatatsu heir around here somehwere?" - N
+>"It does greatly." - T
+
+and [[Ochitsuite Arashi|Ochi]] Tucks the scabbarded [[Te No Sui|Katana]] Into the back of his belt
+
+>"You can come with me." - O
+
 
 So this might be a little bit of a fine detail. Does does [[Zio]] know anything about what we're talking about with scions and such because he wasn't there. When the the seal was opened and we were made into Scions, he does not We've just been and the seal has not been opened again. 
 

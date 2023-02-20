@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bfbee5c6e17e664d",
+        "id": "b47ecffe6d97864e",
         "type": "tabs",
         "children": [
           {
-            "id": "2b24da6e9bcde894",
+            "id": "8a76305c8f44d482",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0287a7a24b116db3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/1 Caravan NPCs/Te No Sui.md",
+                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md"
+                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md"
               }
             }
           },
@@ -177,20 +164,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "3314fcd6118feb85",
+        "id": "17d785f7bb95a2fd",
         "type": "window",
         "children": [
           {
-            "id": "bb49325ccab43e2f",
+            "id": "92ae9604431e617a",
             "type": "tabs",
             "children": [
               {
-                "id": "69577bb867754bbc",
+                "id": "2b24da6e9bcde894",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Obsidian notes.md",
+                    "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -201,26 +188,26 @@
           }
         ],
         "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
         "maximize": false,
         "zoom": 1
       }
     ]
   },
-  "active": "2b24da6e9bcde894",
+  "active": "8a76305c8f44d482",
   "lastOpenFiles": [
-    "Characters/1 Caravan NPCs/Te No Sui.md",
+    "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
+    "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
     "Campaign Timeline/Campaign Timeline.md",
+    "Characters/1 Caravan NPCs/Te No Sui.md",
     "Obsidian notes.md",
     "Sveinn Blood-Eagle.md",
     "Characters/0 PCs/Zio.md",
     "Characters/1 Caravan NPCs/Wei Yan/Wei Yan.md",
     "Things/Shozoku.md",
-    "Things/Deadly Kiss.md",
-    "Characters/6 Kalsgard NPCs/Wodes/Wodes.md",
-    "Recap.md"
+    "Things/Deadly Kiss.md"
   ]
 }
