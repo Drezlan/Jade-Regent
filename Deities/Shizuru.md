@@ -1,0 +1,1 @@
+![[emanuele-desiati-pzo92112-shizuru-body-shot.jpg|left|345]] 

@@ -1,0 +1,1 @@
+![[Pazuzu.png|left|345]] 

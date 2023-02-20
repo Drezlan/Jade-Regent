@@ -1,7 +1,7 @@
 ---
 Alias: the Oni, Yamabushi Tengu, Oni, Tengu
 type: NPC, Oni
-faction: Oni of the Five Storms
+faction: Five Storms,
 location: Brinewall Keep
 description:  
 race: Yamabushi Tengu, Oni

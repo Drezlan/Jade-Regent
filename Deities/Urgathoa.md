@@ -1,0 +1,1 @@
+![[Urgathoa symbol paizo.jpg|left|345]] 
