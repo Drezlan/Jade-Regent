@@ -643,83 +643,63 @@ Another human bursts forth from yet another door. Their eyes settle on [[Naoto n
 ><mark style="background: #ABF7F7A6;">"What was sensei doing with you."</mark> - N
 
 Another student clamours out of their room adds to the spears on the floor of the room with another miss.
-	
-2
-	
-	[[Naoto no Hatsuyuki|Noe]] closes quickly on one of the students forcing them to dodge her slashes.
-	In return one of the students reinforces their peer and strikes [[Naoto no Hatsuyuki|Noe]] with a spinning kick.
-	[[Ochitsuite Arashi|Ochi]] evens the odds for [[Naoto no Hatsuyuki|Noe]] bringing his blades to bear on the pair flanking [[Naoto no Hatsuyuki|Noe]] scoring a hit.
-	[[Zio]] unleashes a boulder of snow and Ice impacting one of the trained fists.
-	Koya whips her starknife across the room only to have it deflected in the same manner Omeyani had done previously. To the students surprise though the star knife flies back to Koyas hand.
-	[[Grayson]] seeing the technique again takes advantage of their distraction to dispatch them with two arrows. His third is sent at another only to have them deflect it in the same fashion.
-	The surrounded [[Naoto no Hatsuyuki|Noe]] continues to be beset with fists and feet taking another blow from her masters students.
-	
-3 
-	
+2. 
+[[Naoto no Hatsuyuki|Noe]] closes quickly on one of the students forcing them to dodge her slashes.
+in return one of the students reinforces their peer and strikes [[Naoto no Hatsuyuki|Noe]] with a spinning kick.
+[[Ochitsuite Arashi|Ochi]] evens the odds for [[Naoto no Hatsuyuki|Noe]] bringing his blades to bear on the pair flanking [[Naoto no Hatsuyuki|Noe]] scoring a hit.
+[[Zio]] unleashes a boulder of snow and Ice impacting one of the trained fists.
+Koya whips her starknife across the room only to have it deflected in the same manner Omeyani had done previously. To the students surprise though the star knife flies back to Koyas hand.
+[[Grayson]] seeing the technique again takes advantage of their distraction to dispatch them with two arrows. His third is sent at another only to have them deflect it in the same fashion.
+The surrounded [[Naoto no Hatsuyuki|Noe]] continues to be beset with fists and feet taking another blow from her masters students.
+3. 
 She returns strikes in kind.
-	[[Wei Yan]] and [[Helgarval]] do fire stuff but their foes are too quick.
-	[[Ochitsuite Arashi|Ochi]] circles around to even the odds. Attempting to cut him off his quarry scores a stab with a spear across his shoulder. [[Ochitsuite Arashi|Ochi]] weathers it and levels his sword before swinging at one of the encirclers.
+[[Wei Yan]] and [[Helgarval]] do fire stuff but their foes are too quick.
+[[Ochitsuite Arashi|Ochi]] circles around to even the odds. Attempting to cut him off his quarry scores a stab with a spear across his shoulder. [[Ochitsuite Arashi|Ochi]] weathers it and levels his sword before swinging at one of the encirclers.
 
 >"Why don't you try me instead." - O
 
 His blow while full of intent still misses.
-	[[Zio]] narrowly misses clubbing another student with his mace.
-	Koya closes the distance to [[Naoto no Hatsuyuki|Noe]] and with a touch uses Desna's Grace to mend some of her copious wounds.
-
-4
-
+[[Zio]] narrowly misses clubbing another student with his mace.
+Koya closes the distance to [[Naoto no Hatsuyuki|Noe]] and with a touch uses Desna's Grace to mend some of her copious wounds.
+4. 
 [[Naoto no Hatsuyuki|Noe]] still spewing blood
 
 >"I appreciate you trying."
 
-	[[Grayson]] fires at the unarmed attacker next to [[Zio]] with such a strong draw and precision that their inevitable maneuver to deflect missiles does not stop the shaft.
-	[[Ochitsuite Arashi|Ochi]] continues harrying [[Naoto no Hatsuyuki|Noe]]'s Outflankers but can't connect.
-	[[Naoto no Hatsuyuki|Noe]]'s assailants continue pressing their advantage landing even more blows.
-	
-5
-	
-	[[Naoto no Hatsuyuki|Noe]] deftly steps around her opponent to change the battlefield to her advantage pressing her attackers back but not connecting with any strikes.
-	[[Ochitsuite Arashi|Ochi]] continues to not be able to cause any real damage to their enemies.
-	[[Zio]] returns to his wand tactic pinpointing magical energies to fell one of the remaining students.
-	Koya releases a burst of divine energy revivifying her companions.
-	[[Grayson]] targets the last remaining enemy but he deflects and dodges all the deadly shots.
-	Omeyani's last remaining student continues their assault on [[Naoto no Hatsuyuki|Noe]] landing yet more blows.
-	Wei yan passes through his legs and attacks him.
-	
-6
-	
-	[[Naoto no Hatsuyuki|Noe]] attempts to fight back but her opponent is much haler than her in her state and her swings fall short.
-	[[Helgarval]] fills [[Ochitsuite Arashi|Ochi]] with angelic energies aiding him.
-	[[Ochitsuite Arashi|Ochi]] steps to close the distance to the remaining foe and with [[Helgarval]]s assistance strikes him twice but he remains standing.
-	[[Zio]] goes to use his wand again and the bolts of magic finally overcome the monk.
-
+[[Grayson]] fires at the unarmed attacker next to [[Zio]] with such a strong draw and precision that their inevitable maneuver to deflect missiles does not stop the shaft.
+[[Ochitsuite Arashi|Ochi]] continues harrying [[Naoto no Hatsuyuki|Noe]]'s Outflankers but can't connect.
+[[Naoto no Hatsuyuki|Noe]]'s assailants continue pressing their advantage landing even more blows.	
+5. 	
+[[Naoto no Hatsuyuki|Noe]] deftly steps around her opponent to change the battlefield to her advantage pressing her attackers back but not connecting with any strikes.
+[[Ochitsuite Arashi|Ochi]] continues to not be able to cause any real damage to their enemies.
+[[Zio]] returns to his wand tactic pinpointing magical energies to fell one of the remaining students.
+[[Koya Mvashti|Koya]] releases a burst of divine energy revivifying her companions.
+[[Grayson]] targets the last remaining enemy but he deflects and dodges all the deadly shots.
+[[Omeyani]]'s last remaining student continues their assault on [[Naoto no Hatsuyuki|Noe]] landing yet more blows.
+[[Wei yan]] passes through his legs and attacks him.	
+6. 
+[[Naoto no Hatsuyuki|Noe]] attempts to fight back but her opponent is much haler than her in her state and her swings fall short.
+[[Helgarval]] fills [[Ochitsuite Arashi|Ochi]] with angelic energies aiding him.
+[[Ochitsuite Arashi|Ochi]] steps to close the distance to the remaining foe and with [[Helgarval]]s assistance strikes him twice but he remains standing.
+[[Zio]] goes to use his wand again and the bolts of magic finally overcome the monk.
+###
+##
 [[Ochitsuite Arashi|Ochi]] says a prayer for the dead.
-[[Grayson]] collects the quality crafted spears that the students were bearing.
+[[Grayson]] collects belongings from the students and their rooms including the quality crafted spears.
 
 The room the battle left the Scions in contains a meditation screen of obviously Tian Ming style. Behind the screen is a small leather trunk. 
-inside they find a washer woman's clothes and other possessions, including a disguise kit, an ornate decorative blowgun fashioned from Jade and lapis lazuli, gold pieces in Tian coins, and a writ signed by Sven Bloodeagle that gives the bearer the authority to commandeer any of the Linnorm Kings housecarls within two miles of Kalsgard for up to 12 hours.
+inside they find a washer woman's clothes and other possessions, including a disguise kit, an ornate decorative blowgun fashioned from Jade and lapis lazuli, gold pieces in Tian coins, and a writ signed by [[Sveinn Blood-Eagle]] that gives the bearer the authority to commandeer any of the Linnorm Kings housecarls within two miles of Kalsgard for up to 12 hours.
 
-> "Do what you want with this. Take it. Burn it. i don't care." - N
+> <mark style="background: #ABF7F7A6;">"Do what you want with this. Take it. Burn it. i don't care."</mark> - N
 
+[[Grayson]] takes extra care searching what was clearly [[Omeyani]]'s room after finding those items but nothing else is found.
+With that the group heads back east towards the water and places the plank across the gap.
+After crossing [[Naoto no Hatsuyuki|Noe]] notices the sound of even more water coming from one of the doors in the hallway.
+When she mentions this [[Ochitsuite Arashi|Ochi]] moves to the door and inspects it for traps and not noticing anything he opens the door.
+Inside is revealed a natural cavern 30 feet across and 15 feet high. A waterfall pours in through a small aperture high on the south wall filling a turbulent pool in the floor and sending a cold spray throughout the room. A smooth ledge extends outward from the door and two large barrels have been set to the right of it. Another ledge sits on the far side of the pool. A smaller cask sits on this ledge next to a heavy wooden door.
 
-Can't think of our skin would would overshadow it. He doesn't always have that actually.
-Well, that was the thrilling.
-Let's be on our way.
-
-I guess going down the other way that we originally going to go to. Yes, just to be thorough. [[Grayson]] is going to search the room. That was clearly umayani's for like a secret passage.
-
-But you find anything of the sort in that room.
-
-I have no a help me put the board across the thingy. You need, you get across the rushing waters with ease.
-Assuming you don't mind balancing too much.
-Water shame, that would be.
-Do we hear anything in particular from either of these tools? I mean, we know you hear the sound of water coming from this direction. I think that. Yeah, we want to go this way because this is where we could tell the sword was. That is the door locked. Can I just try it or sorry?
-Let's back up. Hold up. I want to see if it's trapped.
-They want a second opinion. Oh, she says I don't think it's trapped and he tries the door. Oh,
-
-likely for you. It's not trapped. 
-
-opens into a natural cavern 30 feet across and 15 feet high. A waterfall. Pours in through a small aperture, high on the south wall, filling a turbulent pool in the floor and sending a cold spray throughout the room. A smooth ledge extends outward from the door and two large barrels have been set to the right of it. Another ledge sits on the far side of the pool, a smaller cask sits fullness ledge next to a heavy wooden door.
+After the group surveys the water for danger [[Ochitsuite Arashi|Ochi]] begins undressing to swim across
+[[Naoto no Hatsuyuki|Noe]] seeing this 
 Just a bunch of barrels, casks. Over there.
 Do I notice anything strange about the water? Nope, just looks like natural spring water and how high above the water. Are these ledges?
 Not too far like maybe the few inches. Okay cool. I'm gonna swim across guys. I want to check this out. Oh no. I walks across. God damn it.
