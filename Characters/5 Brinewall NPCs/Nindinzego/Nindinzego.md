@@ -2,7 +2,7 @@
 Alias: Ten-Handed One, Decapus
 ---
 
-[[Decapus]]
+![[Nindenzego paizo.jpg|left|345]]
 
-#creature #brinewall 
+
 

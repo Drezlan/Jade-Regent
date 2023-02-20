@@ -8,7 +8,7 @@ race: Kitsune
 gender: Male
 class: Swashbuckler, Bard, 
 ---
-
+![[Shoko kitsune.jpg|left|345]]
 > [!infobox|Right wmed]
 > # Shoko
 > ##### Appearance

@@ -1,6 +1,7 @@
 ---
 Alias: The Ranger, The Archer, Shelalu
 ---
+![[Shelalu.png|left|345]]
 
 #person #caravan
 

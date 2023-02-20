@@ -1,8 +1,6 @@
-# Walthus Proudstump Overview
- 
-```ccard
-type: folder_brief_live
-```
- 
-#person #brinestump 
+---
+alias: Walthus, Halfling,
+---
 
+
+![[Walthus Proudstump Obsidian portal.jpg|left|345]]

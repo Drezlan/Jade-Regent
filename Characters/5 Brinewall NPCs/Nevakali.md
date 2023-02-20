@@ -1,0 +1,1 @@
+![[Nevakali paizo.png|left|345]]

@@ -20,4 +20,4 @@ class: Monk
 > | Weight | 185lbs |
 > | Age | early 100's |
 
-![[Grayson.png|left ws-med]]
+![[Grayson 1.png|left ws-med]]

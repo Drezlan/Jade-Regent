@@ -1,6 +1,7 @@
 ---
 Alias: Koya, The old woman, Fortune Teller, The healer,
 ---
+![[Koya Mvashti.jpg|left|345]]
 
 #person #caravan
 

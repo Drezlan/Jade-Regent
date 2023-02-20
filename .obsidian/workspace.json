@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/6 Kalsgard NPCs/Hekja.md",
+                "file": "Obsidian Formatting to do.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/6 Kalsgard NPCs/Hekja.md",
+                "file": "Obsidian Formatting to do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/6 Kalsgard NPCs/Hekja.md",
+                "file": "Obsidian Formatting to do.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/6 Kalsgard NPCs/Hekja.md"
+                "file": "Obsidian Formatting to do.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,22 +183,8 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "0d3c28cb2411efa4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Obsidian notes.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -213,15 +199,15 @@
   },
   "active": "ade9cdef54dd1e41",
   "lastOpenFiles": [
-    "Characters/6 Kalsgard NPCs/Asvig Longthews/Asvig Longthews.md",
-    "Characters/6 Kalsgard NPCs/Ulf Gormunder/Ulf Gormunder.md",
-    "Characters/6 Kalsgard NPCs/Snorri Stoneye/Snorri Stoneye.md",
-    "Characters/6 Kalsgard NPCs/Kimandatsu/Kimandatsu.md",
     "Characters/6 Kalsgard NPCs/Jorgun the Axe/Jorgun the Axe.md",
     "Characters/6 Kalsgard NPCs/Helva/Helva.md",
     "Characters/6 Kalsgard NPCs/Fynn Snaevald/Fynn Snaevald.md",
-    "Characters/5 Brinewall NPCs/Tsutoku Amatatsu/Tsutoku Amatatsu.md",
-    "Characters/5 Brinewall NPCs/Attic Whisperer/Attic Whisperer.md",
-    "Campaign Timeline/Campaign Timeline.md"
+    "Characters/6 Kalsgard NPCs/Asvig Longthews/Asvig Longthews.md",
+    "Characters/5 Brinewall NPCs/Slugwort.md",
+    "Characters/5 Brinewall NPCs/Sea Drake.md",
+    "Characters/5 Brinewall NPCs/Rotscale.md",
+    "Characters/5 Brinewall NPCs/Nevakali.md",
+    "Characters/5 Brinewall NPCs/Muthilduh.md",
+    "Characters/5 Brinewall NPCs/Mobat.md"
   ]
 }

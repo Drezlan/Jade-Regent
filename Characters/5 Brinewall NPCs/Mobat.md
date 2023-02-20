@@ -1,0 +1,1 @@
+![[mobat ononheli.jpg|left|345]]

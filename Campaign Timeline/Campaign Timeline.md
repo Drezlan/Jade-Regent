@@ -7,7 +7,7 @@ Rest
 ```
 ---
 
-# The Pale Figure and The Village
+# The [[Sinspawn|Pale Figure]] and The Village
 
 Returning to [[Brinestump marsh]] with more accurate information they decide they want to investigate this [[Sinspawn|Pale Figure]]. Retracting their steps to the point on the path to [[Walthus' Home]] where they saw the creature they set out in the direction it travelled. Finding it to be the [[Sinspawn]] and the source of many a missing person from [[Sandpoint]]. They dispatch the creature with [[Ochitsuite Arashi|Ochi]] nearly being felled. They investigate the bodies and bring the information back to town so that the victims families may know peace. They share what they have learned with the sheriff [[Belor Hemlock]] first who rewards them for the good deed.
 
@@ -21,7 +21,7 @@ They return to [[Brinestump marsh]] again and head towards the [[Licktoad Villag
 Rest
 ```
 ---
-# The Cave and The Letter
+# [[Tsutamu's Cave|The Cave]] and The Letter
 Following up on the goblin's information about the [[Kaitjitsu Clan Skeletons|Clak-Claks]] incursion into [[Licktoad Village]] the party travels back to the village and follows the clear path the [[Kaitjitsu Clan Skeletons|Skeletons]] cut back to [[Tsutamu's Cave|The Cave]] through the swampy undergrowth. On arrival at the [[Tsutamu's Cave|Cave]] [[Ochitsuite Arashi|Ochi]] cuts down the vines covering the entrance. They enter and find it fairly normal until they reach pooling water as deep as their shoulders in some places. This is compounded by lack of vision in the darkness. Wading through the water they find the bottom of the body to be slick and difficult to cross. When making their way to the second disconnected exposed landing the [[Kaitjitsu Clan Skeletons|Skeletons]] emerge and attack them. The heros stay close together to call out approaching enemies in the dark. They finish dispatching these [[Kaitjitsu Clan Skeletons|skeletons]] and find another more [[Tsutamu|Regal Skeleton]] in the furthest chamber in the back. This skeleton watches them but makes no move until they get close. It lowers it's sword to point it at them as a challenge. [[Ochitsuite Arashi|Ochi]] and [[Grayson]] understand the gesture and [[Grayson]] does not interfere. [[Ochitsuite Arashi|Ochi]] is outmatched and surrenders. The skeleton accepts his surrender and lowers his weapon and turns to dust in front of them leaving [[Tsutamu's Chest|a chest]] to the party as well as his weapon the [[Whispering Shrike]]. Inside the [[Tsutamu's Chest|chest]] they find [[Rokuro's letter|a letter]] from [[Tsutoku Amatatsu|Rokuro Kaijitsu]] to his son [[Lonjiku Kaijitsu]] that mentioned some secret that would be revealed at a later date but never was. The rest of it informs the party that they may find more at the old [[The Amatatsu|Kaijitsu]] settlement of [[Brinewall Village]]. They also find inside the [[Tsutamu's Chest|chest]] a richly made [[Kaijitsu Fan map|Fan]] with a map drawn on one side that marks the shipwrecks in the area. They gather the [[Tsutamu's Chest|chest]] to return to town. On the way out they attempt to take a different route stumbling in to a lair of giant spiders who don't spot them. [[Ochitsuite Arashi|Ochi]] insists that they are hurting no one as they have heard no reports of spiders attacking anyone. [[Grayson]] wants to clear them out for the safety of [[Sandpoint]] and the inhabitants of the marsh Ultimately [[Ochitsuite Arashi|Ochi]] wins out arguing they are too wounded to face them and they end up avoiding the spiders. They return the way they came and depart towards the [[Brinestump Marsh Witch]]es hut on recommendation from [[Belor Hemlock|The Sheriff]] that they perform a wellness check. They arrive and knock and call out for her but she does not appear. They enter anyways apologizing and discover that she seems to have been a casualty of her own experiments. While searching the house [[Ochitsuite Arashi|Ochi]] discovers her [[Ratling Familiar]] who screeches at him to leave. Not wanting to be rude he asks the creatures relation to the [[Brinestump Marsh Witch]] and understands that she was it's mistress. Backing out and apologizing he informs the others and they exit. As they all reach the front and wonder at what will become of the place the Ratling cracks the door and throws out a bag of goods and tells them to leave. The party does.
 
 ```
@@ -44,10 +44,10 @@ The party returns to [[Caravan|The Caravan]]
 Rest
 ```
 ---
-# The Oni and The Harpy
-[[Shoko]] Comes looking for [[Koya Mvashti|Koya]] realizing she had departed [[Sandpoint]] and finds the party regrouping at [[Caravan|The Caravan]]. He joins the party after playing a bit of catch up and hearing of [[Ameiko's Possession]]. He recalls that [[Brinewall keep]] is a [[Kaijitsus]] holding from 30 years ago. They set out for the keep again. Arriving at the keep they decide to enter through the front gate this time. Believing they cleared most of the [[Corby]]s and other evils from the outer defenses the travelers still proceed cautiously. Inside the gatehouse they find two dead [[Corby]]s that the party had no hand in killing which raises some suspicions. In the interest of surprise they peek out windows as they pass them and see some large creatures to the east where they have not been yet. Entering the courtyard again they encounter two wrestling Ogrekin which [[Grayson]] had spotted from the gatehouse. [[Shoko]] casts sleep on them and the party dispatches them while they're unconscious. [[Ochitsuite Arashi|Ochi]] abstains [[Refusing to kill the helpless]]. Shortly after they enter the nearest and most southern room of the keep. Inside they find [[Muthilduh]] who is angry we have killed her harem and strikes [[Ochitsuite Arashi|Ochi]] who is unaware yet of her presence. The party dispatches her also. [[Koya Mvashti|Koya]] heals the not insignificant damage [[Ochitsuite Arashi|Ochi]] took in the engagement. Continuing on into the keep entering the main hall (west) they find several [[Corby]]s performing a play for a long-nosed red masked humanoid [[Kikonu]]. They sneak closer and [[Shoko]] tries to put them to sleep as well. He only gets one on the first attempt but gets more on the second. [[Ochitsuite Arashi|Ochi]] moves in a strikes the only conscious [[Corby]] and then runs up to [[Kikonu|the Oni]] who has transformed into a winged [[Tengu]] form and retreats a little. [[Trogolodytes]] pour in from another room off of the hall to the Northeast and engage [[Shoko]] and [[Grayson]] filling the room with a powerful stench. A monitor lizard joins in from the same door also. The party sleeps or kills all the enemies, fighting on two fronts, except the Oni [[Kikonu]] who retreats by disappearing magically[^2]. The party enters the ballroom off of the main hall (Southwest) and spots him on the balcony a floor up and they pursue. Looking out the arrow slits in their chase they spot some giant insectoid creature dwelling in a small body of water (chillin). The [[Kikonu|Oni]] flees again as more [[Corby]]s enter from a series of rooms to the northeast lead by a Corby priest of [[Pazuzu]] [[Nevakali]]. The travellers dispatch them all.
+# [[Kikonu|The Oni]] and The Harpy
+[[Shoko]] Comes looking for [[Koya Mvashti|Koya]] realizing she had departed [[Sandpoint]] and finds the party regrouping at [[Caravan|The Caravan]]. He joins the party after playing a bit of catch up and hearing of [[Ameiko's Possession]]. He recalls that [[Brinewall keep]] is a [[Kaijitsus]] holding from 30 years ago. They set out for the keep again. Arriving at the keep they decide to enter through the front gate this time. Believing they cleared most of the [[Corby]]s and other evils from the outer defenses the travelers still proceed cautiously. Inside the gatehouse they find two dead [[Corby]]s that the party had no hand in killing which raises some suspicions. In the interest of surprise they peek out windows as they pass them and see some large creatures to the east where they have not been yet. Entering the courtyard again they encounter two wrestling Ogrekin which [[Grayson]] had spotted from the gatehouse. [[Shoko]] casts sleep on them and the party dispatches them while they're unconscious. [[Ochitsuite Arashi|Ochi]] abstains [[Refusing to kill the helpless]]. Shortly after they enter the nearest and most southern room of the keep. Inside they find [[Muthilduh]] who is angry we have killed her harem and strikes [[Ochitsuite Arashi|Ochi]] who is unaware yet of her presence. The party dispatches her also. [[Koya Mvashti|Koya]] heals the not insignificant damage [[Ochitsuite Arashi|Ochi]] took in the engagement. Continuing on into the keep entering the main hall (west) they find several [[Corby]]s performing a play for a long-nosed red masked humanoid [[Kikonu]]. They sneak closer and [[Shoko]] tries to put them to sleep as well. He only gets one on the first attempt but gets more on the second. [[Ochitsuite Arashi|Ochi]] moves in a strikes the only conscious [[Corby]] and then runs up to [[Kikonu|the Oni]] who has transformed into a winged [[Tengu]] form and retreats a little. [[Trogolodytes]] pour in from another room off of the hall to the Northeast and engage [[Shoko]] and [[Grayson]] filling the room with a powerful stench. A monitor lizard joins in from the same door also. The party sleeps or kills all the enemies, fighting on two fronts, except the Oni [[Kikonu]] who retreats by disappearing magically[^2]. The party enters the ballroom off of the main hall (Southwest) and spots him on the balcony a floor up and they pursue. Looking out the arrow slits in their chase they spot some giant insectoid creature dwelling in a small body of water (chillin). The [[Kikonu|Oni]] flees again as more [[Corby]]s enter from a series of rooms to the northeast lead by a [[Corby]] priest of [[Pazuzu]] [[Nevakali]]. The travellers dispatch them all.
 Ascending further they find themselves in the living quarters. Checking all the rooms one by one they encounter an [[Attic Whisperer]] and It steals [[Ochitsuite Arashi|Ochi]]'s voice and is vanquished by the party thanks to [[Koya Mvashti|Koya]] On the walls they discover drawings depicting [[Oni]] and Ninja storming the keep and mudering it's inhabitants. They believe the bookcase fell on the boy in the commotion. The other ghostly inhabitant in the halls outside the living quarter is the remnants of the souls of the [[Murdered Brinewallers]]. [[Koya Mvashti|Koya]] puts them to rest temporarily and believes that they will find peace when the evil that took their lives and this castle is ousted. Finding much of the rest of the living quarters/ kitchen on the second floor empty with signs of [[Corby]] habitation they also find a defaced shrine to [[Desna]] seeming to be altered to some winged creature the party failed to identify. [[Koya Mvashti|Koya]] and the others attempt to clean it up. Afterwards they continue on and up.
-At the top of the tower they come across a Harpy. She does not speak to the party verbally but instead they take measure of each other and she gestures for them to come closer. [[Ochitsuite Arashi|Ochi]] does and she touches him and communicates telepathically with him. She tells him she is [[Zaiobe]] and she has lost love for the [[Kikonu|Oni]] who they learn is called [[Kikonu]]. [[Kikonu]] serves something called the [[Nindinzego|Ten-Handed One]]. [[Zaiobe]] and [[Kikonu]] used to date. She volunteers to aid us in killing [[Kikonu]]. She has lived in [[Brinewall Village|Brinewall]] for a long time. She tells that there is a[[Third Vault|Vault]] no one has been able to enter thus far. [[Ochitsuite Arashi|Ochi]] tries to communicate this all to his companions through a really terrible game of charades for what is far too long before [[Shoko]] makes him step aside to speed up the process. With [[Zaiobe]] in tow they all journey to the dungeon and clear a southern room containing [[Rotscale]] and two other [[Trogolodytes]] fighting for his amusement as well as a mostly scoured armory. After which they also discover strange spores in an antechamber off the kitchen to the west and after following that to it's source they find a slime creature[^4] they dispatch from range. Even deeper still they find a proper dungeon containing [[Slugwort]] and some prison cells. Having the jump on him and the aid of some Alchemist's fire via [[Shoko]] and [[Zaiobe]] he is quickly ended. Inside one of the cells [[Grayson]] finds one [[Kelda Oxgutter]]. [[Slugwort]] was threatening to eat her. She didn't trust us right away but after a little coaxing her story is revealed. She and her very late party were responsible for the mysterious end of the [[Sea Drake]] back in [[Brinewall Village]]. She was weak after the ordeal and was captured by the [[Corby]]s and Co and brought into [[Brinewall keep]]. She offered aid and also mentioned that she needs to return home at some point and if we help her back to her home of [[Kalsgard]] her family will reward us. Attempting to continue deeper the caravaneers are confroned with a series of what seem impossibly well locked doors into a cave-like chamber we unlock one of the second locks after jamming the first one and get stopped by the third. Returning and trying another route they spot [[Nindinzego]] and [[Kikonu]] in the cavernous room off the dungeon and attempt to sneak up on them. There is a large drop in the path and in crossing it [[Shoko]] stumbles climbing down and the noise of [[Koya Mvashti|Koya]]'s casting of feather fall alerts the enemies ending their ploy for surprise. Long and grueling fight ensues. There's flying. [[Zaiobe]] and [[Grayson]] carry us. [[Koya Mvashti|Koya]] spends the entire time keeping [[Ochitsuite Arashi|Ochi]] alive. [[Kikonu]] is pretty much out of spells at this point and employs [[Dancing Wasp]] while [[Nindinzego]] flies high above casting down with a wand and nastier things. The party prevails. 
+At the top of the tower they come across a [[Harpy]]. She does not speak to the party verbally but instead they take measure of each other and she gestures for them to come closer. [[Ochitsuite Arashi|Ochi]] does and she touches him and communicates telepathically with him. She tells him she is [[Zaiobe]] and she has lost love for the [[Kikonu|Oni]] who they learn is called [[Kikonu]]. [[Kikonu]] serves something called the [[Nindinzego|Ten-Handed One]]. [[Zaiobe]] and [[Kikonu]] used to date. She volunteers to aid us in killing [[Kikonu]]. She has lived in [[Brinewall Village|Brinewall]] for a long time. She tells that there is a[[Third Vault|Vault]] no one has been able to enter thus far. [[Ochitsuite Arashi|Ochi]] tries to communicate this all to his companions through a really terrible game of charades for what is far too long before [[Shoko]] makes him step aside to speed up the process. With [[Zaiobe]] in tow they all journey to the dungeon and clear a southern room containing [[Rotscale]] and two other [[Trogolodytes]] fighting for his amusement as well as a mostly scoured armory. After which they also discover strange spores in an antechamber off the kitchen to the west and after following that to it's source they find a slime creature[^4] they dispatch from range. Even deeper still they find a proper dungeon containing [[Slugwort]] and some prison cells. Having the jump on him and the aid of some Alchemist's fire via [[Shoko]] and [[Zaiobe]] he is quickly ended. Inside one of the cells [[Grayson]] finds one [[Kelda Oxgutter]]. [[Slugwort]] was threatening to eat her. She didn't trust us right away but after a little coaxing her story is revealed. She and her very late party were responsible for the mysterious end of the [[Sea Drake]] back in [[Brinewall Village]]. She was weak after the ordeal and was captured by the [[Corby]]s and Co and brought into [[Brinewall keep]]. She offered aid and also mentioned that she needs to return home at some point and if we help her back to her home of [[Kalsgard]] her family will reward us. Attempting to continue deeper the caravaneers are confroned with a series of what seem impossibly well locked doors into a cave-like chamber we unlock one of the second locks after jamming the first one and get stopped by the third. Returning and trying another route they spot [[Nindinzego]] and [[Kikonu]] in the cavernous room off the dungeon and attempt to sneak up on them. There is a large drop in the path and in crossing it [[Shoko]] stumbles climbing down and the noise of [[Koya Mvashti|Koya]]'s casting of feather fall alerts the enemies ending their ploy for surprise. Long and grueling fight ensues. There's flying. [[Zaiobe]] and [[Grayson]] carry us. [[Koya Mvashti|Koya]] spends the entire time keeping [[Ochitsuite Arashi|Ochi]] alive. [[Kikonu]] is pretty much out of spells at this point and employs [[Dancing Wasp]] while [[Nindinzego]] flies high above casting down with a wand and nastier things. The party prevails. 
 
 [^2]: [[Dimension Door]]
 [^4]: [[Phycomid]]
@@ -58,7 +58,7 @@ At the top of the tower they come across a Harpy. She does not speak to the part
 After confirming the death of [[Nindinzego]] and [[Kikonu]] the party climbs up the two sheer drop offs constituting the way from the other dungeon related entrance. Faced with an Iron gate with a woman on it and funerary alcoves branching from the way in perpendicular fashion. Part of the room is collapsed and contains flowing motes of light. Knowledge these Alcoves contain the previous commanders of [[Brinewall Village|Brinewall]]
 Still not having found anything they believe will help [[Ameiko Amatatsu|Ameiko]] they make sure they have searched the entire cavern system and dungeon under [[Brinewall keep]]. They discover a secret sea cliff walk path that leads straight into the chamber that housed [[Nindinzego]]. 
 Making their way back up to make sure they have cleared the ground floor they encounter [[Naoto no Hatsuyuki|Noe Icemark]], a short [[Varki]] woman with two shortswords at her sides, poking the dead bodies of the [[Trogolodytes]] the party had killed in the 'throne room'. [[Naoto no Hatsuyuki|Noe]] Accompanies us after hearing our business because she loves a mystery. 
-Proceeding to the back of the throne room they encounter the only door they had not yet explored due to chasing after [[Kikonu]] earlier. Using a skeleton key they aquired at some point they find It contains a hallway leading to stairs both down and up. As they enter soldiers of blood coagulate into being and instead of attacking thank the adventurers for the death of [[Kikonu]]. One of the next rooms greets them with a decrepit body opening the door which approaches [[Ochitsuite Arashi|Ochi]] and [[Grayson]] and attacks. After dispatching the [[Wight]] they enter the room he came from and find it to be an officers quarters in disarray as if raided or attacked. On the desk they find letters addressed to and from [[Andril Kortun]] the commander of [[Brinewall keep]]. The last of the letters is hastily scribbled and describing the attack on the keep by Ninja and [[Oni]].
+Proceeding to the back of the throne room they encounter the only door they had not yet explored due to chasing after [[Kikonu]] earlier. Using a skeleton key they aquired at some point they find It contains a hallway leading to stairs both down and up. As they enter soldiers of blood coagulate into being and instead of attacking thank the adventurers for the death of [[Kikonu]]. One of the next rooms greets them with a decrepit body opening the door which approaches [[Ochitsuite Arashi|Ochi]] and [[Grayson]] and attacks. After dispatching the [[Andril Kortun|Wight]] they enter the room he came from and find it to be an officers quarters in disarray as if raided or attacked. On the desk they find letters addressed to and from [[Andril Kortun]] the commander of [[Brinewall keep]]. The last of the letters is hastily scribbled and describing the attack on the keep by Ninja and [[Oni]].
 The party returns the way it came and then takes the stairs leading downward. There are empty raided vaults here. An Ominous shadowy [[Tian]] man confronts them. 
 
 >"I know this name"
@@ -86,7 +86,7 @@ With all of these thoughts weighing on the party they make their way back to [[C
 Rest
 ```
 ---
-# The Merchant and The Raid
+# [[Fynn Snaevald|The Merchant]] and The Raid
 
 Those on watch hear the scrape of wood on sandy gravel as a longship beaches on the shores near [[Caravan|The Caravan]]. Having been detected the [[Ulfen]] Raider's let loose cries and set upon the camp. The [[Scions]] rouse and arm themselves to take up the defense as well as [[Ameiko Amatatsu|Ameiko]], [[Sandru Vhiski|Sandru]], [[Koya Mvashti|Koya]], and [[Kelda Oxgutter|Kelda]]. [[Ochitsuite Arashi|Ochi]] rushes to aid [[Koya Mvashti|Koya]] in her caravan after seeing several raiders enter as he does he spies a large peculiar [[Wodes|Raven]] with a red feather on it's breast which flies off into the night when spotted. The fight ends with the capture of one of the [[Ulfen Raiders]]. The party determines to interrogate him. When he is less than forthcoming [[Ochitsuite Arashi|Ochi]] threatens to tie stones to the mans feet and send him into the river he came from. The man begins bleeding from his eyes and ears and quickly dies. Confused the party see if the man lives and search his body. They discover a symbol branded on his chest and identify it as a [[Blood Geas]], A mark left by the weapon [[Oathtaker]] a Tetsubo. After discussing they also determine that the longship bearing their attackers is the [[Arl's Hammer]] belonging to [[Asvig Longthews]]. Some in the party share that he is the husband of [[Helva]] who is the real power between the two and a powerful witch. Pondering the thought of a powerful necromancer against them and the mysterious [[Wodes|Raven]] as well as the social and politcal implications of this attack they make a plan to split their forces to enter [[Kalsgard]] in a way to be both less and more conspicuous to draw danger away from [[Ameiko Amatatsu|Ameiko]].
 Come morning with their plan in action they draw near to the city aboard the [[Arl's Hammer]] when a strange golden [[Wei Yan|Flying Monkey]] lands upon the bow of the boat. Calmly smoking a pipe, He is unresponsive to their questions or actions at first. Soon however the [[Xiao]] communicates to them that he is named [[Wei Yan]] and that he is an emissary of [[Shizuru]] come to watch over [[Ameiko Amatatsu|Ameiko]]. With this new addition they seek out a place to stay and gather information. Over a mix of [[Tian]] and [[Ulfen]] food and drink they as the tavern keep if there is anyone who could guide them north. They are recommended [[Ulf Gormunder]] or his apprentice [[Ukshaka]]. They also inquire about [[Fynn Snaevald]] and where he can be found. They determine to speak to [[Fynn Snaevald|Fynn]] first and set out for his house.
@@ -109,8 +109,8 @@ With few leads the [[scions]] make way to the [[Kalsgard Shelyn Temple]] which t
 screeched from somwhere in the dark. 
 
 The party engages the earthen behemoth while the voice from the dark urges it to kill them. During the fight it is identified as the [[Wodes|Red Feather Raven]] that has been ahead of them at every turn. [[Grayson]] gifts several arrows to it before it flees as the group reduces the earth elemental to dust.
-[[Shoko]] asks the priest what happened and he says it was basically all a blur. 
-The [[Wodes|Raven]] appeared and suddenly the earth elemental was there and destroying the place. He doesn't think it was a normal raven. [[Grayson]] agrees pointing out that he put two arrows into it and it didn't even slow it down. We make sure that priest is alright and then show him the token [[Ukshaka]] told us to present to him. 
+[[Shoko]] asks [[Yin Po|the priest]] what happened and he says it was basically all a blur. 
+The [[Wodes|Raven]] appeared and suddenly the earth elemental was there and destroying the place. He doesn't think it was a normal [[Wodes|raven]]. [[Grayson]] agrees pointing out that he put two arrows into it and it didn't even slow it down. We make sure that priest is alright and then show him the token [[Ukshaka]] told us to present to him. 
 [[Yin Po]] says 
 
 >"I see. Of course. Come with me" >
@@ -129,7 +129,7 @@ The party confused at first in the clash ask if this is someone they shouldn't b
 Rest
 ```
 ---
-# The Guild and The Frozen Shadows
+# The Guild and The [[Frozen Shadows]]
 
 Having learned all that the party determines they need rest before they act and that they will take watches and recuperate at an inn in the [[Ivory Quarter]] while [[Naoto no Hatsuyuki|Noe]] does some reconaissance on the [[Rimerunners]]. In the morning the party does some shopping on the way to prepare for some of the tricks that they've seen from the [[Frozen Shadows]] so far.
 While this is going [[Naoto no Hatsuyuki|Noe]] is carefully watching the [[Rimerunners]] building noting the points of egress and the guards number and shift changes. Only one windows is boarded up and barred. With careful prodding she finds an easy way in and finds herself in an empty office. FInding nothing of interest she continues on to more rooms peering through a keyhole she passes on a room with two lounging guards for a different locked one and picks the lock. It appears to be a storage closet at first but after careful searching she finds a secret door behind a panel. Inside she finds a trapdoor in the floor to another storage location, this one containing a heavy iron lockbox against the north wall. After bypassing the lock on that as well she finds it contains two thousand gold pieces as well as some very importnat looking ledgers and paperwork. Gathering these pilfered treasures up and peering through another portal she decides she's risked enough on her own and makes a mental note of the secret rooms location and carefully covers her tracks and makes her exit. Returning to the others flipping some of her spoils she, [[Ochitsuite Arashi|Ochi]], and [[Shoko]] gather everyone to go over [[Naoto no Hatsuyuki|Noe]]'s findings.
@@ -293,9 +293,9 @@ that cutting or stabbing the creature has little effect except to cause it to sp
 [[Zio]] attacks with sonic blast which seems effective
 [[Shoko]] creates illusionary copies of himself and charges it.
 [[Ochitsuite Arashi|Ochi]] fires an arrow out of his sleeve which causes the ooze to duplicate.
-Ukshaka charges it.
+[[Ukshaka]] charges it.
 [[Grayson]] flying kicks his way in and decimates one of the oozes
-ooze attacks shoko dispelling an image
+ooze attacks [[shoko]] dispelling an image
 2. 
 [[Zio]] fires a blast of heat from his hands on the remaining ooze
 [[Shoko]] adopts a defensive stance.
@@ -328,7 +328,7 @@ While this conversation was happening [[Shoko]] strokes his chin over the remain
 
 [[Shoko]] takes notice and mutters some words under his breath and waving his hands lets out a bird call loud and clear.
 As he does this hundreds and hundreds of ravens swirl towards them from out of the surrounding trees landing nearby. 
-As they come to rest. One answers shoko.
+As they come to rest. One answers [[shoko]].
 
 ><mark style="background: #FF5582A6;">"Yes, You are being hunted."</mark>
 ><mark style="background: #FF5582A6;">"You would be hunted now if our master knew you called us.</mark> *they know they know they know they know*"
@@ -378,7 +378,7 @@ Wei-Yan gives chase and strikes him again.
 	
 While the poison seems to have run it's course [[Zio]] seems worse for the wear. [[Koya Mvashti|Koya]] digs in her pack and pulls out a scroll and performs a divine ritual quickly beseeching [[Desna]] and restoring [[Zio]]s vigor.
 
-[[Ochitsuite Arashi|Ochi]] says a prayer to Hei Feng over the deceased [[Tengu]] lying in the snow and he and [[Naoto no Hatsuyuki|Noe]] begin moving the bodies away from camp searching them in the process. After which [[Ochitsuite Arashi|Ochi]] helps [[Shoko]] back to caravan to finish resting. Looking at the weapons they carried they realize just how much danger they were in. [[Naoto no Hatsuyuki|Noe]] pockets the remaining doses. [[Koya Mvashti|Koya]] takes a sip of vodka by the fire before shuffling off the administer to [[Shoko]].
+[[Ochitsuite Arashi|Ochi]] says a prayer to Hei Feng over the deceased [[Tengu]] lying in the snow and he and [[Naoto no Hatsuyuki|Noe]] begin moving the bodies away from camp searching them in the process. After which [[Ochitsuite Arashi|Ochi]] helps [[Shoko]] back to the [[caravan]] to finish resting. Looking at the weapons they carried they realize just how much danger they were in. [[Naoto no Hatsuyuki|Noe]] pockets the remaining doses. [[Koya Mvashti|Koya]] takes a sip of vodka by the fire before shuffling off the administer to [[Shoko]].
 
 ><mark style="background: #ABF7F7A6;">"Just to avoid that happening so badly again"</mark> - N 
 
@@ -494,9 +494,9 @@ Another mass swarms around his head attempting to peck out his eyes and fails in
 [[Ukshaka]] screams in pain as another of the flocks manages to gouge at her eyes blinding her.
 [[Wei yan]] scurries past [[Ochitsuite Arashi|Ochi]] and spits out a gout of flame roasting one of the whirlwinds of ravens.
 [[Ukshaka]] swings blindly in a panic at her assailants and misses.
-A door bursts open next to [[Ochitsuite Arashi|Ochi]] surprising him and revealing another Tengu who looks equally surprised at the scene before him.
+A door bursts open next to [[Ochitsuite Arashi|Ochi]] surprising him and revealing another [[Tengu]] who looks equally surprised at the scene before him.
 Another tengu appears and stabs [[Ochitsuite Arashi|Ochi]].
-[[Grayson]] takes note of more Tengu appearing to the south from doors further down the long hall and attempts to keep them from joining the fray with surpressing fire stepping between shots toward his targets.
+[[Grayson]] takes note of more [[Tengu]] appearing to the south from doors further down the long hall and attempts to keep them from joining the fray with surpressing fire stepping between shots toward his targets.
 [[Helgarval]] mimics [[Wei Yan]] and roasts the unprepared ravens.
 Someone fires an arrow [[Ochitsuite Arashi|Ochi]] but narrowly misses. 
 [[Ochitsuite Arashi|Ochi]] is blocking a doorway still stemming the flow of Ninja from one of the rooms. 
@@ -506,10 +506,10 @@ Someone fires an arrow [[Ochitsuite Arashi|Ochi]] but narrowly misses.
 [[Naoto no Hatsuyuki|Noe]] strikes out with more of her martial arts devastating more of the circling ravens and then vanishes.
 [[Zio]] disappears in one place and appears in another performing more arcane incantations and movements and fires a blast of heat at the last of the frenzied ravens.
 [[Ochitsuite Arashi|Ochi]] reaches into his belt pouch and pulls out a handful of caltrops which he scatters across the floor in front of the crowded doorway.
-Wei yan continues spitting fire upon the enemies.
-Ukshaka still blinded remains in place unsure of what to do.
+[[Wei yan]] continues spitting fire upon the enemi[[Ukshaka|es.
+Uks]]haka still blinded remains in place unsure of what to do.
 One of the freshly singed ninja passes across the caltrops and leaps back favoring an injured foot.
-Koya touches [[Ochitsuite Arashi|Ochi]] with a want rejuvenating him.
+[[Koya Mvashti|Koya]] touches [[Ochitsuite Arashi|Ochi]] with a want rejuvenating him.
 Another ninja attempts to pass through the caltrop filled portal also gaining a limp but continues on to strike at [[Ochitsuite Arashi|Ochi]] and misses.
 [[Grayson]] continues to stem the tide of ninja attempting to reinforce from further south in the hall with a hail of arrows stepping further towards them.
 [[Helgarval]] continues adding to the flames started by [[Wei Yan]].
@@ -529,7 +529,7 @@ Inside ten sleeping pallets lay neatly arranged about this room. At the foot of 
 
 Inside [[Ochitsuite Arashi|Ochi]]s blade meets with the flesh of his targetand finishes it.
 [[Wei Yan]] joins [[Ochitsuite Arashi|Ochi]] in the room running along the wall to leap at the last remaining foe slashing as he does.
-Ukshaka continues to hold position blinded.
+[[Ukshaka]] continues to hold position blinded.
 [[Grayson]] finishes [[Wei Yan]]s work with a few more arrows.
 The remaining human shadow sprints to the trap door and throws itself down and out of sight.
 	
@@ -553,11 +553,11 @@ It is at this point that the rooms occupants begin to react the faster of the tw
 >"Look what we got 'ere, Tasty li'il bird."
 
 And he strikes [[Ochitsuite Arashi|Ochi]].
-Koya also arrives down the chute gracefully on her feet.
+[[Koya Mvashti|Koya]] also arrives down the chute gracefully on her feet.
 >"Oh... You're just right there."
 
 The other Troll steps up and also attemps to sink his claws into [[Ochitsuite Arashi|Ochi]].
-[[Grayson]] hesitates to follow his companions and leave Ukshaka defenseless and alone watches her feel her way to a curtain and duck behind it and gives chase. Landing just as gracefully as Koya he looses an arrow before even fully coming to rest at the bottom of the chute finding the flesh of one of the disturbed diners.
+[[Grayson]] hesitates to follow his companions and leave Ukshaka defenseless and alone watches her feel her way to a curtain and duck behind it and gives chase. Landing just as gracefully as [[Koya Mvashti|Koya]] he looses an arrow before even fully coming to rest at the bottom of the chute finding the flesh of one of the disturbed diners.
 	
 5. 
 	
@@ -617,7 +617,7 @@ She steps forward examining the door to the south carefuly for traps and finding
 
 easing the door open.
 
-The ceiling of this Grand Chamber rises 20 feet overhead. It's heavy beam serving as both Raftors and supports for the great hall above. Teak paneling covers the walls and the floors of polished wood. Along the walls wooden columns rise to the ceiling above bearing banners and emblazoned with pictograms from far off Tian Xia. Above these hang small oil lamps that give up a dim glow. A small, porcelain bowl rests before the center column to the south and four reed mats are arranged before it.
+The ceiling of this Grand Chamber rises 20 feet overhead. It's heavy beam serving as both Raftors and supports for the great hall above. Teak paneling covers the walls and the floors of polished wood. Along the walls wooden columns rise to the ceiling above bearing banners and emblazoned with pictograms from far off [[Tian Xia]]. Above these hang small oil lamps that give up a dim glow. A small, porcelain bowl rests before the center column to the south and four reed mats are arranged before it.
 
 ><mark style="background: #FFF3A3A6;">"I think we go this way."</mark> - O
 ><mark style="background: #ABF7F7A6;">"I suspect this might be their equivalent of a Dojo."</mark> - N
@@ -661,7 +661,7 @@ Another student clamours out of their room adds to the spears on the floor of th
 in return one of the students reinforces their peer and strikes [[Naoto no Hatsuyuki|Noe]] with a spinning kick.
 [[Ochitsuite Arashi|Ochi]] evens the odds for [[Naoto no Hatsuyuki|Noe]] bringing his blades to bear on the pair flanking [[Naoto no Hatsuyuki|Noe]] scoring a hit.
 [[Zio]] unleashes a boulder of snow and Ice impacting one of the trained fists.
-Koya whips her starknife across the room only to have it deflected in the same manner Omeyani had done previously. To the students surprise though the star knife flies back to Koyas hand.
+[[Koya Mvashti|Koya]] whips her starknife across the room only to have it deflected in the same manner Omeyani had done previously. To the students surprise though the star knife flies back to Koyas hand.
 [[Grayson]] seeing the technique again takes advantage of their distraction to dispatch them with two arrows. His third is sent at another only to have them deflect it in the same fashion.
 The surrounded [[Naoto no Hatsuyuki|Noe]] continues to be beset with fists and feet taking another blow from her masters students.
 3. 
@@ -673,7 +673,7 @@ She returns strikes in kind.
 
 His blow while full of intent still misses.
 [[Zio]] narrowly misses clubbing another student with his mace.
-Koya closes the distance to [[Naoto no Hatsuyuki|Noe]] and with a touch uses Desna's Grace to mend some of her copious wounds.
+[[Koya Mvashti|Koya]] closes the distance to [[Naoto no Hatsuyuki|Noe]] and with a touch uses [[Desna]]'s Grace to mend some of her copious wounds.
 4. 
 [[Naoto no Hatsuyuki|Noe]] still spewing blood
 
@@ -700,8 +700,8 @@ Koya closes the distance to [[Naoto no Hatsuyuki|Noe]] and with a touch uses Des
 [[Ochitsuite Arashi|Ochi]] says a prayer for the dead.
 [[Grayson]] collects belongings from the students and their rooms including the quality crafted spears.
 
-The room the battle left the Scions in contains a meditation screen of obviously Tian Ming style. Behind the screen is a small leather trunk. 
-inside they find a washer woman's clothes and other possessions, including a disguise kit, an ornate decorative blowgun fashioned from Jade and lapis lazuli, gold pieces in Tian coins, and a writ signed by [[Sveinn Blood-Eagle]] that gives the bearer the authority to commandeer any of the Linnorm Kings housecarls within two miles of Kalsgard for up to 12 hours.
+The room the battle left the [[Amatatsu Scions|Scions]] in contains a meditation screen of obviously Tian Ming style. Behind the screen is a small leather trunk. 
+inside they find a washer woman's clothes and other possessions, including a disguise kit, an ornate decorative blowgun fashioned from Jade and lapis lazuli, gold pieces in [[Tian]] coins, and a writ signed by [[Sveinn Blood-Eagle]] that gives the bearer the authority to commandeer any of the Linnorm Kings housecarls within two miles of [[Places/Inner Sea/Saga Lands/Land of the Linnorm Kings/Kalsgard/Kalsgard|Kalsgard]] for up to 12 hours.
 
 > <mark style="background: #ABF7F7A6;">"Do what you want with this. Take it. Burn it. i don't care."</mark> - N
 
@@ -743,27 +743,29 @@ As he makes it someway up from the bottom he feels a rope brush across his head 
 >"Why didn't we just do that in the first place." - W
 ><mark style="background: #ABF7F7A6;">"It was way, way funnier to do it this way."</mark> - N
 
-Patiently waiting for him to fasten the rope to the sword
+Patiently waiting for him to fasten the rope to [[Te No Sui|the sword]]
 >"I'm filing a complaint with the Heavenly Bureau." - W
 
-As he tugs on the rope to let [[Naoto no Hatsuyuki|Noe]] know she can start bringing the sword up.
+As he tugs on the rope to let [[Naoto no Hatsuyuki|Noe]] know she can start bringing [[Te No Sui|the sword]] up.
 >"That can wait till we have Ameiko back"
 
-Noe brings it up and over the edge and unties it.
+[[Naoto no Hatsuyuki|Noe]] brings it up and over the edge and unties it.
 
-So this beautiful blade made an ancient Tian style is almost beautiful in it's simplicity and still in perfect condition. It's scabbard is black and glossy and the wrapped handle appears to be made of some form of leather that you're not familiar with. The gold accoutrement are shining still. 
+So this beautiful blade made an ancient [[Tian]] style is almost beautiful in it's simplicity and still in perfect condition. It's scabbard is black and glossy and the wrapped handle appears to be made of some form of leather that you're not familiar with. The gold accoutrement are shining still. 
 
 [[Naoto no Hatsuyuki|Noe]] Wrings a cloth out and wipes off whatever dust and debris managed to attach itself to the weapon in the well and holds it out toward [[Ochitsuite Arashi|Ochi]] who accepts it gently.
 ><mark style="background: #FFF3A3A6;">"You're free my friend"</mark> - O
->"Scions of Amatatsu you have my thanks for the rescue. I am glad to see things finally unfolding as i have seen them. I was concerned when the Oni had me stolen before you arrived. I did not foresee that part." - T
+>"[[Amatatsu Scions|Scions]] of Amatatsu you have my thanks for the rescue. I am glad to see things finally unfolding as i have seen them. I was concerned when the [[Oni]] had me stolen before you arrived. I did not foresee that part." - T
 ><mark style="background: #FFF3A3A6;">"They have been hard at work."</mark> - O
->"Does it also concern you to know that they have the Amatatsu heir around here somehwere?" - N
+><mark style="background: #ABF7F7A6;">"Does it also concern you to know that they have the Amatatsu heir around here somehwere?"</mark> - N
 >"It does greatly." - T
 
 and [[Ochitsuite Arashi|Ochi]] Tucks the scabbarded [[Te No Sui|Katana]] Into the back of his belt
 
 >"You can come with me." - O
 
+
+##### left off here
 
 So this might be a little bit of a fine detail. Does does [[Zio]] know anything about what we're talking about with scions and such because he wasn't there. When the the seal was opened and we were made into Scions, he does not We've just been and the seal has not been opened again. 
 
