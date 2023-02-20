@@ -1,1 +1,6 @@
+---
+alias: Ettercap,
+---
+
+
 #creature #brinewall

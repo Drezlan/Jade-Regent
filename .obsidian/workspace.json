@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a76305c8f44d482",
+            "id": "ade9cdef54dd1e41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/0 PCs/Shoko.md",
+                "file": "Characters/6 Kalsgard NPCs/Hekja.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/0 PCs/Shoko.md",
+                "file": "Characters/6 Kalsgard NPCs/Hekja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/0 PCs/Shoko.md",
+                "file": "Characters/6 Kalsgard NPCs/Hekja.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/0 PCs/Shoko.md"
+                "file": "Characters/6 Kalsgard NPCs/Hekja.md"
               }
             }
           },
@@ -211,17 +211,17 @@
       }
     ]
   },
-  "active": "8a76305c8f44d482",
+  "active": "ade9cdef54dd1e41",
   "lastOpenFiles": [
-    "Campaign Timeline/Campaign Timeline.md",
-    "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
-    "Obsidian notes.md",
-    "Characters/0 PCs/Zio.md",
-    "Characters/0 PCs/Shoko.md",
-    "Characters/0 PCs/Grayson.md",
-    "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
-    "No .md",
-    "Z_Assets/Charactersasset/Grayson.png",
-    "Characters/1 Caravan NPCs/Te No Sui.md"
+    "Characters/6 Kalsgard NPCs/Asvig Longthews/Asvig Longthews.md",
+    "Characters/6 Kalsgard NPCs/Ulf Gormunder/Ulf Gormunder.md",
+    "Characters/6 Kalsgard NPCs/Snorri Stoneye/Snorri Stoneye.md",
+    "Characters/6 Kalsgard NPCs/Kimandatsu/Kimandatsu.md",
+    "Characters/6 Kalsgard NPCs/Jorgun the Axe/Jorgun the Axe.md",
+    "Characters/6 Kalsgard NPCs/Helva/Helva.md",
+    "Characters/6 Kalsgard NPCs/Fynn Snaevald/Fynn Snaevald.md",
+    "Characters/5 Brinewall NPCs/Tsutoku Amatatsu/Tsutoku Amatatsu.md",
+    "Characters/5 Brinewall NPCs/Attic Whisperer/Attic Whisperer.md",
+    "Campaign Timeline/Campaign Timeline.md"
   ]
 }
