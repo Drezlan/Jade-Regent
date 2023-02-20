@@ -699,22 +699,26 @@ When she mentions this [[Ochitsuite Arashi|Ochi]] moves to the door and inspects
 Inside is revealed a natural cavern 30 feet across and 15 feet high. A waterfall pours in through a small aperture high on the south wall filling a turbulent pool in the floor and sending a cold spray throughout the room. A smooth ledge extends outward from the door and two large barrels have been set to the right of it. Another ledge sits on the far side of the pool. A smaller cask sits on this ledge next to a heavy wooden door.
 
 After the group surveys the water for danger [[Ochitsuite Arashi|Ochi]] begins undressing to swim across
-[[Naoto no Hatsuyuki|Noe]] seeing this 
-Just a bunch of barrels, casks. Over there.
-Do I notice anything strange about the water? Nope, just looks like natural spring water and how high above the water. Are these ledges?
-Not too far like maybe the few inches. Okay cool. I'm gonna swim across guys. I want to check this out. Oh no. I walks across. God damn it.
-Wet. And you think that like Yep I can move down my speed as a full round action that can go over difficult terrain water been branches. What problem you? It's just cold. It doesn't look like anything. It's in the barrels at the front of the room but the cask next to the other door is sealed and holds an unfamiliar and potent alcohol.
-Oh that's not unfamiliar, it's sake from Minkai. Oh, hell yeah, it is a door. Look trap. That's for Gillum sits. Atop the tap, the cask.
-Motivated as per gallon.
-Yeah, weapon. It is it usually holds. Holy water are. Yeah, no way. Can you take a look at this door? Oh, you want my opinion now? Yeah, sure. White's like takes up, glasses wipes, like a layer of the blood. That was spilling from our forehead and has a look at it.
-And it's not trapped. It is most definitely blocks though, and the 29 on that. I was literally just looking at the block.
+[[Naoto no Hatsuyuki|Noe]] seeing this sprints across the water supernaturally light on her feet.
+When reaching the other side she finds the barrels empty but the cask whole and full containing sake and an aspergillum resting on top.
 
-Pops open.
-This room is small and musty Hewn from solid rock near the far wall, stands a low. Well it's opening only a foot in diameter a winch and chain with a rusted steel bucket. Hang from the wall above it. The far corners. It's a pile of old wooden buckets and other debris, rotten broken with several different kinds of fungi growing on their remnant.
-How toxic are those and how quickly am I going to die from breathing? This thorosin, not that kind of fungus and disappointed. One importantly, looks down this. Well, tries to the squins a bits. It gets very bright further down the well as a katana wedge into this tiny asshole of lights with gold and red flames.
-Oh cheese. White and gold. Yeah way.
-This is actually important.
-It's kind of like orangey gold flames. Hmm, How did you say this was about like a foot diameter. Oh, but yeah. Well, that would be incredibly problematic if right. There you are. 
+Once the others have crossed [[Ochitsuite Arashi|Ochi]] steps up to the door on the far side and asks [[Naoto no Hatsuyuki|Noe]] to look at it.
+She removes her glasses and wipes some of the blood from the earlier fight off of them and looks at the door after replacing them upon her face.
+She finds nothing out of place only that it is locked which she makes short work of anyways and opens it.
+
+
+The room inside is small and musty. Hewn from solid rock near the far wall stands a low well, it's opening only a foot in diameter. A winch and chain with a rusted steel bucket hang from the wall above it. In the far corners sits a pile of old wooden buckets and other debris, rotten and broken with several different kinds of fungi growing on their remnant.
+
+[[Naoto no Hatsuyuki|Noe]] being the first in looks down the well squinting. 
+While the closer portion is very dim, far down at the bottom is much brighter as it contains a [[Te No Sui|Katana]] that is alight with orange and gold flames.
+Peering through the only foot diameter hole
+><mark style="background: #ABF7F7A6;">"This would be very problematic if..."</mark> - N
+
+[[Naoto no Hatsuyuki|Noe]] clears her throat loudly and looks aroudn searching for [[Wei Yan]]
+
+>"What" - W
+
+
 
 I'm retrieving and a will come around one of those down a. Well honestly, who's my goodness. Apparently Google.
 Let's complain and more going to fucking gets the book. He claims easily done the well.

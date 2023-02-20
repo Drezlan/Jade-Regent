@@ -1,5 +1,5 @@
 ---
-Alias: The Sword, Sensi, Butter Knife, Blade of the Emperor
+Alias: The Sword, Sensi, Butter Knife, Blade of the Emperor, Katana
 ---
 
 
