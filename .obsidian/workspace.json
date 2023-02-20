@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md"
+                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md"
               }
             }
           },
@@ -199,15 +199,15 @@
   },
   "active": "ad0a77b4811e6345",
   "lastOpenFiles": [
+    "Characters/7 Sandpoint NPCs/Lonjiku Kaijitsu.md",
+    "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
+    "Campaign Timeline/Campaign Timeline.md",
     "Deities/Urgathoa.md",
     "Goti Runecaster.md",
     "Deities/Shizuru.md",
     "Deities/Shelyn.md",
     "Deities/Pazuzu.md",
     "Deities/Desna.md",
-    "Campaign Timeline/Campaign Timeline.md",
-    "Groups/Amatatsu Scions/Amatatsu Scions.md",
-    "Groups/Scions.md",
-    "Characters/0 PCs/Zio.md"
+    "Groups/Amatatsu Scions/Amatatsu Scions.md"
   ]
 }
