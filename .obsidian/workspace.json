@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b47ecffe6d97864e",
+        "id": "aff76cc050098fa8",
         "type": "tabs",
         "children": [
           {
-            "id": "ade9cdef54dd1e41",
+            "id": "ad0a77b4811e6345",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Formatting to do.md",
+                "file": "Characters/4 Brinestump NPCs/Brinestump Marsh Witch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Formatting to do.md",
+                "file": "Characters/4 Brinestump NPCs/Brinestump Marsh Witch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Formatting to do.md",
+                "file": "Characters/4 Brinestump NPCs/Brinestump Marsh Witch.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Formatting to do.md"
+                "file": "Characters/4 Brinestump NPCs/Brinestump Marsh Witch.md"
               }
             }
           },
@@ -164,15 +164,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "17d785f7bb95a2fd",
+        "id": "9fbfd7133a57da41",
         "type": "window",
         "children": [
           {
-            "id": "92ae9604431e617a",
+            "id": "f1f21babc32b831c",
             "type": "tabs",
             "children": [
               {
-                "id": "2b24da6e9bcde894",
+                "id": "ade9cdef54dd1e41",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -188,26 +188,26 @@
           }
         ],
         "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
+        "x": 484,
+        "y": 117,
+        "width": 951,
+        "height": 805,
         "maximize": false,
         "zoom": 1
       }
     ]
   },
-  "active": "ade9cdef54dd1e41",
+  "active": "ad0a77b4811e6345",
   "lastOpenFiles": [
-    "Characters/6 Kalsgard NPCs/Jorgun the Axe/Jorgun the Axe.md",
-    "Characters/6 Kalsgard NPCs/Helva/Helva.md",
-    "Characters/6 Kalsgard NPCs/Fynn Snaevald/Fynn Snaevald.md",
-    "Characters/6 Kalsgard NPCs/Asvig Longthews/Asvig Longthews.md",
-    "Characters/5 Brinewall NPCs/Slugwort.md",
-    "Characters/5 Brinewall NPCs/Sea Drake.md",
-    "Characters/5 Brinewall NPCs/Rotscale.md",
-    "Characters/5 Brinewall NPCs/Nevakali.md",
-    "Characters/5 Brinewall NPCs/Muthilduh.md",
-    "Characters/5 Brinewall NPCs/Mobat.md"
+    "Characters/4 Brinestump NPCs/Walthus Proudstump/Walthus Proudstump.md",
+    "Characters/4 Brinestump NPCs/Tsutamu/Tsutamu.md",
+    "Characters/4 Brinestump NPCs/Sinspawn/Sinspawn.md",
+    "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
+    "Characters/4 Brinestump NPCs/Randwattle Gutwad/Randwattle Gutwad.md",
+    "Characters/9 CotW NPCs/Skygni.md",
+    "Characters/8 Minkai NPCs/Jade Regent/Jade Regent.md",
+    "Characters/7 Sandpoint NPCs/Lonjiku Kaijitsu.md",
+    "Characters/7 Sandpoint NPCs/Belor Hemlock.md",
+    "Characters/6 Kalsgard NPCs/Yin Po.md"
   ]
 }
