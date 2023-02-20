@@ -4,8 +4,8 @@ type: NPC
 faction: 
 location: Kalsgard
 description:  
-race: Human, Varki 
-gender: Female
-class: Ninja, Monk 
+race: Ulfen, Human,
+gender: Male
+class:  
 ---
 ![[FynnBig.jpg|left|345]]
