@@ -1,11 +1,11 @@
 ---
 type: PC 
-faction: Frozen Shadows, Naoto Clan, Amatatsu, Caravan
-location: The Caravan 
+faction: Kikonu
+location: Brinewall Keep, Brinewall Dungeon 
 description:  
-race: Human, Varki 
-gender: Female
-class: Ninja, Monk 
+race: Ogre
+gender: Male
+class:  
 ---
 
 
