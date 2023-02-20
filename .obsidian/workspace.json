@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/4 Brinestump NPCs/Brinestump Marsh Witch.md",
+                "file": "Characters/5 Brinewall NPCs/Sea Drake.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/4 Brinestump NPCs/Brinestump Marsh Witch.md",
+                "file": "Characters/5 Brinewall NPCs/Sea Drake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/4 Brinestump NPCs/Brinestump Marsh Witch.md",
+                "file": "Characters/5 Brinewall NPCs/Sea Drake.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/4 Brinestump NPCs/Brinestump Marsh Witch.md"
+                "file": "Characters/5 Brinewall NPCs/Sea Drake.md"
               }
             }
           },
@@ -199,15 +199,15 @@
   },
   "active": "ad0a77b4811e6345",
   "lastOpenFiles": [
-    "Characters/4 Brinestump NPCs/Walthus Proudstump/Walthus Proudstump.md",
-    "Characters/4 Brinestump NPCs/Tsutamu/Tsutamu.md",
-    "Characters/4 Brinestump NPCs/Sinspawn/Sinspawn.md",
+    "Characters/5 Brinewall NPCs/Rotscale.md",
+    "Characters/5 Brinewall NPCs/Nevakali.md",
     "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
-    "Characters/4 Brinestump NPCs/Randwattle Gutwad/Randwattle Gutwad.md",
-    "Characters/9 CotW NPCs/Skygni.md",
-    "Characters/8 Minkai NPCs/Jade Regent/Jade Regent.md",
-    "Characters/7 Sandpoint NPCs/Lonjiku Kaijitsu.md",
-    "Characters/7 Sandpoint NPCs/Belor Hemlock.md",
-    "Characters/6 Kalsgard NPCs/Yin Po.md"
+    "Characters/5 Brinewall NPCs/Muthilduh.md",
+    "Characters/5 Brinewall NPCs/Mobat.md",
+    "Characters/5 Brinewall NPCs/Kikonu.md",
+    "Characters/5 Brinewall NPCs/Flatbelly.md",
+    "Characters/5 Brinewall NPCs/Andril Kortun.md",
+    "Characters/5 Brinewall NPCs/Tsutoku Amatatsu/Tsutoku Amatatsu.md",
+    "Characters/4 Brinestump NPCs/Tsutamu/Tsutamu.md"
   ]
 }

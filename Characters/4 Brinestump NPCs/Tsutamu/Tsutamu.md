@@ -1,10 +1,10 @@
 ---
 Alias: Regal Skeleton,
-type: NPC
+type: NPC, Undead
 faction: Amatatsu
 location:  Tsutamu's Cave
 description:  
-race: Minkaian
+race: Tian-Min, Human, Skeleton,
 gender: Male
 class: Samurai
 ---

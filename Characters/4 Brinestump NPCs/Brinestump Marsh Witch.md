@@ -1,12 +1,12 @@
 ---
 alias: Witch, 
-type: 
+type: NPC
 faction: 
-location:  
+location: Brinestump Marsh,  
 description:  
 race: 
-gender: 
-class: 
+gender: Female
+class: Witch
 ---
 
 #person #brinestump 
