@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
+                "file": "Deities/Shelyn.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
+                "file": "Deities/Shelyn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
+                "file": "Deities/Shelyn.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md"
+                "file": "Deities/Shelyn.md"
               }
             }
           },
@@ -199,8 +199,8 @@
   },
   "active": "ad0a77b4811e6345",
   "lastOpenFiles": [
-    "Characters/7 Sandpoint NPCs/Lonjiku Kaijitsu.md",
     "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
+    "Characters/7 Sandpoint NPCs/Lonjiku Kaijitsu.md",
     "Campaign Timeline/Campaign Timeline.md",
     "Deities/Urgathoa.md",
     "Goti Runecaster.md",
