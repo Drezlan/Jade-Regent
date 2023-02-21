@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/1 Caravan NPCs/Ameiko Amatatsu.md",
-                "mode": "source",
+                "file": "Characters/1 Caravan NPCs/Koya Mvashti/Koya Mvashti.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/1 Caravan NPCs/Ameiko Amatatsu.md",
+                "file": "Characters/1 Caravan NPCs/Koya Mvashti/Koya Mvashti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/1 Caravan NPCs/Ameiko Amatatsu.md",
+                "file": "Characters/1 Caravan NPCs/Koya Mvashti/Koya Mvashti.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/1 Caravan NPCs/Ameiko Amatatsu.md"
+                "file": "Characters/1 Caravan NPCs/Koya Mvashti/Koya Mvashti.md"
               }
             }
           },
@@ -231,15 +231,15 @@
   },
   "active": "b565fd6662cd51a8",
   "lastOpenFiles": [
-    "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
-    "Characters/1 Caravan NPCs/Ameiko Amatatsu.md",
-    "Characters/1 Caravan NPCs/Helgarval/Helgarval.md",
-    "Characters/1 Caravan NPCs/Kelda Oxgutter/Kelda Oxgutter.md",
+    "Characters/1 Caravan NPCs/Sandru Vhiski/Sandru Vhiski.md",
     "Characters/1 Caravan NPCs/Koya Mvashti/Koya Mvashti.md",
-    "Obsidian notes.md",
-    "Anya Kaitjitsu.md",
-    "Ochisuite's Exile.md",
-    "Characters/6 Kalsgard NPCs/Goti Runecaster.md",
-    "Goals threads and questions.md"
+    "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
+    "Niska.md",
+    "Characters/1 Caravan NPCs/Kelda Oxgutter/Kelda Oxgutter.md",
+    "Characters/1 Caravan NPCs/Helgarval/Helgarval.md",
+    "angel.md",
+    "Elysium.md",
+    "Characters/1 Caravan NPCs/Ameiko Amatatsu.md",
+    "Characters/3 Backstory NPCs/Tsuto Kaijitsu.md"
   ]
 }
