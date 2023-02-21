@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Golarion/Inner Sea/Inner Sea.md",
-                "mode": "source",
+                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Golarion/Inner Sea/Inner Sea.md",
+                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Golarion/Inner Sea/Inner Sea.md",
+                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Golarion/Inner Sea/Inner Sea.md"
+                "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md"
               }
             }
           },
@@ -161,15 +161,15 @@
   },
   "active": "ad0a77b4811e6345",
   "lastOpenFiles": [
-    "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Ravenscraeg.md",
+    "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
     "Places/Golarion/Inner Sea/Inner Sea.md",
+    "Campaign Timeline/Campaign Timeline.md",
+    "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Ravenscraeg.md",
+    "Places/Golarion/Inner Sea/Saga Lands/Saga Lands.md",
     "Z_Assets/Maps/Landings.png",
     "Z_Assets/Maps/RCdungeon.png",
     "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Kalsgard/Kalsgard.md",
     "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Land of the Linnorm Kings.md",
-    "Places/Golarion/Inner Sea/Saga Lands/Varisia/Varisia.md",
-    "Places/Golarion/Inner Sea/Saga Lands/Saga Lands.md",
-    "Campaign Timeline/Campaign Timeline.md",
-    "Places/Golarion/Tian Xia/Tian Xia.md"
+    "Places/Golarion/Inner Sea/Saga Lands/Varisia/Varisia.md"
   ]
 }
