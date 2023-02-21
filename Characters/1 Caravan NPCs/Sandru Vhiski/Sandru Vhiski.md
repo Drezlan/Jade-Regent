@@ -1,6 +1,24 @@
 ---
 alias: Sandru, The Gambler,
+type: NPC 
+faction: Caravan, 
+location: The Caravan 
+description:  
+race: Varisian, Human
+nationality: Varisia
+gender: Male
+class: Rogue 
 ---
+> [!infobox|Right wmed]
+> # Sandru Vhiski
+> ##### Appearance
+> | Attribute |  Value
+> | ---- | ---- |
+> | Race | [[Varisian]], [[Human]] |
+> | Gender | Male |
+> | Height |  |
+> | Weight | 95lbs |
+> | Age | 17 |
 
 ![[Sandru Vhiski.png|left|345]]
 
