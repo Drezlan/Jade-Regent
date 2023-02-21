@@ -8,13 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad0a77b4811e6345",
+            "id": "d2951de8b0305b63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Ravenscraeg.md",
-                "mode": "preview",
+                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3fe43e871d9a964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anya Kaitjitsu.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19961c7a634bc0a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ochisuite's Exile.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -87,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Ravenscraeg.md",
+                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Ravenscraeg.md",
+                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Ravenscraeg.md"
+                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md"
               }
             }
           },
@@ -140,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,17 +185,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ad0a77b4811e6345",
+  "active": "d2951de8b0305b63",
   "lastOpenFiles": [
-    "Campaign Timeline/Campaign Timeline.md",
+    "Anya Kaitjitsu.md",
     "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
+    "Ochisuite's Exile.md",
+    "Characters/6 Kalsgard NPCs/Goti Runecaster.md",
+    "Goals threads and questions.md",
+    "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Ravenscraeg.md",
+    "Campaign Timeline/Campaign Timeline.md",
     "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
     "Places/Golarion/Inner Sea/Inner Sea.md",
-    "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Ravenscraeg.md",
-    "Places/Golarion/Inner Sea/Saga Lands/Saga Lands.md",
-    "Z_Assets/Maps/Landings.png",
-    "Z_Assets/Maps/RCdungeon.png",
-    "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Kalsgard/Kalsgard.md",
-    "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Land of the Linnorm Kings.md"
+    "Places/Golarion/Inner Sea/Saga Lands/Saga Lands.md"
   ]
 }
