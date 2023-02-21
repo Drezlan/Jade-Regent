@@ -264,7 +264,7 @@ She mumbles in response. [[Ochitsuite Arashi|Ochi]] frees her.
 >"If they have captured [[Ulf Gormundr|Ulf]] Of course." - U
 ><mark style="background: #FFF3A3A6;">"Well then I think it settled. I think we should make our way there. Maybe we could do some reconnaissance again. These are very very dangerous enemies we are facing"</mark> - O
 ><mark style="background: #BBFABBA6;">"How, how long is the trip there?"</mark> - G
->"Two days walk south of [[Places/Inner Sea/Saga Lands/Land of the Linnorm Kings/Kalsgard/Kalsgard|Kalsgard]] toward those grey hills there. One by horse. The way is boggy with shale hillocks. I will take you there and fight with you, for [[Ulf Gormundr|Ulf]]." - U
+>"Two days walk south of [[Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Kalsgard/Kalsgard|Kalsgard]] toward those grey hills there. One by horse. The way is boggy with shale hillocks. I will take you there and fight with you, for [[Ulf Gormundr|Ulf]]." - U
 
 [^5]
 [^5]: [[Ravenscraeg]]
@@ -701,7 +701,7 @@ His blow while full of intent still misses.
 [[Grayson]] collects belongings from the students and their rooms including the quality crafted spears.
 
 The room the battle left the [[Amatatsu Scions|Scions]] in contains a meditation screen of obviously Tian Ming style. Behind the screen is a small leather trunk. 
-inside they find a washer woman's clothes and other possessions, including a disguise kit, an ornate decorative blowgun fashioned from Jade and lapis lazuli, gold pieces in [[Tian]] coins, and a writ signed by [[Sveinn Blood-Eagle]] that gives the bearer the authority to commandeer any of the Linnorm Kings housecarls within two miles of [[Places/Inner Sea/Saga Lands/Land of the Linnorm Kings/Kalsgard/Kalsgard|Kalsgard]] for up to 12 hours.
+inside they find a washer woman's clothes and other possessions, including a disguise kit, an ornate decorative blowgun fashioned from Jade and lapis lazuli, gold pieces in [[Tian]] coins, and a writ signed by [[Sveinn Blood-Eagle]] that gives the bearer the authority to commandeer any of the Linnorm Kings housecarls within two miles of [[Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Kalsgard/Kalsgard|Kalsgard]] for up to 12 hours.
 
 > <mark style="background: #ABF7F7A6;">"Do what you want with this. Take it. Burn it. i don't care."</mark> - N
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deities/Shelyn.md",
+                "file": "Places/Golarion/Tian Xia/Tian Xia.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deities/Shelyn.md",
+                "file": "Places/Golarion/Tian Xia/Tian Xia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deities/Shelyn.md",
+                "file": "Places/Golarion/Tian Xia/Tian Xia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deities/Shelyn.md"
+                "file": "Places/Golarion/Tian Xia/Tian Xia.md"
               }
             }
           },
@@ -159,55 +159,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "floating": {
-    "id": "6fe6ff57930482b8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9fbfd7133a57da41",
-        "type": "window",
-        "children": [
-          {
-            "id": "f1f21babc32b831c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ade9cdef54dd1e41",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 484,
-        "y": 117,
-        "width": 951,
-        "height": 805,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
   "active": "ad0a77b4811e6345",
   "lastOpenFiles": [
-    "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
-    "Characters/7 Sandpoint NPCs/Lonjiku Kaijitsu.md",
-    "Campaign Timeline/Campaign Timeline.md",
-    "Deities/Urgathoa.md",
-    "Goti Runecaster.md",
-    "Deities/Shizuru.md",
-    "Deities/Shelyn.md",
-    "Deities/Pazuzu.md",
-    "Deities/Desna.md",
-    "Groups/Amatatsu Scions/Amatatsu Scions.md"
+    "Places/Golarion/Inner Sea/Saga Lands/Saga Lands.md",
+    "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Land of the Linnorm Kings.md",
+    "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Sotlands.md",
+    "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Skalsbridge.md",
+    "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Ravenscraeg.md",
+    "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Kalsgard/Kalsgard.md",
+    "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Kalsgard/Kalsgard Shelyn Temple/Kalsgard Shelyn Temple.md",
+    "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Kalsgard/Fire Quarter.md",
+    "Places/Golarion/Inner Sea/Inner Sea.md",
+    "Places/Golarion/The Crown of the World/The Crown of the World.md"
   ]
 }
