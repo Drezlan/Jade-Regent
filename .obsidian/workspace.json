@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/1 Caravan NPCs/Shelalu Andosana/Shelalu Andosana.md",
+                "file": "Characters/1 Caravan NPCs/Wei Yan/Wei Yan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/1 Caravan NPCs/Shelalu Andosana/Shelalu Andosana.md",
+                "file": "Characters/1 Caravan NPCs/Wei Yan/Wei Yan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/1 Caravan NPCs/Shelalu Andosana/Shelalu Andosana.md",
+                "file": "Characters/1 Caravan NPCs/Wei Yan/Wei Yan.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/1 Caravan NPCs/Shelalu Andosana/Shelalu Andosana.md"
+                "file": "Characters/1 Caravan NPCs/Wei Yan/Wei Yan.md"
               }
             }
           },
@@ -231,15 +231,15 @@
   },
   "active": "b565fd6662cd51a8",
   "lastOpenFiles": [
+    "Characters/1 Caravan NPCs/Spivey.md",
+    "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
+    "Characters/1 Caravan NPCs/Shelalu Andosana/Shelalu Andosana.md",
     "Characters/1 Caravan NPCs/Kelda Oxgutter/Kelda Oxgutter.md",
     "Characters/1 Caravan NPCs/Koya Mvashti/Koya Mvashti.md",
     "Characters/1 Caravan NPCs/Sandru Vhiski/Sandru Vhiski.md",
-    "Characters/1 Caravan NPCs/Shelalu Andosana/Shelalu Andosana.md",
-    "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
     "Characters/1 Caravan NPCs/Helgarval/Helgarval.md",
     "Niska.md",
     "angel.md",
-    "Elysium.md",
-    "Characters/1 Caravan NPCs/Ameiko Amatatsu.md"
+    "Elysium.md"
   ]
 }
