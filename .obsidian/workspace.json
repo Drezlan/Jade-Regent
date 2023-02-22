@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deities/Shizuru.md",
+                "file": "Groups/0 Misc/Corby.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deities/Shizuru.md",
+                "file": "Groups/0 Misc/Corby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deities/Shizuru.md",
+                "file": "Groups/0 Misc/Corby.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deities/Shizuru.md"
+                "file": "Groups/0 Misc/Corby.md"
               }
             }
           },
@@ -229,17 +229,17 @@
       }
     ]
   },
-  "active": "aff1dc3eafd99550",
+  "active": "e79d630e41bbdbd0",
   "lastOpenFiles": [
-    "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
-    "Deities/Shizuru.md",
-    "Characters/1 Caravan NPCs/Te No Sui.md",
-    "Z_Assets/Thingsasset/letter-rokuro-to-lonjiku paizo 1.jpg",
-    "Z_Assets/Thingsasset/9 fold spirit sword.png",
-    "Z_Assets/Thingsasset/whispering-strike resplendence obsidian portal.jpg",
-    "Z_Assets/Thingsasset/Warding box paizo.jpg",
-    "Z_Assets/Thingsasset/Oathtaker pinterest.jpg",
-    "Z_Assets/Thingsasset/Kaijitsu fan map.jpg",
-    "Z_Assets/Thingsasset/Dancing_Wasp adelaide jade regent or paizo.jpg"
+    "Groups/Ethnicities/Tian/Tian.md",
+    "Groups/Ethnicities/Tian/Tian Han/Tian Han.md",
+    "Groups/Ethnicities/Tian/Tian-La.md",
+    "Groups/Factions/The Amatatsu/The Amatatsu.md",
+    "Groups/Factions/Caravan/Caravan.md",
+    "Groups/Factions/Crimson Cult/Crimson Cult.md",
+    "Groups/Factions/Frozen Shadows/Frozen Shadows.md",
+    "Groups/Races/Harpy/Harpy.md",
+    "Groups/Races/Kami/Kami.md",
+    "Groups/Races/Oni/Oni.md"
   ]
 }

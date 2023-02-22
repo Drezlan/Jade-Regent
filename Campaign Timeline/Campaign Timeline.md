@@ -378,7 +378,7 @@ Wei-Yan gives chase and strikes him again.
 	
 While the poison seems to have run it's course [[Zio]] seems worse for the wear. [[Koya Mvashti|Koya]] digs in her pack and pulls out a scroll and performs a divine ritual quickly beseeching [[Desna]] and restoring [[Zio]]s vigor.
 
-[[Ochitsuite Arashi|Ochi]] says a prayer to Hei Feng over the deceased [[Tengu]] lying in the snow and he and [[Naoto no Hatsuyuki|Noe]] begin moving the bodies away from camp searching them in the process. After which [[Ochitsuite Arashi|Ochi]] helps [[Shoko]] back to the [[caravan]] to finish resting. Looking at the weapons they carried they realize just how much danger they were in. [[Naoto no Hatsuyuki|Noe]] pockets the remaining doses. [[Koya Mvashti|Koya]] takes a sip of vodka by the fire before shuffling off the administer to [[Shoko]].
+[[Ochitsuite Arashi|Ochi]] says a prayer to Hei Feng over the deceased [[Tengu]] lying in the snow and he and [[Naoto no Hatsuyuki|Noe]] begin moving the bodies away from camp searching them in the process. After which [[Ochitsuite Arashi|Ochi]] helps [[Shoko]] back to the [[Caravan]] to finish resting. Looking at the weapons they carried they realize just how much danger they were in. [[Naoto no Hatsuyuki|Noe]] pockets the remaining doses. [[Koya Mvashti|Koya]] takes a sip of vodka by the fire before shuffling off the administer to [[Shoko]].
 
 ><mark style="background: #ABF7F7A6;">"Just to avoid that happening so badly again"</mark> - N 
 

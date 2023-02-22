@@ -1,3 +1,3 @@
 ---
-Alias: Kireama, Mother
+alias: Kireama, Mother
 ---

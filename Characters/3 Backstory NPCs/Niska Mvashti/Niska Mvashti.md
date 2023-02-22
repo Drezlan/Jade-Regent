@@ -1,3 +1,3 @@
 ---
-Alias: Niska
+alias: Niska
 ---
