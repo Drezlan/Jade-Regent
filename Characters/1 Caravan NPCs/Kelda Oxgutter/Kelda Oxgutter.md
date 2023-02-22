@@ -1,5 +1,5 @@
 ---
-Alias: Kelda, The Barbarian,
+alias: Kelda, The Barbarian,
 type: NPC 
 faction: Caravan,
 location: The Caravan 

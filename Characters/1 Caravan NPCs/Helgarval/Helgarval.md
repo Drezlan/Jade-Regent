@@ -1,5 +1,5 @@
 ---
-Alias: Talking Helmet, Helmet, Angel, The Cassian Angel
+alias: Talking Helmet, Helmet, Angel, The Cassian Angel
 type: NPC 
 faction: Caravan, Amatatsu,
 location: The Caravan 

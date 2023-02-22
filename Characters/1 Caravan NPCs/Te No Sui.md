@@ -1,7 +1,26 @@
 ---
-Alias: The Sword, Sensi, Butter Knife, Blade of the Emperor, Katana
+alias: The Sword, Sensi, Butter Knife, Blade of the Emperor, Katana
+type: NPC, Object 
+faction: Scions, Caravan, Amatatsu,
+location: The Caravan 
+description:  
+race: 
+nationality: Minkaian
+gender: 
+class:  
 ---
 
-![[suishen artstation riaan-potgieter.jpg|left|345]]
+> [!infobox|Right wmed]
+> # Te No Sui
+> ##### Appearance
+> | Attribute |  Value
+> | ---- | ---- |
+> | Race | NA |
+> | Gender | ?? |
+> | Height | 41" |
+> | Weight | 6 lbs |
+> | Age | ?? |
 
-o here's fun thing. Solution is a plus two defending flaming katana. The endcircle blade of the Amitatsu family and switching can be wielded by any amatatou scion. You don't just have to be a natural ward dependent. You will allow someone who acts in defense of the throne to wield it as well. You hear that? Grayson. That could be fun. Flurry of katana, Although solution is neutral. Good, any amatatou style. Regardless of the Lightning can Falconing and negative level. This boon is at their discretion. However, and should such a Scion ever betrayed the family or prove. Unworthy. The sword can reinstate this penalty and cause a personality conflict and because this is an artifact lightly take over your body.
+
+![[Te no Sui.png|left|345]]
+This magical intelligent artifact is the ancestral blade of the [[The Amatatsu|Amatatsu]] family. It's blade lights with flame and will aid any who seek to defend the royal family or who are chosen by The [[Amatatsu Seal|Seal]]. Able to communicate telepathically Te No Sui's knowledge is intregral to not only putting [[Ameiko Amatatsu|Ameiko]] on the [[Jade Throne]] but in helping her to rule from it one day over a people she knows little of.

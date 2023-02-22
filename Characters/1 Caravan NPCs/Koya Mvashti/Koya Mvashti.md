@@ -1,5 +1,5 @@
 ---
-Alias: Koya, The old woman, Fortune Teller, The healer,
+alias: Koya, The old woman, Fortune Teller, The healer,
 type: NPC 
 faction: Caravan,
 location: The Caravan 

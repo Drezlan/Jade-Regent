@@ -1,5 +1,5 @@
 ---
-Alias: The Ranger, The Archer, Shelalu
+alias: The Ranger, The Archer, Shelalu
 type: NPC 
 faction: Caravan,
 location: The Caravan 
