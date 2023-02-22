@@ -1,12 +1,13 @@
 > [!infobox|Right wmed]
 > # Shizuru
+> ![[Shizuru holy symbol.png|cover hsmall]]
 > ##### Appearance
 > | Attribute |  Value
 > | ---- | ---- |
 > | Race | [[Tian-Min]], [[Dragon]] |
 > | Gender | Female |
-> | Height | 4'11" |
-> | Weight | 95lbs |
-> | Age | 17 |
+> | Height | ?? |
+> | Weight | ?? |
+> | Age | ?? |
 
-![[emanuele-desiati-pzo92112-shizuru-body-shot.jpg|left|345]] 
+![[Shizuru.png|left|345]] 
