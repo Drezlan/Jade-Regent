@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/0 Misc/Corby.md",
+                "file": "Groups/0 Misc/Five Imperial Families/Five Imperial Families.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34ea94cd16b815ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Groups/0 Misc/Five Imperial Families/Sugimatu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Groups/0 Misc/Corby.md",
+                "file": "Groups/0 Misc/Five Imperial Families/Five Imperial Families.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Groups/0 Misc/Corby.md",
+                "file": "Groups/0 Misc/Five Imperial Families/Five Imperial Families.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Groups/0 Misc/Corby.md"
+                "file": "Groups/0 Misc/Five Imperial Families/Five Imperial Families.md"
               }
             }
           },
@@ -231,15 +244,15 @@
   },
   "active": "e79d630e41bbdbd0",
   "lastOpenFiles": [
+    "Groups/0 Misc/Five Imperial Families/The Amatatsu/The Amatatsu.md",
+    "Groups/0 Misc/Five Imperial Families/Sugimatu.md",
+    "Groups/0 Misc/Five Imperial Families/Shojinawa.md",
+    "Groups/0 Misc/Sugimatu.md",
+    "Groups/0 Misc/Shojinawa.md",
+    "Groups/0 Misc/Nakamitsu.md",
+    "Groups/0 Misc/Metsuke.md",
+    "Groups/Races/Corby.md",
     "Groups/Ethnicities/Tian/Tian.md",
-    "Groups/Ethnicities/Tian/Tian Han/Tian Han.md",
-    "Groups/Ethnicities/Tian/Tian-La.md",
-    "Groups/Factions/The Amatatsu/The Amatatsu.md",
-    "Groups/Factions/Caravan/Caravan.md",
-    "Groups/Factions/Crimson Cult/Crimson Cult.md",
-    "Groups/Factions/Frozen Shadows/Frozen Shadows.md",
-    "Groups/Races/Harpy/Harpy.md",
-    "Groups/Races/Kami/Kami.md",
-    "Groups/Races/Oni/Oni.md"
+    "Groups/Ethnicities/Tian/Tian Han/Tian Han.md"
   ]
 }
