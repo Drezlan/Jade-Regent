@@ -2,7 +2,7 @@
 alias: Empress of Heaven, Shizuran,
 type: Diety
 faction: Heaven, Clarion
-location: Palac of the Eightfold Mirror 
+location: Palace of the Eightfold Mirror 
 description:  
 race: Tian-Min
 nationality:
@@ -25,7 +25,7 @@ class: Samurai
 
 ![[Shizuru.png|left|345]] 
 
-Shizuru is the [[Tian-Min]] goddess of the sun, honor, ancestors, and swordplay. As she holds swordplay in her portfolio, Shizuru is also the patron of [[samurai]] and other noble and honourable swordsmen and women. Lover to [[Tsukiyo]], enemy of [[Fumeyoshi]], and sister to [[General Susumu]].
+Shizuru is the [[Tian-Min]] goddess of the sun, honor, ancestors, and swordplay. As she holds swordplay in her portfolio, Shizuru is also the patron of [[samurai]] and other noble and honourable swordsmen and women. Lover to [[Tsukiyo]], enemy of [[Fumeiyoshi]], and sister to [[General Susumu]].
 
 Her relationship with The Prince of the Moon is difficult as they can very rarely meet as the sun and moon except for times of eclipse.
 

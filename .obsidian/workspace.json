@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3cfa534dd7b4c06b",
+        "id": "b73de817139f46aa",
         "type": "tabs",
         "children": [
           {
-            "id": "ce944f803fd3dd2e",
+            "id": "b50e5f5a96157c19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deities/Shizuru.md",
+                "file": "Deities/Shelyn.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deities/Shizuru.md",
+                "file": "Deities/Shelyn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deities/Shizuru.md",
+                "file": "Deities/Shelyn.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deities/Shizuru.md"
+                "file": "Deities/Shelyn.md"
               }
             }
           },
@@ -159,11 +159,52 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ce944f803fd3dd2e",
+  "floating": {
+    "id": "8b162424faf4e8bd",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2fcbe18ee1863d44",
+        "type": "window",
+        "children": [
+          {
+            "id": "db67872a18557f3f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ce944f803fd3dd2e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Deities/Shizuru.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1090,
+        "y": 0,
+        "width": 830,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 1
+      }
+    ]
+  },
+  "active": "b50e5f5a96157c19",
   "lastOpenFiles": [
-    "Deities/Shelyn.md",
-    "Deities/Desna.md",
     "Deities/Shizuru.md",
+    "Deities/Shelyn.md",
+    "Deities/Pazuzu.md",
+    "Deities/General Susumu.md",
+    "Deities/Fumeiyoshi.md",
+    "Deities/Desna.md",
     "Z_Assets/dietiesasset/Tsukiyo_holy_symbol.png",
     "Z_Assets/dietiesasset/Susumusymbol.png",
     "Z_Assets/dietiesasset/Shelynsymbol.png",
@@ -175,9 +216,6 @@
     "Z_Assets/dietiesasset/Fumeitoshi.png",
     "Z_Assets/dietiesasset/Desna_holy_symbol.png",
     "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
-    "Deities/Pazuzu.md",
-    "Deities/General Susumu.md",
-    "Deities/Fumeyoshi.md",
     "Campaign Timeline/Campaign Timeline.md",
     "spear shatter harbor.md",
     "Groups/0 Misc/Five Imperial Families/Five Imperial Families.md",
