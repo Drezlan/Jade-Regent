@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deities/Desna.md",
+                "file": "Deities/Shizuru.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deities/Desna.md",
+                "file": "Deities/Shizuru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deities/Desna.md",
+                "file": "Deities/Shizuru.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deities/Desna.md"
+                "file": "Deities/Shizuru.md"
               }
             }
           },
@@ -161,8 +161,9 @@
   },
   "active": "ce944f803fd3dd2e",
   "lastOpenFiles": [
-    "Deities/Shizuru.md",
+    "Deities/Shelyn.md",
     "Deities/Desna.md",
+    "Deities/Shizuru.md",
     "Z_Assets/dietiesasset/Tsukiyo_holy_symbol.png",
     "Z_Assets/dietiesasset/Susumusymbol.png",
     "Z_Assets/dietiesasset/Shelynsymbol.png",
@@ -174,7 +175,6 @@
     "Z_Assets/dietiesasset/Fumeitoshi.png",
     "Z_Assets/dietiesasset/Desna_holy_symbol.png",
     "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
-    "Deities/Shelyn.md",
     "Deities/Pazuzu.md",
     "Deities/General Susumu.md",
     "Deities/Fumeyoshi.md",
