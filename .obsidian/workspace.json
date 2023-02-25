@@ -159,51 +159,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "floating": {
-    "id": "8b162424faf4e8bd",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2fcbe18ee1863d44",
-        "type": "window",
-        "children": [
-          {
-            "id": "db67872a18557f3f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ce944f803fd3dd2e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Deities/Shizuru.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1090,
-        "y": 0,
-        "width": 830,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
   "active": "b50e5f5a96157c19",
   "lastOpenFiles": [
+    "Deities/Shizuru.md",
+    "Campaign Timeline/Campaign Timeline.md",
     "Characters/0 PCs/Grayson.md",
     "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
     "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
     "Deities/Desna.md",
-    "Deities/Shizuru.md",
     "Deities/Tsukiyo.md",
     "Deities/Urgathoa.md",
     "Deities/Shelyn.md",
@@ -220,7 +183,6 @@
     "Z_Assets/dietiesasset/General Susumu.png",
     "Z_Assets/dietiesasset/fumeiyoshisymbol.png",
     "Z_Assets/dietiesasset/Fumeitoshi.png",
-    "Campaign Timeline/Campaign Timeline.md",
     "spear shatter harbor.md",
     "Groups/0 Misc/Five Imperial Families/Five Imperial Families.md",
     "Groups/0 Misc/Five Imperial Families/Sugimatu.md",
