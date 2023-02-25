@@ -1,5 +1,5 @@
 ---
-Alias: Noe, Noe Icemark, Hatsuyuki, Hatsuyuki No Naoto, Naoto-san, Hatsu-chan, Hatsu 
+alias: Noe, Noe Icemark, Hatsuyuki, Hatsuyuki No Naoto, Naoto-san, Hatsu-chan, Hatsu 
 type: PC 
 faction: Frozen Shadows, Naoto Clan, Amatatsu, Caravan
 location: The Caravan 

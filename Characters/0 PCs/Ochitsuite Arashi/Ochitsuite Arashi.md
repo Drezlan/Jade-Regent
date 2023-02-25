@@ -1,5 +1,5 @@
 ---
-Alias: Ochi, Ochisuite, Tengu, Samurai, Hatomoto
+alias: Ochi, Ochisuite, Tengu, Samurai, Hatomoto
 type: PC 
 faction: Scions, Caravan, Amatatsu,
 location: The Caravan 
@@ -24,9 +24,9 @@ class: Samurai, Ninja
 ![[Ochisuite2.0.png|left|345]] 
 
 ### One page:
-Born in [[Taeda]] in the [[Hiyosai]] province of [[Minkai]], Ochitsuite Arashi was the younger of two sons. He faced discrimination rather quickly. When he was very young he would help his [[father]] in his work as a groom for the local lord and was wrongfully accused of stealing a saddlebag belonging to a visiting noble. A few years later bandits plagued the village and the local lord calls for aid. [[Samurai]] are dispatched to [[Taeda]]. [[Ochitsuite Arashi|Ochisuite]] sees the respect and admiration the people have for their saviors. He asks his [[father]] if he can be like that and his [[father]] tells him the truth, that no [[Minkai]]an lord would accept the service of a [[Tengu]] because they are seen as untrustworthy. He still teaches [[Ochitsuite]] the blade.
+Born in [[Taeda]] in the [[Hiyosai]] province of [[Minkai]], Ochitsuite Arashi was the younger of two sons. He faced discrimination rather quickly. When he was very young he would help his [[father]] in his work as a groom for the local lord and was wrongfully accused of stealing a saddlebag belonging to a visiting noble. A few years later bandits plagued the village and the local lord calls for aid. [[Samurai]] are dispatched to [[Taeda]]. [[Ochitsuite Arashi|Ochisuite]] sees the respect and admiration the people have for their saviors. He asks his [[father]] if he can be like that and his [[father]] tells him the truth, that no [[Minkai]]an lord would accept the service of a [[Tengu]] because they are seen as untrustworthy. He still teaches [[Ochitsuite Arashi|Ochisuite]] the blade.
 
-[[Ochi]] grows in his skill with a blade and the house guards comment on his progress and determination. The other children in the village grow jealous and make it a point to demonstrate how little his skill matters, ganging up to humble him violently.
+[[Ochitsuite Arashi|Ochi]] grows in his skill with a blade and the house guards comment on his progress and determination. The other children in the village grow jealous and make it a point to demonstrate how little his skill matters, ganging up to humble him violently.
 
 > [!infobox|Left wmed]
 
