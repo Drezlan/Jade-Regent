@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "114ea48bcbeccd23",
+        "id": "b849bb47cd114790",
         "type": "tabs",
         "children": [
           {
-            "id": "63a07a5268d22625",
+            "id": "e75f4c4c2c9167e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Kalsgard/Kalsgard.md",
+                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Kalsgard/Kalsgard.md",
+                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Kalsgard/Kalsgard.md",
+                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Kalsgard/Kalsgard.md"
+                "file": "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md"
               }
             }
           },
@@ -164,15 +164,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "7a5c809ce20eca84",
+        "id": "61e37be81a171cb4",
         "type": "window",
         "children": [
           {
-            "id": "562461264c7d968f",
+            "id": "cdd88af0d0d25a29",
             "type": "tabs",
             "children": [
               {
-                "id": "b50e5f5a96157c19",
+                "id": "63a07a5268d22625",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -197,12 +197,19 @@
       }
     ]
   },
-  "active": "63a07a5268d22625",
+  "active": "e75f4c4c2c9167e0",
   "lastOpenFiles": [
     "Places/Golarion/Inner Sea/Inner Sea.md",
-    "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
     "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
+    "Places/Golarion/Golarion.md",
+    "Places/Golarion/Tian Xia/Minkai/Minkai.md",
+    "Places/Golarion/Tian Xia/Tian Xia.md",
+    "Places/Golarion/Inner Sea/Saga Lands/Saga Lands.md",
     "Campaign Timeline/Campaign Timeline.md",
+    "Z_Assets/Maps/Best Golarion Map.jpg",
+    "Places/Elysium.md",
+    "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Kalsgard/Kalsgard.md",
+    "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
     "Deities/Shizuru.md",
     "Characters/0 PCs/Grayson.md",
     "Deities/Desna.md",
@@ -221,19 +228,12 @@
     "Z_Assets/dietiesasset/Pazuzu.png",
     "Z_Assets/dietiesasset/General Susumu.png",
     "Z_Assets/dietiesasset/fumeiyoshisymbol.png",
-    "Z_Assets/dietiesasset/Fumeitoshi.png",
     "spear shatter harbor.md",
     "Groups/0 Misc/Five Imperial Families/Five Imperial Families.md",
     "Groups/0 Misc/Five Imperial Families/Sugimatu.md",
     "Obsidian notes.md",
     "Groups/0 Misc/Five Imperial Families/The Amatatsu/The Amatatsu.md",
     "Groups/0 Misc/Five Imperial Families/Shojinawa.md",
-    "Groups/0 Misc/Sugimatu.md",
-    "Groups/0 Misc/Shojinawa.md",
-    "Groups/0 Misc/Nakamitsu.md",
-    "Groups/0 Misc/Metsuke.md",
-    "Groups/Races/Corby.md",
-    "Groups/Ethnicities/Tian/Tian.md",
-    "Groups/Ethnicities/Tian/Tian Han/Tian Han.md"
+    "Groups/0 Misc/Sugimatu.md"
   ]
 }
