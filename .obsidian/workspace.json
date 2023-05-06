@@ -14,24 +14,13 @@
               "type": "markdown",
               "state": {
                 "file": "Campaign Timeline/Campaign Timeline.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "f432b31755de9fb4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -170,18 +159,23 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f432b31755de9fb4",
+  "active": "e75f4c4c2c9167e0",
   "lastOpenFiles": [
+    "spear shatter harbor.md",
+    "Travel Estimates.md",
+    "Obsidian Formatting to do.md",
+    "Campaign Timeline/Campaign Timeline.md",
+    "Groups/Factions/Amatatsu Scions/Amatatsu Scions.md",
+    "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
+    "Characters/6 Kalsgard NPCs/Snorri Stone-eye/Snorri Stone-eye.md",
     "Characters/0 PCs/Shoko.md",
     "Characters/0 PCs/Grayson.md",
-    "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
     "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
     "Places/Golarion/Inner Sea/Inner Sea.md",
     "Places/Golarion/Golarion.md",
     "Places/Golarion/Tian Xia/Minkai/Minkai.md",
     "Places/Golarion/Tian Xia/Tian Xia.md",
     "Places/Golarion/Inner Sea/Saga Lands/Saga Lands.md",
-    "Campaign Timeline/Campaign Timeline.md",
     "Z_Assets/Maps/Best Golarion Map.jpg",
     "Places/Elysium.md",
     "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Kalsgard/Kalsgard.md",
@@ -202,11 +196,6 @@
     "Z_Assets/dietiesasset/Pazuzu.png",
     "Z_Assets/dietiesasset/General Susumu.png",
     "Z_Assets/dietiesasset/fumeiyoshisymbol.png",
-    "spear shatter harbor.md",
-    "Groups/0 Misc/Five Imperial Families/Five Imperial Families.md",
-    "Groups/0 Misc/Five Imperial Families/Sugimatu.md",
-    "Obsidian notes.md",
-    "Groups/0 Misc/Five Imperial Families/The Amatatsu/The Amatatsu.md",
-    "Groups/0 Misc/Five Imperial Families/Shojinawa.md"
+    "Groups/0 Misc/Five Imperial Families/Five Imperial Families.md"
   ]
 }
