@@ -1380,4 +1380,26 @@ Ameiko gazes at Te No Sui Ponderously.
 "He is a cruel and efficient and powerful, Daimyo anyone that gives voice to dissent in the province is ruthlessly persecuted If not outright killed, His guards have been given orders to execute anyone for sedition against the throne." - TK
 
 
+And then no, i just goes up grabs, or would you buy the column is like, so what we're going to do here is that i need to be trained in inadutsu. You're gonna help me. And i'm gonna try and beat this idea out of your brain. Hold on, i have again.
+Do you really want to practice swords though? Because like, we could practice, well, considering that it is apparently incredibly easy to identify what my skills are on site.
+Hi. But one of those katanas myself and carry a dicho around just to make people get the wrong idea. I love living with incredibly wise, and high level ronin was able to look at you and see what you are. And now you just assume everyone can't. Yeah, you like take application is but it's like an inconvenience for the party. That's the problem. Oh, he absolutely made it sound like that. There's no what? I've yeah, that's the problem. It's not that he did. It's that he did in his first reaction was just, oh, fuck you. She's gonna carry around a die show, but instead of drawing or whatever, she's just gonna punch people through the chest.
+
+57:50
+
+Pull out their hearts. Do you know why i asked superintendent say here? Because someone got the wise idea to make it a lot more manageable and all of your swords way like i don't know, half a fucking country. It has enough.
+
+Shoko turns to Grayson. 
+"Let's give the place another once over make sure there are no surprises in case we need to defend this place." - S
+After taking stock of the defenses and consulting with Noe and Ameiko they determine a method of trapping the secret entrance Noe used to infiltrate to slow down any possible ninja incursions with Koya's Magics.
+
+As the caravan is moved in and preparations made to accomodate their now decent sized group Ochi takes the time to draw a large circle in the dirt just inside the gates and brings Noe over to work on her sword forms.
+
+Shoko who is helping arrange things turns to Sandru who is directing much of the affair. 
+"What's next for the Caravan?" - S
+"I should probably go back to Varisia at some point. I mean you're in Minkai now do you really need the Caravan still." - Sandru
+"Without your kind patronage where would a bird like me live?" - O ochi with a smirk
+"You will always have room in my caravan Ochi but you are in the middle of a fight." - Sandru
+"There's nothing keeping you here, If you want to get on with your life we won't ask you to fight this war for us." - S
+
+Sandru turns his gaze to Ameiko who is busy watching Noe who has entered the circle joined by Ochi who is demonstrating the first stance of the sword forms.
 
