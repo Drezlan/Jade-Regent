@@ -1342,3 +1342,9 @@ Upon closer inspection the tiny inscriptions inside the cartouches on the statue
 empress of heaven, touch me with your grace.
 ***
 Ameiko removes the Amatatsu seal from the warding box and touches it to the statue. The cartouches flash with brilliant lights as a cylindrical pit opens in the center of the room revealing a repository of several weapons samurai would typically use including an adamantine katana the the tien characters for hirobashi engraved along the blade. The caravaneers recognize this as the sword of Hirobashi Akikaze that Jiro is searching for.
+
+Having watched Ameiko open the warding box Noe makes it a point to be more wary at all times considering their recent actions in the House of withered blossoms and proximity to Kasai.
+
+Touching the seal to the stone Shizuru once more after collecting the weapons causes the pit to close once more. With that bussiness concluded the Scions return to the courtyard to take inventory and address the now free Tos Kotun who has now morphed back into the more timid appearance of a young woman still caked in the viscera of her deceased abuser.
+
+Shoko finding this to be distasteful removes the outer 
