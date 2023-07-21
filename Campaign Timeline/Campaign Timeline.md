@@ -1322,6 +1322,23 @@ Said figures turn to Ochi
 
 ---
 
+We killed the bandit horselords of the fort. 
+After which Grayson reminds the group of the sword that Jiro wanted from the tomb under the shrine of shizuru. The party agrees and makes way to that part of the fort. 
 
+Walking through without the haze of battle they notice how ancient the fortress is in spite of the additions made by the bandits. The stonework, in particular the hideouts carved into the mountain itself, are almost imperceptible. inluded in the amenities are a full sized bathhouse which the recent occupants had outfitted to function as a workshop, a well supplying clean drinking water, a full stable containing the very fine horses the plains bandits had aquired,  a common room able to accomadate a force of the size to utilize the fortification, a larger suite to suit a person in charge, a stocked armory, a room still filled with the cages where the slain had kept their slave holdings, and the forlon shrine to the dragon goddess previously mentioned. 
 
+The walls of this room are covered and faded abstract decorations and riddled with cavities and cracks. Stone display tables stand along the north and south walls bare but for rusty metal shards and blackened splinters of wood. Numerous cartouches filled with inscriptions much of the symbology are carps. The statue once held the two-handed sword but the stone blade has been sheared off and many of the statues features have been defaced or destroyed.
 
+Koya seeing the state of the statue murmurs some words and with a flourish of her hands restores the statue to it's former glory magically.
+
+"That'll fix it I suppose." - N
+"You're going to put all the masons out of business Koya." - S
+"I think we are putting several industries out to dry single-handedly by virtue of existing." -N
+"Then i am a true Varisian you know. We are Iconoclastic. I am doing my people proud." - K with a smile.
+
+Upon closer inspection the tiny inscriptions inside the cartouches on the statue which are in Minkaian seem to be the names of samurai followed like expressions of thanks and prayers for good luck. Near the end there is a single inscription with no author's name, which reads
+
+***
+empress of heaven, touch me with your grace.
+***
+Ameiko removes the Amatatsu seal from the warding box and touches it to the statue. The cartouches flash with brilliant lights as a cylindrical pit opens in the center of the room revealing a repository of several weapons samurai would typically use including an adamantine katana the the tien characters for hirobashi engraved along the blade. The caravaneers recognize this as the sword of Hirobashi Akikaze that Jiro is searching for.
