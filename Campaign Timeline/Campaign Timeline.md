@@ -1401,5 +1401,7 @@ Shoko who is helping arrange things turns to Sandru who is directing much of the
 "You will always have room in my caravan Ochi but you are in the middle of a fight." - Sandru
 "There's nothing keeping you here, If you want to get on with your life we won't ask you to fight this war for us." - S
 
-Sandru turns his gaze to Ameiko who is busy watching Noe who has entered the circle joined by Ochi who is demonstrating the first stance of the sword forms.
+Sandru turns his gaze to Ameiko who is busy watching Noe who has entered the circle with Ochi who is demonstrating the first stance of the sword forms and shakes his head.
+
+"You don't really know me well enough to say that. I would not abandon her to this. "
 
