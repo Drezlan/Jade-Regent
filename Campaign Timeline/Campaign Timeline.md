@@ -1347,4 +1347,37 @@ Having watched Ameiko open the warding box Noe makes it a point to be more wary 
 
 Touching the seal to the stone Shizuru once more after collecting the weapons causes the pit to close once more. With that bussiness concluded the Scions return to the courtyard to take inventory and address the now free Tos Kotun who has now morphed back into the more timid appearance of a young woman still caked in the viscera of her deceased abuser.
 
-Shoko finding this to be distasteful removes the outer 
+Shoko finding this to be distasteful removes the outer signs of battle with a wave of his hand.
+
+"You have my thanks but never again without my permission." - Tos Kotun
+"Good answer." -N
+"I do not know if i will ever be able to repay you for what you have done but if there something within my power i will do my best to provide." -TK
+"You don't have to repay us. It is what any decent person would have done." -Shoko
+"How's Minkai? I've heard from that samurai i suppose but, it always this.. I don't know.... -- N
+"-- some of us are new to these parts." - S
+"Minkai is dying. The Jade regent has no connections with the other countries of Tian Xia and so trade has all but stopped coming through the borders. The other nations refused to accept theJade Regent as the ruler of Minkai so taxes are being raised across the country, many are losing their homes, their jobs and are turning the battery to survive." - TK
+"What happened to you?" - S
+"The Jade regent decided that my village no longer needed to exist and to wipe it from the annals of history. All the women were enslaved and the children and men killed. I was the gift from the local daimyo." - TK
+She spits on the Corpse of Gangasan
+"You've met the Daimyo?" - N
+"Not personally. I know his name is Sikutsu Senaka." -TK
+"Sorry if this to probing a question, Did he turn you into, well, what we saw back there, or where you always like that?" - S
+"Have you always been able to turn into a fox? Oh wait you can't." - TK
+"I like her." - N
+"You're welcome to stay with us if you'd li---" - G
+"Do you want to overthrow the government with us??" - O
+"May I kill Senakka?" - TK
+"I do not personally grant the license to kill that would be up to Lady Ameiko." - O
+
+Ameiko gazes at Te No Sui Ponderously.
+
+"Was slavery legal in this part of Minkai before?" - O
+"A better question is will it be legal after we are finished." - N some what humurously.
+"Absolutely not, and according to Minkaian law since you are directly wronged by Senakka the blow of his execution can fall to you legally if you wish it." - A
+"They have weregilt here?" - N
+"Samurai honor is not too different from it." - A
+"So correct me if I am wrong but it sounds as if your Daimyo is not only aware of what is going on in this region but is letting it happen for monetary gain." - N
+"He is a cruel and efficient and powerful, Daimyo anyone that gives voice to dissent in the province is ruthlessly persecuted If not outright killed, His guards have been given orders to execute anyone for sedition against the throne." - TK
+
+
+
