@@ -1403,5 +1403,46 @@ Shoko who is helping arrange things turns to Sandru who is directing much of the
 
 Sandru turns his gaze to Ameiko who is busy watching Noe who has entered the circle with Ochi who is demonstrating the first stance of the sword forms and shakes his head.
 
-"You don't really know me well enough to say that. I would not abandon her to this. "
+"You don't really know me well enough to say that. I would not abandon her to this." - Sandru
+"My apologies Sandru." - S nodding
+"I have known Ameiko since she loved my younger brother before his death." - Sandru
+"As long as everyone is on the same page i won't press anyone further and they are free to leave when they feel. We are at the point of no return." - S
+"Are you just wandering around asking people if they want to jump ship?" - Sandru
+"This is the last chance to do so." - S
+"It just feels a little defeatist." - Sandru frowning quizzically
+"Sandru my friend we are about to declare war. People should know what they're in for." - S
+"I understand. But no i am not going anywhere." - Sandru Solemnly
 
+Returning to the circle. Ochi has saved Noe the insult of treating her as a complete beginner and is demonstrating Kata with the goal of extending her current skills to utilize the longer reach and increased power of a full sized katana. they are side by side with Noe imitating Ochi's movements. Whenever correction is needed Ochi will have her move her foot or square her shoulder more. 
+
+"It's been a few years." - N
+"I have no doubt that you will take to it naturally but the basics are important." - O
+"We'll see about that." - N
+"I'm more concerned about what you will do once Ameiko is on the throne." - O
+
+Noe freezes. 
+
+"Would you like the optimistic answer or the actual one?" - N
+"Just yours. I'm curious. I want.... I want to show my family what i've done." - O
+"Oh yeah you are Minkaian aren't you." - N
+"I'm very excited actually, I think they will be very proud of me." - O
+"Hmm. Must be nice.... As for me... I'd like to stay, but, I have a thing I need to do first. I don't know how long that will take so..." - N
+"That is good. It's good to have goals. That's why i ask. I'm not sure. i'm sure there will be some sort of place for me you know to be important and to do good works. But i don't know what will happen after." - O
+"My brother in Tsukiyo you have recently been given the title of the lord of house Sugimoto." - N
+"I am the son of a stablemaster from a fishing village. I don't know the first thing about being royalty." - O
+"Well now you've got a bit more perspective on how she feels" amidst a puff of smoke from Wei Yan
+"I sure do." - O
+"Sorry to interrupt." - W
+"Your input was welcome. I'm glad that you are here Wei yan." - O
+"... So what's up with your rabbit friend. I still don't understand what that's all about. You should get a bird." - O
+"I think all birds are obligated to hate me based on association with you." - N
+
+Ochi Blinks
+
+"However they are in good contention as I understand. As for the rabbit, the rabbit was a... hand... from one of your gods I assume. That is assuming Tsukiyo is included in your peoples god's I'm not really sure."
+"All these mythical creatures serving the gods and I have Kentaro and a raven I stole from a bunch of viking Shinobi." - O
+"I think you're looking at this the wrong way." - N
+
+![[Ochi head tilt.jpg|400]]
+
+"How should i look at it."

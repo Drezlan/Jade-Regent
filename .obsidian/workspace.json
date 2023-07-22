@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "26d842ad0506e09f",
+        "id": "2116570f6bf6db51",
         "type": "tabs",
         "children": [
           {
-            "id": "c4761ac4f266618d",
+            "id": "3bb4273c040657bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,34 +167,34 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c4761ac4f266618d",
+  "active": "3bb4273c040657bb",
   "lastOpenFiles": [
-    "Transcripts/7 15 23.md",
+    "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
     "Campaign Timeline/Campaign Timeline.md",
-    "Transcripts/4 22 23.md",
+    "Z_Assets/Ochi head tilt.jpg",
+    "Characters/1 Caravan NPCs/Koya Mvashti/Koya Mvashti.md",
+    "Characters/1 Caravan NPCs/Kelda Oxgutter/Kelda Oxgutter.md",
+    "Characters/1 Caravan NPCs/Helgarval/Helgarval.md",
+    "Characters/0 PCs/Zio.md",
+    "Characters/0 PCs/Shoko.md",
+    "Characters/0 PCs/Grayson.md",
+    "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
+    "Deities/Urgathoa.md",
+    "Deities/Tsukiyo.md",
+    "Deities/Shizuru.md",
+    "Deities/Shelyn.md",
+    "Deities/Pazuzu.md",
+    "Deities/General Susumu.md",
+    "Deities/Fumeiyoshi.md",
+    "Deities/Desna.md",
+    "Transcripts/7 15 23.md",
     "Transcripts/7 1 23.md",
+    "Transcripts/4 22 23.md",
     "Transcripts/6 24 23.md",
     "Transcripts/6 17 23.md",
     "Transcripts/6 10 23.md",
     "Transcripts/6 3 23.md",
     "Transcripts/5 13 23.md",
-    "Transcripts/5 6 23.md",
-    "Obsidian Formatting to do.md",
-    "Goals threads and questions.md",
-    "Transcripts/4 15 23.md",
-    "Places/Golarion/Inner Sea/Inner Sea.md",
-    "Places/Golarion/Golarion.md",
-    "Places/Golarion/Inner Sea/Saga Lands/Saga Lands.md",
-    "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Land of the Linnorm Kings.md",
-    "Places/Golarion/Inner Sea/Saga Lands/Varisia/Varisia.md",
-    "Places/Golarion/The Crown of the World/The Crown of the World.md",
-    "Places/Golarion/Tian Xia/Tian Xia.md",
-    "Places/Golarion/Tian Xia/Forest of Spirits/Forest of Spirits.md",
-    "Places/Golarion/Inner Sea/Qadira.md",
-    "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Kalsgard/Kalsgard.md",
-    "Places/Golarion/Inner Sea/Saga Lands/Land of the Linnorm Kings/Kalsgard/Kalsgard Shelyn Temple/Kalsgard Shelyn Temple.md",
-    "Transcripts/10 29 22 gon.md",
-    "Transcripts/10 22 22 stairs you are here.md",
     "Z_Assets/Maps/Best Golarion Map.jpg",
     "Z_Assets/dietiesasset/tuskiyo paizo.png",
     "Z_Assets/dietiesasset/Tsukiyo_holy_symbol.png",
@@ -203,7 +203,6 @@
     "Z_Assets/dietiesasset/Shelyn.png",
     "Z_Assets/dietiesasset/Pazuzusymbol.png",
     "Z_Assets/dietiesasset/Pazuzu.png",
-    "Z_Assets/dietiesasset/General Susumu.png",
-    "Z_Assets/dietiesasset/fumeiyoshisymbol.png"
+    "Z_Assets/dietiesasset/General Susumu.png"
   ]
 }
