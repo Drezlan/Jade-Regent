@@ -1443,6 +1443,12 @@ Ochi Blinks
 "All these mythical creatures serving the gods and I have Kentaro and a raven I stole from a bunch of viking Shinobi." - O
 "I think you're looking at this the wrong way." - N
 
-![[Ochi head tilt.jpg|400]]
+![[Ochi head tilt 1.jpg|400]]
 
-"How should i look at it."
+"How should i look at it." - O
+"The way you should probably look at it, if i'm honest, is that those of us that have had to be dropped proverbially in the correct direction have had help that you haven't needed it is probably a token to how well you've managed to stay on your path even if I do think it does backflips on occasion." - N
+
+The whole time she is doing smooth downward swings with Te No Sui.
+
+"I feel like you're telling me good job and that's how I'm choosing to take it. Thank you.." - O
+"Good because you should." - N
