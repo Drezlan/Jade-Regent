@@ -445,7 +445,7 @@ After having seen the first of the defenses of Ravenscragg [[Grayson]] Focuses h
 
 The adventurers make their way further up the walkway and come upon a wide porch surmounting the rickety conglomeration of stairs and landings below providing a panoramic view of the boggy plains that extend to the hazy horizon. The looming green-grey stone hall of the fortress blocks further progress. Inset arrow slits with heavy wooden shutters flank a bronze banded portal that leads within above three more arrow slits look out over the precipice. Upon this fortress porch more of the avian assassins await the rescuers.
 
-## The Shadows Defenses
+## The Shadow's Defenses
 1. 
 [[Grayson]], more than prepared, sinks several arrows into the foremost frosty shadow who slumps to the planks. 
 
@@ -1469,4 +1469,175 @@ Ochi watches her squint and stare for a moment at the roof of one of the caravan
 "I don't know. It's somewhere between like an indigo and a slate I guess." - N
 "That's a very apt description of it actually are your eyes different?" - O
 "What do you mean?" - N
-"I don't think they were this color before. But I could be wrong." - O
+"I don't think they were this color before. But I could be wrong. Has Ameiko noticed?" - O
+
+And she had but it hasn't come up yet.
+
+"Anyways do I hold my hands like this or like this for an upward swing?" - N
+"There are two different techniques. We'll start with the more basic one, work on that one and that will be it for the day." - O showing her how to place her hand and demonstrating.
+
+"You want to get just a couple of these basic moves down and then we'll move on to some fancier stuff you're doing really well though. This is not super different from the blades you're using currently. Just heavier and more cumbersome. You want to be able to take advantage of the better leverage you get out of the longer blade and the increased reach otherwise you might as well stick to the short blades. Good work Naoto. Let's see what Koya is cooking up." - O
+
+"I've discovered water has a taste. That's a new thing and I hate it." - N
+
+Upon return they discover Koya has made a shepherds pie sized for the entire caravan. Everyone enjoys the good food as well as mead and sake. After taking stock of the provisions of the fortress the spoils of the bandits proved to be extensive as far as food stuffs were concerned.
+
+"This is why all the linnorm kings earned their throne through steel and blood. Once we go back I might become a linnorm king. We'll see how I feel." - K
+"Won't we have to find a linnorm for you to kill first?" - G
+"Sure." - G
+"Actually that might no be a bad idea, Wait, does it have to be a linnorm or could it be something like some sort of foreign imperial dragon like here?" - G
+
+1:26:07 ^
+
+With the day winding to an end Jiro and Hatsue arrive at the head of their ronin band apparently victorious in battle against the outriders.
+
+Noe gives clap at their arrival
+
+
+
+i see you were successful. - Jiro
+
+
+On a measure of success, aye N
+Did you manage to open the vault? J 
+Come join us by the fire. We'll tell you all about it. We did and we got your sword.
+
+did you? J
+
+ And OG will pull it out of what i'm sure is the bag of holding and presented to it.
+
+He kind of holds his hand out for a moments.
+
+I will be honest. Well, i thought you capable of taking the fortress. I did not believe that you we're a true air of the imperial families. j
+ 
+he removes the daikyo from his back,
+
+This belonged to an imperial family, the higashiyama family, it is only right. It returns to the imperial family. - j
+
+And he offers it in exchange for his family's katana uh trading it to you OG with reverence and respect. Oh, she does the same, he passes him, the sword. And he takes this really cool longbow. And then runs over really fast to grace him and answered and hands integration
+
+Hold up there ochi. i don't i don't know if that's for me. g
+
+And and why shouldn't it be grayson-san? o
+
+Uh, don't i don't think, uh, lady make a really would want me as part of the families. 
+
+We think of you as family, i'm just a birdman and now i'm the lord of the sigimadu. I've helped us immensely on this journey and i think you deserve it just as much as anyone of us. We're not asking you to rooming kai, just continue to do as you have done. - O
+
+You could at least use it for now. It interests. You, it is a weapon and viewed with rail on our, it will hurt anamurumon - A
+
+I could hold on to it for you. You will be, uh, the higashiyama lord in name and i'll just hold this bow for you, I guess.
+
+Are you trying to steal my man kelda halfway up with her longsword half drawn. 
+
+I've known him for approximately three days longer than you kelda watch the way you speak to me. - O
+
+Is that a yes - K
+No. It is not a yes, but i don't know. keep acting up and we'll see. - O
+I will fight you. - K
+I'll fight you too - O
+then let's go. - K
+Let's go, No, no weapons, okay? - O
+No weapons. - K cracking her knuckles
+
+Shoko grabs ochi by the collar and even with his noodle arms is able to carry him easily back to his seat. 
+
+I seem to recall that my cousin wants nearly broke my wrist in an arm wrestling contest. - N
+
+The ronin and their leaders all stare, eyebrows reaching the heavens, at these proceedings.
+
+We thank you for bequeathing this to us, and we're most glad to be able to return your weapon to you. - O
+
+You are a most interesting group - J
+
+We get that a lot and i don't know why. So what's next and is there any way we can help the people before we move on? - O
+
+My ronin are coming to occupy the fortress. - J
+
+
+Safe and comfortable. We will begin repairing the damage. We were hoping to make it more defensible. We were we found it a little too easy to gain access. We would hate to be surprised. Maybe you have some thoughts and you can help us reinforce this place. - O
+
+Yes, we will do this. - J
+
+We know the Jade Regent is amassing troops to defend his claim to the jade throne in addition  The governor of kasai has been accused of treason leading many of the other nations of Tian Xia to cease trade with us - J
+
+So we've heard = N
+
+The new merchant caste of minkai different from the samurai caste and the civilian caste is centered in our western cities of akufuto and in enganoka and sakakabe to an extent. With the decline in the empire they are becoming restless. Many Daimyo are unhappy with the new bevy of taxes. The Jade Regent has purchased a foreign mercenary force known as the typhoon guard.
+
+Shoko has never heard of the Typhoon Guard
+
+I think stirring a rebellion here in the provinces of Enganoka and Sakakabe is our most effective strategy but we will need more than my ragtag band of peasants and ronin.
+
+First this freeing up the military from the Daimyo's control. Well, maybe not first. We would also benefit from winning the merchants to our side. There is also, of course,... the underground. It would be best to split this up into three objectives.
+
+First, I would contact the ninja clans. While their aid may be distasteful to many imperial samurai, they will be useful to us. If nothing else getting them to remain neutral in the rebellion, would prevent them from being enemies once we tried to take Kasai.
+
+How have the shinobi clans of Minkai generally responded to the Regent's rule? They generally followed him more somewhat remained distance from not from.
+
+You guys talking, i can't hear you
+
+Okay, i got sound back. I don't know what the fuck out. Okay. What was the last thing you heard? Oh god. You the have the ninja remain neutral. Have they have they reacted to the gene region. That's where i left off.
+
+01:49:34
+
+Oh i so he said that he is not familiar with the ins and ounce of the shinobi politics, but that all three of the monkeys could be met upon the new moon. She'll go after when the new moon was and everyone was like yesterday. Uh, so you have a full month of time before the ninja can be gathered or you can go and see, whichever one of the representatives is their currently instead of seeing all three that is up to you.
+
+01:50:06
+
+Uh, the other people that we would need to speak with. Uh, so that's an ingadoga, which is 500 miles away. So at a 32 miles a day, i don't want to math in my hand. Where's my calculator?
+
+01:50:37
+
+Yes. So by the time you get there you'll have like another 13 days till the new moon. So you could spend a couple of weeks in a big city if you wanted to where you could sell things.
+
+01:50:55
+
+After this, you will need to speak with the geisha.
+
+01:51:07
+
+You're gonna have to explain that one to me, the best way to get the support of the merchant is through the geisha of minkai. They know many secrets that can be used to manipulate the empire's, merchants and nobility. I would recommend the kinaro. Yo, my a tea house in sacabai.
+
+01:51:31
+
+It's like a bait, their entertainment district is second only to that of cosite. The owner of kiniro, the skill them respected, geisha named Okohaku and needs of the late governor of cosite and likely hates the jade region for killing her uncles.
+
+01:51:58
+
+That one should be an easy victory to bring to our side. Can we, can we have a map screen? I don't, i don't have a map currently in of the full thing. Hi, as i mentioned earlier, i did not get to do a lot of preparation for game because i could not look at a screen all week.
+
+01:52:20
+
+That's fair. But i can get a map of ring guide to put in discord and then you can just tell us like east west generally Ah, perfect. This one has everything on it. So, we need actually,
+
+01:52:51
+
+Boom. No, not in alphia, put it in jig region.
+
+01:53:07
+
+Moving.
+
+01:53:21
+
+Load, please.
+
+01:53:40
+
+Thank you. There we go.
+
+01:53:52
+
+So just so i can recap because i am trying to take some notes here, instead of go through my audio, it's 500 miles away is where we would talk to the ninja clans and it's in a month when they gather again because we just had the new moon. Yeah, so you are here right now.
+
+01:54:14
+
+Anganoka for the ninja claims are is here. The geisha are here. That's the best way to approach the geisha. As always is to letter them. I personally delivering an expensive gift to the tea house. Choko, you're up.
+
+01:54:47
+
+Zero. Kind of looks at you show, goes a ladies, fox, you know, he got that dog in him. I mean,
+
+01:55:15
+
