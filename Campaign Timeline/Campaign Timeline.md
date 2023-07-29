@@ -1247,7 +1247,7 @@ Grayson spots something shiny among the bird droppings and recovers a diamond al
 "Ochi are you able to talk to crows or Ravens?" - G
 "No" - O
 "See even more reason why you're not one of them." - G
-"I'm going to follow Noe now."
+"I'm going to follow Noe now." - O
 
 The aforementioned is tapping her foot impatiently at the bottom of the tower.
 Grayson shrugs rolling his eyes to Shoko and Zio.
@@ -1321,6 +1321,10 @@ Said figures turn to Ochi
 "As ready as you are." - O
 
 ---
+---
+---
+
+
 
 We killed the bandit horselords of the fort. 
 After which Grayson reminds the group of the sword that Jiro wanted from the tomb under the shrine of shizuru. The party agrees and makes way to that part of the fort. 
@@ -1446,9 +1450,23 @@ Ochi Blinks
 ![[Ochi head tilt 1.jpg|400]]
 
 "How should i look at it." - O
-"The way you should probably look at it, if i'm honest, is that those of us that have had to be dropped proverbially in the correct direction have had help that you haven't needed it is probably a token to how well you've managed to stay on your path even if I do think it does backflips on occasion." - N
+"The way you should probably look at it, if i'm honest, is that those of us that have had to be dropped proverbially in the correct direction have had help that you haven't needed, it is probably a token to how well you've managed to stay on your path, even if I do think it does backflips on occasion." - N
 
 The whole time she is doing smooth downward swings with Te No Sui.
 
 "I feel like you're telling me good job and that's how I'm choosing to take it. Thank you.." - O
 "Good because you should." - N
+
+"What." - N
+"Nothing just move your feet a little closer together you are a little wide." - O
+"It's hard to move the way I want with this." - N
+"Things are different since your... return?" - O
+"The Kami didn't exactly give me a manual. Adjusting has been... fun. Things are louder, things are brighter, lots of colors I didn't even know existed... really really deep oranges."
+"That's very interesting. What does that roof over there look like to you?" - O
+
+Ochi watches her squint and stare for a moment at the roof of one of the caravans. During this he notices that one of her eyes is a different color than the other and appears to be missing an iris. 
+
+"I don't know. It's somewhere between like an indigo and a slate I guess." - N
+"That's a very apt description of it actually are your eyes different?" - O
+"What do you mean?" - N
+"I don't think they were this color before. But I could be wrong." - O
