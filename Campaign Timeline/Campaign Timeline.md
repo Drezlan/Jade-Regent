@@ -1504,7 +1504,7 @@ Come join us by the fire. We'll tell you all about it. We did and we got your sw
 
 did you? J
 
- And OG will pull it out of what i'm sure is the bag of holding and presented to it.
+ ShinobiAnd OG will pull it out of what i'm sure is the bag of holding and presented to it.
 
 He kind of holds his hand out for a moments.
 
@@ -1567,7 +1567,7 @@ The new merchant caste of minkai different from the samurai caste and the civili
 
 Shoko has never heard of the Typhoon Guard
 
-I think stirring a rebellion here in the provinces of Enganoka and Sakakabe is our most effective strategy but we will need more than my ragtag band of peasants and ronin.
+I think stirring a rebellion here in the provinces of Enganoka Shinobi and Sakakabe merchant land is our most effective strategy but we will need more than my ragtag band of peasants and ronin.
 
 First this freeing up the military from the Daimyo's control. Well, maybe not first. We would also benefit from winning the merchants to our side. There is also, of course,... the underground. It would be best to split this up into three objectives.
 
