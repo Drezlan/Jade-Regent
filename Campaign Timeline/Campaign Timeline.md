@@ -1693,3 +1693,5 @@ sovereign dragons are gingers
 tell them the story of my beard being on fire in my first pathfinder game
 
 honey cakes
+
+Shadows don't expect the sun to admire them back
