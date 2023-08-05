@@ -1683,4 +1683,13 @@ then spirit koya cast atonement on her
 noe's sister is [[tsubasa]]
 
 two of the five storms are in kasai
-one is on the move that is the fire yai
+one is on the move that is the fire yai?
+
+The coin can only be destroyed by being eaten by a sovereign dragon (ancient?) 
+harold is calling the dragon for us because going back to the caravan would take way too long with all the other things we're going to do try to do.
+
+sovereign dragons are gingers
+
+tell them the story of my beard being on fire in my first pathfinder game
+
+honey cakes
