@@ -1577,25 +1577,12 @@ How have the shinobi clans of Minkai generally responded to the Regent's rule? T
 
 You guys talking, i can't hear you
 
-Okay, i got sound back. I don't know what the fuck out. Okay. What was the last thing you heard? Oh god. You the have the ninja remain neutral. Have they have they reacted to the gene region. That's where i left off.
+i am not familiar with the ins and outs of shinobi politics, but that all three of the monkeys could be met upon the new moon. shoko asked when the new moon was and everyone was like yesterday. Uh, so you have a full month of time before the ninja can be gathered or you can go and see, whichever one of the representatives is there currently instead of seeing all three that is up to you.
 
-01:49:34
-
-Oh i so he said that he is not familiar with the ins and ounce of the shinobi politics, but that all three of the monkeys could be met upon the new moon. She'll go after when the new moon was and everyone was like yesterday. Uh, so you have a full month of time before the ninja can be gathered or you can go and see, whichever one of the representatives is their currently instead of seeing all three that is up to you.
-
-01:50:06
-
-Uh, the other people that we would need to speak with. Uh, so that's an ingadoga, which is 500 miles away. So at a 32 miles a day, i don't want to math in my hand. Where's my calculator?
-
-01:50:37
+Uh, the other people that we would need to speak with. Uh, enganoka which is 500 miles away. So at a 32 miles a day,
 
 Yes. So by the time you get there you'll have like another 13 days till the new moon. So you could spend a couple of weeks in a big city if you wanted to where you could sell things.
-
-01:50:55
-
 After this, you will need to speak with the geisha.
-
-01:51:07
 
 You're gonna have to explain that one to me, the best way to get the support of the merchant is through the geisha of minkai. They know many secrets that can be used to manipulate the empire's, merchants and nobility. I would recommend the kinaro. Yo, my a tea house in sacabai.
 
@@ -1640,4 +1627,51 @@ Anganoka for the ninja claims are is here. The geisha are here. That's the best 
 Zero. Kind of looks at you show, goes a ladies, fox, you know, he got that dog in him. I mean,
 
 01:55:15
+
+
+[[Hirobashi Jiro]]
+emperor heron told us a shadow is following us
+fought the bandits
+opened the secret armory under the statue of [[Shizuru]]
+found the [[Ancestral sword]] of the [[Hirobashi Jiro|Hirobashi]] family
+
+7/15/23
+[[Tos Kotun]] gave us information about the state of [[Minkai]]:
+	Neighboring countries do not recognize the rule of the [[Jade Regent]] and so have refused to trade with [[Minkai]].
+	The [[Jade Regent]] is ruling with an iron fist, wiping villages out entirely seemingly with abandon. Anyone who is deemed seditious is executed outright.
+	The local Daimyo that gifted [[Tos Kotun]] to [[Gengasan]] is called [[Sikutsu Senaka]]
+	[[Sikutsu Senaka]] is ruthless and efficient and the one who ordered her village to be wiped out.
+	
+we also learn she is a natural born lycanthrope
+we ask her if she would like to join our little rebellion and she says yes after asking if she may be the one to kill [[Sikutsu Senaka]].
+
+[[Koya Mvashti|Koya]] helps shore up the defenses of the fort with magic symbol traps.
+[[Ameiko Amatatsu|Ameiko]] jokes about slavery
+[[Ochitsuite Arashi|Ochi]] risks his life by talking while teaching [[Naoto no Hatsuyuki|Noe]] some katana moves
+[[Ochitsuite Arashi|Ochi]] asks [[Naoto no Hatsuyuki|Noe]] if her eyes are different so [[Ameiko Amatatsu|Ameiko]] and [[Naoto no Hatsuyuki|Noe]] decide to bring bdsm into the bedroom.
+[[Shoko]] and [[Sandru Vhiski|Sandru]] talk about what [[Sandru Vhiski|Sandru]] will do now that they've made the journey to [[Minkai]] and when [[Shoko]] suggest he can go home now [[Sandru Vhiski|Sandru]] says shut up old man.
+
+[[Hirobashi Jiro|Jiro]] and [[Hatsue]] arrive victorious over the outriders
+he was not surprised that we were able to take the fortress but he was surprised to see us in possession of his [[Ancestral sword]] which proves us to be true heirs to the [[Five Imperial Families]].
+after [[Ochitsuite Arashi|Ochi]] offers him the sword he gives us the [[Daikyo of commanding presence]] the ancestral weapon of the [[Higashiyama]] family in return.
+
+[[Ochitsuite Arashi|Ochi]] tries to give it to [[Grayson]] and [[Kelda Oxgutter|Kelda]] accuses him of trying to steal her man.
+
+[[The Ronin]] further elaborate on the state of [[Minkai]]
+	The [[Governer]] of [[Kasai]] has been accused of treason which was probably one of the reasons the other nations aren't fucking with [[Minkai]] anymore
+
+
+[[The Ronin]] outline all the steps to sensibly undermine the [[Jade Regent]] and take back the [[Jade Throne]]
+	The [[Merchants]] of [[Akufuto]], [[Enganoka]] and to a lesser extent [[Sakakabe]] must be brought to empathize with the rebellion. Gaining the aid of the [[Geisha]] would be the most effective route to swaying them.
+	The [[Daimyo]] still control the military forces of [[Minkai]] and winning the support of the common soldier to our cause will be easier than swaying each [[Daimyo]] individually especially since some are happy with the increased power.
+	The [[Ninja Clan]]s [[Black Lotus]], [[Dragon Shadows]], and the [[Emerald Branch]] are all some where on the spectrum of neutral until they are paid to be otherwise and we should work to earn their aid or at least convince them to stay apathetic
+	
+The [[Jade Regent]] has purchased the aid of a foreign mercenary force known as the [[Typhoon Guard]] 
+	
+the daimyo 
+left off meeting with the rep from the [[Dragon Shadows]] [[Hosukaiya Kazu]] 
+
+
+
+7/29/23
 

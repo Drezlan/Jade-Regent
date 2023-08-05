@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa0e3babf9534941",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daikyo of commanding presence..md",
+                "file": "Groups/Factions/Typhoon Guard.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Groups/Factions/Typhoon Guard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md",
+                "file": "Groups/Factions/Typhoon Guard.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Timeline/Campaign Timeline.md"
+                "file": "Groups/Factions/Typhoon Guard.md"
               }
             }
           },
@@ -180,36 +167,36 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3bb4273c040657bb",
+  "active": "e79d630e41bbdbd0",
   "lastOpenFiles": [
-    "Daikyo of commanding presence..md",
     "Campaign Timeline/Campaign Timeline.md",
+    "Groups/Factions/Typhoon Guard.md",
+    "Characters/8 Minkai NPCs/Hirobashi Jiro.md",
+    "Groups/Factions/Emerald Branch.md",
+    "Groups/Factions/Black Lotus.md",
+    "Groups/Factions/Ninja Clan.md",
+    "Groups/Factions/Geisha.md",
+    "Groups/Factions/Daimyo.md",
+    "Places/Golarion/Tian Xia/Minkai/Minkai.md",
+    "Places/Golarion/Golarion.md",
+    "Places/Golarion/Tian Xia/Minkai/Akufuto.md",
+    "Places/Golarion/Tian Xia/Minkai/Enganoka.md",
+    "Places/Golarion/Tian Xia/Minkai/Sakakabe.md",
+    "Things/Daikyo of commanding presence.md",
+    "Groups/Factions/Merchants.md",
+    "Places/Golarion/Tian Xia/Tian Xia.md",
+    "Places/Golarion/Tian Xia/Minkai/Kasai.md",
+    "Characters/Governer.md",
+    "Groups/Factions/The Ronin.md",
+    "Characters/8 Minkai NPCs/Hatsue.md",
+    "Characters/8 Minkai NPCs/Hosukaiya Kazu.md",
+    "Characters/8 Minkai NPCs/Sikutsu Senaka.md",
+    "Characters/8 Minkai NPCs/Higashiyama Shigure.md",
+    "Characters/8 Minkai NPCs/Gengasan.md",
+    "Characters/8 Minkai NPCs/Tos Kotun.md",
+    "Hirobashi.md",
     "Z_Assets/Ochi head tilt 1.jpg",
-    "Characters/0 PCs/Ochitsuite Arashi/Ochitsuite Arashi.md",
     "Z_Assets/Ochi head tilt.jpg",
-    "Characters/1 Caravan NPCs/Koya Mvashti/Koya Mvashti.md",
-    "Characters/1 Caravan NPCs/Kelda Oxgutter/Kelda Oxgutter.md",
-    "Characters/1 Caravan NPCs/Helgarval/Helgarval.md",
-    "Characters/0 PCs/Zio.md",
-    "Characters/0 PCs/Shoko.md",
-    "Characters/0 PCs/Grayson.md",
-    "Characters/0 PCs/Naoto no Hatsuyuki/Naoto no Hatsuyuki.md",
-    "Deities/Urgathoa.md",
-    "Deities/Tsukiyo.md",
-    "Deities/Shizuru.md",
-    "Deities/Shelyn.md",
-    "Deities/Pazuzu.md",
-    "Deities/General Susumu.md",
-    "Deities/Fumeiyoshi.md",
-    "Deities/Desna.md",
-    "Transcripts/7 15 23.md",
-    "Transcripts/7 1 23.md",
-    "Transcripts/4 22 23.md",
-    "Transcripts/6 24 23.md",
-    "Transcripts/6 17 23.md",
-    "Transcripts/6 10 23.md",
-    "Transcripts/6 3 23.md",
-    "Transcripts/5 13 23.md",
     "Z_Assets/Maps/Best Golarion Map.jpg",
     "Z_Assets/dietiesasset/tuskiyo paizo.png",
     "Z_Assets/dietiesasset/Tsukiyo_holy_symbol.png",
