@@ -1682,3 +1682,5 @@ then spirit koya cast atonement on her
 
 noe's sister is [[tsubasa]]
 
+two of the five storms are in kasai
+one is on the move that is the fire yai
