@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/Factions/Typhoon Guard.md",
+                "file": "Campaign Timeline/Campaign Timeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Groups/Factions/Typhoon Guard.md",
+                "file": "Campaign Timeline/Campaign Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Groups/Factions/Typhoon Guard.md",
+                "file": "Campaign Timeline/Campaign Timeline.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Groups/Factions/Typhoon Guard.md"
+                "file": "Campaign Timeline/Campaign Timeline.md"
               }
             }
           },
@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 226.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +168,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e79d630e41bbdbd0",
+  "active": "e408f9de796f66ae",
   "lastOpenFiles": [
+    "Places/Golarion/Tian Xia/Minkai/Minkai.md",
+    "Places/Golarion/Tian Xia/Minkai/Sainaru Heikiko.md",
     "Campaign Timeline/Campaign Timeline.md",
     "Groups/Factions/Typhoon Guard.md",
     "Characters/8 Minkai NPCs/Hirobashi Jiro.md",
@@ -177,7 +180,6 @@
     "Groups/Factions/Ninja Clan.md",
     "Groups/Factions/Geisha.md",
     "Groups/Factions/Daimyo.md",
-    "Places/Golarion/Tian Xia/Minkai/Minkai.md",
     "Places/Golarion/Golarion.md",
     "Places/Golarion/Tian Xia/Minkai/Akufuto.md",
     "Places/Golarion/Tian Xia/Minkai/Enganoka.md",
@@ -194,7 +196,6 @@
     "Characters/8 Minkai NPCs/Higashiyama Shigure.md",
     "Characters/8 Minkai NPCs/Gengasan.md",
     "Characters/8 Minkai NPCs/Tos Kotun.md",
-    "Hirobashi.md",
     "Z_Assets/Ochi head tilt 1.jpg",
     "Z_Assets/Ochi head tilt.jpg",
     "Z_Assets/Maps/Best Golarion Map.jpg",

@@ -1628,7 +1628,7 @@ Zero. Kind of looks at you show, goes a ladies, fox, you know, he got that dog i
 
 01:55:15
 
-
+fortress [[Sainaru Heikiko]]
 [[Hirobashi Jiro]]
 emperor heron told us a shadow is following us
 fought the bandits
@@ -1645,11 +1645,11 @@ found the [[Ancestral sword]] of the [[Hirobashi Jiro|Hirobashi]] family
 we also learn she is a natural born lycanthrope
 we ask her if she would like to join our little rebellion and she says yes after asking if she may be the one to kill [[Sikutsu Senaka]].
 
-[[Koya Mvashti|Koya]] helps shore up the defenses of the fort with magic symbol traps.
+[[Koya Mvashti|Koya]] helps shore up the defenses of the fort with magic symbol traps
 [[Ameiko Amatatsu|Ameiko]] jokes about slavery
 [[Ochitsuite Arashi|Ochi]] risks his life by talking while teaching [[Naoto no Hatsuyuki|Noe]] some katana moves
-[[Ochitsuite Arashi|Ochi]] asks [[Naoto no Hatsuyuki|Noe]] if her eyes are different so [[Ameiko Amatatsu|Ameiko]] and [[Naoto no Hatsuyuki|Noe]] decide to bring bdsm into the bedroom.
-[[Shoko]] and [[Sandru Vhiski|Sandru]] talk about what [[Sandru Vhiski|Sandru]] will do now that they've made the journey to [[Minkai]] and when [[Shoko]] suggest he can go home now [[Sandru Vhiski|Sandru]] says shut up old man.
+[[Ochitsuite Arashi|Ochi]] asks [[Naoto no Hatsuyuki|Noe]] if her eyes are different so [[Ameiko Amatatsu|Ameiko]] and [[Naoto no Hatsuyuki|Noe]] decide to bring bdsm into the bedroom
+[[Shoko]] and [[Sandru Vhiski|Sandru]] talk about what [[Sandru Vhiski|Sandru]] will do now that they've made the journey to [[Minkai]] and when [[Shoko]] suggests he can go home now [[Sandru Vhiski|Sandru]] says shut up old man
 
 [[Hirobashi Jiro|Jiro]] and [[Hatsue]] arrive victorious over the outriders
 he was not surprised that we were able to take the fortress but he was surprised to see us in possession of his [[Ancestral sword]] which proves us to be true heirs to the [[Five Imperial Families]].
@@ -1670,8 +1670,15 @@ The [[Jade Regent]] has purchased the aid of a foreign mercenary force known as 
 	
 the daimyo 
 left off meeting with the rep from the [[Dragon Shadows]] [[Hosukaiya Kazu]] 
-
-
+paid him like 500g
 
 7/29/23
+
+Daikan tetsuku royal police
+Noe’s sister  ambushed the party and beat ochi to death as well as koya before dying
+evil coin made noe's sister do it
+noe picked it up and it almost made her evil again too
+then spirit koya cast atonement on her
+
+noe's sister is [[tsubasa]]
 
