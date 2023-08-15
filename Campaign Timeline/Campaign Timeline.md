@@ -1664,13 +1664,18 @@ after [[Ochitsuite Arashi|Ochi]] offers him the sword he gives us the [[Daikyo o
 [[The Ronin]] outline all the steps to sensibly undermine the [[Jade Regent]] and take back the [[Jade Throne]]
 	The [[Merchants]] of [[Akufuto]], [[Enganoka]] and to a lesser extent [[Sakakabe]] must be brought to empathize with the rebellion. Gaining the aid of the [[Geisha]] would be the most effective route to swaying them.
 	The [[Daimyo]] still control the military forces of [[Minkai]] and winning the support of the common soldier to our cause will be easier than swaying each [[Daimyo]] individually especially since some are happy with the increased power.
-	The [[Ninja Clan]]s [[Black Lotus]], [[Dragon Shadows]], and the [[Emerald Branch]] are all some where on the spectrum of neutral until they are paid to be otherwise and we should work to earn their aid or at least convince them to stay apathetic
+	The [[Ninja Clan]]s [[Black Lotus]], [[Dragon Shadows]], and the [[Emerald Branch]] are all somewhere on the spectrum of neutral until they are paid to be otherwise and we should work to earn their aid or at least convince them to stay apathetic. They can be met in [[Enganoka]]
 	
+
+
+
 The [[Jade Regent]] has purchased the aid of a foreign mercenary force known as the [[Typhoon Guard]] 
 	
 the daimyo 
 left off meeting with the rep from the [[Dragon Shadows]] [[Hosukaiya Kazu]] 
 paid him like 500g
+
+
 
 7/29/23
 
